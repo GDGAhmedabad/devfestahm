@@ -1,0 +1,175 @@
+{
+  "url": "http://devfestahm-a38e7.firebaseapp.com/",
+  "startDate": "2016-09-09T09:00:00+03:00",
+  "endDate": "2016-09-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-106396961-2",
+    "dev": "UA-106396961-1"
+  },
+  "organizer": {
+    "name": "GDG Ahmedabad",
+    "twitter": "gdgahmedabad"
+  },
+  "webapp": {
+    "shortName": "DevFestAhm",
+    "themeColor": "#1976D2",
+    "backgroundColor": "#1976D2"
+  },
+  "firebase": {
+    "name": "devfestahm-a38e7",
+    "domain": "devfestahm-a38e7.firebaseapp.com",
+    "database": "https://devfestahm-a38e7.firebaseio.com",
+    "api": "AIzaSyC2TuSWZu54ldaAlRINsfLJ0jGbiuXbu0k",
+    "storageBucket": "devfestahm-a38e7.appspot.com",
+    "messagingSenderId": "591223253129",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "DevFestAhm",
+  "disqusShortName": "hoverboard-gdg-x",
+  "tweetsSource": "/data/tweets.json",
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": false,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "social": [
+    {
+      "name": "website",
+      "nickname": "GDGAhmedabad",
+      "url": "http://www.meetup.com/GDG-Ahmedabad/"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGAhmedabad",
+      "url": "https://www.facebook.com/GDGAhmedabad"
+    },
+    {
+      "name": "twitter",
+      "nickname": "GDGAhmedabad",
+      "url": "https://twitter.com/GDGAhmedabad"
+    },
+    {
+      "name": "gplus",
+      "nickname": "GDGAhmedabad",
+      "url": "https://plus.google.com/+GdgAhmedabad"
+    }
+  ],
+  "location": {
+    "apiKey": "",
+    "name": "Declare soon",
+    "address": "We are in a process of finalising an awesome venue in town, stay tuned with the great news ahead!",
+    "link": "#",
+    "pointer": {
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    "images": [
+      "/images/posts/announce.jpg",
+      "/images/posts/summary3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://photos.app.goo.gl/e492tCXd26DT8k5H3",
+    "photos": {
+      "big": "/images/backgrounds/2016_1.jpg",
+      "small": [
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "backgroundImage": "/images/backgrounds/home.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest Ahmedabad 2016",
+          "youtubeId": "KmO-tC3yw9E",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/team.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Cod of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}

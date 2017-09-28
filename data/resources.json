@@ -1,0 +1,134 @@
+{
+  "title": "GDG DevFest Ahmedabad 2017",
+  "description": "GDG DevFest Ahmedabad brings together the world class experts in Android and Web technologies to Gujarat for 1 day of sessions, workshops and showcases. Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November 5, 2017",
+  "locationAddressShort": "Ahmedabad, Gujarat",
+  "motto": "The biggest Google tech conference in Ahmedabad. All about Android and Web.",
+  "playIcon": "See how it was in 2016",
+  "c4p": "Become a speaker",
+  "buyTicket": "Register",
+  "backToTop": "Back to top",
+  "subscribe": "Subscribe",
+  "yourEmail": "Your email",
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "contactUs": "Contact us",
+  "ticketsTitle": "Tickets",
+  "ticketssoon": "Registration is not started yet!",
+  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "close": "Close",
+  "soldOutTickets": "Sold Out",
+  "socialTitle": "Social",
+  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "beforeHashtag": "What's up",
+  "clickToViewPhotos": "Click here to view more photos",
+  "partners": "Partners",
+  "becomePartner": "Become a partner",
+  "featuredVideosTitle": "Featured #DEVFESTAHM '16 Sessions",
+  "featuredVideosViewAll": "View all videos",
+  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleViewAll": "View all speakers",
+  "action": "See how it was",
+  "locationTitle": "Declare soon",
+  "locationDescription": "We are in a process of finalising an awesome venue in town, stay tuned with the great news ahead!",
+  "locationAddress": "",
+  "organizerTitle": "Organizer",
+  "aboutOrganizers": "<a href='http://www.gdgahmedabad.com/' target='_blank'>GDG Ahmedabad</a> with support of 10 GDGs from all around Gujarat is proud organizer of DevFest Ahmedabad",
+  "openTeamPage": "MEET THE TEAM",
+  "whatIsGdg": "What is GDG?",
+  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "readMore": "Read more",
+  "copyLink": "Copy link",
+  "filteredBy": "filtered by",
+  "clearAll": "Clear all",
+  "filter": "Filter",
+  "latestNews": "Latest news",
+  "continueReading": "Continue reading",
+  "viewPresentation": "View presentation",
+  "viewVideo": "View video",
+  "skills": "Skills",
+  "share": "Share",
+  "shareWith": "Share with",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "mySchedule": "My Schedule",
+  "browseMore": "Browse more events",
+  "youShouldSignInSessions": "Sign in to save sessions",
+  "youShouldSignInRating": "Sign in to rate sessions",
+  "offlineMessage": "You are offline",
+  "removedFromSchedule": "Removed from My Schedule",
+  "addedToSchedule": "Added to My Schedule",
+  "rateSession": "Rate session",
+  "footerBlocks": [
+    {
+      "title": "For visitors",
+      "links": [
+        {
+          "text": "Team",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "GDG Ahmedabad",
+          "url": "http://www.gdgahmedabad.com/",
+          "newTab": true
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Ahmedabad 2016",
+          "url": "http://devfest16.gdgahmedabad.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Ahmedabad 2015",
+          "url": "http://devfest15.gdgahmedabad.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Ahmedabad 2014",
+          "url": "http://devfest14.gdgahmedabad.com/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "pareshmayani@gmail.com",
+        "url": "mailto:pareshmayani@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "Team",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Ahmedabad](http://www.meetup.com/GDG-Ahmedabad/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Indian audience to boost development of IT.",
+  "declaresoon": "Declare soon",
+  "speakersoon": "Currently, we are accepting proposals from interested speakers till **20th October**. We will shortlist the speakers based on received application and publish the list once it gets confirmed.",
+  "schedulesoon": "We declare schedule very soon. Stay tuned with us!",
+  "statistics": [
+    {
+      "counter": 600,
+      "caption": "Attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "Day"
+    },
+    {
+      "counter": 12,
+      "caption": "Sessions"
+    },
+    {
+      "counter": 2,
+      "caption": "Tracks"
+    }
+  ],
+  "callToAction": {
+    "videoTitle": "GDG DevFest 2016",
+    "videoId": "KmO-tC3yw9E"
+  }
+}
