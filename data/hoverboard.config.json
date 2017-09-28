@@ -86,21 +86,21 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Declare soon",
-    "address": "We are in a process of finalising an awesome venue in town, stay tuned with the great news ahead!",
+    "name": "Gujarat University Convention and Exhibition Centre",
+    "address": "132 Ring Road,Near Helmet Circle,Opp Mayflower Hospital, Ahmedabad, Gujarat 380009",
     "link": "#",
     "pointer": {
-      "latitude": 23.0225,
-      "longitude": 72.5714,
+      "latitude": 23.044355,
+      "longitude": 72.540297,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 23.0225,
-      "longitude": 72.5714
+      "latitude": 23.044355,
+      "longitude": 72.540297
     },
     "images": [
-      "/images/posts/announce.jpg",
-      "/images/posts/summary3.jpg"
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg"
     ]
   },
   "gallery": {
