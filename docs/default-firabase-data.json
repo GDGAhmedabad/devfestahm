@@ -12,6 +12,15 @@
     "title" : "Sponsors"
   }, {
     "logos" : [ {
+      "height" : 100,
+      "logoUrl" : "../images/logos/nath-films.png",
+      "name" : "Nath Films",
+      "url" : "https://www.facebook.com/NathFilm/",
+      "width" : 170
+    } ],
+    "title" : "Supporting Partners"
+  }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "GDG Lviv",
       "url" : "https://plus.google.com/102444623953913144164",
@@ -1317,7 +1326,7 @@
       } ],
       "title" : "Event Organizer"
     }, {
-      "name" : "Dhruva Shashtri",
+      "name" : "Dhruva Shastri",
       "photoUrl" : "/images/people/dhruva_shashtri.jpg",
       "socials" : [ {
         "icon" : "facebook",
@@ -1368,29 +1377,20 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "₹",
-      "ends" : "Oct ",
-      "info" : "Requires valid student ID",
+      "ends" : "Nov ",
       "name" : "Student",
       "price" : 0,
       "soldOut" : false,
-      "starts" : "Sep "
+      "starts" : "Oct "
     }, {
       "currency" : "₹",
-      "ends" : "Oct ",
-      "info" : "Or first 100 tickets",
-      "name" : "Developers",
-      "price" : 0,
-      "soldOut" : false,
-      "starts" : "Sep "
-    }, {
-      "currency" : "₹",
-      "ends" : "Oct ",
+      "ends" : "Nov ",
       "name" : "Attendee",
       "price" : 0,
       "soldOut" : false,
-      "starts" : "Sep "
+      "starts" : "Oct "
     } ],
-    "url" : "#"
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfEfa8hXx3d2_37MPzwdL1Md5r-vLtNXSMklkRPMjWGsiZSbQ/viewform"
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",

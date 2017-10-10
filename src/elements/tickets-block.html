@@ -45,6 +45,8 @@
       .buy-button {
         margin-top: 30px;
         background: #fff;
+        padding-left: 30px;
+        padding-right: 30px;
         color: var(--primary-text-color);
       }
 
@@ -68,8 +70,6 @@
       <div class="block-header">
         <h4 class="heading">{$ ticketsTitle $}</h4>
       </div>
-      <div>{$ ticketssoon $}</div>
-      <!--
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
           <ticket-element
@@ -85,10 +85,9 @@
         </template>
       </div>
       <div class="details">{$ ticketsDetails $}</div>
-      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
       </a>
-      -->
     </div>
 
   </template>
