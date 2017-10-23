@@ -25,6 +25,7 @@
       }
 
       /*Declare Soon*/
+
       .details {
         @apply(--layout-vertical);
         @apply(--layout-center-justified);
@@ -44,6 +45,7 @@
         font-size: 24px;
         font-weight: 400;
       }
+
       /*End Declare Soon*/
 
       .people-wrapper {
@@ -113,29 +115,11 @@
 
     <div class="container">
       <h4 class="heading">{$ featuredPeopleTitle $}</h4>
-      <div class="details">
-        <div class="details-item" cascaded>
-          <div class="details-info">
-            <marked-element class="details-text" markdown="{$ speakersoon $}">
-              <div class="markdown-html"></div>
-            </marked-element>
-          </div>
-        </div>
-      </div>
-      <!--
       <div class="people-wrapper">
         <template is="dom-repeat" items="[[featuredPeople]]" as="person">
           <a href$="/speakers/[[person.id]]" class="person">
-            <iron-image
-              class="photo"
-              src="[[person.photoUrl]]"
-              sizing="cover"
-            ></iron-image>
-            <iron-image
-              class="company-logo"
-              src="[[person.companyLogo]]"
-              sizing="contain"
-            ></iron-image>
+            <iron-image class="photo" src="[[person.photoUrl]]" sizing="cover"></iron-image>
+            <iron-image class="company-logo" src="[[person.companyLogo]]" sizing="contain"></iron-image>
             <h4 class="name">[[person.name]]</h4>
             <span class="company">[[person.country]]</span>
           </a>
@@ -145,15 +129,15 @@
         <a href="/speakers" class="block-link">
           <paper-button>{$ featuredPeopleViewAll $}</paper-button>
         </a>
-      </div>
-      -->
-      <div class="text-center">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg41OhfG4cQnB17l7zztuA28S1rOuMH6Q3-VUq94yVoZVu4w/viewform" target="_blank" class="style-scope header-content" style="color: white; ">
-          <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-        </a>
+        <div class="text-center">
+          <div class="details-info">
+            <marked-element class="details-text" markdown="{$ speakersoon $}">
+              <div class="markdown-html"></div>
+            </marked-element>
+          </div>
+        </div>
       </div>
     </div>
-
   </template>
 
   <script>

@@ -32,6 +32,7 @@
       }
 
       /*Declare Soon*/
+
       .details {
         @apply(--layout-vertical);
         @apply(--layout-center-justified);
@@ -58,6 +59,7 @@
         font-size: 24px;
         font-weight: 400;
       }
+
       /*End Declare Soon*/
 
       .speakers-container {
@@ -201,36 +203,14 @@
       }
     </style>
 
-    <app-route route="{{route}}"
-               pattern="/:speakerId"
-               data="{{routeData}}"></app-route>
+    <app-route route="{{route}}" pattern="/:speakerId" data="{{routeData}}"></app-route>
 
-      <div class="container speakers-container">
-        <div class="details">
-          <div class="details-item" cascaded>
-            <iron-icon class="details-icon" icon="info"></iron-icon>
-            <div class="details-info">
-              <h4 class="details-title">{$ declaresoon $}</h4>
-              <marked-element class="details-text" markdown="{$ speakersoon $}">
-                <div class="markdown-html"></div>
-              </marked-element>
-            </div>
-          </div>
-          
-          <div class="text-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg41OhfG4cQnB17l7zztuA28S1rOuMH6Q3-VUq94yVoZVu4w/viewform" target="_blank" class="style-scope header-content" style="color: white; ">
-              <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-            </a>
-          </div>
-        </div>
-
-      <!--
+    <div class="container speakers-container">
       <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
             <a href$="/speakers/[[speaker.id]]/" class="header">
-              <iron-image src="[[speaker.photoUrl]]" class="photo placeholder-color" preload fade
-                          sizing="cover"></iron-image>
+              <iron-image src="[[speaker.photoUrl]]" class="photo placeholder-color" preload fade sizing="cover"></iron-image>
               <div class="photo-overlay"></div>
               <ul class="badges">
                 <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
@@ -259,24 +239,32 @@
             <div class="card-actions">
               <template is="dom-repeat" items="[[speaker.socials]]" as="social">
                 <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                  <paper-icon-button class="social-icon"
-                                     icon$="icons:{{social.icon}}"></paper-icon-button>
+                  <paper-icon-button class="social-icon" icon$="icons:{{social.icon}}"></paper-icon-button>
                 </a>
               </template>
             </div>
           </paper-material>
         </div>
       </template>
-       -->
     </div>
+    <div class="container speakers-container">
+      <div class="details">
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon" icon="info"></iron-icon>
+          <div class="details-info">
+            <h4 class="details-title">{$ declaresoon $}</h4>
+            <marked-element class="details-text" markdown="{$ speakersoon $}">
+              <div class="markdown-html"></div>
+            </marked-element>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <footer-block app="{{app}}" cascaded></footer-block>
 
-    <speaker-details id="speakerDetails"
-                     app="{{app}}"
-                     speaker="{{_selectedSpeaker}}"
-                     entry-animation="scale-up-animation"
-                     exit-animation="fade-out-animation"
-                     with-backdrop>
+    <speaker-details id="speakerDetails" app="{{app}}" speaker="{{_selectedSpeaker}}" entry-animation="scale-up-animation" exit-animation="fade-out-animation"
+      with-backdrop>
     </speaker-details>
 
   </template>
@@ -337,12 +325,12 @@
           }
         },
 
-        _findSpeakerById: function(id) {
+        _findSpeakerById: function (id) {
           if (!this.speakers.filter) {
             return undefined;
           }
 
-          return this.speakers.filter(function(s) {return s.id === +id;})[0];
+          return this.speakers.filter(function (s) { return s.id === +id; })[0];
         },
 
         _getCustomStyleValue: function (value) {
@@ -358,4 +346,3 @@
   </script>
 
 </dom-module>
-
