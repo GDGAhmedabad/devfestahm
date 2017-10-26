@@ -5,7 +5,7 @@
   "dates": "November 5, 2017",
   "locationAddressShort": "Ahmedabad, Gujarat",
   "motto": "The biggest Google tech conference in Ahmedabad. All about Android and Web.",
-  "playIcon": "See how it was in 2016",
+  "playIcon": "See how it was in 2014-15-16",
   "c4p": "Become a speaker",
   "buyTicket": "Register",
   "backToTop": "Back to top",
@@ -119,7 +119,7 @@
       "caption": "Day"
     },
     {
-      "counter": 12,
+      "counter": 9,
       "caption": "Sessions"
     },
     {
@@ -128,7 +128,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2016",
-    "videoId": "KmO-tC3yw9E"
+    "videoTitle": "Roll back GDG DevFest",
+    "videoId": "JZopiImGTls"
   }
 }
