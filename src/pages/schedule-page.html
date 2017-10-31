@@ -92,18 +92,6 @@
     </app-indexeddb-mirror>
 
     <div class="container" phone$="{{app.isPhoneSize}}">
-      <div class="details">
-        <div class="details-item" cascaded>
-          <iron-icon class="details-icon" icon="info"></iron-icon>
-          <div class="details-info">
-            <h4 class="details-title">{$ declaresoon $}</h4>
-            <marked-element class="details-text" markdown="{$ schedulesoon $}">
-              <div class="markdown-html"></div>
-            </marked-element>
-          </div>
-        </div>
-      </div>
-      <!--
       <schedule-subnav
         app="{{app}}"
         schedule="[[schedule]]"
@@ -128,9 +116,7 @@
           ></my-schedule>
         </template>
       </neon-animated-pages>
-      -->
     </div>
-    <footer-block app="{{app}}" cascaded></footer-block>
 
     <session-details
       id="sessionDetails"
