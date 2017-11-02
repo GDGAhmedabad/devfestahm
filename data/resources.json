@@ -111,7 +111,7 @@
   "schedulesoon": "We declare schedule very soon. Stay tuned with us!",
   "statistics": [
     {
-      "counter": 600,
+      "counter": "600+",
       "caption": "Attendees"
     },
     {
@@ -119,7 +119,7 @@
       "caption": "Day"
     },
     {
-      "counter": 9,
+      "counter": "15+",
       "caption": "Sessions"
     },
     {
