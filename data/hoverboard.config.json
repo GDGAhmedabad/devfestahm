@@ -1,5 +1,5 @@
 {
-  "url": "http://devfestahm-a38e7.firebaseapp.com/",
+  "url": "http://devfestahm17.firebaseapp.com/",
   "startDate": "2017-11-05T09:00:00+03:00",
   "endDate": "2017-11-10T19:00:00+03:00",
   "analytics": {
@@ -16,12 +16,12 @@
     "backgroundColor": "#1976D2"
   },
   "firebase": {
-    "name": "devfestahm-a38e7",
-    "domain": "devfestahm-a38e7.firebaseapp.com",
-    "database": "https://devfestahm-a38e7.firebaseio.com",
-    "api": "AIzaSyC2TuSWZu54ldaAlRINsfLJ0jGbiuXbu0k",
-    "storageBucket": "devfestahm-a38e7.appspot.com",
-    "messagingSenderId": "591223253129",
+    "name": "devfestahm17",
+    "domain": "devfestahm17.firebaseapp.com",
+    "database": "https://devfestahm17.firebaseio.com",
+    "api": "AIzaSyCckJ6mEuMPvr2cM6z5bIlQOqPpJfj_FYU",
+    "storageBucket": "devfestahm17.appspot.com",
+    "messagingSenderId": "273929859561",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
