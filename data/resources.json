@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG DevFest Ahmedabad Season 2018",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "dates": "November 24-25, 2018",
+  "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -36,8 +36,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Ahmedabad",
+          "url": "https://gdgahmedabad.com/",
           "newTab": true
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://devfest.gdgahmedabad.com/team/",
           "newTab": true
         }
       ]
@@ -56,23 +56,8 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevfestAhm 2017",
+          "url": "https://devfest17.gdgahmedabad.com/",
           "newTab": true
         }
       ]
@@ -82,23 +67,23 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
+          "url": "#",
+          "newTab": false
         },
         {
           "name": "FAQs",
@@ -114,20 +99,20 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqEnRZyVlOQsT1FzTi-kba7"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2017",
+        "youtubeId": "7dG3pdsOVF8"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "600+"
       },
       "days": {
         "label": "Days",
@@ -135,17 +120,17 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "To ensure quality participation, the submitted entries are filtered based on the details filled in the registration form. Only those participants who receive confirmation email from us will be eligible to attend the event.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -162,10 +147,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DEVFESTAHM'17 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqEnRZyVlOQsT1FzTi-kba7"
     }
   },
   "blog": {
@@ -179,6 +164,7 @@
       "link": "/blog/"
     }
   },
+  "declareSoon": "Declare soon",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -199,11 +185,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#devfestahm17 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and Q&A.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/8ThUBe1AvCWdXFKc8"
     }
   },
   "mapBlock": {
@@ -218,7 +204,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ahmedabad sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -227,7 +213,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Gujarat audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -260,7 +246,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/GDG-Ahmedabad' target='_blank'>GDG Ahmedabad</a> with support of 3 GDGs from all around Gujarat is proud organizer of DevFest Ahmedabad",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
