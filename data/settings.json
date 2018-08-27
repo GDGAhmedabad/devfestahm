@@ -111,11 +111,11 @@
     "pointer": {
       "latitude": 23.033863,
       "longitude": 72.585022,
-      "zoom": 5
+      "zoom": 11
     },
     "mapCenter": {
-      "latitude": 23,
-      "longitude": 72
+      "latitude": 23.03,
+      "longitude": 72.58
     },
     "description": "We are in a process of finalising an awesome venue in town, stay tuned with the great news ahead!"
   },
