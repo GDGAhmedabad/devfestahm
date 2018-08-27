@@ -1440,6 +1440,23 @@
         "name" : "Twitter"
       } ],
       "title" : "Co-Organizer"
+    } ],
+    "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Utpal Betai",
+      "photo" : "/images/people/utpal_betai.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.jpg?alt=media&token=8fe7d47c-1669-43e5-b46f-687b446a5df2",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/utpal.betai.9",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/utpalbetai",
+        "name" : "Twitter"
+      } ],
+      "title" : "Asst. Organizer"
     }, {
       "name" : "Dhruva Shastri",
       "photo" : "/images/people/dhruva_shashtri.jpg",
@@ -1472,23 +1489,6 @@
         "name" : "Twitter"
       } ],
       "title" : "Core Organizing Team Member"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Utpal Betai",
-      "photo" : "/images/people/utpal_betai.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.jpg?alt=media&token=8fe7d47c-1669-43e5-b46f-687b446a5df2",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/utpal.betai.9",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/utpalbetai",
-        "name" : "Twitter"
-      } ],
-      "title" : "Asst. Organizer"
     } ],
     "title" : "Program Committee"
   } ],

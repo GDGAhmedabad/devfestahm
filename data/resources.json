@@ -251,7 +251,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/GDG-Ahmedabad' target='_blank'>GDG Ahmedabad</a> with support of 3 GDGs from all around Gujarat is proud organizer of DevFest Ahmedabad",
+        "description": "<a href='https://www.meetup.com/GDG-Ahmedabad' target='_blank'>GDG Ahmedabad</a> with support of Google Sponsorship and other community partners from all over india is proud organizer of DevFest Ahmedabad",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
