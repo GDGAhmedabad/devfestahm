@@ -147,8 +147,6 @@
       <app-drawer id="drawer" slot="drawer" opened="[[ui.isDrawerOpened]]" swipe-open>
         <app-toolbar layout vertical start>
           <plastic-image class="toolbar-logo" srcset="/images/logo-monochrome.svg" alt="{$ title $}"></plastic-image>
-          <h2 class="dates">{$ dates $}</h2>
-          <h3 class="location">{$ location.short $}</h3>
         </app-toolbar>
 
         <div class="drawer-content" layout vertical justified flex>
@@ -163,20 +161,6 @@
             <a href="{$ nav.permalink $}" path="{$ nav.route $}" on-tap="closeDrawer">{$ nav.label $}</a>
             {% endfor %}
           </iron-selector>
-
-          <a
-            class="buy-ticket"
-            href$="[[tickets.url]]"
-            target="_blank"
-            rel="noopener noreferrer"
-            ga-on="click"
-            ga-event-category="ticket button"
-            ga-event-action="buy_click"
-            layout horizontal center
-          >
-            <span>{$ buyTicket $}</span>
-            <iron-icon icon="hoverboard:open-in-new"></iron-icon>
-          </a>
         </div>
 
       </app-drawer>
@@ -202,27 +186,6 @@
             data-route="home"
             data-path="pages/home-page.html"
           ></home-page>
-          <blog-page
-            data-route="blog"
-            data-path="pages/blog-page.html"
-            route="[[subroute]]"
-          ></blog-page>
-          <schedule-page
-            data-route="schedule"
-            data-path="pages/schedule-page.html"
-            route="[[subroute]]"
-            query-params="[[queryParams]]"
-          ></schedule-page>
-          <!-- <speakers-page
-            data-route="speakers"
-            data-path="pages/speakers-page.html"
-            route="[[subroute]]"
-          ></speakers-page> -->
-          <previous-speakers-page
-            data-route="previous-speakers"
-            data-path="pages/previous-speakers-page.html"
-            route="[[subroute]]"
-          ></previous-speakers-page>
           <team-page
             data-route="team"
             data-path="pages/team-page.html"

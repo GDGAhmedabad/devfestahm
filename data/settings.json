@@ -3,7 +3,7 @@
     "name": "GDG Ahmedabad",
     "twitter": "gdgahmedabad",
     "blog": "https://gdgahmedabad.com/",
-    "url": "https://devfest.gdgahmedabad.com/"
+    "url": "http://devfest.gdgahmedabad.com/"
   },
   "startDate": "2018-11-24T09:00:00+05:30",
   "endDate": "2018-11-25T19:00:00+05:30",
@@ -24,23 +24,14 @@
       "label": "Home"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
+      "comingSoon": "COMING SOON!",
       "description": "Be a hero. Be a GDG!",
       "background": {
         "color": "#419CF6",

@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Join Community",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -47,7 +47,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdgahmedabad.com/team/",
+          "url": "http://devfest.gdgahmedabad.com/team/",
           "newTab": true
         }
       ]
@@ -57,7 +57,7 @@
       "links": [
         {
           "name": "DevfestAhm 2017",
-          "url": "https://devfest17.gdgahmedabad.com/",
+          "url": "http://devfest17.gdgahmedabad.com/",
           "newTab": true
         }
       ]
@@ -72,7 +72,7 @@
         },
         {
           "name": "FAQs",
-          "url": "/faq/",
+          "url": "#",
           "newTab": false
         }
       ]
