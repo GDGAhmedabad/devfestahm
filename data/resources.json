@@ -41,14 +41,19 @@
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
+          "name": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdgahmedabad.com/team/",
+          "name": "GDG Platform",
+          "url": "https://developers.google.com/programs/community/gdg/",
           "newTab": true
+        },
+        {
+          "name": "Meet the Team",
+          "url": "/team/",
+          "newTab": false
         }
       ]
     },
@@ -57,7 +62,7 @@
       "links": [
         {
           "name": "DevfestAhm 2017",
-          "url": "https://devfest17.gdgahmedabad.com/",
+          "url": "http://devfest17.gdgahmedabad.com/",
           "newTab": true
         }
       ]
@@ -68,11 +73,6 @@
         {
           "name": "Call for Papers",
           "url": "#",
-          "newTab": false
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
           "newTab": false
         }
       ]
