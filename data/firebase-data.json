@@ -8,6 +8,15 @@
       "published" : "2017-11-08",
       "source" : "/data/posts/2017-11-08-devfestahm17-summary.md",
       "title" : "GDG DevFest Ahmedabad 2017 - SUMMARY"
+    },
+    "thank-you" : {
+      "backgroundColor" : "#5a7785",
+      "brief" : "Our team wants to thank one more time our partners, who made GDG DevFest Ahmedabad 2017 possible...",
+      "content" : "We want to thank one more time our partners, who made [GDG DevFest Ahmedabad 2017](http://devfest17.gdgahmedabad.com/) possible! THANK YOU for being creative and motivating our participants for new challenges, THANK YOU for your experiments and expertise during the insane 1 days of GDG DevFest Ahmedabad. We want to highlight the most interesting and catching moments that made our conference so special:  - Our general partner and our source of inspiration, [Google](https://www.google.com.ua/intl/en/about/)  <plastic-image srcset=\"/images/posts/thankyou_1.jpg\" lazy-load preload fade></plastic-image>  🎁 [Simform](https://www.simform.co.in/), our Supporting Partners, memento for speakers with magnifical surprise  <plastic-image srcset=\"/images/posts/thankyou_2.jpg\" lazy-load preload fade></plastic-image>  📷 🎥 Photography and Videography support from [Nath Films](https://www.facebook.com/NathFilm/).  <plastic-image srcset=\"/images/posts/thankyou_3.jpg\" lazy-load preload fade></plastic-image>  🌏 Thanks to [Vrizm Innovations](https://www.vrizm.com/) for recording event in 360 camera.  <plastic-image srcset=\"/images/posts/thankyou_4.jpg\" lazy-load preload fade></plastic-image>  Again, THANK YOU all, you are amazing! Hope you to join us next year!  ❤️ With love, GDG DevFest Ahmedabad Team  <plastic-image srcset=\"/images/posts/thankyou_5.jpg\" lazy-load preload fade></plastic-image>",
+      "image" : "/images/posts/thankyou_1.jpg",
+      "published" : "2017-11-15",
+      "source" : "/data/posts/2017-11-15-thank-you.md",
+      "title" : "Thank you all for your support"
     }
   },
   "gallery" : [
@@ -1369,6 +1378,23 @@
         "name" : "Google+"
       } ],
       "title" : "Android Evangelist & Developer"
+    }
+  },
+  "subscribers" : {
+    "bhoominngmailcom" : {
+      "email" : "bhoominn@gmail.com",
+      "firstName" : "Bhoomin",
+      "lastName" : "Naik"
+    },
+    "sandipkalola1990gmailcom" : {
+      "email" : "sandipkalola1990",
+      "firstName" : "Sandip",
+      "lastName" : "Kalola"
+    },
+    "zbaja" : {
+      "email" : "zbaja",
+      "firstName" : "",
+      "lastName" : ""
     }
   },
   "team" : [ {
