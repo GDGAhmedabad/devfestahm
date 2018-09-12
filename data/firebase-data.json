@@ -17,6 +17,15 @@
       "published" : "2017-11-15",
       "source" : "/data/posts/2017-11-15-thank-you.md",
       "title" : "Thank you all for your support"
+    },
+    "devfestahm18-announced" : {
+      "backgroundColor" : "#2196F3",
+      "brief" : "It is official. GDG DevFest Ahmedabad 2018 is going to take place in Ahmedabad. <br/> <Date to be announced / >",
+      "content" : "Mark your dates for the biggest developer conclave of the city as **DevFest Ahmedabad 2018** is here <Date to be announced / >. </br> [Google Developers Group Ahmedabad (GDG Ahmedabad)](https://www.gdgahmedabad.com/) is for the developers, interested in Google's developer technology from Android to App Engine, Google Chrome platforms to product APIs like the Maps, YouTube, Flutter and Tensorflow, all that Google you can think of. GDG Ahmedabad is back with its annual gathering of technology enthusiasts working on Android, Web and Cloud technologies for a day full of sessions, workshops, showcases, networking with other like-minded industry colleagues and ample fun. This year, we expect over **500+ engineers, managers, and entrepreneurs** come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere. </br></br> Come and join us at [#DevFestAhm](https://twitter.com/search?q=DevFestAhm) 2018 to witness the best of tech, explore and learn about Flutter, Kotlin, Machine Learning, Tensorflow, Google Cloud, Blockchain, Firebase, AngularJS, ARCore, Actions on Google etc. and experience the magnificent atmosphere with tech all around you.  <div layout horizontal center-justified>  <paper-button primary>Tickets - Declare soon</paper-button> </div> </br> ## Stay in Touch! </br> We would love to see you at #DevFestAhm 2018. **Subscribe to DevFest newsletter** or follow us on [Facebook](https://www.facebook.com/GDGAhmedabad/), [Twitter](https://twitter.com/GDGAhmedabad/) not to miss any of our announcements and conference updates.   <span><i> We can't wait to meet you in Ahmedabad, the rising tech capital of Gujarat.</br> GDG DevFest Ahmedabad Team. </i></span>",
+      "image" : "/images/posts/summary2017_7.jpg",
+      "published" : "2018-09-15",
+      "source" : "/data/posts/2018-09-15-devfestahm18-announced.md",
+      "title" : "Announcing GDG DevFest Ahmedabad 2018"
     }
   },
   "gallery" : [
