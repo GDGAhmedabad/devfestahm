@@ -3,7 +3,7 @@
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November 24-25, 2018",
+  "dates": "<Date to be announced / >",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -120,6 +120,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
+    "ticketsDeclareSoon": "We declare TICKETS very soon. Stay tuned with us!",
     "ticketsDetails": "To ensure quality participation, the submitted entries are filtered based on the details filled in the registration form. Only those participants who receive confirmation email from us will be eligible to attend the event.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
