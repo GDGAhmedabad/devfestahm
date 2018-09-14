@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "http://devfest.gdgahmedabad.com/",
+  "analytics": "UA-106396961-4",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyAkzbTQaJBV-UVvoAGL7P8cBzy7L8rqHLk",
+    "authDomain": "devfestahm-master.firebaseapp.com",
+    "databaseURL": "https://devfestahm-master.firebaseio.com",
+    "projectId": "devfestahm-master",
+    "storageBucket": "devfestahm-master.appspot.com",
+    "messagingSenderId": "442013475178"
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
