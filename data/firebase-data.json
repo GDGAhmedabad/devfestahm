@@ -1507,10 +1507,6 @@
       "photo" : "/images/people/dhruva_shashtri.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri.jpg?alt=media&token=6cd79125-01b1-412e-97eb-6754b4ca6ec4",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/dhruvashastri12",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/dhruvashastri12",
         "name" : "Twitter"
