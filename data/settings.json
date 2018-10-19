@@ -110,20 +110,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Declare soon",
+    "name": "Courtyard by Marriott",
     "city": "Ahmedabad",
     "short": "Ahmedabad, Gujarat",
-    "address": "Yet to be announced",
+    "address": "Ramdev Nagar Cross Road, Satellite, Road, Satellite, Ahmedabad, Gujarat - 380015",
     "pointer": {
-      "latitude": 23.033863,
-      "longitude": 72.585022,
-      "zoom": 11
+      "latitude": 23.027870,
+      "longitude": 72.512128,
+      "zoom": 16
     },
     "mapCenter": {
       "latitude": 23.03,
-      "longitude": 72.58
+      "longitude": 72.51
     },
-    "description": "We are in a process of finalising an awesome venue in town, stay tuned with the great news ahead!"
+    "description": "COURTYARD by Marriott"
   },
   "mediaQueries": {
     "xs": {
