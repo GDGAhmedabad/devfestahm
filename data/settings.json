@@ -27,11 +27,6 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
     }, 
     {
       "route": "team",
