@@ -155,7 +155,7 @@
       "link": "/blog/"
     }
   },
-  "declareSoon": "Declare soon",
+  "unveilSoon": "Unveil soon",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -163,6 +163,7 @@
   },
   "speakersBlock": {
     "title": "Rockstar speakers",
+    "speakersDeclareSoon": "Still in process to pick right pearls in the depth of ocean",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
