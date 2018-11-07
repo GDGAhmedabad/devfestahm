@@ -18,21 +18,6 @@
 
       :host {
         display: block;
-        background: var(--default-primary-color);
-        color: #fff;
-      }
-
-      .container {
-        padding-top: 64px;
-      }
-
-      paper-button {
-        color: #fff;
-      }
-
-      paper-button[disabled] {
-        background: var(--default-primary-color);
-        color: #fff;
       }
 
       .speakers-wrapper {
@@ -160,8 +145,8 @@
     </style>
 
     <div class="container">
-      <h1 class="container-title">{$ speakersBlock.callForSpeakers.title $}</h1>
-      <p class="hero-description">{$ speakersBlock.callForSpeakers.description $}</p>
+      <h1 class="container-title">{$ speakersBlock.title $}</h1>
+      <p class="hero-description">{$ speakersBlock.speakersDeclareSoon $}</p>
 
       <!--
       <div class="speakers-wrapper">
@@ -216,9 +201,9 @@
       </div>
       -->
 
-      <a href="{$ speakersBlock.callForSpeakers.callToAction.link $}">
+      <a href="{$ speakersBlock.callToAction.link $}">
         <paper-button class="cta-button animated icon-right">
-          <span>{$ speakersBlock.callForSpeakers.callToAction.label $}</span>
+          <span>{$ speakersBlock.callToAction.label $}</span>
           <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
         </paper-button>
       </a>

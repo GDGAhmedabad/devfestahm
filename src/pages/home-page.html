@@ -169,12 +169,6 @@
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
           </paper-button>
-          <a href="{$ speakersBlock.callForSpeakers.callToAction.link $}">
-            <paper-button primary invert>
-              <span>{$ speakersBlock.callForSpeakers.callToAction.label $}</span>
-              <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-            </paper-button>
-          </a>
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -186,8 +180,8 @@
         </div>
       </div>
     </hero-block>
-    <speakers-block></speakers-block>
     <about-block></about-block>
+    <speakers-block></speakers-block>
     <subscribe-block></subscribe-block>
     <tickets-block></tickets-block>
     <gallery-block></gallery-block>
