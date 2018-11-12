@@ -637,7 +637,7 @@
       "name" : "Neha Sharma",
       "photo" : "/images/people/speakers/neha_sharma.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fneha_sharma.jpg?alt=media&token=1550a4ce-3899-470b-9b94-ed6db6436381",
-      "shortBio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I lo...",
+      "shortBio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I love coding and...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/hellonehha",
@@ -655,10 +655,10 @@
       "name" : "Rivu Chakrborty",
       "photo" : "/images/people/speakers/rivu_chakrborty.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Frivu_chakrborty.jpg?alt=media&token=d6eebe59-5f94-4c2a-9afc-abf78421804a",
-      "shortBio" : "Rivu Chakraborty is a Google Certified Associate Android Developer, Caster.io Instructor, Author...",
+      "shortBio" : "Rivu Chakraborty is a Google Certified Associate Android Developer, Caster.io Instructor, Author of Multi...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplushttps://twitter.com/rivuchakraborty",
+        "link" : "https://twitter.com/rivuchakraborty",
         "name" : "Twitter"
       }, {
         "icon" : "linkedin",
@@ -677,7 +677,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Pune",
-      "featured" : true,
+      "featured" : false,
       "name" : "Burhanuddin Rashid",
       "photo" : "/images/people/speakers/burhanuddin_rashid.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fburhanuddin_rashid.jpeg?alt=media&token=14e93520-c1a1-416a-a477-9002a47e0371",
@@ -707,7 +707,7 @@
       "name" : "Krupa Galiya",
       "photo" : "/images/people/speakers/krupa_galiya.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkrupa_galiya.jpg?alt=media&token=0a45187a-3ec9-4433-9b66-7a31927b2859",
-      "shortBio" : "A PyGirl whose main interest lies in AI, NLP, and Algorithms. Currently, she is exploring advance...",
+      "shortBio" : "A PyGirl whose main interest lies in AI, NLP, and Algorithms. Currently, she is exploring advance AI con...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/Krupagaliya",
@@ -729,7 +729,7 @@
       "name" : "Parth Jansari",
       "photo" : "/images/people/speakers/parth_jansari.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fparth_jansari.jpg?alt=media&token=24da00f6-740e-402b-b187-7aa5b8bd0632",
-      "shortBio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playi...",
+      "shortBio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playing games(mo...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/jansariparth",
@@ -755,7 +755,7 @@
       "name" : "Charmi Chokshi",
       "photo" : "/images/people/speakers/charmi_chokshi.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fcharmi_chokshi.jpg?alt=media&token=8afa6490-803f-41f2-a8e0-0d65b1cf0301",
-      "shortBio" : "Working with data and predicting future based on it is Charmi's passion and it has always made he...",
+      "shortBio" : "Working with data and predicting future based on it is Charmi's passion and it has always made her feel lik...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/charmichokshi",
@@ -766,6 +766,132 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Teaching Assistant and Student"
+    },
+    "hiren_dave" : {
+      "bio" : "Hiren Dave is a software engineer, blogger and consultant with over 10 years of professional experience. He writes code in number of languages. Hiren has a passion for developing web apps, mobile apps and writing books and blog articles about programming. He has a googe experience of startups as he manages products for few startups. He is also passionate about researching and learning new technologies and trends.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Hiren Dave",
+      "photo" : "/images/people/speakers/hiren_dave.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "shortBio" : "Hiren Dave is a software engineer, blogger and consultant with over 10 years of professional experience. He...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hjdave",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/davehiren",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://hirendave.tech",
+        "name" : "Website"
+      } ],
+      "title" : "Self Employed Consultant"
+    },
+    "jaldeep_asodariya" : {
+      "bio" : "Jaldeep Asodariya is an Android Developer and working at Jain Bhavesh Solutions. As he developed many enormous emerging Android Application so far and got client’s satisfaction through his Development work. He is a core organizing team member of Google Developer Group (GDG), Ahmedabad. <br/><br/> Jaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant Applications as well as he has proficient knowledge in NodeJS. <br/><br/> He earned post graduate degree (MSc. IT) from Kadi Sarva University. After he started his career with the BSP Technologies as a fresher and utilize his skills for the Android Application Development.  In the spare time, Jaldeep likes to watch Google Technology videos and enlarge Photography skills.",
+      "company" : "Jain Bhavesh Solutions",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Jaldeep Asodariya",
+      "photo" : "/images/people/jaldeep_asodariya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya.jpg?alt=media&token=7c180d26-7b48-4751-862d-cd7e5f5a8119",
+      "shortBio" : "Jaldeep Asodariya is an Android Developer and a core organizing team member of GDG Ahmedabad. As he dev...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jaldeepasodariy",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/JaldeepAsodariya",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/jaldeep-jd-asodariya-a4399b5a",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Android Developer"
+    },
+    "aimanzaki_kagzi" : {
+      "bio" : "I have started my own company in 2010 during my studies, We were developing software and mobile apps. Made 15+ apps for our customers including iOS and Android. I have been working at eClinicalWork as Software developer since Last 3 Years. I have delivered talks and expert sessions in many engineering colleges with hands on exercise and practice.",
+      "company" : "eClinicalWorks",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Aimanzaki Kagzi",
+      "photo" : "/images/people/speakers/aimanzaki_kagzi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Faimanzaki_kagzi.jpg?alt=media&token=1ce44fff-fee0-456e-bbd5-226540d55f57",
+      "shortBio" : "I have started my own company in 2010 during my studies, We were developing software and mobile apps. Made...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Aimanzaki",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/aimanzaki/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/aimanzakikagzi",
+        "name" : "Facebook"
+      } ],
+      "title" : "Software Developer"
+    },
+    "dhruv_patel" : {
+      "bio" : "My name is Dhruv Patel. I'm an average Sr. Software Engineer at Reliance Jio; Expect bugs in Jio apps. :) I am an android enthusiastic having long way with Android since the beginning. I like working on challenging apps(Well, who does not!). I help my employer earn more. :)",
+      "company" : "Reliance Jio",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Mumbai",
+      "featured" : false,
+      "name" : "Dhruv Patel",
+      "photo" : "/images/people/speakers/dhruv_patel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fdhruv_patel.jpg?alt=media&token=ff0a5682-ec8f-4c7b-b628-1640344f7f72",
+      "shortBio" : "My name is Dhruv Patel. I'm an average Sr. Software Engineer at Reliance Jio; Expect bugs in Jio apps. :) I am an...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/DearDhruv",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/deardhruv/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Sr. Software Engineer"
+    },
+    "smit_shah" : {
+      "bio" : "Smit Shah is Co-Founder & CEO of eSecurify Technologies. He is a Certified Ethical Hacker. He has constantly been engaged in conducting workshops and bootcamps for corporate houses and academic institutions such as IIT's, NIT's, BITS Pilani, Sinhgadh University, SRM University and many more. He has also trained more than 6000 students. <br/><br/> He has a wide experience in the field of Web & Mobile Application Vulnerability Assessment & Penetration Testing. Smit has reported a loophole on PayPal. PayPal is widely used for online overseas payment transfer. Apart from this, his recent research includes a 0 day Vulnerability on edX-Platform. edX is an open source online course launcher application. <br/><br/> A Certified Ethical Hacker has also found vulnerabilities in Barracuda Networks, Secunia, SANS, WebSecurify, Scanmyserver and many other IT Security Giants giants. He recently reported a critical flaw to Mobikwik Wallet App. <br/><br/> He has also been invited as a Guest Speaker in many Live Talk Shows on current affairs related to Cyber World like Cyber Attack on Pakistani Websites after Pathankot Attack, Whatsapp Hacking, Facebook Hacking, Credit & Debit Card Frauds, Email Hacking, Computer Hacking and many more. <br/><br/> He has also cracked the toughest interview (a multi staged international interview process) of Synack and is now a proud Synack Red Team (SRT) Member.",
+      "company" : "eSecurify Technologies",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Smit Shah",
+      "photo" : "/images/people/speakers/smit_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fsmit_shah.jpg?alt=media&token=70497d3c-0b6b-49e6-b163-def119bed1b0",
+      "shortBio" : "Smit Shah is Co-Founder & CEO of eSecurify Technologies. He is a Certified Ethical Hacker. He has constantly been...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/smitshah92",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/smitbshah/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/smitshah.me",
+        "name" : "Facebook"
+      } ],
+      "title" : "Co-founder & CEO"
     }
   },
   "subscribers" : {
