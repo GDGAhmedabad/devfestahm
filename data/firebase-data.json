@@ -820,8 +820,8 @@
       "title" : "Android Developer"
     },
     "aimanzaki_kagzi" : {
-      "bio" : "I have started my own company in 2010 during my studies, We were developing software and mobile apps. Made 15+ apps for our customers including iOS and Android. I have been working at eClinicalWork as Software developer since Last 3 Years. I have delivered talks and expert sessions in many engineering colleges with hands on exercise and practice.",
-      "company" : "eClinicalWorks",
+      "bio" : "He started his own company AimCrafters in 2010 during his studies, he has been developing software and mobile apps for 8 years. He developed 22+ apps for customers including iOS and Android. He has  been working on Android for 5 years. He is quick learner and techno geek. He awarded for creation 2012 for his national level project. He delivered talks and expert sessions in many engineering colleges with hands on exercise and practice.",
+      "company" : "AimCrafters",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Ahmedabad",
@@ -829,7 +829,7 @@
       "name" : "Aimanzaki Kagzi",
       "photo" : "/images/people/speakers/aimanzaki_kagzi.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Faimanzaki_kagzi.jpg?alt=media&token=1ce44fff-fee0-456e-bbd5-226540d55f57",
-      "shortBio" : "I have started my own company in 2010 during my studies, We were developing software and mobile apps. Made...",
+      "shortBio" : "He started his own company AimCrafters in 2010 during his studies, he has been developing software and...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/Aimanzaki",
@@ -892,6 +892,80 @@
         "name" : "Facebook"
       } ],
       "title" : "Co-founder & CEO"
+    },
+    "shubham_pachori" : {
+      "bio" : "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the Global Shipping Industry. At Shipmnts, I understand the product requirements of users within a complex domain, prioritize them from a business and a user successes point of view and then architect the solution along with a super talented team.",
+      "company" : "Shipmnts",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Shubham Pachori",
+      "photo" : "/images/people/speakers/shubham_pachori.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fshubham_pachori.jpg?alt=media&token=aba4d75d-0096-4e0c-a511-16ca9d3d9f60",
+      "shortBio" : "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/spachori94",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/shubham-pachori-b5703a86/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Product Manager"
+    },
+    "md_shahbaz_alam" : {
+      "bio" : "I’m a Full Stack Developer, GDG Ranchi Organizer, Developer Evangelist, Auth0 Ambassador, and Mozilla Representative. I speak on Serverless, Authentication & Authorization, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.",
+      "company" : "Auth0",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ranchi",
+      "featured" : false,
+      "name" : "Md. Shahbaz Alam",
+      "photo" : "/images/people/speakers/md_shahbaz_alam.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fmd_shahbaz_alam.jpg?alt=media&token=35006dcc-8435-4e37-a63f-6fec82b2fdcc",
+      "shortBio" : "I’m a Full Stack Developer, GDG Ranchi Organizer, Developer Evangelist, Auth0 Ambassador, and Mozilla Repre...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mdsbzalam",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mdsbzalam",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mdsbzalam",
+        "name" : "Facebook"
+      } ],
+      "title" : "Developer Evangelist"
+    },
+    "bhavik_makwana" : {
+      "bio" : "I am a Flutter Enthusiast, Google Certified Associate Android Developer. <br/><br/> I am also a part of the scholarship from the Udacity India for the Android Nanodegree.",
+      "company" : "Multidots solutions Pvt Ltd.",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Bhavik Makwana",
+      "photo" : "/images/people/speakers/bhavik_makwana.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbhavik_makwana.jpg?alt=media&token=9aa45f5e-c05c-4d03-b671-b6173a3889eb",
+      "shortBio" : "I am a Flutter Enthusiast, Google Certified Associate Android Developer. I am also a part of the scholarship...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ibhavikmakwana",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/ibhavikmakwana",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/ibhavikmakwana",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
     }
   },
   "subscribers" : {
