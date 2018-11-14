@@ -966,6 +966,58 @@
         "name" : "GitHub"
       } ],
       "title" : "Android Developer"
+    },
+    "nimesh_solanki" : {
+      "bio" : "Total Computer Geek passionate about voice and web technologies.",
+      "company" : "Pandit Deendayal Petroleum Univerisity",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Nimesh Solanki",
+      "photo" : "/images/people/speakers/nimesh_solanki.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fnimesh_solanki.jpg?alt=media&token=b3bd164e-7c90-4b87-acc6-815b683e522f",
+      "shortBio" : "Total Computer Geek passionate about voice and web technologies.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/NimeshS17",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/nish17/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://snimesh.com/",
+        "name" : "Website"
+      } ],
+      "title" : "Student"
+    },
+    "juhil_somaiya" : {
+      "bio" : "Machine Learning explorer by heart and Python developer by Profession. AoG developers community member, Google Applied CS with Android Facilitator.",
+      "company" : "Odoo India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Juhil Somaiya",
+      "photo" : "/images/people/speakers/juhil_somaiya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fjuhil_somaiya.jpg?alt=media&token=f79b21a0-7192-40d6-802d-81540cb196b9",
+      "shortBio" : "Machine Learning explorer by heart and Python developer by Profession. AoG developers community member...",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/juhilsomaiya",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/juhil-somaiya-401502b8/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/juhil.somaiya",
+        "name" : "Facebook"
+      } ],
+      "title" : "Jr. Application Engineer"
     }
   },
   "subscribers" : {
