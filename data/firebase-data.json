@@ -1018,6 +1018,46 @@
         "name" : "Facebook"
       } ],
       "title" : "Jr. Application Engineer"
+    },
+    "anil_shahu" : {
+      "bio" : "8 Years of experience in Industry,  started carrier as Python developer and eventually moved to Scrum Master and Project manager roles. passionate about 3D printing and DIY projects.",
+      "company" : "Codal",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Anil Shahu",
+      "photo" : "/images/people/speakers/anil_shahu.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fanil_shahu.jpeg?alt=media&token=07b161c8-6daa-4ebc-baf4-f78bc3c1be80",
+      "shortBio" : "8 Years of experience in Industry,  started carrier as Python developer and eventually moved to Scrum Mast...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/anilshahu/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Engineering Lead"
+    },
+    "utpal_betai" : {
+      "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
+      "company" : "SoluLab",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Utpal Betai",
+      "photo" : "/images/people/utpal_betai.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.jpg?alt=media&token=8fe7d47c-1669-43e5-b46f-687b446a5df2",
+      "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/utpalbetai",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/utpal.betai.9",
+        "name" : "Facebook"
+      } ],
+      "title" : "Project Manager"
     }
   },
   "subscribers" : {
