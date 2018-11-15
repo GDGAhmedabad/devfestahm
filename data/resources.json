@@ -11,7 +11,10 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Register to get Ticket",
+  "registerToGetTicket": {
+      "link": "https://goo.gl/forms/wUq2qZjIun9oK0bv2"
+  },
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
