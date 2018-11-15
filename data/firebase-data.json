@@ -646,6 +646,11 @@
       "title" : "Front end Architect"
     },
     "rivu_chakrborty" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Kolkata",
+        "link" : "https://www.meetup.com/GDG-Kolkata/",
+        "name" : "gdg"
+      } ],
       "bio" : "Rivu Chakraborty is a Google Certified Associate Android Developer, Caster.io Instructor, Author of Multiple Kotlin Books and Sr. Tech Member of Institute of Engineers (India). He is currently working as a Sr. Software Engineer (Android) at a BYJU'S.",
       "company" : "BYJU'S",
       "companyLogo" : "",
@@ -720,6 +725,11 @@
       "title" : "Student"
     },
     "parth_jansari" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Gandhinagar",
+        "link" : "https://www.meetup.com/GDG-Gandhinagar/",
+        "name" : "gdg"
+      } ],
       "bio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playing games(most of the time) or watching Movies/Tv Series.Parth has five years of experience in designing and two years experience in front-end development. Parth uses Angular for Creating frontend, ionic and Flutter to create hybrid apps. Parth has mastery over most of the adobe creative suite apps.Currently, Parth is exploring Flutter as he believes it can be a replacement for ionic 2 and all other hybrid app frameworks.",
       "company" : "",
       "companyLogo" : "",
@@ -794,6 +804,11 @@
       "title" : "Self Employed Consultant"
     },
     "jaldeep_asodariya" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
       "bio" : "Jaldeep Asodariya is an Android Developer and working at Jain Bhavesh Solutions. As he developed many enormous emerging Android Application so far and got client’s satisfaction through his Development work. He is a core organizing team member of Google Developer Group (GDG), Ahmedabad. <br/><br/> Jaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant Applications as well as he has proficient knowledge in NodeJS. <br/><br/> He earned post graduate degree (MSc. IT) from Kadi Sarva University. After he started his career with the BSP Technologies as a fresher and utilize his skills for the Android Application Development.  In the spare time, Jaldeep likes to watch Google Technology videos and enlarge Photography skills.",
       "company" : "Jain Bhavesh Solutions",
       "companyLogo" : "",
@@ -846,7 +861,7 @@
       "title" : "Software Developer"
     },
     "dhruv_patel" : {
-      "bio" : "My name is Dhruv Patel. I'm an average Sr. Software Engineer at Reliance Jio; Expect bugs in Jio apps. :) I am an android enthusiastic having long way with Android since the beginning. I like working on challenging apps(Well, who does not!). I help my employer earn more. :)",
+      "bio" : "He is a Sr. Software engineer at Reliance Jio, Mumbai. He is developing mobile applications since last 7 years. He has also worked on bots. He created many product applications to feel his curiosity of how things work. He likes chess, Anime and Astronomy. He mostly found active on social media. He has previously delivered technical sessions at GDG Rajkot  and many universities.",
       "company" : "Reliance Jio",
       "companyLogo" : "",
       "companyLogoUrl" : "",
@@ -855,7 +870,7 @@
       "name" : "Dhruv Patel",
       "photo" : "/images/people/speakers/dhruv_patel.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fdhruv_patel.jpg?alt=media&token=ff0a5682-ec8f-4c7b-b628-1640344f7f72",
-      "shortBio" : "My name is Dhruv Patel. I'm an average Sr. Software Engineer at Reliance Jio; Expect bugs in Jio apps. :) I am an...",
+      "shortBio" : "He is a Sr. Software engineer at Reliance Jio, Mumbai. He is developing mobile applications since last 7 years. He...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/DearDhruv",
@@ -998,13 +1013,17 @@
       "company" : "Odoo India",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
+      "country" : "Gandhinagar",
       "featured" : false,
       "name" : "Juhil Somaiya",
       "photo" : "/images/people/speakers/juhil_somaiya.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fjuhil_somaiya.jpg?alt=media&token=f79b21a0-7192-40d6-802d-81540cb196b9",
       "shortBio" : "A MAD guy - Motivated, Ambitious and Diligent. He's Machine Learning explorer by heart and Python, Odoo develo...",
       "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ImJuhilSomaiya",
+        "name" : "Twitter"
+      }, {
         "icon" : "github",
         "link" : "https://github.com/juhilsomaiya",
         "name" : "GitHub"
@@ -1038,6 +1057,11 @@
       "title" : "Engineering Lead"
     },
     "utpal_betai" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
       "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
       "company" : "SoluLab",
       "companyLogo" : "",
@@ -1046,7 +1070,7 @@
       "featured" : false,
       "name" : "Utpal Betai",
       "photo" : "/images/people/utpal_betai.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.jpg?alt=media&token=8fe7d47c-1669-43e5-b46f-687b446a5df2",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
       "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
       "socials" : [ {
         "icon" : "twitter",
@@ -1057,7 +1081,7 @@
         "link" : "https://www.facebook.com/utpal.betai.9",
         "name" : "Facebook"
       } ],
-      "title" : "Project Manager"
+      "title" : "Sr. Project Manager"
     }
   },
   "subscribers" : {
@@ -1162,7 +1186,7 @@
     "members" : [ {
       "name" : "Utpal Betai",
       "photo" : "/images/people/utpal_betai.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.jpg?alt=media&token=8fe7d47c-1669-43e5-b46f-687b446a5df2",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/utpal.betai.9",
