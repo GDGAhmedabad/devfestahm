@@ -629,7 +629,7 @@
   "speakers" : {
     "neha_sharma" : {
       "bio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I love coding and calligraphy.",
-      "company" : "Atos-syntel",
+      "company" : "Atos | syntel",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "New Delhi",
@@ -656,7 +656,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Bangalore",
-      "featured" : true,
+      "featured" : false,
       "name" : "Rivu Chakrborty",
       "photo" : "/images/people/speakers/rivu_chakrborty.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Frivu_chakrborty.jpg?alt=media&token=d6eebe59-5f94-4c2a-9afc-abf78421804a",
@@ -735,7 +735,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Gandhinagar",
-      "featured" : true,
+      "featured" : false,
       "name" : "Parth Jansari",
       "photo" : "/images/people/speakers/parth_jansari.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fparth_jansari.jpg?alt=media&token=24da00f6-740e-402b-b187-7aa5b8bd0632",
@@ -761,7 +761,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Ahmedabad",
-      "featured" : true,
+      "featured" : false,
       "name" : "Charmi Chokshi",
       "photo" : "/images/people/speakers/charmi_chokshi.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fcharmi_chokshi.jpg?alt=media&token=8afa6490-803f-41f2-a8e0-0d65b1cf0301",
@@ -931,6 +931,11 @@
       "title" : "Product Manager"
     },
     "md_shahbaz_alam" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ranchi",
+        "link" : "https://www.meetup.com/GDG-Ranchi/",
+        "name" : "gdg"
+      } ],
       "bio" : "I’m a Full Stack Developer, GDG Ranchi Organizer, Developer Evangelist, Auth0 Ambassador, and Mozilla Representative. I speak on Serverless, Authentication & Authorization, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.",
       "company" : "Auth0",
       "companyLogo" : "",
@@ -1067,7 +1072,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Ahmedabad",
-      "featured" : false,
+      "featured" : true,
       "name" : "Utpal Betai",
       "photo" : "/images/people/utpal_betai.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
@@ -1082,6 +1087,118 @@
         "name" : "Facebook"
       } ],
       "title" : "Sr. Project Manager"
+    },
+    "biswajeet_mallik" : {
+      "badges" : [ {
+        "description" : "Google India",
+        "link" : "https://twitter.com/biswajeet_137",
+        "name" : "google"
+      } ],
+      "bio" : "Google India lead for DevRel Communities Programs",
+      "company" : "Google India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Bangalore",
+      "featured" : true,
+      "name" : "Biswajeet Mallik",
+      "photo" : "/images/people/speakers/biswajeet_mallik.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbiswajeet_malik.jpg?alt=media&token=d4965775-8561-42c5-9c79-85f5ca7f11bb",
+      "shortBio" : "Google India lead for DevRel Communities Programs",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/biswajeet_137",
+        "name" : "Twitter"
+      } ],
+      "title" : "Lead for DevRel Communities Programs"
+    },
+    "karthik_padmanabhan" : {
+      "badges" : [ {
+        "description" : "Google India",
+        "link" : "https://twitter.com/karthik_padman",
+        "name" : "google"
+      } ],
+      "bio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for India, Middle East and North Africa regions. Karthik has been with the tech industry for almost three decades in the areas of product management, business development, tech evangelism, etc. He leads a team that focuses on enabling developer communities to adopt Google & open source technologies like TensorFlow, PWA, Android, & Google Cloud for the Next Billion Users (NBU). Karthik is a seeker, plays Golf, works at Google's Bangalore office and lives on a farm that functions on sustainable living practices.",
+      "company" : "Google India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Bangalore",
+      "featured" : true,
+      "name" : "Karthik Padmanabhan",
+      "photo" : "/images/people/speakers/karthik_padmanabhan.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkarthik_padmanabhan.jpg?alt=media&token=cc6275c7-a182-471a-9b39-4af99adc0250",
+      "shortBio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for Indi...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/karthik_padman",
+        "name" : "Twitter"
+      } ],
+      "title" : "Developer Relations Program lead"
+    },
+    "paresh_mayani" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app development. He has been working on android application development since Cupcake(Android 1.5). Over the span of period, he has worked on many challenging mobile projects in different domains like Automobile, e-commerce and health care. <br/><br/> He is an avid Open source enthusiast, who has been organizing events as well as blogging, speaking and mentoring on Android related topics since 2010. He can be frequently found giving talks on various topics ranging from android development best practices, android UI/UX, android testing and Android BLE at Domestic & International conferences such as Android Developer Days Turkey (Droidcon Ankara), DevFest Kathmandu, GDG DevCamp and NitroDroid. <br/><br/> He has been actively supporting his fellow android developers through various online and offline means. His has published more than 150 articles on his blog TechnoTalkative on which he writes about various technical solutions for Android Development. He holds 95000+ reputation on StackOverflow , where he is also in 10 highest reputation holders for Android tag. <br/><br/> He is also been nominated for the Google Developers Expert for Android program. Recently he was invited to attend the Google IO 2016 event at Mountain View, California. <br/><br/> Currently he is working as a Practice Head at Simform Solutions Pvt. Ltd. He is also been a mentor for start-ups having android apps. He is a founder/organizer of Google Developers Group Ahmedabad , one of the senior most organiser in India.",
+      "company" : "Simform Solutions Pvt. Ltd.",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Paresh Mayani",
+      "photo" : "/images/people/paresh_mayani.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
+      "shortBio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app develo...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/pareshmayani",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/PareshMayani",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/pareshmayani",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.technotalkative.com/",
+        "name" : "Website"
+      } ],
+      "title" : "Practice Head"
+    },
+    "dhrumil_shah" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutter_Flakes Who has started working with Android when Android 2.1 was announced & now exploring cross-platform technologies like React Native and Flutter. <br/><br/> He has done Masters in Computer Engineering in Wireless and Mobile Computing. Being an expert, he has an excellent command over developing applications that has made him a good trainer as well as an avid speaker in his domain. He often organises workshops, seminars and talks to help developers & students who look forward to grow their careers in the field of Mobile Computing.",
+      "company" : "Shipmnts",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Dhrumil Shah",
+      "photo" : "/images/people/dhrumil_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
+      "shortBio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutt...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dhuma1981",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/dhuma1981",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dhuma1981",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Mobile Developer"
     }
   },
   "subscribers" : {
