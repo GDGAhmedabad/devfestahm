@@ -85,210 +85,110 @@
     "title" : "General Partner"
   } ],
   "schedule" : {
-    "2016-09-09" : {
-      "dateReadable" : "September 9",
+    "2018-11-25" : {
+      "dateReadable" : "November 25",
       "timeslots" : [ {
-        "endTime" : "10:00",
+        "endTime" : "09:30",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
         "startTime" : "09:00"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "09:45",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:30"
+      }, {
+        "endTime" : "10:30",
+        "sessions" : [ {
+          "items" : [ 114 ]
+        } ],
+        "startTime" : "09:45"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 115 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "10:30"
       }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 103, 112 ]
-        }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 129 ]
-        }, {
-          "items" : [ 116 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
+        "endTime" : "12:15",
         "sessions" : [ {
           "items" : [ 101 ]
         }, {
-          "items" : [ 118 ]
+          "items" : [ 106 ]
         }, {
           "extend" : 2,
+          "items" : [ 112 ]
+        } ],
+        "startTime" : "11:15"
+      }, {
+        "endTime" : "13:15",
+        "sessions" : [ {
+          "items" : [ 102 ]
+        }, {
           "items" : [ 107 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "12:15"
+      }, {
+        "endTime" : "14:30",
+        "sessions" : [ {
+          "items" : [ 133 ]
+        } ],
+        "startTime" : "13:15"
       }, {
         "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 140 ]
+          "items" : [ 103 ]
         }, {
-          "items" : [ 126 ]
+          "items" : [ 108 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 111 ]
         } ],
-        "startTime" : "14:50"
+        "startTime" : "14:30"
       }, {
-        "endTime" : "16:00",
+        "endTime" : "16:30",
         "sessions" : [ {
-          "items" : [ 134 ]
+          "items" : [ 104 ]
+        }, {
+          "items" : [ 109 ]
         } ],
         "startTime" : "15:30"
       }, {
-        "endTime" : "16:40",
+        "endTime" : "16:45",
+        "sessions" : [ {
+          "items" : [ 134 ]
+        } ],
+        "startTime" : "16:30"
+      }, {
+        "endTime" : "17:45",
         "sessions" : [ {
           "items" : [ 105 ]
         }, {
-          "items" : [ 127 ]
+          "items" : [ 110 ]
         }, {
-          "extend" : 3,
-          "items" : [ 119 ]
+          "extend" : 2,
+          "items" : [ 113 ]
         } ],
-        "startTime" : "16:00"
+        "startTime" : "16:45"
       }, {
-        "endTime" : "17:30",
+        "endTime" : "18:30",
         "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
+          "items" : [ 121 ]
         } ],
-        "startTime" : "16:50"
+        "startTime" : "17:45"
       }, {
-        "endTime" : "18:20",
+        "endTime" : "19:00",
         "sessions" : [ {
-          "items" : [ 106 ]
-        }, {
-          "items" : [ 125 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 137 ]
+          "items" : [ 138 ]
         } ],
         "startTime" : "18:30"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "Alishan hall"
       }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
-      } ]
-    },
-    "2016-09-10" : {
-      "dateReadable" : "September 10",
-      "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 135 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 117 ]
-        }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 124 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 128 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 123 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 140 ]
-        } ],
-        "startTime" : "16:50"
-      } ],
-      "tracks" : [ {
-        "title" : "Expo hall"
-      }, {
-        "title" : "Conference hall"
+        "title" : "Shaan hall"
       }, {
         "title" : "Workshops hall"
       } ]
@@ -296,282 +196,131 @@
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "complexity" : "Intermediate",
+      "description" : "Accessibility is integral part of the web and products. By default, web is accessible but we developer mess with the code. This talk will tell devs what, how and where to do make your code accessible.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "presentation" : "",
+      "speakers" : [ "neha_sharma" ],
+      "tags" : [ "Web" ],
+      "title" : "Web for all - Accessibility",
+      "videoId" : ""
     },
     "102" : {
-      "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+      "complexity" : "Expert",
+      "description" : "The talk discusses few design and fairness principles to keep in mind while building solutions augmented with ML as a core engine with examples around the world.",
       "language" : "English",
-      "speakers" : [ "mete_atamel" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Hands-on gRPC experience building your own multiplayer game client"
+      "speakers" : [ "biswajeet_mallik" ],
+      "tags" : [ "Web" ],
+      "title" : "A discussion on design and fairness in the world of ML"
     },
     "103" : {
       "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+      "description" : "The client-server architecture was invented in the 1960s and the majority of modern mobile and web applications are based on this architecture. As the technology evolved since the inception of the internet, so did the reasons for applying client-server architecture in web and mobile application design. The server consists of server code, the secrets, raw computing resources, and OS. Both server code and the secrets are data. They can be serialized together into one bundle, and cryptographically protected from tampering and disclosure. In this talk, I will talk about the best way of creating your own serverless APIs using Google Cloud and what are the other available options. Writing serverless code is easy, free and secure. Let’s create our own serverless.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ "yonatan_levin" ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
+      "speakers" : [ "md_shahbaz_alam" ],
+      "tags" : [ "Cloud" ],
+      "title" : "Serverless API creation and deployment using Google Cloud"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+      "complexity" : "Intermediate",
+      "description" : "Slower Web Apps <br/><br/> They will learn <br/> - Basics of WebApp Optimization <br/> - How to Use Lighthouse from Chrome to find issues with their web app. <br/> - How to fix these issues.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "sascha_wolter" ],
+      "speakers" : [ "anil_shahu" ],
       "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
+      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps."
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
+      "complexity" : "Beginner",
+      "description" : "We as developers sometimes become completely negligent about, how revenue will come from the app which we are developing. Revenue will only come if your mobile app is habbit forming. It sticks with the user and becomes his habit.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "speakers" : [ "shubham_pachori" ],
+      "tags" : [ "Web" ],
+      "title" : "Designing Addictive Web Apps"
     },
     "106" : {
-      "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
+      "complexity" : "Intermediate",
+      "description" : "The talk will be 45:00 minutes. It is a collection of the best possible recent developments made in Android. It covers the most recent enhancements made in Android for developers. It will includes the  overview and detailed information about new things in: <br/><br/> 1. AndroidX the Support Library. <br/> 2. New in Android Testing (Espresso and JUnit) <br/> 3. Android App Bundles. <br/> 4. RTT Api for inside the building location. <br/> 5. Enterprise Apps <br/> 6. Slices <br/> 7. Deep Linking <br/> 8. Notifications( inline images and Smart Reply) <br/> 9. Android Studio profiler. <br/> 10. Layout Inspector",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
+      "speakers" : [ "aimanzaki_kagzi", "dhruv_patel" ],
       "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "title" : "New way of doing things in Android"
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-      "extend" : 2,
+      "description" : "Working with asynchronous code is difficult especially for Android Developers which ultimately leads to callback hell. <br/><br/> Everyone is talking about Co-routines these days, but how can you really use them to their full potential? <br/> Well, In this talk, we will look at Kotlin co-routines which truly make it easier for developers to handle concurrency in their applications with a gentle learning curve, solution to handle cancellation, error handling, testing and write least boilerplate code. <br/><br/> This talk would cover: <br/> - Co-routines Generator API Example (for explaining suspension) <br/> - How and where to create Coroutine Scopes, and how to manage them <br/> - Create a Notes App with all functionalities including API calls just by using co-routines and Kotlin URL extension functions <br/> - Also how to use co-routines with popular REST client Retrofit.",
       "language" : "English",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "speakers" : [ "rivu_chakrborty" ],
+      "tags" : [ "Android" ],
+      "title" : "Efficient Async with Kotlin Coroutines"
     },
     "108" : {
       "complexity" : "Intermediate",
-      "description" : "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+      "description" : "Firebase MLKit was introduced in Google I/O 2018. It comes as a part of Firebase suite. It combines capabilities of Google Cloud Vision API, TensorFlow Lite, Neural Network API in single SDK. This allows mobile app developers to use ML models in their apps. It also comes with predefined APIs using which mobile app developers can implement functionalities like image labeling, face detection, barcode scanning etc. in the apps. In this session we will cover basics of ML Kit first. This will show how mobile app developers can use the SDK in their  android project. After this we will explore all the base APIs of SDK with demos. We will have quick demo to demonstrate capabilities of the each APIs. Also we will see how we can embed ML models in the apps by using the SDK with practical demo.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "New Data Architecture in Angular 2",
-      "videoId" : "pgmLkwD-mqM"
+      "speakers" : [ "hiren_dave" ],
+      "tags" : [ "Firebase" ],
+      "title" : "Exploring Firebase MLKit on Android"
     },
     "109" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "complexity" : "Expert",
+      "description" : "Android is one of the topmost Mobile Operating System used across the globe. It is apparently clear that lot of new applications are being developed on daily basis. However, 95% of the apps are found to be insecure.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers" : [ "jozef_vodicka" ],
-      "tags" : [ "Cloud" ],
-      "title" : "How much money Firebase can save you"
+      "speakers" : [ "smit_shah" ],
+      "tags" : [ "Android" ],
+      "title" : "Android Application Security Testing"
     },
     "110" : {
       "complexity" : "Intermediate",
-      "description" : "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
+      "description" : "Flutter uses reactive views, which you can take to the next level by applying reactive principles with BLoC and ScopedModel patterns to your app’s data model.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers" : [ "mateusz_herych" ],
-      "tags" : [ "Android" ],
-      "title" : "The ultimate guide to MVP pattern on Android"
+      "speakers" : [ "burhanuddin_rashid" ],
+      "tags" : [ "Flutter" ],
+      "title" : "How to build Reactive Architecture for Flutter."
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
+      "description" : "TBD",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers" : [ "david_mayboroda" ],
-      "tags" : [ "Android" ],
-      "title" : "Building modular architecture apps with Dagger 2"
+      "speakers" : [ "parth_jansari", "bhavik_makwana" ],
+      "tags" : [ "Codelab" ],
+      "title" : "Codelab - Flutter"
     },
     "112" : {
-      "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+      "complexity" : "Expert",
+      "description" : "TBD",
+      "extend" : 2,
       "language" : "English",
-      "speakers" : [ "konrad_dzwinel" ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
+      "speakers" : [ "krupa_galiya", "charmi_chokshi" ],
+      "tags" : [ "Codelab" ],
+      "title" : "Codelab - Machine Learning"
     },
     "113" : {
-      "complexity" : "Intermediate",
-      "description" : "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+      "complexity" : "Beginner",
+      "description" : "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant. <br/> There are three levels of codelabs which includes level_1, level_2, and level_3 that we’re going to cover. At last, you’ll be able to develop an rich interactive application by yourself.",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers" : [ "jean-baptiste_clion" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Microservices in Google App Engine"
+      "speakers" : [ "jaldeep_asodariya", "juhil_somaiya", "nimesh_solanki" ],
+      "tags" : [ "Codelab" ],
+      "title" : "Codelab - Actions on Google"
     },
     "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
+      "description" : "Predicting tomorrow today for everything in tech <br/> Celebrate diversity <br/> Fintech, Regtech and FutureTech <br/> Mobile, Mobility and Mesh <br/> Autonomous, Automated and Augmented",
       "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
+      "speakers" : [ "utpal_betai" ],
+      "title" : "Keynote 1"
     },
     "115" : {
-      "complexity" : "Beginner",
-      "description" : "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
+      "description" : "",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers" : [ "paul_lammertsma" ],
-      "tags" : [ "Android" ],
-      "title" : "Android tool-chain and run-time improvements in N",
-      "videoId" : "WqULb6bdwwg"
-    },
-    "116" : {
-      "complexity" : "Beginner",
-      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language" : "English",
-      "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers" : [ "aleksander_piotrowski" ],
-      "tags" : [ "Web" ],
-      "title" : "On Polymer and smileys... or Polysmileys"
-    },
-    "117" : {
-      "complexity" : "Beginner",
-      "description" : "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers" : [ "carmen_popovicu" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Building data pipelines: from simple to more advanced - hands-on experience"
-    },
-    "118" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers" : [ "sergii_khomenko" ],
-      "tags" : [ "Android" ],
-      "title" : "Kotlin + Android"
-    },
-    "119" : {
-      "complexity" : "Beginner",
-      "description" : "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers" : [ "dmytro_danylyk" ],
-      "tags" : [ "Android" ],
-      "title" : "Hands-on with UI testing for Android developers"
-    },
-    "120" : {
-      "complexity" : "Beginner",
-      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Progressive web apps - prepare your web for 2017"
+      "speakers" : [ "karthik_padmanabhan" ],
+      "title" : "Keynote 2 - Google Cloud, Machine Learning"
     },
     "121" : {
-      "complexity" : "Intermediate",
-      "description" : "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language" : "English",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Offline-first progressive web apps"
-    },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ "jakub_škvára" ],
-      "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
-    },
-    "123" : {
-      "complexity" : "Beginner",
       "description" : "TBD",
       "language" : "English",
-      "speakers" : [ "david_vávra" ],
-      "tags" : [ "Web" ],
+      "speakers" : [ "paresh_mayani" ],
       "title" : "TBD"
-    },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language" : "English",
-      "speakers" : [ "valentyn_shybanov" ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
-    },
-    "125" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "sergiy_mokienko" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
-    },
-    "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
-      "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
-    },
-    "127" : {
-      "complexity" : "Intermediate",
-      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language" : "Ukrainian",
-      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers" : [ "michael_pustovit" ],
-      "tags" : [ "Android" ],
-      "title" : "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128" : {
-      "complexity" : "Beginner",
-      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language" : "English",
-      "speakers" : [ "anton__minashkin" ],
-      "tags" : [ "Android" ],
-      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
-    },
-    "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
-    },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language" : "English",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
-    },
-    "131" : {
-      "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ "resul_caner__yildirim" ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -598,11 +347,12 @@
       "title" : "Morning coffee"
     },
     "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "description" : "Official start of the conference. Greetings from the organizers.",
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
+      "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
+      "title" : "GDG DevFest Ahmedabad 2018 Opening"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -611,9 +361,9 @@
       "title" : "Afterparty & Networking"
     },
     "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description" : "Make sure you won't miss closing ceremony.",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
+      "title" : "Conference closing"
     },
     "139" : {
       "description" : "",
@@ -627,6 +377,145 @@
     }
   },
   "speakers" : {
+    "karthik_padmanabhan" : {
+      "badges" : [ {
+        "description" : "Google India",
+        "link" : "https://twitter.com/karthik_padman",
+        "name" : "google"
+      } ],
+      "bio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for India, Middle East and North Africa regions. Karthik has been with the tech industry for almost three decades in the areas of product management, business development, tech evangelism, etc. He leads a team that focuses on enabling developer communities to adopt Google & open source technologies like TensorFlow, PWA, Android, & Google Cloud for the Next Billion Users (NBU). Karthik is a seeker, plays Golf, works at Google's Bangalore office and lives on a farm that functions on sustainable living practices.",
+      "company" : "Google India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Bangalore",
+      "featured" : true,
+      "name" : "Karthik Padmanabhan",
+      "photo" : "/images/people/speakers/karthik_padmanabhan.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkarthik_padmanabhan.jpg?alt=media&token=cc6275c7-a182-471a-9b39-4af99adc0250",
+      "shortBio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for Indi...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/karthik_padman",
+        "name" : "Twitter"
+      } ],
+      "title" : "Developer Relations Program lead"
+    },
+    "biswajeet_mallik" : {
+      "badges" : [ {
+        "description" : "Google India",
+        "link" : "https://twitter.com/biswajeet_137",
+        "name" : "google"
+      } ],
+      "bio" : "Google India lead for DevRel Communities Programs",
+      "company" : "Google India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Bangalore",
+      "featured" : true,
+      "name" : "Biswajeet Mallik",
+      "photo" : "/images/people/speakers/biswajeet_mallik.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbiswajeet_malik.jpg?alt=media&token=d4965775-8561-42c5-9c79-85f5ca7f11bb",
+      "shortBio" : "Google India lead for DevRel Communities Programs",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/biswajeet_137",
+        "name" : "Twitter"
+      } ],
+      "title" : "Lead for DevRel Communities Programs"
+    },
+    "paresh_mayani" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app development. He has been working on android application development since Cupcake(Android 1.5). Over the span of period, he has worked on many challenging mobile projects in different domains like Automobile, e-commerce and health care. <br/><br/> He is an avid Open source enthusiast, who has been organizing events as well as blogging, speaking and mentoring on Android related topics since 2010. He can be frequently found giving talks on various topics ranging from android development best practices, android UI/UX, android testing and Android BLE at Domestic & International conferences such as Android Developer Days Turkey (Droidcon Ankara), DevFest Kathmandu, GDG DevCamp and NitroDroid. <br/><br/> He has been actively supporting his fellow android developers through various online and offline means. His has published more than 150 articles on his blog TechnoTalkative on which he writes about various technical solutions for Android Development. He holds 95000+ reputation on StackOverflow , where he is also in 10 highest reputation holders for Android tag. <br/><br/> He is also been nominated for the Google Developers Expert for Android program. Recently he was invited to attend the Google IO 2016 event at Mountain View, California. <br/><br/> Currently he is working as a Practice Head at Simform Solutions Pvt. Ltd. He is also been a mentor for start-ups having android apps. He is a founder/organizer of Google Developers Group Ahmedabad , one of the senior most organiser in India.",
+      "company" : "Simform Solutions Pvt. Ltd.",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Paresh Mayani",
+      "photo" : "/images/people/paresh_mayani.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
+      "shortBio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app develo...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/pareshmayani",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/PareshMayani",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/pareshmayani",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.technotalkative.com/",
+        "name" : "Website"
+      } ],
+      "title" : "Practice Head"
+    },
+    "dhrumil_shah" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutter_Flakes Who has started working with Android when Android 2.1 was announced & now exploring cross-platform technologies like React Native and Flutter. <br/><br/> He has done Masters in Computer Engineering in Wireless and Mobile Computing. Being an expert, he has an excellent command over developing applications that has made him a good trainer as well as an avid speaker in his domain. He often organises workshops, seminars and talks to help developers & students who look forward to grow their careers in the field of Mobile Computing.",
+      "company" : "Shipmnts",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Dhrumil Shah",
+      "photo" : "/images/people/dhrumil_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
+      "shortBio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutt...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dhuma1981",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/dhuma1981",
+        "name" : "GitHub"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dhuma1981",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Mobile Developer"
+    },
+    "utpal_betai" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
+      "company" : "SoluLab",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : true,
+      "name" : "Utpal Betai",
+      "photo" : "/images/people/utpal_betai.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+      "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/utpalbetai",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/utpal.betai.9",
+        "name" : "Facebook"
+      } ],
+      "title" : "Sr. Project Manager"
+    },
     "neha_sharma" : {
       "bio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I love coding and calligraphy.",
       "company" : "Atos | syntel",
@@ -1060,145 +949,6 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Engineering Lead"
-    },
-    "utpal_betai" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
-      "company" : "SoluLab",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : true,
-      "name" : "Utpal Betai",
-      "photo" : "/images/people/utpal_betai.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
-      "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/utpalbetai",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/utpal.betai.9",
-        "name" : "Facebook"
-      } ],
-      "title" : "Sr. Project Manager"
-    },
-    "biswajeet_mallik" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/biswajeet_137",
-        "name" : "google"
-      } ],
-      "bio" : "Google India lead for DevRel Communities Programs",
-      "company" : "Google India",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Bangalore",
-      "featured" : true,
-      "name" : "Biswajeet Mallik",
-      "photo" : "/images/people/speakers/biswajeet_mallik.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbiswajeet_malik.jpg?alt=media&token=d4965775-8561-42c5-9c79-85f5ca7f11bb",
-      "shortBio" : "Google India lead for DevRel Communities Programs",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/biswajeet_137",
-        "name" : "Twitter"
-      } ],
-      "title" : "Lead for DevRel Communities Programs"
-    },
-    "karthik_padmanabhan" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/karthik_padman",
-        "name" : "google"
-      } ],
-      "bio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for India, Middle East and North Africa regions. Karthik has been with the tech industry for almost three decades in the areas of product management, business development, tech evangelism, etc. He leads a team that focuses on enabling developer communities to adopt Google & open source technologies like TensorFlow, PWA, Android, & Google Cloud for the Next Billion Users (NBU). Karthik is a seeker, plays Golf, works at Google's Bangalore office and lives on a farm that functions on sustainable living practices.",
-      "company" : "Google India",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Bangalore",
-      "featured" : true,
-      "name" : "Karthik Padmanabhan",
-      "photo" : "/images/people/speakers/karthik_padmanabhan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkarthik_padmanabhan.jpg?alt=media&token=cc6275c7-a182-471a-9b39-4af99adc0250",
-      "shortBio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for Indi...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/karthik_padman",
-        "name" : "Twitter"
-      } ],
-      "title" : "Developer Relations Program lead"
-    },
-    "paresh_mayani" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app development. He has been working on android application development since Cupcake(Android 1.5). Over the span of period, he has worked on many challenging mobile projects in different domains like Automobile, e-commerce and health care. <br/><br/> He is an avid Open source enthusiast, who has been organizing events as well as blogging, speaking and mentoring on Android related topics since 2010. He can be frequently found giving talks on various topics ranging from android development best practices, android UI/UX, android testing and Android BLE at Domestic & International conferences such as Android Developer Days Turkey (Droidcon Ankara), DevFest Kathmandu, GDG DevCamp and NitroDroid. <br/><br/> He has been actively supporting his fellow android developers through various online and offline means. His has published more than 150 articles on his blog TechnoTalkative on which he writes about various technical solutions for Android Development. He holds 95000+ reputation on StackOverflow , where he is also in 10 highest reputation holders for Android tag. <br/><br/> He is also been nominated for the Google Developers Expert for Android program. Recently he was invited to attend the Google IO 2016 event at Mountain View, California. <br/><br/> Currently he is working as a Practice Head at Simform Solutions Pvt. Ltd. He is also been a mentor for start-ups having android apps. He is a founder/organizer of Google Developers Group Ahmedabad , one of the senior most organiser in India.",
-      "company" : "Simform Solutions Pvt. Ltd.",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Paresh Mayani",
-      "photo" : "/images/people/paresh_mayani.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
-      "shortBio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app develo...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pareshmayani",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/PareshMayani",
-        "name" : "GitHub"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://in.linkedin.com/in/pareshmayani",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.technotalkative.com/",
-        "name" : "Website"
-      } ],
-      "title" : "Practice Head"
-    },
-    "dhrumil_shah" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutter_Flakes Who has started working with Android when Android 2.1 was announced & now exploring cross-platform technologies like React Native and Flutter. <br/><br/> He has done Masters in Computer Engineering in Wireless and Mobile Computing. Being an expert, he has an excellent command over developing applications that has made him a good trainer as well as an avid speaker in his domain. He often organises workshops, seminars and talks to help developers & students who look forward to grow their careers in the field of Mobile Computing.",
-      "company" : "Shipmnts",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Dhrumil Shah",
-      "photo" : "/images/people/dhrumil_shah.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
-      "shortBio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutt...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dhuma1981",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/dhuma1981",
-        "name" : "GitHub"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/dhuma1981",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Mobile Developer"
     }
   },
   "subscribers" : {
@@ -1209,21 +959,6 @@
     },
     "manjaniketgmailcom" : {
       "email" : "manjaniket@gmail.com",
-      "firstName" : "",
-      "lastName" : ""
-    },
-    "sandipkalola1990gmailcom" : {
-      "email" : "sandipkalola1990",
-      "firstName" : "Sandip",
-      "lastName" : "Kalola"
-    },
-    "swar7233gmailcom" : {
-      "email" : "swar7233@gmail.com",
-      "firstName" : "",
-      "lastName" : ""
-    },
-    "zbaja" : {
-      "email" : "zbaja",
       "firstName" : "",
       "lastName" : ""
     }
