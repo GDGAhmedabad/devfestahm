@@ -186,11 +186,11 @@
         "startTime" : "18:30"
       } ],
       "tracks" : [ {
-        "title" : "Alishan hall"
+        "title" : "Alishan hall 1"
       }, {
-        "title" : "Shaan hall"
+        "title" : "Alishan hall 2"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Codelab hall"
       } ]
     }
   },
@@ -282,7 +282,7 @@
       "description" : "TBD",
       "extend" : 2,
       "language" : "English",
-      "speakers" : [ "parth_jansari", "bhavik_makwana" ],
+      "speakers" : [ "parth_jansari", "bhavik_makwana", "dhrumil_shah" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Flutter"
     },
@@ -361,9 +361,9 @@
       "title" : "Afterparty & Networking"
     },
     "138" : {
-      "description" : "Make sure you won't miss closing ceremony.",
+      "description" : "Make sure you won't miss ending notes.",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing"
+      "title" : "Ending notes"
     },
     "139" : {
       "description" : "",
@@ -620,7 +620,7 @@
         "name" : "gdg"
       } ],
       "bio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playing games(most of the time) or watching Movies/Tv Series.Parth has five years of experience in designing and two years experience in front-end development. Parth uses Angular for Creating frontend, ionic and Flutter to create hybrid apps. Parth has mastery over most of the adobe creative suite apps.Currently, Parth is exploring Flutter as he believes it can be a replacement for ionic 2 and all other hybrid app frameworks.",
-      "company" : "",
+      "company" : "Software Engineer",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Gandhinagar",
@@ -806,7 +806,7 @@
       "featured" : false,
       "name" : "Shubham Pachori",
       "photo" : "/images/people/speakers/shubham_pachori.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fshubham_pachori.jpg?alt=media&token=aba4d75d-0096-4e0c-a511-16ca9d3d9f60",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fshubham_panchori.jpg?alt=media&token=2d0859f9-0ec7-40a1-b30e-36564b04c7d3",
       "shortBio" : "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the...",
       "socials" : [ {
         "icon" : "twitter",
