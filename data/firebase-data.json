@@ -77,12 +77,29 @@
       "logoUrl" : "../images/logos/google-developers-group.png",
       "name" : "Google Developers Group",
       "url" : "https://developers.google.com/programs/community/gdg/"
-    }, {
+    } ],
+    "title" : "General Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/akash-technolabs.png",
+      "name" : "Akash Technolabs",
+      "url" : "https://akashtechnolabs.com/"
+    } ],
+    "title" : "Sponsors"
+  }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/nath-films.png",
       "name" : "Nath Films",
       "url" : "https://www.facebook.com/NathFilm/"
     } ],
-    "title" : "General Partner"
+    "title" : "Media Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/allevents.png",
+      "name" : "All Events",
+      "url" : "https://allevents.in/"
+    } ],
+    "title" : "Ticket Partner"
   } ],
   "schedule" : {
     "2018-11-25" : {
