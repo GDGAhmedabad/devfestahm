@@ -19,6 +19,7 @@
     "images/**/*",
     "scripts/**/*",
     "src/**/*",
+    "apps/**/*",
     "manifest.json",
     "firebase-messaging-sw.js"
   ],
