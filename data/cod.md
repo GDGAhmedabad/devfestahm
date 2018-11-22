@@ -1,10 +1,13 @@
+[GDG Ahmedabad](http://gdgahmedabad.com/) is an inclusive community where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is "Be excellent to each other!" if you see or experience any code-of-conduct violations or witness behavior that makes you feel unsafe or unwelcome, please contact the DevFest Ahmedabad conference organizer or bring it to the immediate attention of one of our DevFest Ahmedabad Volunteers.
+
 ### 1. Purpose
 
-A primary goal of [GDG Ahmedabad](http://gdgahmedabad.com/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Ahmedabad prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+A primary goal of [GDG Ahmedabad](http://gdgahmedabad.com/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+GDG Ahmedabad is a chapter of the larger Google Developer community, as such we follow and enforce the GOOGLE DEVELOPER COMMUNITY GUIDELINES. We, the group organizers and/or event organizers, reserve the right to take any action that we see fit against any person or persons that are found to be in breach of these guidelines including; issuing a warning (verbal or written), asking the offending person or persons to leave the event, or expulsion from the group.
+
+GDG Ahmedabad prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
 
 ### 2. Open [Source/Culture/Tech] Citizenship
 
@@ -46,7 +49,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
 
-### 7. Contact info
+### 7. Values
+
+DevFest Ahmedabad is an inclusive event where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google technologies, services, and platforms. Our motto is “Be excellent to each other;” if you see or experience anything different please contact [THE ORGANIZERS](http://devfest.gdgahmedabad.com/team/).
+
+### 8. Contact info
 
 - Paresh Mayani, [pareshmayani@gmail.com](mailto:pareshmayani@gmail.com)
 - Dhrumil Shah, [dhuma1981@gmail.com](mailto:dhuma1981@gmail.com)
