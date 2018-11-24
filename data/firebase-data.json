@@ -88,6 +88,13 @@
     "title" : "Sponsors"
   }, {
     "logos" : [ {
+      "logoUrl" : "../images/logos/elastic.svg",
+      "name" : "Elastic",
+      "url" : "https://www.elastic.co/"
+    } ],
+    "title" : "Memento Sponsors"
+  }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/nath-films.png",
       "name" : "Nath Films",
       "url" : "https://www.facebook.com/NathFilm/"
