@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "http://devfest.gdgahmedabad.com/",
+  "url": "http://devfest18.gdgahmedabad.com/",
   "analytics": "UA-106396961-4",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyAkzbTQaJBV-UVvoAGL7P8cBzy7L8rqHLk",
-    "authDomain": "devfestahm-master.firebaseapp.com",
-    "databaseURL": "https://devfestahm-master.firebaseio.com",
-    "projectId": "devfestahm-master",
-    "storageBucket": "devfestahm-master.appspot.com",
-    "messagingSenderId": "442013475178"
+    "apiKey": "AIzaSyDKvd3Lvih7-ehHEHbndpDimJuqbKsdcbo",
+    "authDomain": "devfestahm18.firebaseapp.com",
+    "databaseURL": "https://devfestahm18.firebaseio.com",
+    "projectId": "devfestahm18",
+    "storageBucket": "devfestahm18.appspot.com",
+    "messagingSenderId": "20459421490"
   },
-  "googleMapApiKey": "AIzaSyALVMt2vLoHML3XHKZTEIOxyDKGUrQAgp0"
+  "googleMapApiKey": "AIzaSyAOEC7WbUHgpxU24ji5co5NdZgapARSkdw"
 }
