@@ -310,7 +310,7 @@
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
+      "description" : "This codelab provides a deeper dive into Flutter. <br/><br/> You will be able to <br/> - Write Flutter app that runs on both Android/iOS <br/> - Building Layouts <br/> - Making http calls <br/> - Navigation & Routing <br/> - Hero Animations",
       "extend" : 2,
       "language" : "English",
       "presentation" : "https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM/edit#slide=id.g408dddd754_34_296",
@@ -320,7 +320,7 @@
     },
     "112" : {
       "complexity" : "Expert",
-      "description" : "TBD",
+      "description" : "It includes basics of NLP, How to solve 90% of NLP problems? and code for the Social Media (twitter) Text Analysis which can help at the time of disasters to the Disaster Management team. #AIForSocialGood",
       "extend" : 2,
       "language" : "English",
       "presentation" : "https://colab.research.google.com/drive/15D8NqiBJo42E9omYt6Uts3YbXPQbMgRc",
@@ -343,7 +343,7 @@
       "language" : "English",
       "presentation" : "https://docs.google.com/presentation/d/1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw/edit#slide=id.g46ff6b6fdb_0_0",
       "speakers" : [ "utpal_betai" ],
-      "title" : "Keynote 1"
+      "title" : "Keynote 1 - Focus on Future"
     },
     "115" : {
       "description" : "",
@@ -352,11 +352,11 @@
       "title" : "Keynote 2 - Google Cloud, Machine Learning"
     },
     "121" : {
-      "description" : "TBD",
+      "description" : "Slides with GIFs https://goo.gl/s4B1tb <br/> - Guide for becoming a Ninja developer. <br/> - Difference between ordinary developer vs ninja developer <br/> - Practices that you should be following for becoming a proactive and ninja developer <br/> - Learn and add at least 1 new skill per year in your resume <br/> - Attend at least 1 new course in a quarter <br/> - Follow Goal based learning <br/> - Keep learning, keep sharing <br/> - Meet new people and learn from them <br/> - Follow experts over your favorite media <br/> - Sharpen your analysis skill <br/> - Stay passionate! <br/><br/> Save yourself from Back pain :)",
       "language" : "English",
       "presentation" : "https://speakerdeck.com/pareshmayani/how-to-be-a-ninja-developer/",
       "speakers" : [ "paresh_mayani" ],
-      "title" : "TBD"
+      "title" : "How to be a Ninja Developer"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
