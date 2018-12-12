@@ -223,7 +223,7 @@
       "complexity" : "Intermediate",
       "description" : "Accessibility is integral part of the web and products. By default, web is accessible but we developer mess with the code. This talk will tell devs what, how and where to do make your code accessible.",
       "language" : "English",
-      "presentation" : "",
+      "presentation" : "https://docs.google.com/presentation/d/1Av-1NVIGP_Wmve49SBosDf13I4YeMuW7Gt_66_YKTKw/edit#slide=id.g474dfb627f_0_10",
       "speakers" : [ "neha_sharma" ],
       "tags" : [ "Web" ],
       "title" : "Web for all - Accessibility",
@@ -241,6 +241,7 @@
       "complexity" : "Intermediate",
       "description" : "The client-server architecture was invented in the 1960s and the majority of modern mobile and web applications are based on this architecture. As the technology evolved since the inception of the internet, so did the reasons for applying client-server architecture in web and mobile application design. The server consists of server code, the secrets, raw computing resources, and OS. Both server code and the secrets are data. They can be serialized together into one bundle, and cryptographically protected from tampering and disclosure. In this talk, I will talk about the best way of creating your own serverless APIs using Google Cloud and what are the other available options. Writing serverless code is easy, free and secure. Let’s create our own serverless.",
       "language" : "English",
+      "presentation" : "https://slides.com/mdsbzalam/devfest18ahm",
       "speakers" : [ "md_shahbaz_alam" ],
       "tags" : [ "Cloud" ],
       "title" : "Serverless API creation and deployment using Google Cloud"
@@ -249,6 +250,7 @@
       "complexity" : "Intermediate",
       "description" : "Slower Web Apps <br/><br/> They will learn <br/> - Basics of WebApp Optimization <br/> - How to Use Lighthouse from Chrome to find issues with their web app. <br/> - How to fix these issues.",
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1CBcxq42fJwWI1YBJXqA0Yw_swTR2AaaOdOY5jHbLgEA/edit?usp=drivesdk",
       "speakers" : [ "anil_shahu" ],
       "tags" : [ "Web" ],
       "title" : "Lighthouse for Chrome: Find your way to faster Web Apps."
@@ -257,6 +259,7 @@
       "complexity" : "Beginner",
       "description" : "We as developers sometimes become completely negligent about, how revenue will come from the app which we are developing. Revenue will only come if your mobile app is habbit forming. It sticks with the user and becomes his habit.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/spachori94/designing-habit-forming-high-growth-products",
       "speakers" : [ "shubham_pachori" ],
       "tags" : [ "Web" ],
       "title" : "Designing Addictive Web Apps"
@@ -265,6 +268,7 @@
       "complexity" : "Intermediate",
       "description" : "The talk will be 45:00 minutes. It is a collection of the best possible recent developments made in Android. It covers the most recent enhancements made in Android for developers. It will includes the  overview and detailed information about new things in: <br/><br/> 1. AndroidX the Support Library. <br/> 2. New in Android Testing (Espresso and JUnit) <br/> 3. Android App Bundles. <br/> 4. RTT Api for inside the building location. <br/> 5. Enterprise Apps <br/> 6. Slices <br/> 7. Deep Linking <br/> 8. Notifications( inline images and Smart Reply) <br/> 9. Android Studio profiler. <br/> 10. Layout Inspector",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/aimanzakikagzi/new-way-of-doing-things-in-android",
       "speakers" : [ "aimanzaki_kagzi", "dhruv_patel" ],
       "tags" : [ "Android" ],
       "title" : "New way of doing things in Android"
@@ -273,6 +277,7 @@
       "complexity" : "Beginner",
       "description" : "Working with asynchronous code is difficult especially for Android Developers which ultimately leads to callback hell. <br/><br/> Everyone is talking about Co-routines these days, but how can you really use them to their full potential? <br/> Well, In this talk, we will look at Kotlin co-routines which truly make it easier for developers to handle concurrency in their applications with a gentle learning curve, solution to handle cancellation, error handling, testing and write least boilerplate code. <br/><br/> This talk would cover: <br/> - Co-routines Generator API Example (for explaining suspension) <br/> - How and where to create Coroutine Scopes, and how to manage them <br/> - Create a Notes App with all functionalities including API calls just by using co-routines and Kotlin URL extension functions <br/> - Also how to use co-routines with popular REST client Retrofit.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/rivuchk/efficient-async-coding-in-kotlin-coroutines",
       "speakers" : [ "rivu_chakrborty" ],
       "tags" : [ "Android" ],
       "title" : "Efficient Async with Kotlin Coroutines"
@@ -281,6 +286,7 @@
       "complexity" : "Intermediate",
       "description" : "Firebase MLKit was introduced in Google I/O 2018. It comes as a part of Firebase suite. It combines capabilities of Google Cloud Vision API, TensorFlow Lite, Neural Network API in single SDK. This allows mobile app developers to use ML models in their apps. It also comes with predefined APIs using which mobile app developers can implement functionalities like image labeling, face detection, barcode scanning etc. in the apps. In this session we will cover basics of ML Kit first. This will show how mobile app developers can use the SDK in their  android project. After this we will explore all the base APIs of SDK with demos. We will have quick demo to demonstrate capabilities of the each APIs. Also we will see how we can embed ML models in the apps by using the SDK with practical demo.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/hirendave/explore-firebase-mlkit-for-android",
       "speakers" : [ "hiren_dave" ],
       "tags" : [ "Firebase" ],
       "title" : "Exploring Firebase MLKit on Android"
@@ -297,6 +303,7 @@
       "complexity" : "Intermediate",
       "description" : "Flutter uses reactive views, which you can take to the next level by applying reactive principles with BLoC and ScopedModel patterns to your app’s data model.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/burhanrashid52/build-reactive-architecture-in-flutter",
       "speakers" : [ "burhanuddin_rashid" ],
       "tags" : [ "Flutter" ],
       "title" : "How to build Reactive Architecture for Flutter."
@@ -306,6 +313,7 @@
       "description" : "TBD",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM/edit#slide=id.g408dddd754_34_296",
       "speakers" : [ "parth_jansari", "bhavik_makwana", "dhrumil_shah" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Flutter"
@@ -315,6 +323,7 @@
       "description" : "TBD",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://colab.research.google.com/drive/15D8NqiBJo42E9omYt6Uts3YbXPQbMgRc",
       "speakers" : [ "krupa_galiya", "charmi_chokshi" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Machine Learning"
@@ -324,6 +333,7 @@
       "description" : "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant. <br/> There are three levels of codelabs which includes level_1, level_2, and level_3 that we’re going to cover. At last, you’ll be able to develop an rich interactive application by yourself.",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/jaldeepasodariya/codelab-actions-on-google-devfestahm18",
       "speakers" : [ "jaldeep_asodariya", "juhil_somaiya", "nimesh_solanki" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Actions on Google"
@@ -331,6 +341,7 @@
     "114" : {
       "description" : "Predicting tomorrow today for everything in tech <br/> Celebrate diversity <br/> Fintech, Regtech and FutureTech <br/> Mobile, Mobility and Mesh <br/> Autonomous, Automated and Augmented",
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw/edit#slide=id.g46ff6b6fdb_0_0",
       "speakers" : [ "utpal_betai" ],
       "title" : "Keynote 1"
     },
@@ -343,6 +354,7 @@
     "121" : {
       "description" : "TBD",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/pareshmayani/how-to-be-a-ninja-developer/",
       "speakers" : [ "paresh_mayani" ],
       "title" : "TBD"
     },
@@ -375,6 +387,7 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
+      "presentation" : "https://drive.google.com/open?id=1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw",
       "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
       "title" : "GDG DevFest Ahmedabad 2018 Opening"
     },
