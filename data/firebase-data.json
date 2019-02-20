@@ -1165,30 +1165,20 @@
     "images" : false
   },
   "videos" : [ {
+    "speakers" : "Paresh Mayani & Dhrumil Shah",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_1.jpg?alt=media&token=6ee378a1-a25f-4a25-804c-db9a8baf8ea9",
+    "title" : "The Opening",
+    "youtubeId" : "U5swO0AAhDY"
+  }, {
     "speakers" : "Utpal Betai",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_31.png?alt=media&token=9cad1857-5c5b-49e7-8691-37177a051a2c",
-    "title" : "The Keynote",
-    "youtubeId" : "gpwLAaAVcLA"
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_2.jpg?alt=media&token=4a131794-b7f5-4cca-9e4f-b15e2ceee130",
+    "title" : "The  Keynote - Focus on Future",
+    "youtubeId" : "UEBEZB3GfME"
   }, {
-    "speakers" : "Manoranjan Padhy",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_7.png?alt=media&token=a7137d0d-e073-4731-8d69-eb63dfb5e440",
-    "title" : "TensorFlow Advanced",
-    "youtubeId" : "HweYDP8DZSw"
-  }, {
-    "speakers" : "Paresh Mayani",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_12.png?alt=media&token=07ed697e-b2f6-4f8e-8fd2-a3a917b5521a",
-    "title" : "Generating efficient apk by reducing size",
-    "youtubeId" : "YsqKOnAB_-0"
-  }, {
-    "speakers" : "Ravindra Kumar",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_1.png?alt=media&token=1022960b-2930-427a-94c1-4e5e905f8d59",
-    "title" : "Pragmatic Kotlin on Android",
-    "youtubeId" : "rmAb9AjuSVg"
-  }, {
-    "speakers" : "Hardik Trivedi",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_3.png?alt=media&token=ccd110b1-c1b9-4504-93a8-1405f3c9d2c8",
-    "title" : "Introduction to Kotlin for Android App Development",
-    "youtubeId" : "AoD3Mf0-4WI"
+    "speakers" : "Karthik Padmanabhan",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_3.jpg?alt=media&token=c591735f-8d9e-4072-8e84-a31d3a2f21dc",
+    "title" : "The  Keynote - Google Cloud, Machine Learning",
+    "youtubeId" : "ltwmqSJzg7k"
   } ],
   "previousSpeakers": {
     "utpal_betai" : {
