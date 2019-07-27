@@ -227,7 +227,7 @@
       "speakers" : [ "neha_sharma" ],
       "tags" : [ "Web" ],
       "title" : "Web for all - Accessibility",
-      "videoId" : ""
+      "videoId" : "WG_Ma-YlAJc"
     },
     "102" : {
       "complexity" : "Expert",
@@ -244,7 +244,8 @@
       "presentation" : "https://slides.com/mdsbzalam/devfest18ahm",
       "speakers" : [ "md_shahbaz_alam" ],
       "tags" : [ "Cloud" ],
-      "title" : "Serverless API creation and deployment using Google Cloud"
+      "title" : "Serverless API creation and deployment using Google Cloud",
+      "videoId" : "hHo5z_FAVmA"
     },
     "104" : {
       "complexity" : "Intermediate",
@@ -253,7 +254,8 @@
       "presentation" : "https://docs.google.com/presentation/d/1CBcxq42fJwWI1YBJXqA0Yw_swTR2AaaOdOY5jHbLgEA/edit?usp=drivesdk",
       "speakers" : [ "anil_shahu" ],
       "tags" : [ "Web" ],
-      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps."
+      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps.",
+      "videoId" : "Wz2qd8CLUOM"
     },
     "105" : {
       "complexity" : "Beginner",
@@ -262,7 +264,8 @@
       "presentation" : "https://speakerdeck.com/spachori94/designing-habit-forming-high-growth-products",
       "speakers" : [ "shubham_pachori" ],
       "tags" : [ "Web" ],
-      "title" : "Designing Addictive Web Apps"
+      "title" : "Designing Addictive Web Apps",
+      "videoId" : "40iVBVkNh_k"
     },
     "106" : {
       "complexity" : "Intermediate",
@@ -271,7 +274,8 @@
       "presentation" : "https://speakerdeck.com/aimanzakikagzi/new-way-of-doing-things-in-android",
       "speakers" : [ "aimanzaki_kagzi", "dhruv_patel" ],
       "tags" : [ "Android" ],
-      "title" : "New way of doing things in Android"
+      "title" : "New way of doing things in Android",
+      "videoId" : "-bONqt6bD3E"
     },
     "107" : {
       "complexity" : "Beginner",
@@ -280,7 +284,8 @@
       "presentation" : "https://speakerdeck.com/rivuchk/efficient-async-coding-in-kotlin-coroutines",
       "speakers" : [ "rivu_chakrborty" ],
       "tags" : [ "Android" ],
-      "title" : "Efficient Async with Kotlin Coroutines"
+      "title" : "Efficient Async with Kotlin Coroutines",
+      "videoId" : "ZtGChKgsU-g"
     },
     "108" : {
       "complexity" : "Intermediate",
@@ -289,15 +294,18 @@
       "presentation" : "https://speakerdeck.com/hirendave/explore-firebase-mlkit-for-android",
       "speakers" : [ "hiren_dave" ],
       "tags" : [ "Firebase" ],
-      "title" : "Exploring Firebase MLKit on Android"
+      "title" : "Exploring Firebase MLKit on Android",
+      "videoId" : "z80MqFtJklU"
     },
     "109" : {
       "complexity" : "Expert",
       "description" : "Android is one of the topmost Mobile Operating System used across the globe. It is apparently clear that lot of new applications are being developed on daily basis. However, 95% of the apps are found to be insecure.",
       "language" : "English",
+      "presentation" : "https://drive.google.com/file/d/1h3vgHmj7UWuhSvXrRIBi9eoJgYCcbcmR/view",
       "speakers" : [ "smit_shah" ],
       "tags" : [ "Android" ],
-      "title" : "Android Application Security Testing"
+      "title" : "Android Application Security Testing",
+      "videoId" : "nuTqplRpUqA"
     },
     "110" : {
       "complexity" : "Intermediate",
@@ -306,7 +314,8 @@
       "presentation" : "https://speakerdeck.com/burhanrashid52/build-reactive-architecture-in-flutter",
       "speakers" : [ "burhanuddin_rashid" ],
       "tags" : [ "Flutter" ],
-      "title" : "How to build Reactive Architecture for Flutter."
+      "title" : "How to build Reactive Architecture for Flutter.",
+      "videoId" : "rgf_PAS0L10"
     },
     "111" : {
       "complexity" : "Intermediate",
@@ -343,20 +352,23 @@
       "language" : "English",
       "presentation" : "https://docs.google.com/presentation/d/1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw/edit#slide=id.g46ff6b6fdb_0_0",
       "speakers" : [ "utpal_betai" ],
-      "title" : "Keynote 1 - Focus on Future"
+      "title" : "Keynote 1 - Focus on Future",
+      "videoId" : "UEBEZB3GfME"
     },
     "115" : {
       "description" : "",
       "language" : "English",
       "speakers" : [ "karthik_padmanabhan" ],
-      "title" : "Keynote 2 - Google Cloud, Machine Learning"
+      "title" : "Keynote 2 - Google Cloud, Machine Learning",
+      "videoId" : "ltwmqSJzg7k"
     },
     "121" : {
       "description" : "Slides with GIFs https://goo.gl/s4B1tb <br/> - Guide for becoming a Ninja developer. <br/> - Difference between ordinary developer vs ninja developer <br/> - Practices that you should be following for becoming a proactive and ninja developer <br/> - Learn and add at least 1 new skill per year in your resume <br/> - Attend at least 1 new course in a quarter <br/> - Follow Goal based learning <br/> - Keep learning, keep sharing <br/> - Meet new people and learn from them <br/> - Follow experts over your favorite media <br/> - Sharpen your analysis skill <br/> - Stay passionate! <br/><br/> Save yourself from Back pain :)",
       "language" : "English",
       "presentation" : "https://speakerdeck.com/pareshmayani/how-to-be-a-ninja-developer/",
       "speakers" : [ "paresh_mayani" ],
-      "title" : "How to be a Ninja Developer"
+      "title" : "How to be a Ninja Developer",
+      "videoId" : "ydwnj5Mi1tw"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -389,7 +401,8 @@
       "language" : "English",
       "presentation" : "https://drive.google.com/open?id=1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw",
       "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
-      "title" : "GDG DevFest Ahmedabad 2018 Opening"
+      "title" : "GDG DevFest Ahmedabad 2018 Opening",
+      "videoId" : "U5swO0AAhDY"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
