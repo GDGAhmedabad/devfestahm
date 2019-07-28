@@ -67,6 +67,11 @@
           "name": "DevfestAhm 2017",
           "url": "http://devfest17.gdgahmedabad.com/",
           "newTab": true
+        },
+        {
+          "name": "DevfestAhm 2018",
+          "url": "http://devfest18.gdgahmedabad.com/",
+          "newTab": true
         }
       ]
     },
@@ -89,12 +94,12 @@
       "featuredSessions": {
         "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqEnRZyVlOQsT1FzTi-kba7"
+        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiokDq4yL2in4WShy77d7ygV"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2017",
-        "youtubeId": "7dG3pdsOVF8"
+        "label": "See how it was in 2018",
+        "youtubeId": "_dbbiG2G_1Y"
       },
       "experience360View": {
         "description": "For the very first time, We have recorded event in 360 camera brought to you by Vrizm Innovations Pvt Ltd. Let's have a look on some movements in 360 view.",
@@ -141,10 +146,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DEVFESTAHM'17 featured videos",
+    "title": "DEVFESTAHM'18 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqEnRZyVlOQsT1FzTi-kba7"
+      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiokDq4yL2in4WShy77d7ygV"
     }
   },
   "blog": {
@@ -188,11 +193,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#devfestahm17 highlights",
+    "title": "#devfestahm18 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and Q&A.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/8ThUBe1AvCWdXFKc8"
+      "link": "https://photos.app.goo.gl/f9AMjhmFLB3bGTw27"
     }
   },
   "mapBlock": {

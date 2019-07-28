@@ -38,14 +38,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_445A9946.jpg?alt=media&token=b06794bb-c891-478b-bd18-f308d2b214d2",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_3713.jpg?alt=media&token=b13807aa-469e-4fa1-99c4-ce296402c53c",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_445A0024.jpg?alt=media&token=d260d707-e569-481e-8143-4dba2e5e7f53",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_3394.jpg?alt=media&token=deac503d-d5f9-44a9-b4ef-1cc6cbf8324e",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_445A9991.jpg?alt=media&token=7a62fb4d-b3ab-4f1f-90fe-619cb9eaaf8f",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_3429.jpg?alt=media&token=88cdcec0-d3fe-42a2-a432-0f4335741ddf",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_3918.jpg?alt=media&token=80ecc5c4-f439-4bc5-b61e-45441685a257",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_445A0059.jpg?alt=media&token=13821c6b-d75b-4988-a91f-f96ef6a76248"
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_4929.jpg?alt=media&token=1a6a17d9-3377-4212-a82c-0470dcb8055e",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_4676.jpg?alt=media&token=6a1aac29-a103-4cea-8cd9-6d7b8b70aaec",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_9690.jpg?alt=media&token=187002bd-07cf-4b61-a5ac-08e1b61223ae",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_5011.jpg?alt=media&token=4db73163-c81b-40e2-8677-e2c2de849361",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_9746.jpg?alt=media&token=d951f501-65b0-480d-8e98-7492ba5dbfc0",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_0176.jpg?alt=media&token=2572238e-078e-49dd-8b8c-62702e736cff",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_9936.jpg?alt=media&token=614c78b9-5fa6-4c97-a7bc-92e46b12174f",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fimg_0149.jpg?alt=media&token=04b76785-03e9-4359-bc36-0ed980de7f18"
   ],
   "notifications" : {
     "config" : {
@@ -223,11 +223,11 @@
       "complexity" : "Intermediate",
       "description" : "Accessibility is integral part of the web and products. By default, web is accessible but we developer mess with the code. This talk will tell devs what, how and where to do make your code accessible.",
       "language" : "English",
-      "presentation" : "",
+      "presentation" : "https://docs.google.com/presentation/d/1Av-1NVIGP_Wmve49SBosDf13I4YeMuW7Gt_66_YKTKw/edit#slide=id.g474dfb627f_0_10",
       "speakers" : [ "neha_sharma" ],
       "tags" : [ "Web" ],
       "title" : "Web for all - Accessibility",
-      "videoId" : ""
+      "videoId" : "WG_Ma-YlAJc"
     },
     "102" : {
       "complexity" : "Expert",
@@ -241,80 +241,98 @@
       "complexity" : "Intermediate",
       "description" : "The client-server architecture was invented in the 1960s and the majority of modern mobile and web applications are based on this architecture. As the technology evolved since the inception of the internet, so did the reasons for applying client-server architecture in web and mobile application design. The server consists of server code, the secrets, raw computing resources, and OS. Both server code and the secrets are data. They can be serialized together into one bundle, and cryptographically protected from tampering and disclosure. In this talk, I will talk about the best way of creating your own serverless APIs using Google Cloud and what are the other available options. Writing serverless code is easy, free and secure. Let’s create our own serverless.",
       "language" : "English",
+      "presentation" : "https://slides.com/mdsbzalam/devfest18ahm",
       "speakers" : [ "md_shahbaz_alam" ],
       "tags" : [ "Cloud" ],
-      "title" : "Serverless API creation and deployment using Google Cloud"
+      "title" : "Serverless API creation and deployment using Google Cloud",
+      "videoId" : "hHo5z_FAVmA"
     },
     "104" : {
       "complexity" : "Intermediate",
       "description" : "Slower Web Apps <br/><br/> They will learn <br/> - Basics of WebApp Optimization <br/> - How to Use Lighthouse from Chrome to find issues with their web app. <br/> - How to fix these issues.",
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1CBcxq42fJwWI1YBJXqA0Yw_swTR2AaaOdOY5jHbLgEA/edit?usp=drivesdk",
       "speakers" : [ "anil_shahu" ],
       "tags" : [ "Web" ],
-      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps."
+      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps.",
+      "videoId" : "Wz2qd8CLUOM"
     },
     "105" : {
       "complexity" : "Beginner",
       "description" : "We as developers sometimes become completely negligent about, how revenue will come from the app which we are developing. Revenue will only come if your mobile app is habbit forming. It sticks with the user and becomes his habit.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/spachori94/designing-habit-forming-high-growth-products",
       "speakers" : [ "shubham_pachori" ],
       "tags" : [ "Web" ],
-      "title" : "Designing Addictive Web Apps"
+      "title" : "Designing Addictive Web Apps",
+      "videoId" : "40iVBVkNh_k"
     },
     "106" : {
       "complexity" : "Intermediate",
       "description" : "The talk will be 45:00 minutes. It is a collection of the best possible recent developments made in Android. It covers the most recent enhancements made in Android for developers. It will includes the  overview and detailed information about new things in: <br/><br/> 1. AndroidX the Support Library. <br/> 2. New in Android Testing (Espresso and JUnit) <br/> 3. Android App Bundles. <br/> 4. RTT Api for inside the building location. <br/> 5. Enterprise Apps <br/> 6. Slices <br/> 7. Deep Linking <br/> 8. Notifications( inline images and Smart Reply) <br/> 9. Android Studio profiler. <br/> 10. Layout Inspector",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/aimanzakikagzi/new-way-of-doing-things-in-android",
       "speakers" : [ "aimanzaki_kagzi", "dhruv_patel" ],
       "tags" : [ "Android" ],
-      "title" : "New way of doing things in Android"
+      "title" : "New way of doing things in Android",
+      "videoId" : "-bONqt6bD3E"
     },
     "107" : {
       "complexity" : "Beginner",
       "description" : "Working with asynchronous code is difficult especially for Android Developers which ultimately leads to callback hell. <br/><br/> Everyone is talking about Co-routines these days, but how can you really use them to their full potential? <br/> Well, In this talk, we will look at Kotlin co-routines which truly make it easier for developers to handle concurrency in their applications with a gentle learning curve, solution to handle cancellation, error handling, testing and write least boilerplate code. <br/><br/> This talk would cover: <br/> - Co-routines Generator API Example (for explaining suspension) <br/> - How and where to create Coroutine Scopes, and how to manage them <br/> - Create a Notes App with all functionalities including API calls just by using co-routines and Kotlin URL extension functions <br/> - Also how to use co-routines with popular REST client Retrofit.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/rivuchk/efficient-async-coding-in-kotlin-coroutines",
       "speakers" : [ "rivu_chakrborty" ],
       "tags" : [ "Android" ],
-      "title" : "Efficient Async with Kotlin Coroutines"
+      "title" : "Efficient Async with Kotlin Coroutines",
+      "videoId" : "ZtGChKgsU-g"
     },
     "108" : {
       "complexity" : "Intermediate",
       "description" : "Firebase MLKit was introduced in Google I/O 2018. It comes as a part of Firebase suite. It combines capabilities of Google Cloud Vision API, TensorFlow Lite, Neural Network API in single SDK. This allows mobile app developers to use ML models in their apps. It also comes with predefined APIs using which mobile app developers can implement functionalities like image labeling, face detection, barcode scanning etc. in the apps. In this session we will cover basics of ML Kit first. This will show how mobile app developers can use the SDK in their  android project. After this we will explore all the base APIs of SDK with demos. We will have quick demo to demonstrate capabilities of the each APIs. Also we will see how we can embed ML models in the apps by using the SDK with practical demo.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/hirendave/explore-firebase-mlkit-for-android",
       "speakers" : [ "hiren_dave" ],
       "tags" : [ "Firebase" ],
-      "title" : "Exploring Firebase MLKit on Android"
+      "title" : "Exploring Firebase MLKit on Android",
+      "videoId" : "z80MqFtJklU"
     },
     "109" : {
       "complexity" : "Expert",
       "description" : "Android is one of the topmost Mobile Operating System used across the globe. It is apparently clear that lot of new applications are being developed on daily basis. However, 95% of the apps are found to be insecure.",
       "language" : "English",
+      "presentation" : "https://drive.google.com/file/d/1h3vgHmj7UWuhSvXrRIBi9eoJgYCcbcmR/view",
       "speakers" : [ "smit_shah" ],
       "tags" : [ "Android" ],
-      "title" : "Android Application Security Testing"
+      "title" : "Android Application Security Testing",
+      "videoId" : "nuTqplRpUqA"
     },
     "110" : {
       "complexity" : "Intermediate",
       "description" : "Flutter uses reactive views, which you can take to the next level by applying reactive principles with BLoC and ScopedModel patterns to your app’s data model.",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/burhanrashid52/build-reactive-architecture-in-flutter",
       "speakers" : [ "burhanuddin_rashid" ],
       "tags" : [ "Flutter" ],
-      "title" : "How to build Reactive Architecture for Flutter."
+      "title" : "How to build Reactive Architecture for Flutter.",
+      "videoId" : "rgf_PAS0L10"
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
+      "description" : "This codelab provides a deeper dive into Flutter. <br/><br/> You will be able to <br/> - Write Flutter app that runs on both Android/iOS <br/> - Building Layouts <br/> - Making http calls <br/> - Navigation & Routing <br/> - Hero Animations",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM/edit#slide=id.g408dddd754_34_296",
       "speakers" : [ "parth_jansari", "bhavik_makwana", "dhrumil_shah" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Flutter"
     },
     "112" : {
       "complexity" : "Expert",
-      "description" : "TBD",
+      "description" : "It includes basics of NLP, How to solve 90% of NLP problems? and code for the Social Media (twitter) Text Analysis which can help at the time of disasters to the Disaster Management team. #AIForSocialGood",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://colab.research.google.com/drive/15D8NqiBJo42E9omYt6Uts3YbXPQbMgRc",
       "speakers" : [ "krupa_galiya", "charmi_chokshi" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Machine Learning"
@@ -324,6 +342,7 @@
       "description" : "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant. <br/> There are three levels of codelabs which includes level_1, level_2, and level_3 that we’re going to cover. At last, you’ll be able to develop an rich interactive application by yourself.",
       "extend" : 2,
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/jaldeepasodariya/codelab-actions-on-google-devfestahm18",
       "speakers" : [ "jaldeep_asodariya", "juhil_somaiya", "nimesh_solanki" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Actions on Google"
@@ -331,20 +350,25 @@
     "114" : {
       "description" : "Predicting tomorrow today for everything in tech <br/> Celebrate diversity <br/> Fintech, Regtech and FutureTech <br/> Mobile, Mobility and Mesh <br/> Autonomous, Automated and Augmented",
       "language" : "English",
+      "presentation" : "https://docs.google.com/presentation/d/1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw/edit#slide=id.g46ff6b6fdb_0_0",
       "speakers" : [ "utpal_betai" ],
-      "title" : "Keynote 1"
+      "title" : "Keynote 1 - Focus on Future",
+      "videoId" : "UEBEZB3GfME"
     },
     "115" : {
       "description" : "",
       "language" : "English",
       "speakers" : [ "karthik_padmanabhan" ],
-      "title" : "Keynote 2 - Google Cloud, Machine Learning"
+      "title" : "Keynote 2 - Google Cloud, Machine Learning",
+      "videoId" : "ltwmqSJzg7k"
     },
     "121" : {
-      "description" : "TBD",
+      "description" : "Slides with GIFs https://goo.gl/s4B1tb <br/> - Guide for becoming a Ninja developer. <br/> - Difference between ordinary developer vs ninja developer <br/> - Practices that you should be following for becoming a proactive and ninja developer <br/> - Learn and add at least 1 new skill per year in your resume <br/> - Attend at least 1 new course in a quarter <br/> - Follow Goal based learning <br/> - Keep learning, keep sharing <br/> - Meet new people and learn from them <br/> - Follow experts over your favorite media <br/> - Sharpen your analysis skill <br/> - Stay passionate! <br/><br/> Save yourself from Back pain :)",
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/pareshmayani/how-to-be-a-ninja-developer/",
       "speakers" : [ "paresh_mayani" ],
-      "title" : "TBD"
+      "title" : "How to be a Ninja Developer",
+      "videoId" : "ydwnj5Mi1tw"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -375,8 +399,10 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
+      "presentation" : "https://drive.google.com/open?id=1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw",
       "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
-      "title" : "GDG DevFest Ahmedabad 2018 Opening"
+      "title" : "GDG DevFest Ahmedabad 2018 Opening",
+      "videoId" : "U5swO0AAhDY"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -1152,30 +1178,20 @@
     "images" : false
   },
   "videos" : [ {
+    "speakers" : "Paresh Mayani & Dhrumil Shah",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_1.jpg?alt=media&token=6ee378a1-a25f-4a25-804c-db9a8baf8ea9",
+    "title" : "The Opening",
+    "youtubeId" : "U5swO0AAhDY"
+  }, {
     "speakers" : "Utpal Betai",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_31.png?alt=media&token=9cad1857-5c5b-49e7-8691-37177a051a2c",
-    "title" : "The Keynote",
-    "youtubeId" : "gpwLAaAVcLA"
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_2.jpg?alt=media&token=4a131794-b7f5-4cca-9e4f-b15e2ceee130",
+    "title" : "The  Keynote - Focus on Future",
+    "youtubeId" : "UEBEZB3GfME"
   }, {
-    "speakers" : "Manoranjan Padhy",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_7.png?alt=media&token=a7137d0d-e073-4731-8d69-eb63dfb5e440",
-    "title" : "TensorFlow Advanced",
-    "youtubeId" : "HweYDP8DZSw"
-  }, {
-    "speakers" : "Paresh Mayani",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_12.png?alt=media&token=07ed697e-b2f6-4f8e-8fd2-a3a917b5521a",
-    "title" : "Generating efficient apk by reducing size",
-    "youtubeId" : "YsqKOnAB_-0"
-  }, {
-    "speakers" : "Ravindra Kumar",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_1.png?alt=media&token=1022960b-2930-427a-94c1-4e5e905f8d59",
-    "title" : "Pragmatic Kotlin on Android",
-    "youtubeId" : "rmAb9AjuSVg"
-  }, {
-    "speakers" : "Hardik Trivedi",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2017%2Fimg_speaker_3.png?alt=media&token=ccd110b1-c1b9-4504-93a8-1405f3c9d2c8",
-    "title" : "Introduction to Kotlin for Android App Development",
-    "youtubeId" : "AoD3Mf0-4WI"
+    "speakers" : "Karthik Padmanabhan",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_3.jpg?alt=media&token=c591735f-8d9e-4072-8e84-a31d3a2f21dc",
+    "title" : "The  Keynote - Google Cloud, Machine Learning",
+    "youtubeId" : "ltwmqSJzg7k"
   } ],
   "previousSpeakers": {
     "utpal_betai" : {
