@@ -1114,7 +1114,25 @@
         "link" : "https://twitter.com/JaldeepAsodariy",
         "name" : "Twitter"
       } ],
-      "title" : "Core Organizing Team Member"
+      "title" : "Event organizer"
+    }, {
+      "name" : "Hiren Dave",
+      "photo" : "/images/people/hiren_dave.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hjdave",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/davehiren",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://hirendave.tech",
+        "name" : "Website"
+      } ],
+      "title" : "Event organizer"
     } ],
     "title" : "Program Committee"
   } ],
