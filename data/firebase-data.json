@@ -81,32 +81,11 @@
     "title" : "General Partner"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/akash-technolabs.png",
-      "name" : "Akash Technolabs",
-      "url" : "https://akashtechnolabs.com/"
-    } ],
-    "title" : "Education Sponsors"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/elastic.svg",
-      "name" : "Elastic",
-      "url" : "https://www.elastic.co/"
-    } ],
-    "title" : "Memento Sponsors"
-  }, {
-    "logos" : [ {
       "logoUrl" : "../images/logos/nath-films.png",
       "name" : "Nath Films",
       "url" : "https://www.facebook.com/NathFilm/"
     } ],
     "title" : "Media Partner"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/allevents.png",
-      "name" : "All Events",
-      "url" : "https://allevents.in/"
-    } ],
-    "title" : "Ticketing Partner"
   } ],
   "schedule" : {
     "2018-11-25" : {
