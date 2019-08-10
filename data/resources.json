@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Ahmedabad Season 2018",
+  "title": "GDG DevFest Ahmedabad Season 2019",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November 25, 2018",
+  "dates": "October 6, 2019",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -110,7 +110,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "480+"
+        "number": "500+"
       },
       "days": {
         "label": "Day",
@@ -118,7 +118,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "14+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
@@ -164,6 +164,7 @@
     }
   },
   "unveilSoon": "Unveil soon",
+  "announcedSoon": "To be announced soon",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",

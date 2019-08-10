@@ -81,32 +81,11 @@
     "title" : "General Partner"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/akash-technolabs.png",
-      "name" : "Akash Technolabs",
-      "url" : "https://akashtechnolabs.com/"
-    } ],
-    "title" : "Education Sponsors"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/elastic.svg",
-      "name" : "Elastic",
-      "url" : "https://www.elastic.co/"
-    } ],
-    "title" : "Memento Sponsors"
-  }, {
-    "logos" : [ {
       "logoUrl" : "../images/logos/nath-films.png",
       "name" : "Nath Films",
       "url" : "https://www.facebook.com/NathFilm/"
     } ],
     "title" : "Media Partner"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/allevents.png",
-      "name" : "All Events",
-      "url" : "https://allevents.in/"
-    } ],
-    "title" : "Ticketing Partner"
   } ],
   "schedule" : {
     "2018-11-25" : {
@@ -1007,17 +986,17 @@
       "photo" : "/images/people/paresh_mayani.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/pareshmayani",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/pareshmayani",
         "name" : "Twitter"
       }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+pareshmayani",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/pareshmayani/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/pareshmayani",
+        "name" : "Facebook"
       } ],
       "title" : "Founder & Organizer"
     }, {
@@ -1025,13 +1004,13 @@
       "photo" : "/images/people/dhrumil_shah.png",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/dhuma1981",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/dhuma1981",
         "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/dhuma1981",
+        "name" : "Facebook"
       }, {
         "icon" : "gplus",
         "link" : "https://plus.google.com/u/0/+DhrumilShah",
@@ -1043,13 +1022,13 @@
       "photo" : "/images/people/pratik_patel.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fpratik_patel.jpg?alt=media&token=2d3a4883-a836-4b01-8f68-b94dfc6f1ffa",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/patel8490",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/patel8490",
         "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/patel8490",
+        "name" : "Facebook"
       } ],
       "title" : "Co-Organizer"
     }, {
@@ -1057,6 +1036,10 @@
       "photo" : "/images/people/chintan_rathod.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fchintan_rathod.jpg?alt=media&token=60ddc2ce-2436-43f0-8ccc-cdeef4049deb",
       "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/chintanrathod16",
+        "name" : "Twitter"
+      }, {
         "icon" : "website",
         "link" : "http://chintanrathod.com/",
         "name" : "Blog"
@@ -1064,33 +1047,26 @@
         "icon" : "facebook",
         "link" : "https://www.facebook.com/chintan.h.rathod",
         "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/chintanrathod16",
-        "name" : "Twitter"
       } ],
       "title" : "Co-Organizer"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
+    }, {
       "name" : "Utpal Betai",
       "photo" : "/images/people/utpal_betai.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/utpal.betai.9",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/utpalbetai",
         "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/utpal.betai.9",
+        "name" : "Facebook"
       } ],
       "title" : "Asst. Organizer"
     }, {
       "name" : "Dhruva Shastri",
-      "photo" : "/images/people/dhruva_shashtri.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri.jpg?alt=media&token=6cd79125-01b1-412e-97eb-6754b4ca6ec4",
+      "photo" : "/images/people/dhruva_shashtri_gdd.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri_gdd.jpg?alt=media&token=6a69f838-345d-4c92-a301-6c26c33900f7",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/dhruvashastri12",
@@ -1100,23 +1076,45 @@
         "link" : "https://plus.google.com/u/0/+DhruvaShastri",
         "name" : "Google+"
       } ],
-      "title" : "WTM Lead"
+      "title" : "WTM Ambassador"
     }, {
       "name" : "Jaldeep Asodariya",
-      "photo" : "/images/people/jaldeep_asodariya.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya.jpg?alt=media&token=7c180d26-7b48-4751-862d-cd7e5f5a8119",
+      "photo" : "/images/people/jaldeep_asodariya_ics.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya_ics.jpg?alt=media&token=0cf65c42-c86b-45b4-93e0-1560c649f64e",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/jdjaldeep",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/JaldeepAsodariy",
         "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jaldeepasodariya/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jdjaldeep",
+        "name" : "Facebook"
       } ],
-      "title" : "Core Organizing Team Member"
+      "title" : "Event organizer"
+    }, {
+      "name" : "Hiren Dave",
+      "photo" : "/images/people/hiren_dave.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hjdave",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/davehiren",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://hirendave.tech",
+        "name" : "Website"
+      } ],
+      "title" : "Event organizer"
     } ],
-    "title" : "Program Committee"
+    "title" : "Core Team"
   } ],
   "tickets" : [ {
     "available" : false,
