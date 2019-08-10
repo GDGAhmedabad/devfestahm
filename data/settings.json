@@ -5,8 +5,8 @@
     "blog": "https://gdgahmedabad.com/",
     "url": "http://devfest.gdgahmedabad.com/"
   },
-  "startDate": "2019-10-20T09:00:00+05:30",
-  "endDate": "2019-10-20T19:00:00+05:30",
+  "startDate": "2019-10-06T09:00:00+05:30",
+  "endDate": "2019-10-06T19:00:00+05:30",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#419CF6",

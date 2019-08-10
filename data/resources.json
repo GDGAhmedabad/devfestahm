@@ -3,7 +3,7 @@
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 20, 2019",
+  "dates": "October 6, 2019",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -110,7 +110,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "480+"
+        "number": "500+"
       },
       "days": {
         "label": "Day",
@@ -118,7 +118,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "14+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
