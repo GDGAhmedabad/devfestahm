@@ -1094,7 +1094,7 @@
         "link" : "https://www.facebook.com/jdjaldeep",
         "name" : "Facebook"
       } ],
-      "title" : "Event organizer"
+      "title" : "Event Organizer"
     }, {
       "name" : "Hiren Dave",
       "photo" : "/images/people/hiren_dave.jpg",
@@ -1112,9 +1112,48 @@
         "link" : "https://hirendave.tech",
         "name" : "Website"
       } ],
-      "title" : "Event organizer"
+      "title" : "Event Organizer"
     } ],
     "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Vatsal Trivedi",
+      "photo" : "/images/people/vatsal_trivedi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi.jpg?alt=media&token=7cebaac9-c669-4b73-b3f3-a15a134063bf",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/vatty_trivedi",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/vattytrivedi/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://dribbble.com/vattytrivedi",
+        "name" : "Dribbble"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/vattytrivedi",
+        "name" : "Facebook"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Dixita Ganatra",
+      "photo" : "/images/people/dixita_ganatra.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdixita_ganatra.jpg?alt=media&token=6a7edde5-be2f-45b9-83c3-b6c8d249edb5",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dixita0607",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dixita0607",
+        "name" : "LinkedIn"
+      } ],
+      "title" : ""
+    } ],
+    "title" : "Creative Team"
   } ],
   "tickets" : [ {
     "available" : false,
