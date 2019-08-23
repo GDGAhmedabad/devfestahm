@@ -9,5 +9,6 @@ functions/lib/
 .firebaserc
 .firebase
 /appengine/dist/
+ServiceAccount/
 serviceAccount.json
 ‘~/
