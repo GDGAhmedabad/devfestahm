@@ -1,45 +1,23 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'serve' ]
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
 2 info using npm@3.5.2
 3 info using node@v8.10.0
-4 verbose run-script [ 'preserve', 'serve', 'postserve' ]
-5 info lifecycle hoverboard@2.0.0~preserve: hoverboard@2.0.0
-6 silly lifecycle hoverboard@2.0.0~preserve: no script for preserve, continuing
-7 info lifecycle hoverboard@2.0.0~serve: hoverboard@2.0.0
-8 verbose lifecycle hoverboard@2.0.0~serve: unsafe-perm in lifecycle true
-9 verbose lifecycle hoverboard@2.0.0~serve: PATH: /usr/share/npm/bin/node-gyp-bin:/home/jaldeep/Downloads/master/applications/devfestahm/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jaldeep/Flutter/Sdk/flutter/bin:/home/jaldeep/Flutter/Sdk/flutter/.pub-cache/bin:/home/jaldeep/Flutter/Sdk/flutter/bin/cache/dart-sdk/bin:/home/jaldeep/Flutter/Sdk/flutter/bin:/home/jaldeep/Flutter/Sdk/flutter/.pub-cache/bin:/home/jaldeep/Flutter/Sdk/flutter/bin/cache/dart-sdk/bin
-10 verbose lifecycle hoverboard@2.0.0~serve: CWD: /home/jaldeep/Downloads/master/applications/devfestahm
-11 silly lifecycle hoverboard@2.0.0~serve: Args: [ '-c', 'gulp serve' ]
-12 silly lifecycle hoverboard@2.0.0~serve: Returned: code: 1  signal: null
-13 info lifecycle hoverboard@2.0.0~serve: Failed to exec serve script
-14 verbose stack Error: hoverboard@2.0.0 serve: `gulp serve`
-14 verbose stack Exit status 1
-14 verbose stack     at EventEmitter.<anonymous> (/usr/share/npm/lib/utils/lifecycle.js:232:16)
-14 verbose stack     at emitTwo (events.js:126:13)
-14 verbose stack     at EventEmitter.emit (events.js:214:7)
-14 verbose stack     at ChildProcess.<anonymous> (/usr/share/npm/lib/utils/spawn.js:24:14)
-14 verbose stack     at emitTwo (events.js:126:13)
-14 verbose stack     at ChildProcess.emit (events.js:214:7)
-14 verbose stack     at maybeClose (internal/child_process.js:925:16)
-14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
-15 verbose pkgid hoverboard@2.0.0
-16 verbose cwd /home/jaldeep/Downloads/master/applications/devfestahm
-17 error Linux 4.15.0-60-generic
-18 error argv "/usr/bin/node" "/usr/bin/npm" "run" "serve"
-19 error node v8.10.0
-20 error npm  v3.5.2
-21 error code ELIFECYCLE
-22 error hoverboard@2.0.0 serve: `gulp serve`
-22 error Exit status 1
-23 error Failed at the hoverboard@2.0.0 serve script 'gulp serve'.
-23 error Make sure you have the latest version of node.js and npm installed.
-23 error If you do, this is most likely a problem with the hoverboard package,
-23 error not with npm itself.
-23 error Tell the author that this fails on your system:
-23 error     gulp serve
-23 error You can get information on how to open an issue for this project with:
-23 error     npm bugs hoverboard
-23 error Or if that isn't available, you can get their info via:
-23 error     npm owner ls hoverboard
-23 error There is likely additional logging output above.
-24 verbose exit [ 1, true ]
+4 verbose stack Error: missing script: start
+4 verbose stack     at run (/usr/share/npm/lib/run-script.js:147:19)
+4 verbose stack     at /usr/share/npm/lib/run-script.js:57:5
+4 verbose stack     at /usr/share/npm/node_modules/read-package-json/read-json.js:345:5
+4 verbose stack     at checkBinReferences_ (/usr/share/npm/node_modules/read-package-json/read-json.js:309:45)
+4 verbose stack     at final (/usr/share/npm/node_modules/read-package-json/read-json.js:343:3)
+4 verbose stack     at then (/usr/share/npm/node_modules/read-package-json/read-json.js:113:5)
+4 verbose stack     at /usr/share/npm/node_modules/read-package-json/read-json.js:300:12
+4 verbose stack     at /usr/share/npm/node_modules/graceful-fs/graceful-fs.js:76:16
+4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:511:3)
+5 verbose cwd /home/jaldeep/Downloads/master/applications/devfestahm
+6 error Linux 4.15.0-64-generic
+7 error argv "/usr/bin/node" "/usr/bin/npm" "start"
+8 error node v8.10.0
+9 error npm  v3.5.2
+10 error missing script: start
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]
