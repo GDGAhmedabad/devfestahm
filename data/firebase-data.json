@@ -1140,6 +1140,120 @@
       "title" : ""
     } ],
     "title" : "Creative Team"
+  }, {
+    "members" : [ {
+      "name" : "Jignesh Thanki",
+      "photo" : "/images/people/jignesh_thanki.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki.png?alt=media&token=adf57fd5-959a-43d1-8161-4439fada61d5",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/JigsThanki1987",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jigneshthanki1987/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://jigsthanki1987.wordpress.com/",
+        "name" : "Website"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Manthan Ladva",
+      "photo" : "/images/people/manthan_ladva.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmanthan_ladva.png?alt=media&token=bcb27139-539d-4955-a6f0-be5897cde879",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/manthan_ladva",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/manthan-ladva-506a04116/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/manthan-ladva",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Dhruv Patel",
+      "photo" : "/images/people/dhruv_patel.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhruv_patel.jpeg?alt=media&token=933de731-1c40-4554-a1e6-2257a17b8a41",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/deardhruv",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/deardhruv/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/DearDhruv",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "http://deardhruv.com/",
+        "name" : "Website"
+        } ],
+        "title" : ""
+      }, {
+        "name" : "Abhishek Jani",
+        "photo" : "/images/people/abhishek_jani.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani.jpg?alt=media&token=3344edc8-7bb8-49e7-bd3e-26bd0f795dac",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/Abhi_Jani",
+          "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/abhijani/",
+          "name" : "LinkedIn"
+        }, {
+          "icon" : "website",
+          "link" : "https://about.me/abhijani",
+          "name" : "Website"
+        } ],
+      "title" : ""
+    } ],
+    "title" : "Social Media Team"
+  }, {
+    "members" : [ {
+      "name" : "Hiral Thaker",
+      "photo" : "/images/people/hiral_thaker.jpg",
+      "photoUrl" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hiralthaker12",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/hiral-thaker-01a98014b/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Pritha Upadhyay",
+      "photo" : "/images/people/pritha_upadhyay.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpritha_upadhyay.jpeg?alt=media&token=31744a3a-daa4-4fab-a7bf-f59f64896cfa",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/PrithaUpadhyay1",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/prithaupadhyay/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/prithaupadhyay",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    } ],
+    "title" : "Content Writer"
   } ],
   "tickets" : [ {
     "available" : false,
