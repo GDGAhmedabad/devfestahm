@@ -388,71 +388,20 @@
     }
   },
   "speakers" : {
-    "karthik_padmanabhan" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/karthik_padman",
-        "name" : "google"
-      } ],
-      "bio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for India, Middle East and North Africa regions. Karthik has been with the tech industry for almost three decades in the areas of product management, business development, tech evangelism, etc. He leads a team that focuses on enabling developer communities to adopt Google & open source technologies like TensorFlow, PWA, Android, & Google Cloud for the Next Billion Users (NBU). Karthik is a seeker, plays Golf, works at Google's Bangalore office and lives on a farm that functions on sustainable living practices.",
-      "company" : "Google India",
+    "adit_lal" : {
+      "bio" : "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography.",
+      "company" : "GoJek",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Bangalore",
       "featured" : true,
-      "name" : "Karthik Padmanabhan",
-      "photo" : "/images/people/speakers/karthik_padmanabhan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkarthik_padmanabhan.jpg?alt=media&token=cc6275c7-a182-471a-9b39-4af99adc0250",
-      "shortBio" : "Karthik Padmanabhan is the Developer Relations Program lead at Google and is responsible for Indi...",
+      "name" : "Adit Lal",
+      "photo" : "/images/people/speakers/2019/adit_lal.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fadit_lal.jpg?alt=media&token=4c633667-503b-482b-bb68-87a6e40fbdd7",
+      "shortBio" : "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/karthik_padman",
-        "name" : "Twitter"
-      } ],
-      "title" : "Developer Relations Program lead"
-    },
-    "biswajeet_mallik" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/biswajeet_137",
-        "name" : "google"
-      } ],
-      "bio" : "Google India lead for DevRel Communities Programs",
-      "company" : "Google India",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Bangalore",
-      "featured" : true,
-      "name" : "Biswajeet Mallik",
-      "photo" : "/images/people/speakers/biswajeet_mallik.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbiswajeet_malik.jpg?alt=media&token=d4965775-8561-42c5-9c79-85f5ca7f11bb",
-      "shortBio" : "Google India lead for DevRel Communities Programs",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/biswajeet_137",
-        "name" : "Twitter"
-      } ],
-      "title" : "Lead for DevRel Communities Programs"
-    },
-    "paresh_mayani" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app development. He has been working on android application development since Cupcake(Android 1.5). Over the span of period, he has worked on many challenging mobile projects in different domains like Automobile, e-commerce and health care. <br/><br/> He is an avid Open source enthusiast, who has been organizing events as well as blogging, speaking and mentoring on Android related topics since 2010. He can be frequently found giving talks on various topics ranging from android development best practices, android UI/UX, android testing and Android BLE at Domestic & International conferences such as Android Developer Days Turkey (Droidcon Ankara), DevFest Kathmandu, GDG DevCamp and NitroDroid. <br/><br/> He has been actively supporting his fellow android developers through various online and offline means. His has published more than 150 articles on his blog TechnoTalkative on which he writes about various technical solutions for Android Development. He holds 95000+ reputation on StackOverflow , where he is also in 10 highest reputation holders for Android tag. <br/><br/> He is also been nominated for the Google Developers Expert for Android program. Recently he was invited to attend the Google IO 2016 event at Mountain View, California. <br/><br/> Currently he is working as a Practice Head at Simform Solutions Pvt. Ltd. He is also been a mentor for start-ups having android apps. He is a founder/organizer of Google Developers Group Ahmedabad , one of the senior most organiser in India.",
-      "company" : "Simform Solutions Pvt. Ltd.",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Paresh Mayani",
-      "photo" : "/images/people/paresh_mayani.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
-      "shortBio" : "Paresh Mayani is a full time mobile application developer having 8 years of experience in app develo...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pareshmayani",
+        "link" : "https://twitter.com/aditlal",
         "name" : "Twitter"
       }, {
         "icon" : "github",
@@ -460,225 +409,149 @@
         "name" : "GitHub"
       }, {
         "icon" : "linkedin",
-        "link" : "https://in.linkedin.com/in/pareshmayani",
+        "link" : "https://linkedin.com/in/aditlal",
         "name" : "LinkedIn"
       }, {
         "icon" : "website",
-        "link" : "http://www.technotalkative.com/",
-        "name" : "Website"
+        "link" : "https://adit.dev/",
+        "name" : "Blog"
       } ],
-      "title" : "Practice Head"
+      "title" : "Product Engineer"
     },
-    "dhrumil_shah" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutter_Flakes Who has started working with Android when Android 2.1 was announced & now exploring cross-platform technologies like React Native and Flutter. <br/><br/> He has done Masters in Computer Engineering in Wireless and Mobile Computing. Being an expert, he has an excellent command over developing applications that has made him a good trainer as well as an avid speaker in his domain. He often organises workshops, seminars and talks to help developers & students who look forward to grow their careers in the field of Mobile Computing.",
-      "company" : "Shipmnts",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Dhrumil Shah",
-      "photo" : "/images/people/dhrumil_shah.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
-      "shortBio" : "Dhrumil Shah the co-organiser of GDG Ahmedabad and a Mobile Developer at Shipmnts. Founder of @Flutt...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dhuma1981",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/dhuma1981",
-        "name" : "GitHub"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/dhuma1981",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Mobile Developer"
-    },
-    "utpal_betai" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
-      "company" : "SoluLab",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : true,
-      "name" : "Utpal Betai",
-      "photo" : "/images/people/utpal_betai.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
-      "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/utpalbetai",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/utpal.betai.9",
-        "name" : "Facebook"
-      } ],
-      "title" : "Sr. Project Manager"
-    },
-    "neha_sharma" : {
-      "bio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I love coding and calligraphy.",
-      "company" : "Atos | syntel",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "New Delhi",
-      "featured" : true,
-      "name" : "Neha Sharma",
-      "photo" : "/images/people/speakers/neha_sharma.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fneha_sharma.jpg?alt=media&token=1550a4ce-3899-470b-9b94-ed6db6436381",
-      "shortBio" : "I have 9 years of experience as web developer. I m active speaker and community evangelist. I love coding and...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/hellonehha",
-        "name" : "Twitter"
-      } ],
-      "title" : "Front end Architect"
-    },
-    "rivu_chakrborty" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Kolkata",
-        "link" : "https://www.meetup.com/GDG-Kolkata/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Rivu Chakraborty is a Google Certified Associate Android Developer, Caster.io Instructor, Author of Multiple Kotlin Books and Sr. Tech Member of Institute of Engineers (India). He is currently working as a Sr. Software Engineer (Android) at a BYJU'S.",
-      "company" : "BYJU'S",
+    "divyanshu_bhargava" : {
+      "bio" : "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started from Android and took a turn at Flutter. He has 3+ years of experience of building mobile apps. He has done B.Tech in Computer Science and Engineering. He is creator of Android Draw and Chitr application. Being a blogger and open source lover he keen interest in to help developers & students who look forward to growing their careers in the field of Mobile Computing.",
+      "company" : "GoHighLevel",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Bangalore",
-      "featured" : false,
-      "name" : "Rivu Chakrborty",
-      "photo" : "/images/people/speakers/rivu_chakrborty.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Frivu_chakrborty.jpg?alt=media&token=d6eebe59-5f94-4c2a-9afc-abf78421804a",
-      "shortBio" : "Rivu Chakraborty is a Google Certified Associate Android Developer, Caster.io Instructor, Author of Multi...",
+      "featured" : true,
+      "name" : "Divyanshu Bhargava",
+      "photo" : "/images/people/speakers/2019/divyanshu_bhargava.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdivyanshu_bhargava.jpg?alt=media&token=05805f70-5ce4-43f7-9bcc-658ff4480556",
+      "shortBio" : "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/rivuchakraborty",
+        "link" : "https://twitter.com/divyanshub024",
         "name" : "Twitter"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/rivuchk/",
+        "link" : "https://www.linkedin.com/in/divyanshub024/",
         "name" : "LinkedIn"
       }, {
         "icon" : "website",
-        "link" : "http://rivuchk.com/",
-        "name" : "Website"
+        "link" : "https://medium.com/@divyanshub024",
+        "name" : "Blog"
       } ],
-      "title" : "Sr. Software Engineer (Android)"
+      "title" : "Flutter Developer"
     },
-    "burhanuddin_rashid" : {
-      "bio" : "Application Developer at Technogise Open Source enthusiast, Google Certified Android Developer.",
-      "company" : "Technogise",
+    "rohan_mishra" : {
+      "bio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
+      "company" : "Zomato",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "Pune",
-      "featured" : false,
-      "name" : "Burhanuddin Rashid",
-      "photo" : "/images/people/speakers/burhanuddin_rashid.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fburhanuddin_rashid.jpeg?alt=media&token=14e93520-c1a1-416a-a477-9002a47e0371",
-      "shortBio" : "Application Developer at Technogise Open Source enthusiast, Google Certified Android Developer...",
+      "country" : "Gurgaon",
+      "featured" : true,
+      "name" : "Rohan Mishra",
+      "photo" : "/images/people/speakers/2019/rohan_mishra.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
+      "shortBio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier...",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/burhanrashid52",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/burhanrashid52",
-        "name" : "GitHub"
-      }, {
-        "icon" : "website",
-        "link" : "https://burhanrashid52.github.io",
-        "name" : "Website"
-      } ],
-      "title" : "Technogise"
-    },
-    "krupa_galiya" : {
-      "bio" : "A PyGirl whose main interest lies in AI, NLP, and Algorithms. Currently, she is exploring advanced AI concepts and tends to do algorithms from scratch. She has completed various projects based on Machine Learning/Deep Learning, NLP and Python. She loves to share knowledge and do research. Currently, pursuing BE-IT from Vishwakarma Govt. engineering college in the third year.",
-      "company" : "Vishwakarma govt engineering college",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Krupa Galiya",
-      "photo" : "/images/people/speakers/krupa_galiya.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkrupa_galiya.jpg?alt=media&token=0a45187a-3ec9-4433-9b66-7a31927b2859",
-      "shortBio" : "A PyGirl whose main interest lies in AI, NLP, and Algorithms. Currently, she is exploring advance AI con...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Krupagaliya",
-        "name" : "Twitter"
-      }, {
         "icon" : "linkedin",
-        "link" : "https://in.linkedin.com/in/krupagaliya",
+        "link" : "https://linkedin.com/in/iamrohanmishra",
         "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.rohanmishra.design/blog",
+        "name" : "Blog"
       } ],
-      "title" : "Student"
+      "title" : "Product Design"
     },
-    "parth_jansari" : {
+    "dharmesh_vaya" : {
       "badges" : [ {
-        "description" : "Google Developers Group Gandhinagar",
-        "link" : "https://www.meetup.com/GDG-Gandhinagar/",
+        "description" : "Google Developers Experts - GCP",
+        "link" : "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-dharmesh_vaya",
         "name" : "gdg"
       } ],
-      "bio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playing games(most of the time) or watching Movies/Tv Series.Parth has five years of experience in designing and two years experience in front-end development. Parth uses Angular for Creating frontend, ionic and Flutter to create hybrid apps. Parth has mastery over most of the adobe creative suite apps.Currently, Parth is exploring Flutter as he believes it can be a replacement for ionic 2 and all other hybrid app frameworks.",
-      "company" : "Software Engineer",
+      "bio" : "Dharmesh is a Solutions Architect known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams. Currently heading one of the Engineering divisions responsible for Software Environments/Cloud Architecture with a focus on Automation technologies. He is a Google Developer Expert for Google Cloud Platform and actively manages Google Cloud Developers Community, Mumbai. He speaks at various conferences and mentors Students, Young Professionals as well as local businesses on Cloud Technologies using the Google Cloud Platform and Open Source technologies. Loves travelling, back-packing as well as trekking off to unexplored destinations.",
+      "company" : "Google Developer Expert (Cloud)",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "Gandhinagar",
-      "featured" : false,
-      "name" : "Parth Jansari",
-      "photo" : "/images/people/speakers/parth_jansari.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fparth_jansari.jpg?alt=media&token=24da00f6-740e-402b-b187-7aa5b8bd0632",
-      "shortBio" : "Parth is a guy who is trying to grow up and do mature stuff and work but ends up designing, playing games(mo...",
+      "country" : "Mumbai",
+      "featured" : true,
+      "name" : "Dharmesh Vaya",
+      "photo" : "/images/people/speakers/2019/dharmesh_vaya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdharmesh_vaya.jpg?alt=media&token=cc9ec1b2-7526-4869-a556-78e434a40292",
+      "shortBio" : "Dharmesh is a Solutions Architect known for his ability of developing enterprise applications on...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/jansariparth",
+        "link" : "https://twitter.com/DRVaya",
         "name" : "Twitter"
       }, {
-        "icon" : "github",
-        "link" : "https://github.com/parth181195",
-        "name" : "GitHub"
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/dharmeshvaya",
+        "name" : "LinkedIn"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/parth.jansari.3",
-        "name" : "Facebook"
+        "icon" : "website",
+        "link" : "https://medium.com/@DRVaya",
+        "name" : "Blog"
       } ],
-      "title" : "Freelancer"
+      "title" : "Solutions Architect"
     },
-    "charmi_chokshi" : {
-      "bio" : "Working with data and predicting future based on it is Charmi's passion and it has always made her feel like a Magician! She is an AI and Data enthusiast who is always willing to learn from new challenges and love to share the experiences with others. She has facilitated the first pilot of Machine Learning Crash Course in India back in September 2017 and was a Research Trainee at Indian Space Research Organisation in summer 2018. Currently, she is a Teaching Assistant and a final year student of ICT Engineering at Ahmedabad University.",
-      "company" : "Ahmedabad University",
+    "jimit_rangras" : {
+      "bio" : "Currently working as an DevOps Engineer at Infostretch, I am mostly inclined towards crafting solutions revolving around various Cloud Platforms such as Google Cloud Platform, Amazon Web Services (AWS), Microsoft Azure and DevOps tools and technologies such as CI/CD, Infrastructure Management, Containerization using Docker and Kubernetes, etc.",
+      "company" : "Infostretch",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Ahmedabad",
       "featured" : false,
-      "name" : "Charmi Chokshi",
-      "photo" : "/images/people/speakers/charmi_chokshi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fcharmi_chokshi.jpg?alt=media&token=8afa6490-803f-41f2-a8e0-0d65b1cf0301",
-      "shortBio" : "Working with data and predicting future based on it is Charmi's passion and it has always made her feel lik...",
+      "name" : "Jimit Rangras",
+      "photo" : "/images/people/speakers/2019/jimit_rangras.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fjimit_rangras.png?alt=media&token=0cfa0bf6-b466-4ed3-94e2-a95dfae5fc82",
+      "shortBio" : "Currently working as an DevOps Engineer at Infostretch, I am mostly inclined towards crafting...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/charmichokshi",
+        "link" : "https://twitter.com/jimit_rangras",
         "name" : "Twitter"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/charmichokshi/",
+        "link" : "https://in.linkedin.com/in/jimitrangras",
         "name" : "LinkedIn"
       } ],
-      "title" : "Teaching Assistant and Student"
+      "title" : "DevOps Engineer"
+    },
+    "anubhav_singh" : {
+      "bio" : "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it. I'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community. I am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
+      "company" : "DataCamp Instructor | Author",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Allahabad",
+      "featured" : false,
+      "name" : "Anubhav Singh",
+      "photo" : "/images/people/speakers/2019/anubhav_singh.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fanubhav_singh.jpg?alt=media&token=30b0c8ed-4ff7-40fd-869c-cae1a73969bf",
+      "shortBio" : "A Web Developer since before Bootstrap was born, I began my journey in the field of computer...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/xprilion",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/xprilion",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://xprilion.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Intel Software Innovator"
     },
     "hiren_dave" : {
-      "bio" : "Hiren Dave is a software engineer, blogger and consultant with over 10 years of professional experience. He writes code in number of languages. Hiren has a passion for developing web apps, mobile apps and writing books and blog articles about programming. He has a googe experience of startups as he manages products for few startups. He is also passionate about researching and learning new technologies and trends.",
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Hiren Dave is a software engineer, blogger and consultant with over 9 years of professional experience. He writes code in number of languages. Hiren has a passion for developing web apps, mobile apps and writing books and blog articles about programming. He has a solid experience of startups as he manages products for few startups. He is also passionate about researching and learning new technologies and trends.",
       "company" : "",
       "companyLogo" : "",
       "companyLogoUrl" : "",
@@ -698,172 +571,14 @@
         "name" : "LinkedIn"
       }, {
         "icon" : "website",
-        "link" : "https://hirendave.tech",
+        "link" : "http://hirendave.tech/about-hiren/",
         "name" : "Website"
       } ],
       "title" : "Self Employed Consultant"
     },
-    "jaldeep_asodariya" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ahmedabad",
-        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Jaldeep Asodariya is an Android Developer and working at Jain Bhavesh Solutions. As he developed many enormous emerging Android Application so far and got client’s satisfaction through his Development work. He is a core organizing team member of Google Developer Group (GDG), Ahmedabad. <br/><br/> Jaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant Applications as well as he has proficient knowledge in NodeJS. <br/><br/> He earned post graduate degree (MSc. IT) from Kadi Sarva University. After he started his career with the BSP Technologies as a fresher and utilize his skills for the Android Application Development.  In the spare time, Jaldeep likes to watch Google Technology videos and enlarge Photography skills.",
-      "company" : "Jain Bhavesh Solutions",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Jaldeep Asodariya",
-      "photo" : "/images/people/jaldeep_asodariya.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya.jpg?alt=media&token=7c180d26-7b48-4751-862d-cd7e5f5a8119",
-      "shortBio" : "Jaldeep Asodariya is an Android Developer and a core organizing team member of GDG Ahmedabad. As he dev...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/jaldeepasodariy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/JaldeepAsodariya",
-        "name" : "GitHub"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://in.linkedin.com/in/jaldeep-jd-asodariya-a4399b5a",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Android Developer"
-    },
-    "aimanzaki_kagzi" : {
-      "bio" : "He started his own company AimCrafters in 2010 during his studies, he has been developing software and mobile apps for 8 years. He developed 22+ apps for customers including iOS and Android. He has  been working on Android for 5 years. He is quick learner and techno geek. He awarded for creation 2012 for his national level project. He delivered talks and expert sessions in many engineering colleges with hands on exercise and practice.",
-      "company" : "AimCrafters",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Aimanzaki Kagzi",
-      "photo" : "/images/people/speakers/aimanzaki_kagzi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Faimanzaki_kagzi.jpg?alt=media&token=1ce44fff-fee0-456e-bbd5-226540d55f57",
-      "shortBio" : "He started his own company AimCrafters in 2010 during his studies, he has been developing software and...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Aimanzaki",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/aimanzaki/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/aimanzakikagzi",
-        "name" : "Facebook"
-      } ],
-      "title" : "Software Developer"
-    },
-    "dhruv_patel" : {
-      "bio" : "He is a Sr. Software engineer at Reliance Jio, Mumbai. He is developing mobile applications since last 7 years. He has also worked on bots. He created many product applications to feel his curiosity of how things work. He likes chess, Anime and Astronomy. He mostly found active on social media. He has previously delivered technical sessions at GDG Rajkot  and many universities.",
-      "company" : "Reliance Jio",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Mumbai",
-      "featured" : false,
-      "name" : "Dhruv Patel",
-      "photo" : "/images/people/speakers/dhruv_patel.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fdhruv_patel.jpg?alt=media&token=ff0a5682-ec8f-4c7b-b628-1640344f7f72",
-      "shortBio" : "He is a Sr. Software engineer at Reliance Jio, Mumbai. He is developing mobile applications since last 7 years. He...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/DearDhruv",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/deardhruv/",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Sr. Software Engineer"
-    },
-    "smit_shah" : {
-      "bio" : "Smit Shah is Co-Founder & CEO of eSecurify Technologies. He is a Certified Ethical Hacker. He has constantly been engaged in conducting workshops and bootcamps for corporate houses and academic institutions such as IIT's, NIT's, BITS Pilani, Sinhgadh University, SRM University and many more. He has also trained more than 6000 students. <br/><br/> He has a wide experience in the field of Web & Mobile Application Vulnerability Assessment & Penetration Testing. Smit has reported a loophole on PayPal. PayPal is widely used for online overseas payment transfer. Apart from this, his recent research includes a 0 day Vulnerability on edX-Platform. edX is an open source online course launcher application. <br/><br/> A Certified Ethical Hacker has also found vulnerabilities in Barracuda Networks, Secunia, SANS, WebSecurify, Scanmyserver and many other IT Security Giants giants. He recently reported a critical flaw to Mobikwik Wallet App. <br/><br/> He has also been invited as a Guest Speaker in many Live Talk Shows on current affairs related to Cyber World like Cyber Attack on Pakistani Websites after Pathankot Attack, Whatsapp Hacking, Facebook Hacking, Credit & Debit Card Frauds, Email Hacking, Computer Hacking and many more. <br/><br/> He has also cracked the toughest interview (a multi staged international interview process) of Synack and is now a proud Synack Red Team (SRT) Member.",
-      "company" : "eSecurify Technologies",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Smit Shah",
-      "photo" : "/images/people/speakers/smit_shah.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fsmit_shah.jpg?alt=media&token=70497d3c-0b6b-49e6-b163-def119bed1b0",
-      "shortBio" : "Smit Shah is Co-Founder & CEO of eSecurify Technologies. He is a Certified Ethical Hacker. He has constantly been...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/smitshah92",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/smitbshah/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/smitshah.me",
-        "name" : "Facebook"
-      } ],
-      "title" : "Co-founder & CEO"
-    },
-    "shubham_pachori" : {
-      "bio" : "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the Global Shipping Industry. At Shipmnts, I understand the product requirements of users within a complex domain, prioritize them from a business and a user successes point of view and then architect the solution along with a super talented team.",
-      "company" : "Shipmnts",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Shubham Pachori",
-      "photo" : "/images/people/speakers/shubham_pachori.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fshubham_panchori.jpg?alt=media&token=2d0859f9-0ec7-40a1-b30e-36564b04c7d3",
-      "shortBio" : "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/spachori94",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/shubham-pachori-b5703a86/",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Product Manager"
-    },
-    "md_shahbaz_alam" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Ranchi",
-        "link" : "https://www.meetup.com/GDG-Ranchi/",
-        "name" : "gdg"
-      } ],
-      "bio" : "I’m a Full Stack Developer, GDG Ranchi Organizer, Developer Evangelist, Auth0 Ambassador, and Mozilla Representative. I speak on Serverless, Authentication & Authorization, Security, Web Extensions and Virtual Reality at different meet-ups and conferences.",
-      "company" : "Auth0",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ranchi",
-      "featured" : false,
-      "name" : "Md. Shahbaz Alam",
-      "photo" : "/images/people/speakers/md_shahbaz_alam.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fmd_shahbaz_alam.jpg?alt=media&token=35006dcc-8435-4e37-a63f-6fec82b2fdcc",
-      "shortBio" : "I’m a Full Stack Developer, GDG Ranchi Organizer, Developer Evangelist, Auth0 Ambassador, and Mozilla Repre...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/mdsbzalam",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/mdsbzalam",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/mdsbzalam",
-        "name" : "Facebook"
-      } ],
-      "title" : "Developer Evangelist"
-    },
     "bhavik_makwana" : {
-      "bio" : "I am a Flutter Enthusiast, Google Certified Associate Android Developer. <br/><br/> I am also a part of the scholarship from the Udacity India for the Android Nanodegree.",
-      "company" : "Multidots solutions Pvt Ltd.",
+      "bio" : "He is a Flutter Enthusiast, Google certified associate android developer and Open-source contributor. He is one of the early Flutter adopter and loves to share knowledge through blog posts, public speaking and open source contributions. He has also started a community in Ahmedabad for Flutter and featured in The top 45 must-follow Flutter experts on Twitter by codemagic.io.",
+      "company" : "Simform Solutions",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Ahmedabad",
@@ -871,7 +586,7 @@
       "name" : "Bhavik Makwana",
       "photo" : "/images/people/speakers/bhavik_makwana.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbhavik_makwana.jpg?alt=media&token=9aa45f5e-c05c-4d03-b671-b6173a3889eb",
-      "shortBio" : "I am a Flutter Enthusiast, Google Certified Associate Android Developer. I am also a part of the scholarship...",
+      "shortBio" : "He is a Flutter Enthusiast, Google certified associate android developer and Open...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/ibhavikmakwana",
@@ -881,14 +596,66 @@
         "link" : "https://in.linkedin.com/in/ibhavikmakwana",
         "name" : "LinkedIn"
       }, {
-        "icon" : "github",
-        "link" : "https://github.com/ibhavikmakwana",
-        "name" : "GitHub"
+        "icon" : "website",
+        "link" : "https://medium.com/@ibhavikmakwana",
+        "name" : "Website"
       } ],
-      "title" : "Android Developer"
+      "title" : "Software Engineer"
+    },
+    "sachin_jani" : {
+      "bio" : "Sachin Jani is full-stack developer works in everything related to JavaScript. JavaScript has made him what he is today and will forever be his eternal love. He believes in writing quality code and quality matters a lot to him. He’s also a huge fan of React ecosystem and believes that react has made him a better developer. He’s also active in contributing to open source. DX matters a lot to him. The way UX is important for the users, DX is important for developers. It makes development productive. He recently built a node app using GraphQL and Prisma with all the amazing toolings and has also contributed in Prisma’s Github and Slack community.",
+      "company" : "Simform Solutions",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Sachin Jani",
+      "photo" : "/images/people/speakers/2019/sachin_jani.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsachin_jani.jpg?alt=media&token=d98bd0ac-7529-4952-9f5d-0260a312e0f4",
+      "shortBio" : "Sachin Jani is full-stack developer works in everything related to JavaScript...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/5achinjani",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sachin-jani",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@sachin.jani",
+        "name" : "Website"
+      } ],
+      "title" : "Full-Stack JavaScript developer"
+    },
+    "ryan_dsouza" : {
+      "bio" : "A Team Lead and Full Stack developer who has fallen in love with the JavaScript ecosystem. He has an expertise in frontend technologies like React, Svelte as well as in the backend like Node, GraphQL, and Prisma. Also active in contributing to open-source projects and writing useful blog posts. He always likes to explore what's new in the JavaScript community and implement those in his repository. He is also active in the developer communities in Twitter, Slack, Dev.to as well as local meetups. Also, he’s a huge DevOps fanboy, who loves to tinker with AWS services. His mantra: Write code that humans can understand.",
+      "company" : "Simform Solutions",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Ryan Dsouza",
+      "photo" : "/images/people/speakers/2019/sachin_jani.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fryan_dsouza.jpg?alt=media&token=92af1bd8-3f05-4b11-a250-ed49dcd5a770",
+      "shortBio" : "A Team Lead and Full Stack developer who has fallen in love with the JavaScript ecosystem. He...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ryands1701",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ryan-d-souza-880522125",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://dev.to/ryands17",
+        "name" : "Website"
+      } ],
+      "title" : "Team Lead"
     },
     "nimesh_solanki" : {
-      "bio" : "Nimesh is a 3rd-year UG student pursuing ICT engineering at PDPU Gandhinagar. <br/><br/>He's a tech enthusiast who's passionate about voice and web technologies. He's got a zest for coding, in particular for JavaScript. Has designed & developed voice application for virtual assistants like Google assistant and Amazon Alexa and looking forward to develop more in this domain, currently working on a research paper on BlockChain based Advanced Public Transport System.",
+      "bio" : "I'm a tech enthusiast and a huge fan of FaaS and JavaScript, passionate about conversational AI. #1 Voice Ambassador globally and Scholarship holder in VOICE SUMMIT 2019. Also, invited to speak at Inside VOICE podcast by VOICE Summit 2019 Also got selected for the Bixby Premier Developer Program. Being a tech enthusiast, I'm a huge fan of FaaS and JavaScript, passionate about conversational AI. I happen to deliver a talk on Actions on Google at GDG AHMEDABAD'S DevFest last year. Worked as a software developer intern at Winimy, where I design & develop the voice user interface and voice user experiences.Earlier worked on a Research paper on BlockChain based Advanced Public Transport System. As a part of my interest in Conversational AI, I've developed voice-based apps for Google Assistant, Amazon Alexa and Samsung Bixby.",
       "company" : "Pandit Deendayal Petroleum Univerisity",
       "companyLogo" : "",
       "companyLogoUrl" : "",
@@ -897,7 +664,7 @@
       "name" : "Nimesh Solanki",
       "photo" : "/images/people/speakers/nimesh_solanki.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fnimesh_solanki.jpg?alt=media&token=b3bd164e-7c90-4b87-acc6-815b683e522f",
-      "shortBio" : "Nimesh is a 3rd-year UG student pursuing ICT engineering at PDPU Gandhinagar. He's a tech enthusiast...",
+      "shortBio" : "I'm a tech enthusiast and a huge fan of FaaS and JavaScript, passionate about...",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/NimeshS17",
@@ -908,58 +675,32 @@
         "name" : "LinkedIn"
       }, {
         "icon" : "website",
-        "link" : "https://snimesh.com/",
-        "name" : "Website"
+        "link" : "https://medium.com/@nish17/my-experience-of-voice-summit-2019-25157def56d6",
+        "name" : "Blog"
       } ],
-      "title" : "Student"
+      "title" : "Final Year B.Tech student"
     },
-    "juhil_somaiya" : {
-      "bio" : "A MAD guy - Motivated, Ambitious and Diligent. <br/><br/> He's Machine Learning explorer by heart and Python, Odoo developer by profession. He has worked as Google Applied CS with Android Facilitator. He is a part of Actions on Google Developers community and Coursera Data Science community. He is also a blogger, who's writing about Machine Learning at Data Driven Investor's Publication on Medium.",
-      "company" : "Odoo India",
+    "darshan_pania" : {
+      "bio" : "Java/Android Developer for the past 7 years and trying to make a dent in the App universe by building a robust Android Library currently being used by 4000+ apps",
+      "company" : "CleverTap",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "Gandhinagar",
+      "country" : "Mumbai",
       "featured" : false,
-      "name" : "Juhil Somaiya",
-      "photo" : "/images/people/speakers/juhil_somaiya.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fjuhil_somaiya.jpg?alt=media&token=f79b21a0-7192-40d6-802d-81540cb196b9",
-      "shortBio" : "A MAD guy - Motivated, Ambitious and Diligent. He's Machine Learning explorer by heart and Python, Odoo develo...",
+      "name" : "Darshan Pania",
+      "photo" : "/images/people/speakers/2019/darshan_pania.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdarshan_pania.jpg?alt=media&token=cd1a96b5-745a-43b1-8970-14efc5be33a1",
+      "shortBio" : "Java/Android Developer for the past 7 years and trying to make a dent in the App universe by buil...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ImJuhilSomaiya",
+        "link" : "https://twitter.com/i_m_Pania",
         "name" : "Twitter"
       }, {
-        "icon" : "github",
-        "link" : "https://github.com/juhilsomaiya",
-        "name" : "GitHub"
-      }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/juhil-somaiya-401502b8/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/juhil.somaiya",
-        "name" : "Facebook"
-      } ],
-      "title" : "Jr. Application Engineer"
-    },
-    "anil_shahu" : {
-      "bio" : "8 Years of experience in Industry,  started career as Python developer and eventually moved to Scrum Master and Project manager roles. passionate about 3D printing and DIY projects.",
-      "company" : "Codal",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Ahmedabad",
-      "featured" : false,
-      "name" : "Anil Shahu",
-      "photo" : "/images/people/speakers/anil_shahu.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fanil_shahu.jpeg?alt=media&token=07b161c8-6daa-4ebc-baf4-f78bc3c1be80",
-      "shortBio" : "8 Years of experience in Industry,  started career as Python developer and eventually moved to Scrum Mast...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/anilshahu/",
+        "link" : "https://www.linkedin.com/in/darshan-pania-4395592a/",
         "name" : "LinkedIn"
       } ],
-      "title" : "Engineering Lead"
+      "title" : "Lead Android Developer"
     }
   },
   "team" : [ {
