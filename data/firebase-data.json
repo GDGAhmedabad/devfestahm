@@ -730,10 +730,6 @@
         "icon" : "facebook",
         "link" : "https://www.facebook.com/dhuma1981",
         "name" : "Facebook"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+DhrumilShah",
-        "name" : "Google+"
       } ],
       "title" : "Co-Organizer"
     }, {
@@ -790,10 +786,6 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/dhruvashastri12",
         "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+DhruvaShastri",
-        "name" : "Google+"
       } ],
       "title" : "WTM Ambassador"
     }, {
@@ -993,60 +985,30 @@
     "title" : "Content Writer"
   } ],
   "tickets" : [ {
-    "available" : false,
-    "currency" : "₹",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 200,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "₹",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 320,
-    "regular" : false,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "₹",
-    "ends" : "Jun 30",
-    "inDemand" : true,
-    "info" : "Or first 200 tickets",
-    "name" : "Early Bird",
-    "price" : 375,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
+    "available" : true,
     "currency" : "₹",
     "ends" : "Sep 30",
+    "inDemand" : true,
+    "info" : "Or first 50 tickets",
+    "name" : "Early Bird",
+    "price" : 100,
+    "regular" : true,
+    "soldOut" : false,
+    "starts" : "Sep 30",
+    "url" : "https://allevents.in/ahmedabad/devfestahm-2019-gdg-ahedabad/80002952017442"
+  }, {
+    "available" : true,
+    "currency" : "₹",
+    "ends" : "Oct 07",
     "inDemand" : false,
-    "info" : "Or first 350 tickets",
+    "info" : "I Love DevFestAhm",
     "name" : "Regular",
-    "price" : 500,
+    "price" : 200,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "₹",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 1000,
-    "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Sep 30",
+    "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
   } ],
   "triggers" : {
     "images" : false

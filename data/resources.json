@@ -11,9 +11,9 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Registration Closed",
+  "buyTicket": "Buy ticket",
   "registerToGetTicket": {
-      "link": "https://goo.gl/forms/wUq2qZjIun9oK0bv2"
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
   },
   "signIn": "Sign in",
   "signOut": "Sign out",
