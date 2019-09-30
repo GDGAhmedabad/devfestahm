@@ -253,7 +253,7 @@
       "description" : "Firebase MLKit was introduced in Google I/O 2018. It comes as a part of Firebase suite. It combines capabilities of Google Cloud Vision API, TensorFlow Lite, Neural Network API in single SDK. This allows mobile app developers to use ML models in their apps. It also comes with predefined APIs using which mobile app developers can implement functionalities like image labeling, face detection, barcode scanning etc. in the apps. In this session we will cover basics of ML Kit first. This will show how mobile app developers can use the SDK in their  android project. After this we will explore all the base APIs of SDK with demos. We will have quick demo to demonstrate capabilities of the each APIs. Also we will see how we can embed ML models in the apps by using the SDK with practical demo.",
       "language" : "English",
       "presentation" : "https://speakerdeck.com/hirendave/explore-firebase-mlkit-for-android",
-      "speakers" : [ "hiren_dave" ],
+      "speakers" : [ "" ],
       "tags" : [ "Firebase" ],
       "title" : "Exploring Firebase MLKit on Android",
       "videoId" : "z80MqFtJklU"
@@ -284,7 +284,7 @@
       "extend" : 2,
       "language" : "English",
       "presentation" : "https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM/edit#slide=id.g408dddd754_34_296",
-      "speakers" : [ "parth_jansari", "bhavik_makwana", "dhrumil_shah" ],
+      "speakers" : [ "parth_jansari", "dhrumil_shah" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Flutter"
     },
@@ -304,7 +304,7 @@
       "extend" : 2,
       "language" : "English",
       "presentation" : "https://speakerdeck.com/jaldeepasodariya/codelab-actions-on-google-devfestahm18",
-      "speakers" : [ "jaldeep_asodariya", "juhil_somaiya", "nimesh_solanki" ],
+      "speakers" : [ "jaldeep_asodariya", "juhil_somaiya" ],
       "tags" : [ "Codelab" ],
       "title" : "Codelab - Actions on Google"
     },
@@ -403,10 +403,6 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/aditlal",
         "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/PareshMayani",
-        "name" : "GitHub"
       }, {
         "icon" : "linkedin",
         "link" : "https://linkedin.com/in/aditlal",
