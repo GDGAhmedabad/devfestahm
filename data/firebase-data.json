@@ -388,6 +388,60 @@
     }
   },
   "speakers" : {
+    "utpal_betai" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Ahmedabad",
+        "link" : "https://www.meetup.com/GDG-Ahmedabad/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public speaking and engaging audience in a unique way. You can expect insight into future in his talks. He will take you for a ride full of surprises and emotions which every developer should be part of. So fasten your seat belts and enjoy the ride like every year at this year's Keynote.",
+      "company" : "SoluLab",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Utpal Betai",
+      "photo" : "/images/people/utpal_betai.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+      "shortBio" : "Utpal has a flair for public speaking and beating drums for new technologies. He has aced the art of public...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/utpalbetai",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/utpal.betai.9",
+        "name" : "Facebook"
+      } ],
+      "title" : "Sr. Project Manager"
+    },
+    "siddhant_agarwal" : {
+      "badges" : [ {
+        "description" : "Google India",
+        "link" : "https://twitter.com/sidagarwal04",
+        "name" : "google"
+      } ],
+      "bio" : "Hey there, I’m Siddhant, aka Sid. A Design Thinker at heart. Currently working as Program Coordinator at Google India living in Delhi, India. I am an Intel Software Innovator. I love helping startups scale in User Experience (UX).",
+      "company" : "Google India",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Bangalore",
+      "featured" : true,
+      "name" : "Siddhant Agarwal",
+      "photo" : "/images/people/speakers/siddhant_agarwal.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsiddhant_agarwal.jpeg?alt=media&token=fd8724c0-1acc-42c8-aac5-7feb09369262",
+      "shortBio" : "Program Coordinator for @GoogleDevsIN | Intel Software Innovator | International...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sidagarwal04",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/siddhantagarwal/`",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Program Coordinator"
+    },
     "adit_lal" : {
       "bio" : "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography.",
       "company" : "GoJek",
@@ -625,7 +679,7 @@
       "featured" : false,
       "name" : "Bhavik Makwana",
       "photo" : "/images/people/speakers/bhavik_makwana.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbhavik_makwana.jpg?alt=media&token=9aa45f5e-c05c-4d03-b671-b6173a3889eb",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fbhavik_makwana.jpg?alt=media&token=964b9c70-1bd2-4dc9-9848-00578f2937c0",
       "shortBio" : "He is a Flutter Enthusiast, Google certified associate android developer and Open...",
       "socials" : [ {
         "icon" : "twitter",
@@ -861,7 +915,7 @@
       "featured" : false,
       "name" : "Charmi Chokshi",
       "photo" : "/images/people/speakers/2019/charmi_chokshi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdarshan_pania.jpg?alt=media&token=cd1a96b5-745a-43b1-8970-14efc5be33a1",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcharmi_chokshi.jpg?alt=media&token=4c2485cd-d06e-43a1-a6eb-750611a734eb",
       "shortBio" : "Working with data and predicting future based on it is Charmi's passion and it has always made he...",
       "socials" : [ {
         "icon" : "twitter",
