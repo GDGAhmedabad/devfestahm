@@ -466,7 +466,7 @@
       "badges" : [ {
         "description" : "Google Developers Experts - GCP",
         "link" : "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-dharmesh_vaya",
-        "name" : "gdg"
+        "name" : "gde"
       } ],
       "bio" : "Dharmesh is a Solutions Architect known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams. Currently heading one of the Engineering divisions responsible for Software Environments/Cloud Architecture with a focus on Automation technologies. He is a Google Developer Expert for Google Cloud Platform and actively manages Google Cloud Developers Community, Mumbai. He speaks at various conferences and mentors Students, Young Professionals as well as local businesses on Cloud Technologies using the Google Cloud Platform and Open Source technologies. Loves travelling, back-packing as well as trekking off to unexplored destinations.",
       "company" : "Google Developer Expert (Cloud)",
@@ -514,6 +514,50 @@
         "name" : "LinkedIn"
       } ],
       "title" : "DevOps Engineer"
+    },
+    "himadri_pandya" : {
+      "bio" : "Himadri Pandya is pursuing a Masters in Technology in the domain of Information and Communication Technology with a specialization in Machine Intelligence from DAIICT, India. She is currently exploring the field of computer vision. She is fascinated with Operating Systems and has worked with the Linux kernel as an Outreachy intern. During her internship, she has worked on improving the Linux kernel support for running as a guest on Microsoft's hypervisor Hyper-V with larger page sizes on ARM64 architecture. When she is not glued to the computer screen, she reads motivational and philosophical literature, practices Karate and plays her guitar.",
+      "company" : "Outreachy",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Gandhinagar",
+      "featured" : false,
+      "name" : "Himadri Pandya",
+      "photo" : "/images/people/speakers/2019/himadri_pandya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fhimadri_pandya.jpg?alt=media&token=faeded70-aa8c-48ff-819e-ad051e823e97",
+      "shortBio" : "Himadri Pandya is pursuing a Masters in Technology in the domain of Information and Communication...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/himadrispandya",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://himadripandya.me/",
+        "name" : "Website"
+      } ],
+      "title" : "Linux Kernel Intern"
+    },
+    "sheeni_saxena" : {
+      "bio" : "My born & brought up is from ahmedabad. I have done B-Tech in IT from G.I.T college. I have 4+ experience in android development. I am attending WTM & GDG events from 2015.",
+      "company" : "Icoderz solutions pvt ltd",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmadabad",
+      "featured" : false,
+      "name" : "Sheeni Saxena",
+      "photo" : "/images/people/speakers/2019/sheeni_saxena.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsheeni_saxena.jpeg?alt=media&token=ddd1cd09-ada2-452e-902d-1854f8bbe905",
+      "shortBio" : "My born & brought up is from ahmedabad. I have done B-Tech in IT from G.I.T college. I have 4+ ex...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sheenisaxena",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sheeni-saxena-76a86a7b/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Sr. Android Developer"
     },
     "anubhav_singh" : {
       "bio" : "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it. I'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community. I am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
@@ -697,6 +741,225 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Lead Android Developer"
+    },
+    "tathagat_thapliyal" : {
+      "bio" : "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things.",
+      "company" : "Voz",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "New Delhi",
+      "featured" : false,
+      "name" : "Tathagat Thapliyal",
+      "photo" : "/images/people/speakers/2019/tathagat_thapliyal.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Ftathagat_thapliyal.jpg?alt=media&token=a37ee686-353d-4ac9-bd61-706bbfcb085a",
+      "shortBio" : "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sumoneisback001",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/tathagat-thapliyal/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Co-Founder, CTO"
+    },
+    "ripal_shah" : {
+      "bio" : "A self-motivated electronics and communication engineer who found her love in computers. Working as a blockchain developer from last 2 years and accomplished a high level of expertise in the field . Fond of playing badminton and have strong belief in karma.",
+      "company" : "Solulab",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Ripal Shah",
+      "photo" : "/images/people/speakers/2019/ripal_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fripal_shah.png?alt=media&token=dce13c49-ef32-448c-bbad-8f07133dd57a",
+      "shortBio" : "A self-motivated electronics and communication engineer who found her love in computers. Working...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ripal-shah-b22343113/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Blockchain developer"
+    },
+    "bharat_makwana" : {
+      "bio" : "I am an android+flutter development also currently i am doing my diploma in computer engineering.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Bharat Makwana",
+      "photo" : "/images/people/speakers/2019/bharat_makwana.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fbharat_makwana.jpg?alt=media&token=f7334b88-21c3-4a27-905b-e142f88b3504",
+      "shortBio" : "I am an android+flutter development also currently i am doing my diploma in computer engineering...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bharatmk256",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/bharatmk257/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@bharatmk257",
+        "name" : "Blog"
+      } ],
+      "title" : "Pink+purple==fuchsia"
+    },
+    "himanshu_singh" : {
+      "bio" : "I am a Google Associate Android Developer with Android being my core. I also work on Blockchain and Go. I am a Open Source Contributor and a blogger at Mindorks. I have worked with Companies in Fintech,Heath & Fitness and Fast-moving consumer goods Sector as Software Developer. I focus on Architectures and Solid Design principles for Development of Apps.",
+      "company" : "MindOrks",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Mumbai",
+      "featured" : false,
+      "name" : "Himanshu Singh",
+      "photo" : "/images/people/speakers/2019/himanshu_singh.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fhimanshu_singh.jpg?alt=media&token=e7e42bde-b31f-40dd-a4ca-cf5c1d4a12e3",
+      "shortBio" : "I am a Google Associate Android Developer with Android being my core. I also work on Blockchain...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hi_man_shoe",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/himanshoe-singh/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@himanshoe",
+        "name" : "Blog"
+      } ],
+      "title" : "Software Developer"
+    },
+    "nishant_dubey" : {
+      "bio" : "I consider myself a problem solver, the kind of work I do comprises of intensive user research to find a problem and then designing a user experience to solve it with a unique user interface that evolves as the identity of the brand. The kind of solutions I can design could be for a desktop application, portables or any other medium that can benefit from the user experience I designed. I have deep understanding about the web architecture and consider my self a specialist in portable/mobile design solutions (for android). With an obsession to produce high performance apps that have a unique experience and still work without crashing or launching in most extreme hardware configurations. My association with creativity has been since childhood when I used to click photographs and even won numerous awards for various creative showcases overtime. That interest later developed into a more profound Degree in Visual Effects and Motion graphics from a top film college in United Kingdom. Even then I impressed my lecturers and peers with my creativity and skill-set and went on to win biggest student film and visual effects award of UK sponsored by Cinefex magazine/presented by Oscar Winner vfx supervisor Paul Franklin.",
+      "company" : "9stacks.com",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "New Delhi",
+      "featured" : false,
+      "name" : "Nishant Dubey",
+      "photo" : "/images/people/speakers/2019/nishant_dubey.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fnishant_dubey.jpg?alt=media&token=c7fa4154-c958-41ba-bee5-74c71c05da20",
+      "shortBio" : "I consider myself a problem solver, the kind of work I do comprises of intensive user research to...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/nishant05dubey/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "UI-UX Designer"
+    },
+    "charmi_chokshi" : {
+      "bio" : "Working with data and predicting future based on it is Charmi's passion and it has always made her feel like a Magician! She is an AI and Data enthusiast who loves to share her experiences with others. She often organises workshops, and talks to help developers & students who look forward to grow their careers in the field of Artificial Intelligence. She has facilitated the first pilot of Google's Machine Learning Crash Course in India back in 2017 and was a Research Trainee at Indian Space Research Organisation in 2018. After completing BTech in ICT Engineering currently, she is building the Next Generation Document Agent to automate the data entry and paperwork involved in global supply chains for Gigabytes of Structured and Unstructured data​ at Shipmnts.com.",
+      "company" : "Shipmnts",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Charmi Chokshi",
+      "photo" : "/images/people/speakers/2019/charmi_chokshi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdarshan_pania.jpg?alt=media&token=cd1a96b5-745a-43b1-8970-14efc5be33a1",
+      "shortBio" : "Working with data and predicting future based on it is Charmi's passion and it has always made he...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/CharmiChokshi",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/charmichokshi/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Machine Learning Engineer"
+    },
+    "pranay_patel" : {
+      "bio" : "Software Engineer @simform | #AndroidDev | #Kotlin❤️ | #Flutter | #MobileSecurity #github #iot | #cooking Open for giving talk ✌️",
+      "company" : "Simform",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Pranay Patel",
+      "photo" : "/images/people/speakers/2019/pranay_patel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fpranay_patel.jpg?alt=media&token=cd5d1b35-a680-4951-b489-97b5f4395637",
+      "shortBio" : "Software Engineer @simform | #AndroidDev | #Kotlin❤️ | #Flutter | #MobileSecurity #github #iot...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/pranaypatel_",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/pranaypatel512/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@pranaypatel",
+        "name" : "Blog"
+      } ],
+      "title" : "Software Engineer"
+    },
+    "namrata_more" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Pune",
+        "link" : "https://www.meetup.com/Pune-GDG/",
+        "name" : "gdg"
+      }, {
+        "description" : "Women TechMakers Ambassadors Pune",
+        "link" : "https://www.womentechmakers.com/ambassadors",
+        "name" : "wtm"
+      } ],
+      "bio" : "A part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Pune",
+      "featured" : false,
+      "name" : "Namrata More",
+      "photo" : "/images/people/speakers/2019/namrata_more.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fnamrata_more.jpeg?alt=media&token=968b07b8-96e0-4c49-b32a-093315f11181",
+      "shortBio" : "A part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chi...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/namratamore_nm",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/namratamore-nm/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@nmrtmore",
+        "name" : "Blog"
+      } ],
+      "title" : "Studying machines"
+    },
+    "jalpesh_vadgama" : {
+      "bio" : "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang beginner, 14+ Years of exp. in .NET Technology, JavaScript and Web",
+      "company" : "Future Stack Solution",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Ahmedabad",
+      "featured" : false,
+      "name" : "Jalpesh Vadgama",
+      "photo" : "/images/people/speakers/2019/jalpesh_vadgama.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fjalpesh_vadgama.jpg?alt=media&token=1d56556e-405f-44b4-8981-996b14c12a61",
+      "shortBio" : "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang beginner, 14+ Years of...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Jalpesh",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jalpeshvadgama/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.dotnetjalps.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Co-Founder"
     }
   },
   "team" : [ {
@@ -985,11 +1248,11 @@
     "title" : "Content Writer"
   } ],
   "tickets" : [ {
-    "available" : true,
+    "available" : false,
     "currency" : "₹",
     "ends" : "Sep 30",
     "inDemand" : true,
-    "info" : "Or first 50 tickets",
+    "info" : "",
     "name" : "Early Bird",
     "price" : 100,
     "regular" : true,
