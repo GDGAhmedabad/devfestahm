@@ -415,33 +415,6 @@
       } ],
       "title" : "Sr. Project Manager"
     },
-    "siddhant_agarwal" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/sidagarwal04",
-        "name" : "google"
-      } ],
-      "bio" : "Hey there, I’m Siddhant, aka Sid. A Design Thinker at heart. Currently working as Program Coordinator at Google India living in Delhi, India. I am an Intel Software Innovator. I love helping startups scale in User Experience (UX).",
-      "company" : "Google India",
-      "companyLogo" : "/images/people/speakers/company/google.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country" : "Bangalore",
-      "featured" : true,
-      "name" : "Siddhant Agarwal",
-      "photo" : "/images/people/speakers/siddhant_agarwal.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsiddhant_agarwal.jpeg?alt=media&token=fd8724c0-1acc-42c8-aac5-7feb09369262",
-      "shortBio" : "Program Coordinator for @GoogleDevsIN | Intel Software Innovator | International...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sidagarwal04",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/siddhantagarwal/`",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Program Coordinator"
-    },
     "adit_lal" : {
       "bio" : "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography.",
       "company" : "GoJek",
@@ -798,9 +771,9 @@
     },
     "tathagat_thapliyal" : {
       "bio" : "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things.",
-      "company" : "Voz",
-      "companyLogo" : "/images/people/speakers/company/voz.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fvoz.png?alt=media&token=db61c409-9e1b-4bdc-bd6c-75b1dcfe8430",
+      "company" : "Coding Blocks",
+      "companyLogo" : "/images/people/speakers/company/codingblocks.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fcodingblocks.png?alt=media&token=de2b301c-c4da-4b48-a0fa-00736310a2b5",
       "country" : "New Delhi",
       "featured" : false,
       "name" : "Tathagat Thapliyal",
@@ -816,7 +789,7 @@
         "link" : "https://www.linkedin.com/in/tathagat-thapliyal/",
         "name" : "LinkedIn"
       } ],
-      "title" : "Co-Founder, CTO"
+      "title" : "Software Developer & Mentor"
     },
     "ripal_shah" : {
       "bio" : "A self-motivated electronics and communication engineer who found her love in computers. Working as a blockchain developer from last 2 years and accomplished a high level of expertise in the field . Fond of playing badminton and have strong belief in karma.",
