@@ -441,6 +441,55 @@
       } ],
       "title" : "Product Engineer"
     },
+    "rohan_mishra" : {
+      "bio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
+      "company" : "Zomato",
+      "companyLogo" : "/images/people/speakers/company/zomato.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fzomato.png?alt=media&token=8debbc14-7cc6-4559-b30b-ee72b7f540c3",
+      "country" : "Gurgaon",
+      "featured" : true,
+      "name" : "Rohan Mishra",
+      "photo" : "/images/people/speakers/2019/rohan_mishra.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
+      "shortBio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/iamrohanmishra",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.rohanmishra.design/blog",
+        "name" : "Blog"
+      } ],
+      "title" : "Product Design"
+    },
+    "prajyot_mainkar" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Goa",
+        "link" : "https://www.meetup.com/GoogleGoa/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out of Goa and one of the winner's of Goa State CM Startup Award. He has been associated with Hon. PM Shri. Narendra Modi's PMO initiative of MYGOV. In mentoring more than 50 startups under the PMO initiative. Recipient of the Young Entrepreneur of the year by Business Goa and one of the 14 Intel innovators in the country, Prajyot has delivered more than 350 talks across the globe of which the prominent have been Droidcon Greece, Android Developer Days in Turkey, Google developer summit, Sri Lanka. Yourstory, one of India's leading startup brand recognized him as the Android man of Goa and was also featured as top techies in India in 2015. He is the technical advisor to India's one of the leading Digital Incubator For Students - The Startup Village and also several other incubators. Recently, became the first Goan author to publish a book on Mobile Technology called - Expert Android Programming, which is circulated in UK, India, Sri Lanka, Nepal, and Bangladesh. Post that, published another book on Flutter. He is also on the board of EDC Ignite as an advisor and industry advisor to Goa Stage IT policy.GEMS(Goa entrepreneur mentoring service) recently awarded him The trailblazer excellence award for contribution of IT in Goa.",
+      "company" : "Androcid",
+      "companyLogo" : "/images/people/speakers/company/androcid.png  ",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fandrocid.png?alt=media&token=d1a0541a-522d-4c16-9714-e21c6cc78f1d",
+      "country" : "Goa",
+      "featured" : false,
+      "name" : "Prajyot Mainkar",
+      "photo" : "/images/people/speakers/2019/prajyot_mainkar.webp",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fprajyot_mainkar.webp?alt=media&token=e826bc4b-62c1-4700-b914-3948e07f49cd",
+      "shortBio" : "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/prajyotm",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/prajyotm/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Founder"
+    },
     "divyanshu_bhargava" : {
       "bio" : "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started from Android and took a turn at Flutter. He has 3+ years of experience of building mobile apps. He has done B.Tech in Computer Science and Engineering. He is creator of Android Draw and Chitr application. Being a blogger and open source lover he keen interest in to help developers & students who look forward to growing their careers in the field of Mobile Computing.",
       "company" : "GoHighLevel",
@@ -466,28 +515,6 @@
         "name" : "Blog"
       } ],
       "title" : "Flutter Developer"
-    },
-    "rohan_mishra" : {
-      "bio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
-      "company" : "Zomato",
-      "companyLogo" : "/images/people/speakers/company/zomato.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fzomato.png?alt=media&token=8debbc14-7cc6-4559-b30b-ee72b7f540c3",
-      "country" : "Gurgaon",
-      "featured" : true,
-      "name" : "Rohan Mishra",
-      "photo" : "/images/people/speakers/2019/rohan_mishra.png",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
-      "shortBio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/iamrohanmishra",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "website",
-        "link" : "https://www.rohanmishra.design/blog",
-        "name" : "Blog"
-      } ],
-      "title" : "Product Design"
     },
     "dharmesh_vaya" : {
       "badges" : [ {
