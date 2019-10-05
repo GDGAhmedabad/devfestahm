@@ -562,7 +562,7 @@
       "featured" : false,
       "name" : "Prajyot Mainkar",
       "photo" : "/images/people/speakers/2019/prajyot_mainkar.webp",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fprajyot_mainkar.webp?alt=media&token=e826bc4b-62c1-4700-b914-3948e07f49cd",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fprajyot_mainkar.jpg?alt=media&token=ce9b5854-5536-4753-b8ea-6623dcd6238e",
       "shortBio" : "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out...",
       "socials" : [ {
         "icon" : "twitter",
@@ -701,8 +701,8 @@
     "anubhav_singh" : {
       "bio" : "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it. I'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community. I am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
       "company" : "DataCamp Instructor | Author",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "companyLogo" : "/images/people/speakers/company/the_code_foundation.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fthe_code_foundation.png?alt=media&token=26b31b16-80a2-4d8e-a9bc-4096be8d4060",
       "country" : "Allahabad",
       "featured" : false,
       "name" : "Anubhav Singh",
