@@ -70,14 +70,14 @@
     "title" : "Media Partner"
   } ],
   "schedule" : {
-    "2018-11-25" : {
-      "dateReadable" : "November 25",
+    "2019-10-12" : {
+      "dateReadable" : "October 12",
       "timeslots" : [ {
         "endTime" : "09:30",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "08:30"
       }, {
         "endTime" : "09:45",
         "sessions" : [ {
@@ -87,34 +87,59 @@
       }, {
         "endTime" : "10:30",
         "sessions" : [ {
-          "items" : [ 114 ]
+          "items" : [ 101 ]
         } ],
         "startTime" : "09:45"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 115 ]
+          "items" : [ 102 ]
         } ],
         "startTime" : "10:30"
       }, {
-        "endTime" : "12:15",
+        "endTime" : "11:45",
         "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 106 ]
+          "extend" : 2,
+          "items" : [ 119 ]
         }, {
           "extend" : 2,
-          "items" : [ 112 ]
+          "items" : [ 120 ]
+        }, {
+          "items" : [ 123 ]
         } ],
         "startTime" : "11:15"
       }, {
-        "endTime" : "13:15",
+        "endTime" : "12:15",
         "sessions" : [ {
-          "items" : [ 102 ]
+          "items" : []
         }, {
-          "items" : [ 107 ]
+          "items" : []
+        }, {
+          "items" : [ 116 ]
+        } ],
+        "startTime" : "11:45"
+      }, {
+        "endTime" : "12:45",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 115 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 106 ]
+        }, {
+          "items" : [ 118 ]
         } ],
         "startTime" : "12:15"
+      }, {
+        "endTime" : "13:15",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 117 ]
+        } ],
+        "startTime" : "12:45"
       }, {
         "endTime" : "14:30",
         "sessions" : [ {
@@ -122,24 +147,49 @@
         } ],
         "startTime" : "13:15"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "15:00",
         "sessions" : [ {
-          "items" : [ 103 ]
-        }, {
-          "items" : [ 108 ]
+          "extend" : 2,
+          "items" : [ 104 ]
         }, {
           "extend" : 2,
-          "items" : [ 111 ]
+          "items" : [ 113 ]
+        }, {
+          "items" : [ 124 ]
         } ],
         "startTime" : "14:30"
       }, {
-        "endTime" : "16:30",
+        "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 104 ]
+          "items" : []
         }, {
-          "items" : [ 109 ]
+          "items" : []
+        }, {
+          "items" : []
+        } ],
+        "startTime" : "15:00"
+      }, {
+        "endTime" : "16:00",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 103 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 110 ]
+        }, {
+          "items" : [ 107 ]
         } ],
         "startTime" : "15:30"
+      }, {
+        "endTime" : "16:30",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 108 ]
+        } ],
+        "startTime" : "16:00"
       }, {
         "endTime" : "16:45",
         "sessions" : [ {
@@ -147,22 +197,49 @@
         } ],
         "startTime" : "16:30"
       }, {
-        "endTime" : "17:45",
+        "endTime" : "17:15",
         "sessions" : [ {
+          "extend" : 2,
           "items" : [ 105 ]
         }, {
-          "items" : [ 110 ]
-        }, {
           "extend" : 2,
-          "items" : [ 113 ]
+          "items" : [ 111 ]
+        }, {
+          "items" : [ 109 ]
         } ],
         "startTime" : "16:45"
       }, {
-        "endTime" : "18:30",
+        "endTime" : "17:45",
         "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 122 ]
+        } ],
+        "startTime" : "17:15"
+      }, {
+        "endTime" : "18:00",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 112 ]
+        }, {
+          "extend" : 2,
           "items" : [ 121 ]
+        }, {
+          "items" : [ 114 ]
         } ],
         "startTime" : "17:45"
+      }, {
+        "endTime" : "18:30",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : []
+        } ],
+        "startTime" : "18:00"
       }, {
         "endTime" : "19:00",
         "sessions" : [ {
@@ -175,7 +252,7 @@
       }, {
         "title" : "Alishan hall 2"
       }, {
-        "title" : "Codelab hall"
+        "title" : "Shalimar"
       } ]
     }
   },
@@ -199,6 +276,7 @@
     "103" : {
       "complexity" : "Introductory and overview",
       "description" : "Easy to read and simple to debug code is more within reach today than ever. DSL (Domain specific language) though around for quite some time, it has gained more momentum in the recent times with Kotlin - which provides some powerful language features giving us the advantage of building internal DSLs. <br/><br/> This talk introduces and highlights how we could use Kotlin DSL’s and add some readability of code by enforcing the use of declarative code with minimum boilerplate, as well as look at why Kotlin is particularly good for DSLs with examples. <br/><br> — Why DSLs <br/> General-purpose languages vs. DSLs <br/> Usage of DSLs - Examples on how to use DSLs <br/><br/> — Why Kotlin <br/> Being built on top of the core language makes Kotlin DSL considered as an Internal DSL which means that it does not have a syntax on its own, rather being a library that offers DSL readability by exploiting the language features, in this case, Kotlin. <br/><br/> — What we will cover <br/> We will go over some of the examples of how to build DSL with a few use cases. <br/> - Kotlin specific features for DSL <br/> - DSL’s in android code <br/> - Grade script DSL’s",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "adit_lal" ],
@@ -209,6 +287,7 @@
     "104" : {
       "complexity" : "Intermediate",
       "description" : "Trusting a restaurant with your meal is a leap of faith because the meal is just a part of the entire experience - ambience, crowd, value for money, service etc. are elements that also make or break the occasion or the mood. <br/><br/> With restaurant ratings & information, Zomato does a brilliant job at helping you shortlist restaurants you might want to go to. However, sometimes a 4 or 5-star restaurant isn’t our ideal choice, because we are not just looking for a generic good experience - we are looking for a particularly good experience. To ensure that your expectation meets your actual experience, you need more than just the basic information and overall restaurant ratings. <br/><br/> Enter reviews - reading experiences of others can help us get an idea of what kind of experience is the restaurant most likely to provide. However, going through 20 odd reviews to search for that mention of the perfect date ambience can be tedious. And in most cases, taking a leap of faith and showing up to find that particular experience might seem like the less cumbersome option. <br/><br/> But what if we told you that you could go through hundreds and thousands of reviews in a second to help you decide if the restaurant is the right fit for your upcoming meal? <br/><br/> Welcome Reviews 2.0 - reviews that bring you closer to your perfect meal experience!",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "rohan_mishra" ],
@@ -219,6 +298,7 @@
     "105" : {
       "complexity" : "Intermediate",
       "description" : "Animation is the illusion of movement created by showing a series of still pictures in rapid succession or a simulation of movement created by displaying a series of pictures, or frames. In Flutter we can define it as the manipulation of widgets to provide an illusion of movement. Animation breathes life into the process of interaction and is especially good for mobile apps that have to be developed with limited screen estate while providing an informative and functional interface. In Flutter there are two types of animations, Tween based animation and physics-based animations. <br/><br/> In my talk, I would like to show how to easy it is to animate your app in Flutter with different types of animations and how to increase the engagement of your app with animations.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "divyanshu_bhargava" ],
@@ -229,6 +309,7 @@
     "106" : {
       "complexity" : "Intermediate",
       "description" : "Cloud Run - a fully managed Serverless product launched by Google Cloud for public beta availability which offers to run docker image in Serverless environment and Cloud Build - helps you automatically build, test, or deploy source code when you push changes to GitHub, Cloud Source or any Repositories. <br/><br/> Let's go Continuous Deployment by leveraging the power of both these amazing products on GCP. The talk also emphasizes on the core objective of running your Docker based containers on a Serverless environment i.e. using Cloud Run.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "dharmesh_vaya" ],
@@ -269,6 +350,7 @@
     "110" : {
       "complexity" : "Introductory and overview",
       "description" : "This talk explores the inter-dependence of the World Wide Web and the field of Artificial Intelligence, tracing both the storylines from their independent routes, to chronologically reaching the current day amalgamation, while discussing the major milestones of their relationship. The talk would be the complete story of the merging together of two fields, the factors that made them mutually beneficial and the projected future. <br/><br/> 1. Introduction to Speaker and Topic intuition <br/>2. The Roots of Web and AI - Mutual independence <br/>3. The Birth of Semantic Nets - First acknowledgement <br/>4. ELIZA, the ARPANET baby - Gaining popularity <br/>5. Stanford's SUMEX-AIM - Establishment of Partnership <br/>6. The Semantic Web Road map by Tim Berner’s Lee - From the Father’s Pen <br/>7. The Rise of the Crawlers - Web as the Fuel of AI <br/>8. OWL Web Ontology Language by W3C - A standard Pact signed <br/>9. Assistants, Advertisements, Security - Today <br/>10. Looking ahead - The Future",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "anubhav_singh" ],
@@ -279,6 +361,7 @@
     "111" : {
       "complexity" : "Intermediate",
       "description" : "When we hear term machine learning, we think of Python, Keras, Pandas, PyTorch, SciPy etc. As a web developer it's hard to get started with all these technologies. Does that mean a web developer can not enter in field of ML? It's possible now, with introduction to TensorFlow JS, a web developer can also have ML in Browser. TensorFlow JS in an open source library that can be used to train, and run machine learning models in the browser, using Javascript and a high-level layers API. This session will cover introduction to TensorFlow JS and it's capabilities and will have cool demos to show it in actions. This session will be a good fit for the developers who are interested to go in the field of machine learnings.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "hiren_dave" ],
@@ -289,6 +372,7 @@
     "112" : {
       "complexity" : "Intermediate",
       "description" : "Want to implement your application using Flutter but ready to rewrite it from scratch? In this session, you'll learn how you can add Flutter activity to your existing Android app and keep the rest as it is. I will also show how Flutter can be a great prototyping tool, producing functioning apps in record times.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "bhavik_makwana" ],
@@ -299,6 +383,7 @@
     "113" : {
       "complexity" : "Intermediate",
       "description" : "Creating a developer friendly Node environment with modern tooling and a strong type system to help accelerate development.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "sachin_jani", "ryan_dsouza" ],
@@ -319,6 +404,7 @@
     "115" : {
       "complexity" : "Intermediate",
       "description" : "This session goes through the nuances on how Android libraries have to be developed in a restricted environment as they run inside other apps. This session will not be very practical in terms of development but will be more of an interactive session with the audience, where I will compare the different aspects of Android development in terms of comparison between App development and SDK development and pick their brains on how would they go about developing an Android Library if they got a chance. <br/><br/>For example, while a majority of the apps use famous libraries like Retrofit or Volley to do their network calls, an SDK needs to either use AsyncTask or conjure up a trick using Threads and Handlers to ensure their networking is smooth. While apps use advanced DB libraries or frameworks like Room/Realm/greenDAO, Android libraries who cannot use these because it would mean that the apps into which they land up in would also have to add them as a dependency, have to make do with SQLite. <br/><br/>Once I mention the different types of problems faced by Libraries in terms of networking, database handling, UI components, handling images/GIFs/Video, efficient library size and also handling backward compatibility, I will provide my solutions which I have used in the CleverTap Android SDK as one of the possible solutions. I will also shed some light on the process of publishing libraries on JCenter or MavenCentral. <br/><br/>",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "darshan_pania" ],
@@ -359,6 +445,7 @@
     "119" : {
       "complexity" : "Intermediate",
       "description" : "In this talk, we will discuss how to create a modular Android Application architecture. Why we should choose this architecture for better-organized code structure in the organization or in the team. Modularising your app will help you grow your app in a lot of ways and get more signups. We will also be discussing the impact Modularisation of your app will create. Till date, we have been building a single module app and what pain points were solved when we moved our app towards multi-module architecture.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "himanshu_singh" ],
@@ -369,6 +456,7 @@
     "120" : {
       "complexity" : "Introductory and overview",
       "description" : "With modern apps / websites relying heavily on graphics, it's necessary that the creative brains behind these know how *not to comprise the fluid performance ! <br/><br/>This is what my session is about. I will be talking about tips and tricks that a UI/UX designer can incorporate in their designs to render high quality graphics in lowest sizes. It's not only about compressing the final artwork.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "nishant_dubey" ],
@@ -379,6 +467,7 @@
     "121" : {
       "complexity" : "Intermediate",
       "description" : "Getting predictions in Jupyter Notebook is sufficient till you are in Campus, but what after getting into Corporate? The model developed once has to reach clients in order to benifit the company. Also, it should be capable for scaling and learning from user generated data as and when required. <br/t/>Learn about all the necessary Data Science and Engineering skills, responsibilities, and best practices for becoming a (Marketable) Machine Learning Engineer in this session which will walk you through the Design - Develop - Deploy cycle. <br/><br/>In a nutshell, this interactive session will nurture an ML Enthusiast turning into an ML Engineer.",
+      "extend" : 2,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "charmi_chokshi" ],
@@ -445,10 +534,9 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
-      "presentation" : "https://drive.google.com/open?id=1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw",
-      "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
-      "title" : "GDG DevFest Ahmedabad 2018 Opening",
-      "videoId" : "U5swO0AAhDY"
+      "presentation" : "",
+      "title" : "GDG DevFest Ahmedabad 2019 Opening",
+      "videoId" : ""
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
