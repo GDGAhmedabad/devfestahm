@@ -227,7 +227,7 @@
           "extend" : 2,
           "items" : [ 121 ]
         }, {
-          "items" : [ 114 ]
+          "items" : []
         } ],
         "startTime" : "17:45"
       }, {
@@ -237,7 +237,7 @@
         }, {
           "items" : []
         }, {
-          "items" : []
+          "items" : [114]
         } ],
         "startTime" : "18:00"
       }, {
