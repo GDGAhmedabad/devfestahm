@@ -1585,11 +1585,11 @@
     "name" : "Early Bird",
     "price" : 100,
     "regular" : true,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Sep 30",
     "url" : "https://allevents.in/ahmedabad/devfestahm-2019-gdg-ahedabad/80002952017442"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₹",
     "ends" : "Oct 07",
     "inDemand" : false,
@@ -1598,7 +1598,7 @@
     "price" : 200,
     "primary" : true,
     "regular" : true,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Sep 30",
     "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
   } ],
