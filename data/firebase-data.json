@@ -41,13 +41,6 @@
   },
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
-    } ],
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
@@ -60,24 +53,43 @@
       "name" : "Google Developers Group",
       "url" : "https://developers.google.com/programs/community/gdg/"
     } ],
-    "title" : "General Partner"
+    "title" : "Platinum Sponsors"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/nath-films.png",
-      "name" : "Nath Films",
-      "url" : "https://www.facebook.com/NathFilm/"
+      "logoUrl" : "../images/logos/gdg-lviv.svg",
+      "name" : "GDG Lviv",
+      "url" : "https://plus.google.com/102444623953913144164"
     } ],
-    "title" : "Media Partner"
+    "title" : "Template Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/akash-technolabs.png",
+      "name" : "Akash Technolabs",
+      "url" : "https://akashtechnolabs.com/"
+    }, {
+      "logoUrl" : "../images/logos/elastic.svg",
+      "name" : "Elastic",
+      "url" : "https://www.elastic.co/"
+    }, {
+      "logoUrl" : "../images/logos/capermint.svg",
+      "name" : "Capermint Technologies",
+      "url" : "https://www.capermint.com/"
+    }, {
+      "logoUrl" : "../images/logos/allevents.png",
+      "name" : "All Events",
+      "url" : "https://allevents.in/"
+    } ],
+    "title" : "Partners"
   } ],
   "schedule" : {
-    "2018-11-25" : {
-      "dateReadable" : "November 25",
+    "2019-10-12" : {
+      "dateReadable" : "October 12",
       "timeslots" : [ {
         "endTime" : "09:30",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "08:30"
       }, {
         "endTime" : "09:45",
         "sessions" : [ {
@@ -87,34 +99,59 @@
       }, {
         "endTime" : "10:30",
         "sessions" : [ {
-          "items" : [ 114 ]
+          "items" : [ 101 ]
         } ],
         "startTime" : "09:45"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 115 ]
+          "items" : [ 102 ]
         } ],
         "startTime" : "10:30"
       }, {
-        "endTime" : "12:15",
+        "endTime" : "11:45",
         "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 106 ]
+          "extend" : 2,
+          "items" : [ 119 ]
         }, {
           "extend" : 2,
-          "items" : [ 112 ]
+          "items" : [ 120 ]
+        }, {
+          "items" : [ 123 ]
         } ],
         "startTime" : "11:15"
       }, {
-        "endTime" : "13:15",
+        "endTime" : "12:15",
         "sessions" : [ {
-          "items" : [ 102 ]
+          "items" : []
         }, {
-          "items" : [ 107 ]
+          "items" : []
+        }, {
+          "items" : [ 116 ]
+        } ],
+        "startTime" : "11:45"
+      }, {
+        "endTime" : "12:45",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 115 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 106 ]
+        }, {
+          "items" : [ 118 ]
         } ],
         "startTime" : "12:15"
+      }, {
+        "endTime" : "13:15",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 117 ]
+        } ],
+        "startTime" : "12:45"
       }, {
         "endTime" : "14:30",
         "sessions" : [ {
@@ -122,24 +159,49 @@
         } ],
         "startTime" : "13:15"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "15:00",
         "sessions" : [ {
-          "items" : [ 103 ]
-        }, {
-          "items" : [ 108 ]
+          "extend" : 2,
+          "items" : [ 104 ]
         }, {
           "extend" : 2,
-          "items" : [ 111 ]
+          "items" : [ 113 ]
+        }, {
+          "items" : [ 124 ]
         } ],
         "startTime" : "14:30"
       }, {
-        "endTime" : "16:30",
+        "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 104 ]
+          "items" : []
         }, {
-          "items" : [ 109 ]
+          "items" : []
+        }, {
+          "items" : [ 140 ]
+        } ],
+        "startTime" : "15:00"
+      }, {
+        "endTime" : "16:00",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 103 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 110 ]
+        }, {
+          "items" : [ 107 ]
         } ],
         "startTime" : "15:30"
+      }, {
+        "endTime" : "16:30",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 108 ]
+        } ],
+        "startTime" : "16:00"
       }, {
         "endTime" : "16:45",
         "sessions" : [ {
@@ -147,22 +209,49 @@
         } ],
         "startTime" : "16:30"
       }, {
-        "endTime" : "17:45",
+        "endTime" : "17:15",
         "sessions" : [ {
+          "extend" : 2,
           "items" : [ 105 ]
         }, {
-          "items" : [ 110 ]
-        }, {
           "extend" : 2,
-          "items" : [ 113 ]
+          "items" : [ 111 ]
+        }, {
+          "items" : [ 109 ]
         } ],
         "startTime" : "16:45"
       }, {
-        "endTime" : "18:30",
+        "endTime" : "17:45",
         "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [ 122 ]
+        } ],
+        "startTime" : "17:15"
+      }, {
+        "endTime" : "18:00",
+        "sessions" : [ {
+          "extend" : 2,
+          "items" : [ 112 ]
+        }, {
+          "extend" : 2,
           "items" : [ 121 ]
+        }, {
+          "items" : []
         } ],
         "startTime" : "17:45"
+      }, {
+        "endTime" : "18:30",
+        "sessions" : [ {
+          "items" : []
+        }, {
+          "items" : []
+        }, {
+          "items" : [114]
+        } ],
+        "startTime" : "18:00"
       }, {
         "endTime" : "19:00",
         "sessions" : [ {
@@ -175,161 +264,258 @@
       }, {
         "title" : "Alishan hall 2"
       }, {
-        "title" : "Codelab hall"
+        "title" : "Shalimar"
       } ]
     }
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is integral part of the web and products. By default, web is accessible but we developer mess with the code. This talk will tell devs what, how and where to do make your code accessible.",
+      "description" : "All about self flying and self driving cars, AL and ML how it's changing your present and future",
       "language" : "English",
-      "presentation" : "https://docs.google.com/presentation/d/1Av-1NVIGP_Wmve49SBosDf13I4YeMuW7Gt_66_YKTKw/edit#slide=id.g474dfb627f_0_10",
-      "speakers" : [ "neha_sharma" ],
-      "tags" : [ "Web" ],
-      "title" : "Web for all - Accessibility",
-      "videoId" : "WG_Ma-YlAJc"
+      "presentation" : "",
+      "speakers" : [ "utpal_betai" ],
+      "title" : "Keynote 1 - Future is here",
+      "videoId" : ""
     },
     "102" : {
-      "complexity" : "Expert",
-      "description" : "The talk discusses few design and fairness principles to keep in mind while building solutions augmented with ML as a core engine with examples around the world.",
+      "description" : "The key focus of the talk would be talking about <br/> How to kick off your startup with the right process mapping <br/> How can an idea bloom into product innovation <br/> Tips on raising funds <br/> an insight on how talk less, hear more concept works best in startups in today's world.",
       "language" : "English",
-      "speakers" : [ "biswajeet_mallik" ],
-      "tags" : [ "Web" ],
-      "title" : "A discussion on design and fairness in the world of ML"
+      "presentation" : "",
+      "speakers" : [ "prajyot_mainkar" ],
+      "title" : "Keynote 2 - Don't Build a Startup, Build a Culture",
+      "videoId" : ""
     },
     "103" : {
-      "complexity" : "Intermediate",
-      "description" : "The client-server architecture was invented in the 1960s and the majority of modern mobile and web applications are based on this architecture. As the technology evolved since the inception of the internet, so did the reasons for applying client-server architecture in web and mobile application design. The server consists of server code, the secrets, raw computing resources, and OS. Both server code and the secrets are data. They can be serialized together into one bundle, and cryptographically protected from tampering and disclosure. In this talk, I will talk about the best way of creating your own serverless APIs using Google Cloud and what are the other available options. Writing serverless code is easy, free and secure. Let’s create our own serverless.",
+      "complexity" : "Introductory and overview",
+      "description" : "Easy to read and simple to debug code is more within reach today than ever. DSL (Domain specific language) though around for quite some time, it has gained more momentum in the recent times with Kotlin - which provides some powerful language features giving us the advantage of building internal DSLs. <br/><br/> This talk introduces and highlights how we could use Kotlin DSL’s and add some readability of code by enforcing the use of declarative code with minimum boilerplate, as well as look at why Kotlin is particularly good for DSLs with examples. <br/><br> — Why DSLs <br/> General-purpose languages vs. DSLs <br/> Usage of DSLs - Examples on how to use DSLs <br/><br/> — Why Kotlin <br/> Being built on top of the core language makes Kotlin DSL considered as an Internal DSL which means that it does not have a syntax on its own, rather being a library that offers DSL readability by exploiting the language features, in this case, Kotlin. <br/><br/> — What we will cover <br/> We will go over some of the examples of how to build DSL with a few use cases. <br/> - Kotlin specific features for DSL <br/> - DSL’s in android code <br/> - Grade script DSL’s",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://slides.com/mdsbzalam/devfest18ahm",
-      "speakers" : [ "md_shahbaz_alam" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Serverless API creation and deployment using Google Cloud",
-      "videoId" : "hHo5z_FAVmA"
+      "presentation" : "",
+      "speakers" : [ "adit_lal" ],
+      "tags" : [ "Android" ],
+      "title" : "Kotlin DSL - let’s express code in “mini-language”",
+      "videoId" : ""
     },
     "104" : {
       "complexity" : "Intermediate",
-      "description" : "Slower Web Apps <br/><br/> They will learn <br/> - Basics of WebApp Optimization <br/> - How to Use Lighthouse from Chrome to find issues with their web app. <br/> - How to fix these issues.",
+      "description" : "Trusting a restaurant with your meal is a leap of faith because the meal is just a part of the entire experience - ambience, crowd, value for money, service etc. are elements that also make or break the occasion or the mood. <br/><br/> With restaurant ratings & information, Zomato does a brilliant job at helping you shortlist restaurants you might want to go to. However, sometimes a 4 or 5-star restaurant isn’t our ideal choice, because we are not just looking for a generic good experience - we are looking for a particularly good experience. To ensure that your expectation meets your actual experience, you need more than just the basic information and overall restaurant ratings. <br/><br/> Enter reviews - reading experiences of others can help us get an idea of what kind of experience is the restaurant most likely to provide. However, going through 20 odd reviews to search for that mention of the perfect date ambience can be tedious. And in most cases, taking a leap of faith and showing up to find that particular experience might seem like the less cumbersome option. <br/><br/> But what if we told you that you could go through hundreds and thousands of reviews in a second to help you decide if the restaurant is the right fit for your upcoming meal? <br/><br/> Welcome Reviews 2.0 - reviews that bring you closer to your perfect meal experience!",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://docs.google.com/presentation/d/1CBcxq42fJwWI1YBJXqA0Yw_swTR2AaaOdOY5jHbLgEA/edit?usp=drivesdk",
-      "speakers" : [ "anil_shahu" ],
-      "tags" : [ "Web" ],
-      "title" : "Lighthouse for Chrome: Find your way to faster Web Apps.",
-      "videoId" : "Wz2qd8CLUOM"
+      "presentation" : "",
+      "speakers" : [ "rohan_mishra" ],
+      "tags" : [ "Mobile" ],
+      "title" : "How we designed reviews to help people decide what and where to eat?",
+      "videoId" : ""
     },
     "105" : {
-      "complexity" : "Beginner",
-      "description" : "We as developers sometimes become completely negligent about, how revenue will come from the app which we are developing. Revenue will only come if your mobile app is habbit forming. It sticks with the user and becomes his habit.",
+      "complexity" : "Intermediate",
+      "description" : "Animation is the illusion of movement created by showing a series of still pictures in rapid succession or a simulation of movement created by displaying a series of pictures, or frames. In Flutter we can define it as the manipulation of widgets to provide an illusion of movement. Animation breathes life into the process of interaction and is especially good for mobile apps that have to be developed with limited screen estate while providing an informative and functional interface. In Flutter there are two types of animations, Tween based animation and physics-based animations. <br/><br/> In my talk, I would like to show how to easy it is to animate your app in Flutter with different types of animations and how to increase the engagement of your app with animations.",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/spachori94/designing-habit-forming-high-growth-products",
-      "speakers" : [ "shubham_pachori" ],
-      "tags" : [ "Web" ],
-      "title" : "Designing Addictive Web Apps",
-      "videoId" : "40iVBVkNh_k"
+      "presentation" : "",
+      "speakers" : [ "divyanshu_bhargava" ],
+      "tags" : [ "Flutter" ],
+      "title" : "Fun with Flutter Animations",
+      "videoId" : ""
     },
     "106" : {
       "complexity" : "Intermediate",
-      "description" : "The talk will be 45:00 minutes. It is a collection of the best possible recent developments made in Android. It covers the most recent enhancements made in Android for developers. It will includes the  overview and detailed information about new things in: <br/><br/> 1. AndroidX the Support Library. <br/> 2. New in Android Testing (Espresso and JUnit) <br/> 3. Android App Bundles. <br/> 4. RTT Api for inside the building location. <br/> 5. Enterprise Apps <br/> 6. Slices <br/> 7. Deep Linking <br/> 8. Notifications( inline images and Smart Reply) <br/> 9. Android Studio profiler. <br/> 10. Layout Inspector",
+      "description" : "Cloud Run - a fully managed Serverless product launched by Google Cloud for public beta availability which offers to run docker image in Serverless environment and Cloud Build - helps you automatically build, test, or deploy source code when you push changes to GitHub, Cloud Source or any Repositories. <br/><br/> Let's go Continuous Deployment by leveraging the power of both these amazing products on GCP. The talk also emphasizes on the core objective of running your Docker based containers on a Serverless environment i.e. using Cloud Run.",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/aimanzakikagzi/new-way-of-doing-things-in-android",
-      "speakers" : [ "aimanzaki_kagzi", "dhruv_patel" ],
-      "tags" : [ "Android" ],
+      "presentation" : "",
+      "speakers" : [ "dharmesh_vaya" ],
+      "tags" : [ "Cloud" ],
       "title" : "New way of doing things in Android",
-      "videoId" : "-bONqt6bD3E"
+      "videoId" : ""
     },
     "107" : {
-      "complexity" : "Beginner",
-      "description" : "Working with asynchronous code is difficult especially for Android Developers which ultimately leads to callback hell. <br/><br/> Everyone is talking about Co-routines these days, but how can you really use them to their full potential? <br/> Well, In this talk, we will look at Kotlin co-routines which truly make it easier for developers to handle concurrency in their applications with a gentle learning curve, solution to handle cancellation, error handling, testing and write least boilerplate code. <br/><br/> This talk would cover: <br/> - Co-routines Generator API Example (for explaining suspension) <br/> - How and where to create Coroutine Scopes, and how to manage them <br/> - Create a Notes App with all functionalities including API calls just by using co-routines and Kotlin URL extension functions <br/> - Also how to use co-routines with popular REST client Retrofit.",
+      "complexity" : "Introductory and overview",
+      "description" : "Basic Concepts of CI/CD, it's benefits to enterprises and how it can be an effective solution for Cloud Native applications, various use cases so as to how to craft CI/CD solutions onto Google Cloud Platform to automate the build, test and deployment process of containerized applications, using various GCP services such as Cloud Source Repository (SCM), Cloud Build and various open source products such as Spinnaker and Jenkins.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/rivuchk/efficient-async-coding-in-kotlin-coroutines",
-      "speakers" : [ "rivu_chakrborty" ],
-      "tags" : [ "Android" ],
-      "title" : "Efficient Async with Kotlin Coroutines",
-      "videoId" : "ZtGChKgsU-g"
+      "presentation" : "",
+      "speakers" : [ "jimit_rangras" ],
+      "tags" : [ "Cloud" ],
+      "title" : "CI/CD on Google Cloud",
+      "videoId" : ""
     },
     "108" : {
-      "complexity" : "Intermediate",
-      "description" : "Firebase MLKit was introduced in Google I/O 2018. It comes as a part of Firebase suite. It combines capabilities of Google Cloud Vision API, TensorFlow Lite, Neural Network API in single SDK. This allows mobile app developers to use ML models in their apps. It also comes with predefined APIs using which mobile app developers can implement functionalities like image labeling, face detection, barcode scanning etc. in the apps. In this session we will cover basics of ML Kit first. This will show how mobile app developers can use the SDK in their  android project. After this we will explore all the base APIs of SDK with demos. We will have quick demo to demonstrate capabilities of the each APIs. Also we will see how we can embed ML models in the apps by using the SDK with practical demo.",
+      "complexity" : "Introductory and overview",
+      "description" : "Outreachy provides internships to work in Free and Open Source Software (FOSS). Outreachy internships are open to applicants around the world. Interns work remotely, and are not required to move. Interns are paid a stipend of $5,500 USD for the three month internship. Interns have a $500 USD travel stipend to attend conferences or events. <br/><br/> Interns work with experienced mentors from FOSS communities. Outreachy internship projects may include programming, user experience, documentation, illustration, graphical design, or data science. Interns often find employment after their internship with Outreachy sponsors or in jobs that use the skills they learned during their internship. <br/><br/> I just finished my Outreachy internship with the Linux Kernel and worked with Microsoft's Hyper-V team. And I would like to spread the word about this one of its kind internship opportunity. <br/><br/> Unlike Google Summer of Code, one doesn't need to be a student for applying to Outreachy. These are exclusive internships for women and underrepresented communities.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/hirendave/explore-firebase-mlkit-for-android",
-      "speakers" : [ "" ],
-      "tags" : [ "Firebase" ],
-      "title" : "Exploring Firebase MLKit on Android",
-      "videoId" : "z80MqFtJklU"
+      "presentation" : "",
+      "speakers" : [ "himadri_pandya" ],
+      "tags" : [ "Motivation" ],
+      "title" : "Introduction to Open Source and Outreachy",
+      "videoId" : ""
     },
     "109" : {
-      "complexity" : "Expert",
-      "description" : "Android is one of the topmost Mobile Operating System used across the globe. It is apparently clear that lot of new applications are being developed on daily basis. However, 95% of the apps are found to be insecure.",
+      "complexity" : "Intermediate",
+      "description" : "Sketch is a design toolkit for mac users. In this session, we will show you how sketch can help developers to develop application in better & easy way with all available icons & tools.",
       "language" : "English",
-      "presentation" : "https://drive.google.com/file/d/1h3vgHmj7UWuhSvXrRIBi9eoJgYCcbcmR/view",
-      "speakers" : [ "smit_shah" ],
+      "presentation" : "",
+      "speakers" : [ "sheeni_saxena" ],
       "tags" : [ "Android" ],
-      "title" : "Android Application Security Testing",
-      "videoId" : "nuTqplRpUqA"
+      "title" : "Android app : From Sketch to Android studio",
+      "videoId" : ""
     },
     "110" : {
-      "complexity" : "Intermediate",
-      "description" : "Flutter uses reactive views, which you can take to the next level by applying reactive principles with BLoC and ScopedModel patterns to your app’s data model.",
+      "complexity" : "Introductory and overview",
+      "description" : "This talk explores the inter-dependence of the World Wide Web and the field of Artificial Intelligence, tracing both the storylines from their independent routes, to chronologically reaching the current day amalgamation, while discussing the major milestones of their relationship. The talk would be the complete story of the merging together of two fields, the factors that made them mutually beneficial and the projected future. <br/><br/> 1. Introduction to Speaker and Topic intuition <br/>2. The Roots of Web and AI - Mutual independence <br/>3. The Birth of Semantic Nets - First acknowledgement <br/>4. ELIZA, the ARPANET baby - Gaining popularity <br/>5. Stanford's SUMEX-AIM - Establishment of Partnership <br/>6. The Semantic Web Road map by Tim Berner’s Lee - From the Father’s Pen <br/>7. The Rise of the Crawlers - Web as the Fuel of AI <br/>8. OWL Web Ontology Language by W3C - A standard Pact signed <br/>9. Assistants, Advertisements, Security - Today <br/>10. Looking ahead - The Future",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/burhanrashid52/build-reactive-architecture-in-flutter",
-      "speakers" : [ "burhanuddin_rashid" ],
-      "tags" : [ "Flutter" ],
-      "title" : "How to build Reactive Architecture for Flutter.",
-      "videoId" : "rgf_PAS0L10"
+      "presentation" : "",
+      "speakers" : [ "anubhav_singh" ],
+      "tags" : [ "Web", "AI" ],
+      "title" : "AI for Web : Web for AI",
+      "videoId" : ""
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "This codelab provides a deeper dive into Flutter. <br/><br/> You will be able to <br/> - Write Flutter app that runs on both Android/iOS <br/> - Building Layouts <br/> - Making http calls <br/> - Navigation & Routing <br/> - Hero Animations",
+      "description" : "When we hear term machine learning, we think of Python, Keras, Pandas, PyTorch, SciPy etc. As a web developer it's hard to get started with all these technologies. Does that mean a web developer can not enter in field of ML? It's possible now, with introduction to TensorFlow JS, a web developer can also have ML in Browser. TensorFlow JS in an open source library that can be used to train, and run machine learning models in the browser, using Javascript and a high-level layers API. This session will cover introduction to TensorFlow JS and it's capabilities and will have cool demos to show it in actions. This session will be a good fit for the developers who are interested to go in the field of machine learnings.",
       "extend" : 2,
       "language" : "English",
-      "presentation" : "https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM/edit#slide=id.g408dddd754_34_296",
-      "speakers" : [ "parth_jansari", "dhrumil_shah" ],
-      "tags" : [ "Codelab" ],
-      "title" : "Codelab - Flutter"
+      "presentation" : "",
+      "speakers" : [ "hiren_dave" ],
+      "tags" : [ "Web", "ML" ],
+      "title" : "Machine learning in the Browser with TensorFlow.js",
+      "videoId" : ""
     },
     "112" : {
-      "complexity" : "Expert",
-      "description" : "It includes basics of NLP, How to solve 90% of NLP problems? and code for the Social Media (twitter) Text Analysis which can help at the time of disasters to the Disaster Management team. #AIForSocialGood",
+      "complexity" : "Intermediate",
+      "description" : "Want to implement your application using Flutter but ready to rewrite it from scratch? In this session, you'll learn how you can add Flutter activity to your existing Android app and keep the rest as it is. I will also show how Flutter can be a great prototyping tool, producing functioning apps in record times.",
       "extend" : 2,
       "language" : "English",
-      "presentation" : "https://colab.research.google.com/drive/15D8NqiBJo42E9omYt6Uts3YbXPQbMgRc",
-      "speakers" : [ "krupa_galiya", "charmi_chokshi" ],
-      "tags" : [ "Codelab" ],
-      "title" : "Codelab - Machine Learning"
+      "presentation" : "",
+      "speakers" : [ "bhavik_makwana" ],
+      "tags" : [ "Flutter", "Android" ],
+      "title" : "Adding Flutter to existing Android app",
+      "videoId" : ""
     },
     "113" : {
-      "complexity" : "Beginner",
-      "description" : "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant. <br/> There are three levels of codelabs which includes level_1, level_2, and level_3 that we’re going to cover. At last, you’ll be able to develop an rich interactive application by yourself.",
+      "complexity" : "Intermediate",
+      "description" : "Creating a developer friendly Node environment with modern tooling and a strong type system to help accelerate development.",
       "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/jaldeepasodariya/codelab-actions-on-google-devfestahm18",
-      "speakers" : [ "jaldeep_asodariya", "juhil_somaiya" ],
-      "tags" : [ "Codelab" ],
-      "title" : "Codelab - Actions on Google"
+      "presentation" : "",
+      "speakers" : [ "sachin_jani", "ryan_dsouza" ],
+      "tags" : [ "Web" ],
+      "title" : "Demystifying DX with Node, TypeScript & Prisma",
+      "videoId" : ""
     },
     "114" : {
-      "description" : "Predicting tomorrow today for everything in tech <br/> Celebrate diversity <br/> Fintech, Regtech and FutureTech <br/> Mobile, Mobility and Mesh <br/> Autonomous, Automated and Augmented",
+      "complexity" : "Intermediate",
+      "description" : "Voice technology is at its infant stage. And voice user interfaces are very different from graphical user interfaces. Hence developing voice applications after having an idea of the best practices makes it very easy to understand and develop. <br/>It will cover what are some of the best practices that should be kept in mind while designing a voice user interface.",
       "language" : "English",
-      "presentation" : "https://docs.google.com/presentation/d/1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw/edit#slide=id.g46ff6b6fdb_0_0",
-      "speakers" : [ "utpal_betai" ],
-      "title" : "Keynote 1 - Focus on Future",
-      "videoId" : "UEBEZB3GfME"
+      "presentation" : "",
+      "speakers" : [ "nimesh_solanki" ],
+      "tags" : [ "Mobile" ],
+      "title" : "Best Practices for Voice User Interface Design",
+      "videoId" : ""
     },
     "115" : {
-      "description" : "",
+      "complexity" : "Intermediate",
+      "description" : "This session goes through the nuances on how Android libraries have to be developed in a restricted environment as they run inside other apps. This session will not be very practical in terms of development but will be more of an interactive session with the audience, where I will compare the different aspects of Android development in terms of comparison between App development and SDK development and pick their brains on how would they go about developing an Android Library if they got a chance. <br/><br/>For example, while a majority of the apps use famous libraries like Retrofit or Volley to do their network calls, an SDK needs to either use AsyncTask or conjure up a trick using Threads and Handlers to ensure their networking is smooth. While apps use advanced DB libraries or frameworks like Room/Realm/greenDAO, Android libraries who cannot use these because it would mean that the apps into which they land up in would also have to add them as a dependency, have to make do with SQLite. <br/><br/>Once I mention the different types of problems faced by Libraries in terms of networking, database handling, UI components, handling images/GIFs/Video, efficient library size and also handling backward compatibility, I will provide my solutions which I have used in the CleverTap Android SDK as one of the possible solutions. I will also shed some light on the process of publishing libraries on JCenter or MavenCentral. <br/><br/>",
+      "extend" : 2,
       "language" : "English",
-      "speakers" : [ "karthik_padmanabhan" ],
-      "title" : "Keynote 2 - Google Cloud, Machine Learning",
-      "videoId" : "ltwmqSJzg7k"
+      "presentation" : "",
+      "speakers" : [ "darshan_pania" ],
+      "tags" : [ "Mobile" ],
+      "title" : "Coding with your hands tied - A session on developing Android Libraries.",
+      "videoId" : ""
+    },
+    "116" : {
+      "complexity" : "Intermediate",
+      "description" : "A deeper dive into the world of react hooks and my experience on migrating from a complex class-based react codebase to using react hooks in it.",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "tathagat_thapliyal" ],
+      "tags" : [ "Web" ],
+      "title" : "Demystifying React Hooks",
+      "videoId" : ""
+    },
+    "117" : {
+      "complexity" : "Intermediate",
+      "description" : "The concept of storage in blockchain is still in its early stages of development , therefore its necessary to raise awareness and, understand about how these decentralised storage system will meet demand of practical high volume data security and storage use cases. The talk will cover the practical use cases of storage solutions in blockchain.",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "ripal_shah" ],
+      "tags" : [ "Motivation" ],
+      "title" : "Decentralised Storage System In Blockchain",
+      "videoId" : ""
+    },
+    "118" : {
+      "complexity" : "Introductory and overview",
+      "description" : "It's all about a new operating system by Google which is under development",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "bharat_makwana" ],
+      "tags" : [ "Mobile" ],
+      "title" : "Intro to fuchsia",
+      "videoId" : ""
+    },
+    "119" : {
+      "complexity" : "Intermediate",
+      "description" : "In this talk, we will discuss how to create a modular Android Application architecture. Why we should choose this architecture for better-organized code structure in the organization or in the team. Modularising your app will help you grow your app in a lot of ways and get more signups. We will also be discussing the impact Modularisation of your app will create. Till date, we have been building a single module app and what pain points were solved when we moved our app towards multi-module architecture.",
+      "extend" : 2,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "himanshu_singh" ],
+      "tags" : [ "Android" ],
+      "title" : "Modularizing your Android App",
+      "videoId" : ""
+    },
+    "120" : {
+      "complexity" : "Introductory and overview",
+      "description" : "With modern apps / websites relying heavily on graphics, it's necessary that the creative brains behind these know how *not to comprise the fluid performance ! <br/><br/>This is what my session is about. I will be talking about tips and tricks that a UI/UX designer can incorporate in their designs to render high quality graphics in lowest sizes. It's not only about compressing the final artwork.",
+      "extend" : 2,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "nishant_dubey" ],
+      "tags" : [ "Web" ],
+      "title" : "Design For Performance",
+      "videoId" : ""
     },
     "121" : {
-      "description" : "Slides with GIFs https://goo.gl/s4B1tb <br/> - Guide for becoming a Ninja developer. <br/> - Difference between ordinary developer vs ninja developer <br/> - Practices that you should be following for becoming a proactive and ninja developer <br/> - Learn and add at least 1 new skill per year in your resume <br/> - Attend at least 1 new course in a quarter <br/> - Follow Goal based learning <br/> - Keep learning, keep sharing <br/> - Meet new people and learn from them <br/> - Follow experts over your favorite media <br/> - Sharpen your analysis skill <br/> - Stay passionate! <br/><br/> Save yourself from Back pain :)",
+      "complexity" : "Intermediate",
+      "description" : "Getting predictions in Jupyter Notebook is sufficient till you are in Campus, but what after getting into Corporate? The model developed once has to reach clients in order to benifit the company. Also, it should be capable for scaling and learning from user generated data as and when required. <br/t/>Learn about all the necessary Data Science and Engineering skills, responsibilities, and best practices for becoming a (Marketable) Machine Learning Engineer in this session which will walk you through the Design - Develop - Deploy cycle. <br/><br/>In a nutshell, this interactive session will nurture an ML Enthusiast turning into an ML Engineer.",
+      "extend" : 2,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/pareshmayani/how-to-be-a-ninja-developer/",
-      "speakers" : [ "paresh_mayani" ],
-      "title" : "How to be a Ninja Developer",
-      "videoId" : "ydwnj5Mi1tw"
+      "presentation" : "",
+      "speakers" : [ "charmi_chokshi" ],
+      "tags" : [ "Cloud" ],
+      "title" : "input(ML_Enthusiast) : output(ML_Engineer)",
+      "videoId" : ""
+    },
+    "122" : {
+      "complexity" : "Intermediate",
+      "description" : "CameraX - A Jetpack support library, built to help you make camera app development easier for android developer.",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "pranay_patel" ],
+      "tags" : [ "Android" ],
+      "title" : "CameraX - Android camera in simple way!",
+      "videoId" : ""
+    },
+    "123" : {
+      "complexity" : "Expert",
+      "description" : "I’ve always been exploring my curriculum because it's teaching me machines and I am doing machine learning! <br/>I would like to depict my journey of two years from having inferiority complex towards computer science to being this frank in communities loving me for being a tech enthusiast. I wanna go beyond gender diversity, to this convex approach to tech with all the other aspects. <br/>What communities gave me is a perspective to look for opportunities around. Basically wanna say that everything out here is offering you something, I take it to my vision & climb! <br/>I would also like to talk about my recent research on user experience & product design, giving a focus to Human Computer Interaction. <br/>Today when I look back to what I was two years back, I feel awesome being a little different among those 180 mechanical brains, thinking out of the box, making a new way towards promoting and letting everyone know that if you're fascinating enough for tech, you'll see solutions with it in every aspect to work in. <br/>For me, it ain’t about how fast I get there, not even about what’s waitin’ on the other side, it’s the climb!",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "namrata_more" ],
+      "tags" : [ "Motivation" ],
+      "title" : "It's the climb!",
+      "videoId" : ""
+    },
+    "124" : {
+      "complexity" : "Intermediate",
+      "description" : "This session is about learning some of cool operators of RXJS with Angular 8 application.",
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ "jalpesh_vadgama" ],
+      "tags" : [ "Web" ],
+      "title" : "Top 10 RX Operators in Angular",
+      "videoId" : ""
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -360,10 +546,9 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
-      "presentation" : "https://drive.google.com/open?id=1CitW7YPENlYMSdwGkIE7WnY7Yl09jJLS_mOe6Az35Vw",
-      "speakers" : [ "paresh_mayani", "dhrumil_shah" ],
-      "title" : "GDG DevFest Ahmedabad 2018 Opening",
-      "videoId" : "U5swO0AAhDY"
+      "presentation" : "",
+      "title" : "GDG DevFest Ahmedabad 2019 Opening",
+      "videoId" : ""
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -415,33 +600,6 @@
       } ],
       "title" : "Sr. Project Manager"
     },
-    "siddhant_agarwal" : {
-      "badges" : [ {
-        "description" : "Google India",
-        "link" : "https://twitter.com/sidagarwal04",
-        "name" : "google"
-      } ],
-      "bio" : "Hey there, I’m Siddhant, aka Sid. A Design Thinker at heart. Currently working as Program Coordinator at Google India living in Delhi, India. I am an Intel Software Innovator. I love helping startups scale in User Experience (UX).",
-      "company" : "Google India",
-      "companyLogo" : "/images/people/speakers/company/google.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country" : "Bangalore",
-      "featured" : true,
-      "name" : "Siddhant Agarwal",
-      "photo" : "/images/people/speakers/siddhant_agarwal.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsiddhant_agarwal.jpeg?alt=media&token=fd8724c0-1acc-42c8-aac5-7feb09369262",
-      "shortBio" : "Program Coordinator for @GoogleDevsIN | Intel Software Innovator | International...",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sidagarwal04",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/siddhantagarwal/`",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Program Coordinator"
-    },
     "adit_lal" : {
       "bio" : "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography.",
       "company" : "GoJek",
@@ -468,6 +626,55 @@
       } ],
       "title" : "Product Engineer"
     },
+    "rohan_mishra" : {
+      "bio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
+      "company" : "Zomato",
+      "companyLogo" : "/images/people/speakers/company/zomato.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fzomato.png?alt=media&token=8debbc14-7cc6-4559-b30b-ee72b7f540c3",
+      "country" : "Gurgaon",
+      "featured" : true,
+      "name" : "Rohan Mishra",
+      "photo" : "/images/people/speakers/2019/rohan_mishra.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
+      "shortBio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/iamrohanmishra",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.rohanmishra.design/blog",
+        "name" : "Blog"
+      } ],
+      "title" : "Product Design"
+    },
+    "prajyot_mainkar" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Goa",
+        "link" : "https://www.meetup.com/GoogleGoa/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out of Goa and one of the winner's of Goa State CM Startup Award. He has been associated with Hon. PM Shri. Narendra Modi's PMO initiative of MYGOV. In mentoring more than 50 startups under the PMO initiative. Recipient of the Young Entrepreneur of the year by Business Goa and one of the 14 Intel innovators in the country, Prajyot has delivered more than 350 talks across the globe of which the prominent have been Droidcon Greece, Android Developer Days in Turkey, Google developer summit, Sri Lanka. Yourstory, one of India's leading startup brand recognized him as the Android man of Goa and was also featured as top techies in India in 2015. He is the technical advisor to India's one of the leading Digital Incubator For Students - The Startup Village and also several other incubators. Recently, became the first Goan author to publish a book on Mobile Technology called - Expert Android Programming, which is circulated in UK, India, Sri Lanka, Nepal, and Bangladesh. Post that, published another book on Flutter. He is also on the board of EDC Ignite as an advisor and industry advisor to Goa Stage IT policy.GEMS(Goa entrepreneur mentoring service) recently awarded him The trailblazer excellence award for contribution of IT in Goa.",
+      "company" : "Androcid",
+      "companyLogo" : "/images/people/speakers/company/androcid.png  ",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fandrocid.png?alt=media&token=d1a0541a-522d-4c16-9714-e21c6cc78f1d",
+      "country" : "Goa",
+      "featured" : false,
+      "name" : "Prajyot Mainkar",
+      "photo" : "/images/people/speakers/2019/prajyot_mainkar.webp",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fprajyot_mainkar.jpg?alt=media&token=ce9b5854-5536-4753-b8ea-6623dcd6238e",
+      "shortBio" : "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/prajyotm",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/prajyotm/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Founder"
+    },
     "divyanshu_bhargava" : {
       "bio" : "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started from Android and took a turn at Flutter. He has 3+ years of experience of building mobile apps. He has done B.Tech in Computer Science and Engineering. He is creator of Android Draw and Chitr application. Being a blogger and open source lover he keen interest in to help developers & students who look forward to growing their careers in the field of Mobile Computing.",
       "company" : "GoHighLevel",
@@ -493,28 +700,6 @@
         "name" : "Blog"
       } ],
       "title" : "Flutter Developer"
-    },
-    "rohan_mishra" : {
-      "bio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
-      "company" : "Zomato",
-      "companyLogo" : "/images/people/speakers/company/zomato.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fzomato.png?alt=media&token=8debbc14-7cc6-4559-b30b-ee72b7f540c3",
-      "country" : "Gurgaon",
-      "featured" : true,
-      "name" : "Rohan Mishra",
-      "photo" : "/images/people/speakers/2019/rohan_mishra.png",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
-      "shortBio" : "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/iamrohanmishra",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "website",
-        "link" : "https://www.rohanmishra.design/blog",
-        "name" : "Blog"
-      } ],
-      "title" : "Product Design"
     },
     "dharmesh_vaya" : {
       "badges" : [ {
@@ -616,8 +801,8 @@
     "anubhav_singh" : {
       "bio" : "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it. I'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community. I am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
       "company" : "DataCamp Instructor | Author",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "companyLogo" : "/images/people/speakers/company/the_code_foundation.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fthe_code_foundation.png?alt=media&token=c520e84e-ed0f-4ec7-bd79-5b097a8190ac",
       "country" : "Allahabad",
       "featured" : false,
       "name" : "Anubhav Singh",
@@ -798,9 +983,9 @@
     },
     "tathagat_thapliyal" : {
       "bio" : "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things.",
-      "company" : "Voz",
-      "companyLogo" : "/images/people/speakers/company/voz.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fvoz.png?alt=media&token=db61c409-9e1b-4bdc-bd6c-75b1dcfe8430",
+      "company" : "Coding Blocks",
+      "companyLogo" : "/images/people/speakers/company/codingblocks.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fcodingblocks.png?alt=media&token=de2b301c-c4da-4b48-a0fa-00736310a2b5",
       "country" : "New Delhi",
       "featured" : false,
       "name" : "Tathagat Thapliyal",
@@ -816,7 +1001,7 @@
         "link" : "https://www.linkedin.com/in/tathagat-thapliyal/",
         "name" : "LinkedIn"
       } ],
-      "title" : "Co-Founder, CTO"
+      "title" : "Software Developer & Mentor"
     },
     "ripal_shah" : {
       "bio" : "A self-motivated electronics and communication engineer who found her love in computers. Working as a blockchain developer from last 2 years and accomplished a high level of expertise in the field . Fond of playing badminton and have strong belief in karma.",
@@ -1103,6 +1288,10 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/dhruvashastri12",
         "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dhruvashastri12/",
+        "name" : "LinkedIn"
       } ],
       "title" : "WTM Ambassador"
     }, {
@@ -1117,6 +1306,10 @@
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/jaldeepasodariya/",
         "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jaldeepasodariya",
+        "name" : "Github"
       }, {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/jdjaldeep",
@@ -1146,7 +1339,7 @@
   }, {
     "members" : [ {
       "name" : "Vatsal Trivedi",
-      "photo" : "/images/people/vatsal_trivedi.jpg",
+      "photo" : "/images/people/others/vatsal_trivedi.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi.jpg?alt=media&token=7cebaac9-c669-4b73-b3f3-a15a134063bf",
       "socials" : [ {
         "icon" : "twitter",
@@ -1168,7 +1361,7 @@
       "title" : ""
     }, {
       "name" : "Dixita Ganatra",
-      "photo" : "/images/people/dixita_ganatra.jpg",
+      "photo" : "/images/people/others/dixita_ganatra.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdixita_ganatra.jpg?alt=media&token=6a7edde5-be2f-45b9-83c3-b6c8d249edb5",
       "socials" : [ {
         "icon" : "twitter",
@@ -1184,12 +1377,66 @@
         "name" : "Dribbble"
       } ],
       "title" : ""
+    }, {
+      "name" : "Dhara Vihol",
+      "photo" : "/images/people/others/dhara_vihol.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhara_vihol.jpg?alt=media&token=fa65e4e3-0ca2-4c4e-a091-367e0ba31a93",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Dhara_MSD",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dhara-vihol/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://dhara159.github.io/",
+        "name" : "Dribbble"
+      } ],
+      "title" : ""
     } ],
     "title" : "Creative Team"
   }, {
     "members" : [ {
+      "name" : "Amit Panchal",
+      "photo" : "/images/people/others/amit_panchal.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Famit_panchal.jpeg?alt=media&token=8a445e5d-f9a6-4812-b55c-31b85a1f6667",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AmitHPanchal",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/amithpanchal/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.amitpanchal.com/",
+        "name" : "Website"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Harendrasingh Rajput",
+      "photo" : "/images/people/others/harendrasingh_rajput.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharendrasingh_rajput.jpeg?alt=media&token=c544d4c9-e775-47d3-ab3d-92f5a9dc1b76",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/harendrasingh",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/harendrasingh/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.harendrasinghrajput.com/",
+        "name" : "Website"
+      } ],
+      "title" : ""
+    }, {
       "name" : "Jignesh Thanki",
-      "photo" : "/images/people/jignesh_thanki.png",
+      "photo" : "/images/people/others/jignesh_thanki.png",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki.png?alt=media&token=adf57fd5-959a-43d1-8161-4439fada61d5",
       "socials" : [ {
         "icon" : "twitter",
@@ -1207,7 +1454,7 @@
       "title" : ""
     }, {
       "name" : "Manthan Ladva",
-      "photo" : "/images/people/manthan_ladva.png",
+      "photo" : "/images/people/others/manthan_ladva.png",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmanthan_ladva.png?alt=media&token=bcb27139-539d-4955-a6f0-be5897cde879",
       "socials" : [ {
         "icon" : "twitter",
@@ -1225,7 +1472,7 @@
       "title" : ""
     }, {
       "name" : "Dhruv Patel",
-      "photo" : "/images/people/dhruv_patel.jpeg",
+      "photo" : "/images/people/others/dhruv_patel.jpeg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhruv_patel.jpeg?alt=media&token=933de731-1c40-4554-a1e6-2257a17b8a41",
       "socials" : [ {
         "icon" : "twitter",
@@ -1247,7 +1494,7 @@
         "title" : ""
       }, {
         "name" : "Abhishek Jani",
-        "photo" : "/images/people/abhishek_jani.jpg",
+        "photo" : "/images/people/others/abhishek_jani.jpg",
         "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani.jpg?alt=media&token=3344edc8-7bb8-49e7-bd3e-26bd0f795dac",
         "socials" : [ {
           "icon" : "twitter",
@@ -1262,14 +1509,54 @@
           "link" : "https://about.me/abhijani",
           "name" : "Website"
         } ],
+        "title" : ""
+    }, {
+      "name" : "Moin Shaikh",
+      "photo" : "/images/people/others/moin_shaikh.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmoin_shaikh.jpeg?alt=media&token=98688ea9-2d80-4db4-9849-beb68da8414c",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/moingshaikh",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/moingshaikh/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@moingshaikh",
+        "name" : "Blogs"
+      } ],
       "title" : ""
-    } ],
-    "title" : "Social Media Team"
-  }, {
+      }, {
+        "name" : "Ravi Rupareliya",
+        "photo" : "/images/people/others/ravi_rupareliya.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fravi_rupareliya.png?alt=media&token=dc8f47fc-fd37-4388-b8a0-1845765309c8",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/ravi_rupareliya",
+          "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/ravi-rupareliya-54935815/",
+          "name" : "LinkedIn"
+        }, {
+          "icon" : "github",
+          "link" : "https://github.com/ravirupareliya",
+          "name" : "Github"
+        }, {
+          "icon" : "website",
+          "link" : "http://ravirupareliya.com/",
+          "name" : "Website"
+        } ],
+        "title" : ""
+      } ],
+      "title" : "Social Media Team"
+    }, {
     "members" : [ {
       "name" : "Hiral Thaker",
-      "photo" : "/images/people/hiral_thaker.jpg",
-      "photoUrl" : "",
+      "photo" : "/images/people/others/hiral_thaker.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fhiral_thaker.jpg?alt=media&token=1d0baf2c-4bbb-4add-8e10-a6d05365a352",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/hiralthaker12",
@@ -1282,7 +1569,7 @@
       "title" : ""
     }, {
       "name" : "Pritha Upadhyay",
-      "photo" : "/images/people/pritha_upadhyay.jpeg",
+      "photo" : "/images/people/others/pritha_upadhyay.jpeg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpritha_upadhyay.jpeg?alt=media&token=31744a3a-daa4-4fab-a7bf-f59f64896cfa",
       "socials" : [ {
         "icon" : "twitter",
@@ -1310,11 +1597,11 @@
     "name" : "Early Bird",
     "price" : 100,
     "regular" : true,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Sep 30",
     "url" : "https://allevents.in/ahmedabad/devfestahm-2019-gdg-ahedabad/80002952017442"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₹",
     "ends" : "Oct 07",
     "inDemand" : false,
@@ -1323,7 +1610,7 @@
     "price" : 200,
     "primary" : true,
     "regular" : true,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Sep 30",
     "url" : "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
   } ],
