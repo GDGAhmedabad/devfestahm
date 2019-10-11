@@ -1607,6 +1607,260 @@
       "title" : ""
     } ],
     "title" : "Content Writer"
+  }, {
+    "members" : [ {
+      "name" : "Harsh Shah",
+      "photo" : "/images/people/others/harsh_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharsh_shah.jpeg?alt=media&token=5cebe47c-15c0-421b-845b-0044f1684cba",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/harshcrop",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/harshcrop",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/harshcrop",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Jigar Navadiya",
+      "photo" : "/images/people/others/jigar_navadiya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjigar_navadiya.jpg?alt=media&token=b33567af-cdb2-42c1-b61f-c927938a8cf7",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jbnavadiya",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/jigarnavadiya",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/JBNavadiya",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    } , {
+      "name" : "Nikunj Thakkar",
+      "photo" : "/images/people/others/nikunj_thakkar.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnikunj_thakkar.jpg?alt=media&token=2ed16604-6cb9-41c1-ae3c-efe3e2b6b8ef",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nikunjness",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/nikunjness",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/nikunjness",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }],
+    "title" : "Partner Community"
+  }, {
+    "members" : [ {
+      "name" : "Nikunj Patel",
+      "photo" : "/images/people/others/nikunj_patel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnikunj_patel.jpg?alt=media&token=85088328-2444-428a-9aaa-c489ad6364b8",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Nikunjpatel1904",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/nikunj-patel-480a3b107/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/nikunjpatel1904",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Kartik Derasari",
+      "photo" : "/images/people/others/kartik_derasari.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fkartik_derasari.jpg?alt=media&token=e0bfef5a-59ae-408c-a97a-799e573d0c61",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/kartik_derasari",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kartik-derasari-830a5a136/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/kartikderasari",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Savan Patel",
+      "photo" : "/images/people/others/savan_patel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fimg_default_profile_picture.jpg?alt=media&token=728bfc88-0fd3-4e78-a4a3-2bc887e9b251",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/patelsavan6595",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/savan-patel-34315b178",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/psavan1655",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Darsh Shah",
+      "photo" : "/images/people/others/darsh_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdarsh_shah.jpg?alt=media&token=dfd6f627-4a9a-479e-be2a-443fc8b46f26",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/iamdarshshah",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/iamdarshshah/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/iamdarshshah",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Kunal Soneta",
+      "photo" : "/images/people/others/kunal_soneta.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fkunal_soneta.jpg?alt=media&token=38032b8d-c1ba-4f0c-bdfb-a415b9a5ac9c",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/kunalsoneta",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/kunal-soneta-926187a1",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/kunalsoneta",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Mansi Thakkar",
+      "photo" : "/images/people/others/mansi_thakkar.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmansi_thakkar.JPG?alt=media&token=771f9e60-fd84-4b52-b28f-a525ce8f0d47",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mancythakkar95",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/mansithakkar1/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/MansiThakkar",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Sarthak Saraswat",
+      "photo" : "/images/people/others/sarthak_saraswat.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fsarthak_saraswat.jpg?alt=media&token=54bd50d5-fe3f-4bca-8d8b-55a35c32a12d",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sarthak2502",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sarthak-saraswat-137353171/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/sarthaksaraswat",
+        "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Jhanvi Panchal",
+      "photo" : "/images/people/others/jhanvi_panchal.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjhanvi_panchal.jpeg?alt=media&token=2c59ee69-e9fe-4bc5-b400-b274c39ff9b7",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jhanvii_03",
+        "name" : "Twitter"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Aanshi Patwari",
+      "photo" : "/images/people/others/aanshi_patwari.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fimg_default_profile_picture.jpg?alt=media&token=728bfc88-0fd3-4e78-a4a3-2bc887e9b251",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AanshiPatwari",
+        "name" : "Twitter"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Kinjal Rathod",
+      "photo" : "/images/people/others/kinjal_rathod.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fkinjal_rathod.jpg?alt=media&token=08a4d53c-e76a-40f2-8453-429030d9ed36",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/KinjalRathod76",
+        "name" : "Twitter"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Joy Patel",
+      "photo" : "/images/people/others/joy_patel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjoy_patel.jpg?alt=media&token=8900ca70-1580-423d-bb57-fb0e30ca8e0a",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/joy1999best",
+        "name" : "Twitter"
+      } , {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/joy-patel-6a5350128/",
+        "name" : "LinkedIn"
+      } ],
+      "title" : ""
+    } , {
+      "name" : "Kashish Shah",
+      "photo" : "/images/people/others/kashish_shah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fimg_default_profile_picture.jpg?alt=media&token=728bfc88-0fd3-4e78-a4a3-2bc887e9b251",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/kashish0805",
+        "name" : "Twitter"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Chiranjiv Pathak",
+      "photo" : "/images/people/others/chiranjiv_pathak.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fchiranjiv_pathak.jpg?alt=media&token=27429b40-a5d3-414e-9aaa-447be0fb6d93",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/chiranjiv007",
+        "name" : "Twitter"
+      } , {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/chiranjiv-pathak-77237625",
+        "name" : "LinkedIn"
+      } ],
+      "title" : ""
+    } ],
+    "title" : "Volunteer Team"
   } ],
   "tickets" : [ {
     "available" : false,
