@@ -63,6 +63,10 @@
     "title" : "Template Partner"
   }, {
     "logos" : [ {
+      "logoUrl" : "../images/logos/sessionize.png",
+      "name" : "Sessionize",
+      "url" : "https://sessionize.com/"
+    }, {
       "logoUrl" : "../images/logos/akash-technolabs.png",
       "name" : "Akash Technolabs",
       "url" : "https://akashtechnolabs.com/"
@@ -78,6 +82,22 @@
       "logoUrl" : "../images/logos/allevents.png",
       "name" : "All Events",
       "url" : "https://allevents.in/"
+    }, {
+      "logoUrl" : "../images/logos/casting_network.png",
+      "name" : "Casting Networks",
+      "url" : "https://corp.castingnetworks.com/"
+    }, {
+      "logoUrl" : "../images/logos/arinspect.png",
+      "name" : "AR Inspect",
+      "url" : "https://arinspect.com/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_cloud_ahmedabad.png",
+      "name" : "GDG Cloud Ahmedabad",
+      "url" : "https://twitter.com/gdgcloudahm"
+    }, {
+      "logoUrl" : "../images/logos/dsc_uvpce.png",
+      "name" : "DSC UVPCE",
+      "url" : "https://www.linkedin.com/in/dsc-uvpce-5bb60a17b/"
     } ],
     "title" : "Partners"
   } ],
@@ -514,7 +534,7 @@
       "presentation" : "",
       "speakers" : [ "jalpesh_vadgama" ],
       "tags" : [ "Web" ],
-      "title" : "Top 10 RX Operators in Angular",
+      "title" : "Top 10 RxJS operators in Angular",
       "videoId" : ""
     },
     "132" : {
@@ -1377,24 +1397,6 @@
         "name" : "Dribbble"
       } ],
       "title" : ""
-    }, {
-      "name" : "Dhara Vihol",
-      "photo" : "/images/people/others/dhara_vihol.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhara_vihol.jpg?alt=media&token=fa65e4e3-0ca2-4c4e-a091-367e0ba31a93",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Dhara_MSD",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/dhara-vihol/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "website",
-        "link" : "https://dhara159.github.io/",
-        "name" : "Dribbble"
-      } ],
-      "title" : ""
     } ],
     "title" : "Creative Team"
   }, {
@@ -1583,6 +1585,24 @@
         "icon" : "github",
         "link" : "https://github.com/prithaupadhyay",
         "name" : "Github"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Dhara Vihol",
+      "photo" : "/images/people/others/dhara_vihol.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhara_vihol.jpg?alt=media&token=fa65e4e3-0ca2-4c4e-a091-367e0ba31a93",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Dhara_MSD",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dhara-vihol/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "https://dhara159.github.io/",
+        "name" : "Dribbble"
       } ],
       "title" : ""
     } ],
