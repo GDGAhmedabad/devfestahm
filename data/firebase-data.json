@@ -83,6 +83,14 @@
       "name" : "All Events",
       "url" : "https://allevents.in/"
     }, {
+      "logoUrl" : "../images/logos/casting_network.png",
+      "name" : "Casting Networks",
+      "url" : "https://corp.castingnetworks.com/"
+    }, {
+      "logoUrl" : "../images/logos/arinspect.png",
+      "name" : "AR Inspect",
+      "url" : "https://arinspect.com/"
+    }, {
       "logoUrl" : "../images/logos/gdg_cloud_ahmedabad.png",
       "name" : "GDG Cloud Ahmedabad",
       "url" : "https://twitter.com/gdgcloudahm"
@@ -526,7 +534,7 @@
       "presentation" : "",
       "speakers" : [ "jalpesh_vadgama" ],
       "tags" : [ "Web" ],
-      "title" : "Top 10 RX Operators in Angular",
+      "title" : "Top 10 RxJS operators in Angular",
       "videoId" : ""
     },
     "132" : {
