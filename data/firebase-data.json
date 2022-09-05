@@ -58,41 +58,9 @@
       "name" : "Sessionize",
       "url" : "https://sessionize.com/"
     }, {
-      "logoUrl" : "../images/logos/akash-technolabs.png",
-      "name" : "Akash Technolabs",
-      "url" : "https://akashtechnolabs.com/"
-    }, {
-      "logoUrl" : "../images/logos/elastic.svg",
-      "name" : "Elastic",
-      "url" : "https://www.elastic.co/"
-    }, {
-      "logoUrl" : "../images/logos/capermint.svg",
-      "name" : "Capermint Technologies",
-      "url" : "https://www.capermint.com/"
-    }, {
-      "logoUrl" : "../images/logos/allevents.png",
-      "name" : "All Events",
-      "url" : "https://allevents.in/"
-    }, {
-      "logoUrl" : "../images/logos/casting_network.png",
-      "name" : "Casting Networks",
-      "url" : "https://corp.castingnetworks.com/"
-    }, {
-      "logoUrl" : "../images/logos/arinspect.png",
-      "name" : "AR Inspect",
-      "url" : "https://arinspect.com/"
-    }, {
-      "logoUrl" : "../images/logos/trivedi_media_group.png",
-      "name" : "Trivedi Media Group",
-      "url" : "https://www.facebook.com/Trivedi-Media-Group-591628721323180/"
-    }, {
       "logoUrl" : "../images/logos/gdg_cloud_ahmedabad.png",
       "name" : "GDG Cloud Ahmedabad",
       "url" : "https://twitter.com/gdgcloudahm"
-    }, {
-      "logoUrl" : "../images/logos/dsc_uvpce.png",
-      "name" : "DSC UVPCE",
-      "url" : "https://www.linkedin.com/in/dsc-uvpce-5bb60a17b/"
     } ],
     "title" : "Partners"
   } ],
