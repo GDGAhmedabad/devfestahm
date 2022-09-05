@@ -70,14 +70,16 @@
       active="[[active]]"
     >
       <div class="hero-title highlight-font">{$ heroSettings.schedule.title $}</div>
-      <p class="hero-description">{$ heroSettings.schedule.description $}</p>
+      <!-- <p class="hero-description">{$ heroSettings.schedule.description $}</p> -->
+      <h2 class="name">{$ unveilSoon $}</h2>
+      <p class="hero-description">{$ announcedSoon $}</p>
       
-      <sticky-element slot="bottom" active="[[active]]">
+      <!-- <sticky-element slot="bottom" active="[[active]]">
         <header-bottom-toolbar></header-bottom-toolbar>
-      </sticky-element>
+      </sticky-element> -->
     </hero-block>
 
-    <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+    <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
 
     <div class="container">
       <content-loader
@@ -117,7 +119,7 @@
           featured-sessions="[[featuredSessions]]"
         ></my-schedule>
       </iron-pages>
-    </div>
+    </div> -->
 
     <footer-block></footer-block>
   </template>
