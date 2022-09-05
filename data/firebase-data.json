@@ -1896,20 +1896,30 @@
     "images" : false
   },
   "videos" : [ {
-    "speakers" : "Paresh Mayani & Dhrumil Shah",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_1.jpg?alt=media&token=6ee378a1-a25f-4a25-804c-db9a8baf8ea9",
-    "title" : "The Opening",
-    "youtubeId" : "U5swO0AAhDY"
-  }, {
     "speakers" : "Utpal Betai",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_2.jpg?alt=media&token=4a131794-b7f5-4cca-9e4f-b15e2ceee130",
-    "title" : "The  Keynote - Focus on Future",
-    "youtubeId" : "UEBEZB3GfME"
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2019%2Fimg_speaker_101.jpg?alt=media&token=ab5d61c1-a256-439e-8d41-e3959a98d589",
+    "title" : "The Keynote",
+    "youtubeId" : "zVXCQW1cP20"
   }, {
-    "speakers" : "Karthik Padmanabhan",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2018%2Fimg_speaker_3.jpg?alt=media&token=c591735f-8d9e-4072-8e84-a31d3a2f21dc",
-    "title" : "The  Keynote - Google Cloud, Machine Learning",
-    "youtubeId" : "ltwmqSJzg7k"
+    "speakers" : "Divyanshu Bhargava",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2019%2Fimg_speaker_105.jpg?alt=media&token=388246bb-3c8c-4a9e-9d19-79db21bb2aa7",
+    "title" : "Fun with Flutter Animations",
+    "youtubeId" : "gM0p4Srzgf8"
+  }, {
+    "speakers" : "Charmi Chokshi",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2019%2Fimg_speaker_121.jpg?alt=media&token=7656f6d3-9adc-4502-942a-896a506d919f",
+    "title" : "input(ML_Enthusiast) : output(ML_Engineer)",
+    "youtubeId" : "E-IfHRNSbd8"
+  }, {
+    "speakers" : "Pranay Patel",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2019%2Fimg_speaker_122.jpg?alt=media&token=cce3c8ae-df4a-4ba3-b5f5-ad15ccba080f",
+    "title" : "CameraX - Android camera in simple way!",
+    "youtubeId" : "NFApUq6a_xE"
+  }, {
+    "speakers" : "Namrata More",
+    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fsessions%2F2019%2Fimg_speaker_123.jpg?alt=media&token=1cbc61c3-6b2c-4f25-a10a-e99f8097e8e7",
+    "title" : "It's the climb!",
+    "youtubeId" : "DJijJABSNWM"
   } ],
   "previousSpeakers": {
     "utpal_betai" : {
