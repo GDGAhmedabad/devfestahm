@@ -1,5 +1,12 @@
+rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+    function validRating() {
+      return request.resource.data.contentRating >= 0 && request.resource.data.contentRating <= 5 &&
+        request.resource.data.styleRating >= 0 && request.resource.data.styleRating <= 5
+        && request.resource.data.comment.size() <= 256;
+    }
+
     match /blog/{post} {
       // Applies to single document read requests
       allow get;
@@ -31,11 +38,12 @@ service cloud.firestore {
     }
 
     match /notificationsSubscribers/{token} {
-      allow list, delete: if false;
+      allow list: if false;
 
       // Applies to document create requests
       allow create;
       allow update;
+      allow delete;
       allow get;
     }
 
@@ -53,6 +61,7 @@ service cloud.firestore {
       // Disallow writes
       allow write: if false;
 
+      // TODO: Remove
       match /items/{itemId} {
         // Applies to single document read requests
         allow get;
@@ -63,6 +72,11 @@ service cloud.firestore {
         // Disallow writes
         allow write: if false;
       }
+    }
+
+    match /{path=**}/items/{itemId} {
+      allow read;
+      allow write: if false;
     }
 
     match /potentialPartners/{partnerId} {
@@ -98,7 +112,41 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    match /generatedSchedule/{day} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
+    }
+
     match /sessions/{session} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
+
+      // TODO: remove
+      match /feedback/{userId} {
+        allow read, delete: if request.auth.uid == userId;
+        allow write: if request.auth.uid == userId && validRating();
+      }
+    }
+
+    match /{path=**}/feedback/{userId} {
+      allow read, delete: if request.auth.uid == userId;
+      allow list: if request.auth.uid == resource.data.userId;
+      allow write: if request.auth.uid == userId && resource.data.userId == userId && validRating();
+    }
+
+    match /generatedSessions/{session} {
       // Applies to single document read requests
       allow get;
 
@@ -110,6 +158,17 @@ service cloud.firestore {
     }
 
     match /speakers/{speaker} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
+    }
+
+    match /generatedSpeakers/{speaker} {
       // Applies to single document read requests
       allow get;
 
@@ -141,6 +200,7 @@ service cloud.firestore {
       // Disallow writes
       allow write: if false;
 
+      // TODO: remove
       match /members/{memberId} {
         // Applies to single document read requests
         allow get;
@@ -151,6 +211,17 @@ service cloud.firestore {
         // Disallow writes
         allow write: if false;
       }
+    }
+
+    match /{path=**}/members/{memberId} {
+      // Applies to single document read requests
+      allow get;
+
+      // Applies to queries and collection read requests
+      allow list;
+
+      // Disallow writes
+      allow write: if false;
     }
 
     match /tickets/{ticket} {
@@ -164,6 +235,7 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    // TODO: Remove along with data
     match /users/{userId} {
       allow list: if false;
 
