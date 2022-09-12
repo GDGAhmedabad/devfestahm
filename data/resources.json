@@ -1,0 +1,283 @@
+{
+  "title": "GDG DevFest Ahmedabad Season 2022",
+  "description": "Be a hero. Be a GDG!",
+  "image": "images/social-share.jpg",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November, 2022",
+  "partnershipProposition": "",
+  "share": "Share",
+  "followOur": "Follow our",
+  "followUs": "Follow us",
+  "emailUs": "Email us",
+  "partnershipResources": "Partnership Resources",
+  "eventResources": "Event Resources",
+  "buyTicket": "Buy ticket",
+  "registerToGetTicket": {
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
+  },
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "viewHighlights": "View Highlights",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Caching complete! Future visits will work offline.",
+  "newVersionAvailable": "A new version of this app is available.",
+  "refresh": "Refresh",
+  "position": "Position",
+  "country": "Country",
+  "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": "Blog"
+  },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
+  },
+  "footerRelBlock": [
+    {
+      "title": "About",
+      "links": [
+        {
+          "name": "GDG Ahmedabad",
+          "url": "https://gdgahmedabad.com/",
+          "newTab": true
+        },
+        {
+          "name": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Platform",
+          "url": "https://developers.google.com/programs/community/gdg/",
+          "newTab": true
+        },
+        {
+          "name": "Meet the Team",
+          "url": "/team/",
+          "newTab": false
+        }
+      ]
+    },
+    {
+      "title": "Explore Past DevFests",
+      "links": [
+        {
+          "name": "DevfestAhm 2017",
+          "url": "http://devfest17.gdgahmedabad.com/",
+          "newTab": true
+        },
+        {
+          "name": "DevfestAhm 2018",
+          "url": "http://devfest18.gdgahmedabad.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Event Resources",
+      "links": [
+        {
+          "name": "Announcing DevFestAhm 2022",
+          "url": "/blog/posts/devfestahm22-announced/",
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "codeOfConduct": "Code of Conduct",
+  "aboutBlock": {
+    "title": "What you need to know, before you ask.",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
+        "label": "Explore featured session",
+        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqZ93WwhGu2PHjgj6czUWAg"
+      },
+      "howItWas": {
+        "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2019",
+        "youtubeId": "cmvDjenGdBA"
+      },
+      "experience360View": {
+        "description": "For the very first time, We have recorded event in 360 camera brought to you by Vrizm Innovations Pvt Ltd. Let's have a look on some movements in 360 view.",
+        "label": "Experience in 360 view",
+        "youtubeId": "7CNlOwQ3V1Q"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Attendees",
+        "number": "500+"
+      },
+      "days": {
+        "label": "Day",
+        "number": "1"
+      },
+      "sessions": {
+        "label": "Sessions",
+        "number": "20+"
+      },
+      "tracks": {
+        "label": "Tracks",
+        "number": "3"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Tickets",
+    "ticketsDeclareSoon": "We declare TICKETS very soon. Stay tuned with us!",
+    "ticketsDetails": "To ensure quality participation, the submitted entries are filtered based on the details filled in the registration form. Only those participants who receive confirmation email from us will be eligible to attend the event.",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
+    "save": "Save ${discount}% today"
+  },
+  "partnersBlock": {
+    "title": "Partners",
+    "button": "Become a partner",
+    "form": {
+      "title": "Become a partner!",
+      "submitLabel": "Submit",
+      "fullName": "Full Name",
+      "companyName": "Company Name"
+    },
+    "toast": "We will contact you soon!"
+  },
+  "featuredVideos": {
+    "title": "DEVFESTAHM'19 featured videos",
+    "callToAction": {
+      "label": "See all videos",
+      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqZ93WwhGu2PHjgj6czUWAg"
+    }
+  },
+  "blog": {
+    "published": "Published",
+    "suggested": "Up next"
+  },
+  "latestPostsBlock": {
+    "title": "The latest news",
+    "callToAction": {
+      "label": "View all stories",
+      "link": "/blog/"
+    }
+  },
+  "unveilSoon": "Unveil soon",
+  "announcedSoon": "To be announced soon",
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Years",
+    "previousYear": "Year"
+  },
+  "speakersBlock": {
+    "title": "Rockstar speakers",
+    "speakersDeclareSoon": "Still in process to pick right pearls in the depth of ocean",
+    "callToAction": {
+      "label": "View all speakers",
+      "link": "/speakers/"
+    },
+    "callForSpeakers":{
+      "title": "Call for Speakers",
+      "description": "If you are passionate about your work and want to share your experience with the biggest tech audience in Ahmedabad, you knocked on the right door.",
+      "callToAction": {
+        "label": "Submit a Proposal",
+        "link": "https://sessionize.com/DevFestAhm-2022/"
+      }
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Previous speakers",
+    "callToAction": {
+      "label": "View all",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "#devfestahm19 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and Q&A.",
+    "callToAction": {
+      "label": "See all photos",
+      "link": "https://photos.app.goo.gl/aiY71hshutA7qm9y6"
+    }
+  },
+  "mapBlock": {
+    "title": "Location"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Get notified about the important conference updates",
+      "label": "Subscribe"
+    },
+    "yourEmail": "Your email",
+    "emailAddress": "Email Address",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ahmedabad sent to your inbox.",
+    "emailRequired": "Please enter a valid email address.",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "close": "Close",
+    "generalError": "Some error has occured. Please, try again later.",
+    "toast": "Successfully subscribed!"
+  },
+  "team": {
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Gujarat audience to boost development of IT."
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "sessionDetails": {
+    "contentLevel": "Content level",
+    "viewPresentation": "View presentation",
+    "viewVideo": "View video",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "Organizer",
+        "description": "<a href='https://www.meetup.com/GDG-Ahmedabad' target='_blank'>GDG Ahmedabad</a> with support of Google Sponsorship and other community partners from all over india is proud organizer of DevFest Ahmedabad",
+        "callToAction": {
+          "label": "Open team page",
+          "link": "/team"
+        }
+      },
+      {
+        "title": "What is GDG?",
+        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
+      }
+    ]
+  },
+  "signInDialog": {
+    "alreadyHaveAccount": "You already have an account",
+    "alreadyUsed": "You've already used",
+    "signInToContinue": {
+      "part1": "Sign in with",
+      "part2": "to continue."
+    }
+  }
+}

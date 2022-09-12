@@ -1,0 +1,229 @@
+{
+  "organizer": {
+    "name": "GDG Ahmedabad",
+    "twitter": "gdgahmedabad",
+    "blog": "https://gdgahmedabad.com/",
+    "url": "http://devfest.gdgahmedabad.com/"
+  },
+  "startDate": "2022-11-01T09:00:00+05:30",
+  "endDate": "2022-11-01T19:00:00+05:30",
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#419CF6",
+    "backgroundColor": "#419CF6"
+  },
+  "dateFormat": {
+    "locale": "en-US"
+  },
+  "hashtag": "DevFestAhm",
+  "disabledSchedule": false,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    }, 
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
+    }
+  ],
+  "heroSettings": {
+    "home": {
+      "description": "Be a hero. Be a GDG!",
+      "background": {
+        "color": "#419CF6",
+        "image": "/images/backgrounds/home.jpg"
+      },
+      "fontColor": "#FFF"
+    },
+    "blog": {
+      "title": "Blog",
+      "metaDescription": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "metaDescription": "Being the tech leaders from across the region, also they are the same community people, just Iike us! Attend them in person and listen to their expert talks and know more about them below.",
+      "description": "Being the tech leaders from across the region, also they are the same community people, just Iike us! Attend them in person and listen to their expert talks and know more about them below.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "previousSpeakers": {
+      "title": "Previous Speakers",
+      "metaDescription": "Check who was with us last years",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "schedule": {
+      "title": "Schedule",
+      "metaDescription": "Choose your sessions to visit",
+      "scheduleDeclareSoon": "We declare schedule very soon. Stay tuned with us!",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "team": {
+      "title": "Team",
+      "metaDescription": "Get more info about organizers",
+      "background": {
+        "color": "#419CF6",
+        "image": "/images/backgrounds/team.jpg"
+      },
+      "fontColor": "#FFF"
+    },
+    "faq": {
+      "title": "FAQs",
+      "metaDescription": "Find you answer right here!",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "cod": {
+      "title": "Code Of Conduct",
+      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    }
+  },
+  "location": {
+    "label": "Location",
+    "name": "Courtyard by Marriott",
+    "city": "Ahmedabad",
+    "short": "Ahmedabad, Gujarat",
+    "address": "Ramdev Nagar Cross Road, Satellite, Road, Satellite, Ahmedabad, Gujarat - 380015",
+    "pointer": {
+      "latitude": 23.027870,
+      "longitude": 72.512128,
+      "zoom": 16
+    },
+    "mapCenter": {
+      "latitude": 23.03,
+      "longitude": 72.51
+    },
+    "description": "COURTYARD by Marriott"
+  },
+  "mediaQueries": {
+    "xs": {
+      "max": "639px"
+    },
+    "sm": {
+      "min": "640px",
+      "max": "811px"
+    },
+    "md": {
+      "min": "812px",
+      "max": "1023px"
+    },
+    "lg": {
+      "min": "1024px"
+    }
+  },
+  "socialNetwork": {
+    "follow": [
+      {
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDG-Ahmedabad/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/GDGAhmedabad/"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/GDGAhmedabad/"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCJc4l3EYRXa0lsPXAkfOlhw"
+      }
+    ],
+    "share": [
+      {
+        "name": "gplus",
+        "url": "https://plus.google.com/share?url="
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer.php?u="
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?text="
+      }
+    ]
+  },
+  "mailto": "pareshmayani@gmail.com",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "signInProviders": {
+    "providersData": [
+      {
+        "name": "google",
+        "label": "Sign in with Google",
+        "url": "https://accounts.google.com"
+      },
+      {
+        "name": "facebook",
+        "label": "Sign in with Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "name": "twitter",
+        "label": "Sign in with Twitter",
+        "url": "https://twitter.com"
+      }
+    ],
+    "allowedProvidersUrl": [
+      "https://accounts.google.com",
+      "https://www.facebook.com",
+      "https://twitter.com"
+    ]
+  },
+  "contentLoaders": {
+    "schedule": {
+      "itemsCount": 2
+    },
+    "blog": {
+      "itemsCount": 3
+    },
+    "speakers": {
+      "itemsCount": 4
+    },
+    "previousSpeakers": {
+      "itemsCount": 6
+    },
+    "tickets": {
+      "itemsCount": 5
+    }
+  }
+}
