@@ -178,8 +178,6 @@
       "link": "/blog"
     }
   },
-  "unveilSoon": "Unveil soon",
-  "announcedSoon": "To be announced soon",
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -187,7 +185,6 @@
   },
   "speakersBlock": {
     "title": "Rockstar speakers",
-    "speakersDeclareSoon": "Still in process to pick right pearls in the depth of ocean",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers"
@@ -345,5 +342,9 @@
   },
   "addToHomeScreen": {
     "cta": "Add to Home Screen"
+  },
+  "toBeAnnounce": {
+    "unveilSoon": "Unveil soon",
+    "announcedSoon": "To be announced soon"
   }
 }

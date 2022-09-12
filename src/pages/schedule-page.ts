@@ -58,46 +58,13 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
       </style>
 
       <hero-block
-        background-image="[[heroSettings.background.image]]"
         background-color="[[heroSettings.background.color]]"
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <p class="hero-description">[[heroSettings.description]]</p>
-        
-        <sticky-element slot="bottom">
-          <header-bottom-toolbar location="[[location]]"></header-bottom-toolbar>
-        </sticky-element>
+        <h2 class="name">Unveil soon</h2>
+        <p class="hero-description">[[heroSettings.scheduleDeclareSoon]]</p>
       </hero-block>
-
-      <paper-progress indeterminate hidden$="[[!pending]]"></paper-progress>
-
-      <filter-menu
-        filter-groups="[[filterGroups]]"
-        selected-filters="[[selectedFilters]]"
-      ></filter-menu>
-
-      <div class="container">
-        <content-loader
-          card-padding="15px"
-          card-margin="16px 0"
-          card-height="140px"
-          avatar-size="0"
-          avatar-circle="0"
-          title-top-position="20px"
-          title-height="42px"
-          title-width="70%"
-          load-from="-20%"
-          load-to="80%"
-          blur-width="300px"
-          items-count="[[contentLoaders.itemsCount]]"
-          hidden$="[[!pending]]"
-          layout
-        >
-        </content-loader>
-
-        <slot></slot>
-      </div>
 
       <footer-block></footer-block>
     `;
