@@ -1,15 +1,5 @@
 {
   "basepath": "/",
-  "url": "https://devfestahm-develop.firebaseapp.com/",
-  "analytics": "UA-106396961-3",
-  "prefix": "/",
-  "firebase": {
-    "apiKey": "AIzaSyAtg3bgA8xxBswNaikTlnGORfv3gBsynHk",
-    "authDomain": "devfestahm-develop.firebaseapp.com",
-    "databaseURL": "https://devfestahm-develop.firebaseio.com",
-    "projectId": "devfestahm-develop",
-    "storageBucket": "devfestahm-develop.appspot.com",
-    "messagingSenderId": "439087005785"
-  },
+  "url": "https://devfestahm-develop.web.app/",
   "googleMapApiKey": "AIzaSyCqbs-p7BRN2KyhuBUJyxcd8elX3_QRvtE"
 }
