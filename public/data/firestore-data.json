@@ -1814,151 +1814,138 @@
     {
       "members": [
         {
-          "name": "Oleh Zasadnyy",
-          "photo": "/images/people/oleh_zasadnyy.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+          "name": "Paresh Mayani",
+          "photo": "/images/people/paresh_mayani.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
-              "name": "Facebook"
-            },
-            {
               "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
+              "link": "https://twitter.com/pareshmayani",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pareshmayani/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/pareshmayani",
+              "name": "Facebook"
             }
           ],
           "order": 0,
-          "title": "Website and sponsors"
+          "title": "Founder & Organizer"
         },
         {
-          "name": "Sofiya Huts",
-          "photo": "/images/people/sofiya_huts.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+          "name": "Dhrumil Shah",
+          "photo": "/images/people/dhrumil_shah.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
           "socials": [
             {
+              "icon": "twitter",
+              "link": "https://twitter.com/dhuma1981",
+              "name": "Twitter"
+            },
+            {
               "icon": "facebook",
-              "link": "https://www.facebook.com/sophie.huts.7",
+              "link": "https://www.facebook.com/dhuma1981",
               "name": "Facebook"
             }
           ],
           "order": 1,
-          "title": "Social and media"
+          "title": "Co-Organizer"
         },
         {
-          "name": "Vitaliy Zasadnyy",
-          "photo": "/images/people/vitaliy_zasadnyy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+          "name": "Utpal Betai",
+          "photo": "/images/people/utpal_betai.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
           "socials": [
             {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/zasadnyy",
-              "name": "Linkedin"
-            },
-            {
               "icon": "twitter",
-              "link": "https://twitter.com/zasadnyy",
+              "link": "https://twitter.com/utpalbetai",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://v.zasadnyy.com/",
-              "name": "Blog"
+              "icon": "facebook",
+              "link": "https://www.facebook.com/utpal.betai.9",
+              "name": "Facebook"
             }
           ],
           "order": 2,
-          "title": "Speakers"
+          "title": "Asst. Organizer"
         },
         {
-          "name": "Marta Maxymiak",
-          "photo": "/images/people/marta_maxymiak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+          "name": "Dhruva Shastri",
+          "photo": "/images/people/dhruva_shashtri_gdd.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri_gdd.jpg?alt=media&token=6a69f838-345d-4c92-a301-6c26c33900f7",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/marta.maxymiak",
-              "name": "Facebook"
+              "icon": "twitter",
+              "link": "https://twitter.com/dhruvashastri12",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/dhruvashastri12/",
+              "name": "LinkedIn"
             }
           ],
           "order": 3,
-          "title": "Party and happiness"
+          "title": "WTM Ambassador"
         },
         {
-          "name": "Ostap Andrusiv",
-          "photo": "/images/people/ostap_andrusiv.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+          "name": "Jaldeep Asodariya",
+          "photo": "/images/people/jaldeep_asodariya_ics.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya_ics.jpg?alt=media&token=0cf65c42-c86b-45b4-93e0-1560c649f64e",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/ostap.andrusiv",
-              "name": "Facebook"
-            },
-            {
               "icon": "twitter",
-              "link": "https://twitter.com/p1f",
+              "link": "https://twitter.com/JaldeepAsodariy",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://andrusiv.com/",
-              "name": "Blog"
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jaldeepasodariya/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/jaldeepasodariya",
+              "name": "Github"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/jdjaldeep",
+              "name": "Facebook"
             }
           ],
           "order": 4,
-          "title": "Sponsors"
+          "title": "Event Organizer"
         },
         {
-          "name": "Vasylyna Mytsak",
-          "photo": "/images/people/vasylyna_mytsak.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+          "name": "Hiren Dave",
+          "photo": "/images/people/hiren_dave.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/vasylyna.mytsak",
-              "name": "Facebook"
+              "icon": "twitter",
+              "link": "https://twitter.com/hjdave",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/davehiren",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://hirendave.tech",
+              "name": "Website"
             }
           ],
           "order": 5,
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Volodya Karpliuk",
-          "photo": "/images/people/volodya_karpliuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/volodya.karpluk",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/keyv23",
-              "name": "Twitter"
-            }
-          ],
-          "order": 6,
-          "title": "Speakers"
-        },
-        {
-          "name": "Diana Pinchuk",
-          "photo": "/images/people/diana_pinchuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/diana.pinchuk.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 7,
-          "title": "Social and media"
+          "title": "Event Organizer"
         }
       ],
       "title": "Core Team"
