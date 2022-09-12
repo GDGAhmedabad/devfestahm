@@ -177,14 +177,6 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
               <a href="[[nav.permalink]]" layout vertical center-center>[[nav.label]]</a>
             </paper-tab>
           </template>
-
-          <paper-tab class="signin-tab" on-click="signIn" link hidden$="[[signedIn]]">
-            [[signInText]]
-          </paper-tab>
-
-          <a href$="[[ticketUrl]]" target="_blank" rel="noopener noreferrer">
-            <paper-button class="buy-button" primary>[[buyTicket]]</paper-button>
-          </a>
         </paper-tabs>
 
         <notification-toggle></notification-toggle>
@@ -218,12 +210,6 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             </div>
           </div>
         </paper-menu-button>
-
-        <paper-icon-button
-          icon="hoverboard:account"
-          on-click="signIn"
-          hidden$="[[isAccountIconHidden(signedIn, viewport.isLaptopPlus)]]"
-        ></paper-icon-button>
       </app-toolbar>
     `;
   }

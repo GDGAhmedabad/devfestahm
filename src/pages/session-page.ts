@@ -204,14 +204,6 @@ export class SessionPage extends ReduxMixin(PolymerElement) {
               <span class="tag" style$="color: [[getVariableColor(tag)]]">[[tag]]</span>
             </template>
           </div>
-
-          <div class="float-button" hidden$="[[!contentLoaderVisibility]]">
-            <paper-fab
-              icon="hoverboard:[[featuredSessionIcon]]"
-              hidden$="[[!viewport.isLaptopPlus]]"
-              on-click="toggleFeaturedSession"
-            ></paper-fab>
-          </div>
         </div>
       </simple-hero>
 
