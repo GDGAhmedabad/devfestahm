@@ -1983,6 +1983,213 @@
         }
       ],
       "title": "Creative Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Amit Panchal",
+          "photo": "/images/people/others/amit_panchal.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Famit_panchal.jpeg?alt=media&token=8a445e5d-f9a6-4812-b55c-31b85a1f6667",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/AmitHPanchal",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/amithpanchal/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.amitpanchal.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Harendrasingh Rajput",
+          "photo": "/images/people/others/harendrasingh_rajput.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharendrasingh_rajput.jpeg?alt=media&token=c544d4c9-e775-47d3-ab3d-92f5a9dc1b76",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/harendrasingh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/harendrasingh/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.harendrasinghrajput.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Jignesh Thanki",
+          "photo": "/images/people/others/jignesh_thanki.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki.png?alt=media&token=adf57fd5-959a-43d1-8161-4439fada61d5",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JigsThanki1987",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jigneshthanki1987/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://jigsthanki1987.wordpress.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Manthan Ladva",
+          "photo": "/images/people/others/manthan_ladva.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmanthan_ladva.png?alt=media&token=bcb27139-539d-4955-a6f0-be5897cde879",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/manthan_ladva",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/manthan-ladva-506a04116/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/manthan-ladva",
+              "name": "Github"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Dhruv Patel",
+          "photo": "/images/people/others/dhruv_patel.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhruv_patel.jpeg?alt=media&token=933de731-1c40-4554-a1e6-2257a17b8a41",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/deardhruv",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/deardhruv/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/DearDhruv",
+              "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "http://deardhruv.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Abhishek Jani",
+          "photo": "/images/people/others/abhishek_jani.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani.jpg?alt=media&token=3344edc8-7bb8-49e7-bd3e-26bd0f795dac",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Abhi_Jani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/abhijani/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://about.me/abhijani",
+              "name": "Website"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Moin Shaikh",
+          "photo": "/images/people/others/moin_shaikh.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmoin_shaikh.jpeg?alt=media&token=98688ea9-2d80-4db4-9849-beb68da8414c",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/moingshaikh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/moingshaikh/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://medium.com/@moingshaikh",
+              "name": "Blogs"
+            }
+          ],
+          "order": 6,
+          "title": ""
+        },
+        {
+          "name": "Ravi Rupareliya",
+          "photo": "/images/people/others/ravi_rupareliya.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fravi_rupareliya.png?alt=media&token=dc8f47fc-fd37-4388-b8a0-1845765309c8",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ravi_rupareliya",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ravirupareliya",
+              "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "http://ravirupareliya.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 7,
+          "title": ""
+        }
+      ],
+      "title": "Social Media Team"
     }
   ],
   "tickets": [
