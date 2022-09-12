@@ -1953,45 +1953,36 @@
     {
       "members": [
         {
-          "name": "Ihor Dvoretskyi",
-          "photo": "/images/people/ihor_dvoretskyi.jpg",
-          "photoUrl": "",
+          "name": "Vatsal Trivedi",
+          "photo": "/images/people/others/vatsal_trivedi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi.jpg?alt=media&token=7cebaac9-c669-4b73-b3f3-a15a134063bf",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/idvoretskyi",
-              "name": "Facebook"
+              "icon": "twitter",
+              "link": "https://twitter.com/vatty_trivedi",
+              "name": "Twitter"
             },
             {
-              "icon": "twitter",
-              "link": "https://twitter.com/idvoretskyi",
-              "name": "Twitter"
-            }
-          ],
-          "order": 0,
-          "title": "Cloud stream"
-        },
-        {
-          "name": "Dmytro Danylyk",
-          "photo": "/images/people/dmytro_danylyk.jpg",
-          "photoUrl": "",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dmytrodanylyk",
-              "name": "Twitter"
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vattytrivedi/",
+              "name": "LinkedIn"
             },
             {
               "icon": "website",
-              "link": "http://www.dmytrodanylyk.com/#/about",
-              "name": "Website"
+              "link": "https://dribbble.com/vattytrivedi",
+              "name": "Dribbble"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/vattytrivedi",
+              "name": "Facebook"
             }
           ],
-          "order": 1,
-          "title": "Android Stream"
+          "order": 0,
+          "title": "Designer"
         }
       ],
-      "title": "Program Committee"
+      "title": "Creative Team"
     }
   ],
   "tickets": [
