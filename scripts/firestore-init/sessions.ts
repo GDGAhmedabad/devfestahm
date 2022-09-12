@@ -1,5 +1,5 @@
 import { firestore } from '../firebase-config';
-import data from '../../docs/default-firebase-data.json';
+import data from '../../public/data/firestore-data.json';
 
 export const importSessions = () => {
   const docs: { [key: string]: object } = data.sessions;
