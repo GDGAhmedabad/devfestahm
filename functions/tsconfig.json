@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+    "noImplicitReturns": false,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "module": "es2020",
+    "moduleResolution": "node",
+    "strict": false
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}
