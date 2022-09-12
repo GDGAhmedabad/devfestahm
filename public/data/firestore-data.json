@@ -44,18 +44,6 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://www.meetup.com/GDG-Lviv/"
-        }
-      ],
-      "order": 0,
-      "title": "Template Creator"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com.ua/intl/en/about/"
@@ -68,61 +56,43 @@
         },
         {
           "order": 2,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
+          "logoUrl": "../images/logos/google-developers-group.png",
+          "name": "Google Developers Group",
+          "url": "https://developers.google.com/programs/community/gdg/"
+        }
+      ],
+      "order": 0,
+      "title": "Platinum Sponsors"
+    },
+    {
+      "items": [
         {
-          "order": 3,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 7,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 8,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "order": 0,
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164"
         }
       ],
       "order": 1,
-      "title": "General Partner"
+      "title": "Template Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/sessionize.png",
+          "name": "Sessionize",
+          "url": "https://sessionize.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
+          "name": "GDG Cloud Ahmedabad",
+          "url": "https://twitter.com/gdgcloudahm"
+        }
+      ],
+      "order": 2,
+      "title": "Partners"
     }
   ],
   "schedule": {
