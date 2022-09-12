@@ -2187,6 +2187,30 @@
           ],
           "order": 7,
           "title": ""
+        },
+        {
+          "name": "Pranay Patel",
+          "photo": "/images/people/speakers/2019/pranay_patel.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fpranay_patel.jpg?alt=media&token=cd5d1b35-a680-4951-b489-97b5f4395637",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pranaypatel_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pranaypatel512/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://medium.com/@pranaypatel",
+              "name": "Blog"
+            }
+          ],
+          "order": 8,
+          "title": ""
         }
       ],
       "title": "Social Media Team"
