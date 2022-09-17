@@ -1,56 +1,61 @@
 {
+  "root": true,
   "extends": [
     "eslint:recommended",
-    "google",
-    "plugin:polymer/polymer-2"
+    "plugin:jest/all",
+    "plugin:testing-library/dom",
+    "plugin:jest-dom/recommended",
+    "plugin:import/errors",
+    "plugin:import/typescript",
+    "prettier"
   ],
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "ecmaVersion": 6
+    "sourceType": "module",
+    "ecmaVersion": 2020
   },
   "env": {
     "browser": true,
     "es6": true
   },
-  "plugins": [
-    "html",
-    "polymer"
-  ],
+  "plugins": ["jest", "@typescript-eslint", "html", "import"],
+  "ignorePatterns": ["dist/"],
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "import/resolver": {
+      "typescript": {
+        "alwaysTryTypes": true,
+        "project": "./tsconfig.json"
+      }
+    }
+  },
   "rules": {
     "brace-style": "off",
     "new-cap": "off",
-    "no-var": "off",
+    "no-var": "error",
     "require-jsdoc": "off",
-    "max-len": ["error", { "code": 100 }],
+    "max-len": ["error", { "code": 120 }],
     "object-curly-spacing": ["error", "always"],
-    "space-before-function-paren": ["error", {"anonymous": "always", "named": "never", "asyncArrow": "always"}],
-    "linebreak-style": 0
+    "space-before-function-paren": [
+      "error",
+      { "anonymous": "always", "named": "never", "asyncArrow": "always" }
+    ],
+    "linebreak-style": 0,
+    "jest/no-hooks": "off",
+    "jest/prefer-expect-assertions": "off",
+    "jest/require-hook": "off"
   },
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "rules": {
+        "@typescript-eslint/no-unused-vars": ["error", { "args": "none" }]
+      }
+    }
+  ],
   "globals": {
-    "Polymer": true,
-    "firebase": true,
-    "google": true,
-    "ga": true,
-    "ShadyCSS": true,
-    "ReduxMixin": true,
-    "uiActions": true,
-    "routingActions": true,
-    "dialogsActions": true,
-    "toastActions": true,
-    "ticketsActions": true,
-    "partnersActions": true,
-    "videosActions": true,
-    "blogActions": true,
-    "speakersActions": true,
-    "previousSpeakersActions": true,
-    "sessionsActions": true,
-    "scheduleActions": true,
-    "galleryActions": true,
-    "teamActions": true,
-    "userActions": true,
-    "subscribeActions": true,
-    "notificationsActions": true,
-    "helperActions": true,
-    "DIALOGS": true,
-    "NOTIFICATIONS_STATUS": true
+    "ServiceWorkerGlobalScope": true
   }
 }
