@@ -9,6 +9,6 @@ export const firebaseApp = initializeApp({
   storageBucket: "devfestahm-develop.appspot.com",
   messagingSenderId: "439087005785",
   appId: '1:439087005785:web:9e2e954d67ff7d3f397148',
-  measurementId: 'UA-106396961-3',  
+  measurementId: 'G-LH5M0DD9TK',  
 });
 export const db = getFirestore(firebaseApp);
