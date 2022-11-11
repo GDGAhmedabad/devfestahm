@@ -84,6 +84,11 @@
           "name": "DevfestAhm 2018",
           "url": "http://devfest18.gdgahmedabad.com/",
           "newTab": true
+        },
+        {
+          "name": "DevfestAhm 2019",
+          "url": "http://devfest19.gdgahmedabad.com/",
+          "newTab": true
         }
       ]
     },
