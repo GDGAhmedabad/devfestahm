@@ -119,7 +119,16 @@ export class TeamPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <simple-hero page="team"></simple-hero>
+      <hero-block
+        background-image="[[heroSettings.background.image]]"
+        background-color="[[heroSettings.background.color]]"
+        font-color="[[heroSettings.fontColor]]"
+      >
+        <br><br>
+        <div class="hero-title">[[heroSettings.title]]</div>
+        <p class="hero-description">[[heroSettings.description]]</p>
+        <br><br>
+      </hero-block>
 
       <div class="description-wrapper">
         <div class="container" layout horizontal justified>

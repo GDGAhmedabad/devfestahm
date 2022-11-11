@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Ahmedabad Season 2022",
+  "title": "GDG DevFest Ahmedabad Season 2019",
   "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "November, 2022",
+  "dates": "October 12, 2019",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -91,8 +91,8 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Announcing DevFestAhm 2022",
-          "url": "/blog/posts/devfestahm22-announced/",
+          "name": "Call for Speakers",
+          "url": "/blog/posts/c4p/",
           "newTab": false
         }
       ]
@@ -114,12 +114,17 @@
       "featuredSessions": {
         "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqZ93WwhGu2PHjgj6czUWAg"
+        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiokDq4yL2in4WShy77d7ygV"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2019",
-        "youtubeId": "cmvDjenGdBA"
+        "label": "See how it was in 2018",
+        "youtubeId": "_dbbiG2G_1Y"
+      },
+      "experience360View": {
+        "description": "For the very first time, We have recorded event in 360 camera brought to you by Vrizm Innovations Pvt Ltd. Let's have a look on some movements in 360 view.",
+        "label": "Experience in 360 view",
+        "youtubeId": "7CNlOwQ3V1Q"
       }
     },
     "statisticsBlock": {
@@ -161,10 +166,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DEVFESTAHM'19 featured videos",
+    "title": "DEVFESTAHM'18 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqZ93WwhGu2PHjgj6czUWAg"
+      "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiokDq4yL2in4WShy77d7ygV"
     }
   },
   "blog": {
@@ -197,7 +202,7 @@
       "description": "If you are passionate about your work and want to share your experience with the biggest tech audience in Ahmedabad, you knocked on the right door.",
       "callToAction": {
         "label": "Submit a Proposal",
-        "link": "https://sessionize.com/DevFestAhm-2022/"
+        "link": "https://sessionize.com/DevFestAhm-2019/"
       }
     }
   },
@@ -209,11 +214,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#devfestahm19 highlights",
+    "title": "#devfestahm18 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and Q&A.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/aiY71hshutA7qm9y6"
+      "link": "https://photos.app.goo.gl/f9AMjhmFLB3bGTw27"
     }
   },
   "mapBlock": {

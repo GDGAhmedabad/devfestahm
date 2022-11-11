@@ -1,5 +1,5 @@
 import { firestore } from '../firebase-config';
-import data from '../../docs/default-firebase-data.json';
+import data from '../../public/data/firestore-data.json';
 
 export const importPreviousSpeakers = () => {
   const previousSpeakers: { [key: string]: object } = data.previousSpeakers;
