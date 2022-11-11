@@ -193,14 +193,6 @@
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers"
-    },
-    "callForSpeakers":{
-      "title": "Call for Speakers",
-      "description": "If you are passionate about your work and want to share your experience with the biggest tech audience in Ahmedabad, you knocked on the right door.",
-      "callToAction": {
-        "label": "Submit a Proposal",
-        "link": "https://sessionize.com/DevFestAhm-2022/"
-      }
     }
   },
   "previousSpeakersBlock": {
