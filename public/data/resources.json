@@ -84,6 +84,11 @@
           "name": "DevfestAhm 2018",
           "url": "http://devfest18.gdgahmedabad.com/",
           "newTab": true
+        },
+        {
+          "name": "DevfestAhm 2019",
+          "url": "http://devfest19.gdgahmedabad.com/",
+          "newTab": true
         }
       ]
     },
@@ -188,14 +193,6 @@
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers"
-    },
-    "callForSpeakers":{
-      "title": "Call for Speakers",
-      "description": "If you are passionate about your work and want to share your experience with the biggest tech audience in Ahmedabad, you knocked on the right door.",
-      "callToAction": {
-        "label": "Submit a Proposal",
-        "link": "https://sessionize.com/DevFestAhm-2022/"
-      }
     }
   },
   "previousSpeakersBlock": {
