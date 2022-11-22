@@ -71,7 +71,7 @@
         "description": "If you are passionate about your work and want to share your experience with the biggest tech audience in Ahmedabad, you knocked on the right door.",
         "callToAction": {
           "label": "Submit a Proposal",
-          "link": "https://sessionize.com/gdg-ahmedabad-devfest-2022/"
+          "link": "/blog/c4p"
         }
       },
       "background": {
@@ -135,7 +135,7 @@
     "name": "Courtyard by Marriott",
     "city": "Ahmedabad",
     "short": "Ahmedabad, Gujarat",
-    "address": "Ramdev Nagar Cross Road, Satellite, Road, Satellite, Ahmedabad, Gujarat - 380015",
+    "address": "Courtyard by Marriott Ahmedabad, Ramdev Nagar Cross Road, Satellite Rd, Ahmedabad, Gujarat 380015",
     "pointer": {
       "latitude": 23.027870,
       "longitude": 72.512128,

@@ -181,7 +181,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         <div class="hero-title">[[heroSettings.title]]</div>
         <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
         <p class="hero-description">[[heroSettings.callForSpeakers.description]]</p>
-        <a href="[[heroSettings.callForSpeakers.callToAction.link]]" target="_blank">
+        <a href="[[heroSettings.callForSpeakers.callToAction.link]]">
           <paper-button primary class="cta-button animated icon-right">
             <span>[[heroSettings.callForSpeakers.callToAction.label]]</span>
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
