@@ -1040,6 +1040,38 @@
       ],
       "order": 1,
       "title": "Director of Developer Advocacy, Harness"
+    },
+    "shreyan_mehta": {
+      "bio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India. I am programming since 2012 and love making and creating stuff that touches lives. SAAS and web is love. Also attracted to ai a lot. Recently gave up my comfortable dev job as senior dev to pursue my software business / startup in full time.",
+      "company": "Asambhav",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fasambhav.png?alt=media&token=d4ba4360-28b7-4f3c-a77d-eb0e7aae3fa3",
+      "country": "Ahmedabad, Gujarat, India",
+      "featured": false,
+      "name": "Shreyan Mehta",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fshreyan-mehta.png?alt=media&token=e010debb-3512-4ee4-8fe7-2224c18d30ad",
+      "pronouns": "he/him",
+      "shortBio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/devshreyan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/devsm",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@shreyanmehta",
+          "name": "Website"
+        }
+      ],
+      "order": 2,
+      "title": "Founder and product manager at Asambhav"
     }
   },
   "team": [
