@@ -1211,6 +1211,33 @@
       ],
       "order": 6,
       "title": "PyGirl"
+    },
+    "nilay_chauhan": {
+      "bio": "Nilay is a Data Scientist on Kaggle's DevRel Team. He is living in Ahmedabad and in his free time he likes watching tv-series, guiding and supporting Data Science aspirants, and networking with new people around the globe.",
+      "company": "kaggle",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fkaggle.png?alt=media&token=d81bbc25-7f40-4068-b131-4bb8ff9c6798",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Nilay Chauhan",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fnilay-chauhan.jpg?alt=media&token=9212abee-7091-42ec-9809-f49bec2bae5f",
+      "pronouns": "he/him",
+      "shortBio": "Nilay is a Data Scientist on Kaggle's DevRel Team. He is living in Ahmedabad...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://www.twitter.com/chauhan_nilay16",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/nilay-chauhan",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 7,
+      "title": "Data Scientist"
     }
   },
   "team": [
