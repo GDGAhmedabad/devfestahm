@@ -1179,6 +1179,38 @@
       ],
       "order": 5,
       "title": "Senior Data Scientist"
+    },
+    "krupa_galiya": {
+      "bio": "A 'PyGirl' whose main interest lies in Machine Learning, NLP, and Algorithms. Currently, she is exploring advanced AI concepts and tends to do algorithms from scratch. She has completed various projects based on Machine Learning/Deep Learning, NLP and Python. having passion for Learning, Researching and Teaching people. \n\nCurrently, pursuing BE-IT from Vishwakarma Govt. engineering college in the final year.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Baroda, Gujarat",
+      "featured": false,
+      "name": "Krupa Galiya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkrupa-galiya.jpg?alt=media&token=70140b70-d042-4402-8801-c24e90c50876",
+      "pronouns": "she/her",
+      "shortBio": "A 'PyGirl' whose main interest lies in Machine Learning, NLP, and Algorithms...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Krupagaliya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/krupagaliya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://krupagaliya.strikingly.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 6,
+      "title": "PyGirl"
     }
   },
   "team": [
