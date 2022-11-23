@@ -1039,7 +1039,7 @@
         }
       ],
       "order": 1,
-      "title": "Director of Developer Advocacy, Harness"
+      "title": "Director of Developer Advocacy"
     },
     "shreyan_mehta": {
       "bio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India. I am programming since 2012 and love making and creating stuff that touches lives. SAAS and web is love. Also attracted to ai a lot. Recently gave up my comfortable dev job as senior dev to pursue my software business / startup in full time.",
@@ -1071,7 +1071,7 @@
         }
       ],
       "order": 2,
-      "title": "Founder and product manager at Asambhav"
+      "title": "Founder and product manager"
     },
     "bhavik_makwana": {
       "badges": [
@@ -1105,7 +1105,46 @@
         }
       ],
       "order": 3,
-      "title": "Software Engineer, multipl"
+      "title": "Software Engineer"
+    },
+    "bhavesh_bhatt": {
+      "badges": [
+        {
+          "description": "Machine Learning Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-bhavesh-bhatt",
+          "name": "gde"
+        }
+      ],
+      "bio": "Bhavesh is a Senior Data Scientist at Colgate-Palmolive & I enjoy solving problems. In his Data Science journey so far, he has had the honour of becoming a Google Developer Expert (GDE) in Machine Learning, GitHub Star & also being recognized as a 40 Under 40 Data Scientist by Analytics India Magazine. He recently received the Best AI/ML product of the year at Cypher 2022.",
+      "company": "Colgate-Palmolive",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcolgate-palmolive.jpeg?alt=media&token=f0160cce-046f-4f5b-9182-c40576571e81",
+      "country": "Mumbai, Maharashtra",
+      "featured": false,
+      "name": "Bhavesh Bhatt",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fbhavesh-bhatt.jpg?alt=media&token=83ef7628-a261-4a89-ad80-36d3eea6e61d",
+      "pronouns": "he/him",
+      "shortBio": "Bhavesh is a Senior Data Scientist at Colgate-Palmolive & I enjoy solving pro...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/_bhaveshbhatt",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/bhattbhavesh91",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://bhattbhavesh91.github.io/",
+          "name": "Website"
+        }
+      ],
+      "order": 4,
+      "title": "Senior Data Scientist"
     }
   },
   "team": [
