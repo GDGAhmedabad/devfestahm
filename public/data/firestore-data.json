@@ -1186,7 +1186,7 @@
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Baroda, Gujarat",
-      "featured": false,
+      "featured": true,
       "name": "Krupa Galiya",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkrupa-galiya.jpg?alt=media&token=70140b70-d042-4402-8801-c24e90c50876",
@@ -1238,6 +1238,33 @@
       ],
       "order": 7,
       "title": "Data Scientist"
+    },
+    "shubham_pachori": {
+      "bio": "Currently, I am working as a product manager at Shipmnts.com where we are set on the journey of reinventing the Global Shipping Industry. At Shipmnts, I understand the product requirements of users within a complex domain, prioritize them from a business and a user successes point of view and then architect the solution along with a super talented team.",
+      "company": "Shipmnts",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fshipmnts.png?alt=media&token=0d1abfa2-7b75-42b5-894c-1dc687d578ca",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Shubham Pachori",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fshubham-pachori.jpg?alt=media&token=91d83fdf-4eca-4c4f-a1f0-801a15c8614d",
+      "pronouns": "he/him",
+      "shortBio": "Currently, I am working as a product manager at Shipmnts.com where we are set...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/spachori94",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shubham-pachori-b5703a86/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 8,
+      "title": "Product Ninja"
     }
   },
   "team": [
