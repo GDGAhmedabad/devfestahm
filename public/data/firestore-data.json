@@ -975,7 +975,7 @@
       "company": "ng-India",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fng-india-logo.jpeg?alt=media&token=fef5f565-29b3-47ca-8f70-df4539470e15",
-      "country": "Gurugram, Haryana, India",
+      "country": "Gurugram, Haryana",
       "featured": true,
       "name": "Dhananjay Kumar",
       "photo": "",
@@ -1014,7 +1014,7 @@
       "company": "Harness",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fharness.png?alt=media&token=7789fbb7-5856-4c67-b4d1-cd3db3227be7",
-      "country": "Bengaluru, Karnataka, India",
+      "country": "Bengaluru, Karnataka",
       "featured": true,
       "name": "Kamesh Sampath",
       "photo": "",
@@ -1072,6 +1072,40 @@
       ],
       "order": 2,
       "title": "Founder and product manager at Asambhav"
+    },
+    "bhavik_makwana": {
+      "badges": [
+        {
+          "description": "Flutter, Dart Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-bhavik-makwana",
+          "name": "gde"
+        }
+      ],
+      "bio": "Bhavik is working at multipl.xyz as a software engineer, a GDE for Flutter and Dart, Google certified associate android developer and an Open-source contributor. He is one of the early Flutter adopters and loves to share knowledge through blog posts, public speaking, and open source contributions. He has also started a community in Ahmedabad for Flutter and was featured in The top 45 must-follow Flutter experts on Twitter by codemagic.io.",
+      "company": "multipl",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fmultipl.png?alt=media&token=ea64b0d8-0a29-4fd7-913f-1f4f254b0972",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Bhavik Makwana",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fbhavik-makwana.jpg?alt=media&token=59a1475c-bed3-46a8-bc55-87c5b894e6cb",
+      "pronouns": "he/him",
+      "shortBio": "Bhavik is working at multipl.xyz as a software engineer, a GDE for Flutter...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ibhavikmakwana",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/ibhavikmakwana",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 3,
+      "title": "Software Engineer, multipl"
     }
   },
   "team": [
