@@ -1001,6 +1001,45 @@
       ],
       "order": 0,
       "title": "Angular Educator and founder of ng-India"
+    },
+    "kamesh_sampath": {
+      "badges": [
+        {
+          "description": "Google Cloud (Kubernetes) Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-kamesh-sampath",
+          "name": "gde"
+        }
+      ],
+      "bio": "An Author, Consultant and Developer Advocate; Kamesh is a Director of Developer Advocacy at https://harness.io. Kamesh is also Google Developer Expert for Google Cloud (Kubernetes). As part of his role he actively educates developers on Kubernetes/OpenShift, Cloud Native CI/CD, Servicemesh, and Serverless technologies. With a career spanning close to two decades, with the services industry he has helped various enterprise customers build Java-based solutions. Kamesh has been an active Open Source contributor for more than decade. \n\nAs part of his developer philosophy he strongly believes in LEARN MORE, DO MORE and SHARE MORE!",
+      "company": "Harness",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fharness.png?alt=media&token=7789fbb7-5856-4c67-b4d1-cd3db3227be7",
+      "country": "Bengaluru, Karnataka, India",
+      "featured": true,
+      "name": "Kamesh Sampath",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkamesh-sampath.jpg?alt=media&token=e679807a-8bd9-45cd-abf1-9ca097c23974",
+      "pronouns": "he/him",
+      "shortBio": "An Author, Consultant and Developer Advocate; Kamesh is a Director of Develo...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/kamesh_sampath",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/kameshsampath",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://blogs.kameshs.dev/",
+          "name": "Website"
+        }
+      ],
+      "order": 1,
+      "title": "Director of Developer Advocacy, Harness"
     }
   },
   "team": [
