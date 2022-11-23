@@ -1107,6 +1107,40 @@
       "order": 3,
       "title": "Software Engineer"
     },
+    "pawan_kumar": {
+      "badges": [
+        {
+          "description": "Dart, Firebase, Flutter, Web Technologies Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-pawan-kumar",
+          "name": "gde"
+        }
+      ],
+      "bio": "I'm the first GDE (Google Developer Expert ) for Flutter in India. Also, I'm a passionate Android & Xamarin developer and always excited about learning new technologies as well as mentoring and helping others get started in their programming career. I love open-sourcing cool projects on Github and helping the Flutter & Android community regularly on Facebook, YouTube, and other platforms. I also gave talks and did code labs at few places about flutter and I make flutter tutorials on my youtube channel MTechViral (100+).",
+      "company": "Frontier",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Faridabad",
+      "featured": false,
+      "name": "Pawan Kumar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpawan-kumar.jpg?alt=media&token=675214bf-3547-4b8b-9325-a3731558be95",
+      "pronouns": "he/him",
+      "shortBio": "I'm the first GDE (Google Developer Expert) for Flutter in India. Also, I'm...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/imthepk",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/imthepk/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 4,
+      "title": "Engineering"
+    },
     "bhavesh_bhatt": {
       "badges": [
         {
@@ -1143,7 +1177,7 @@
           "name": "Website"
         }
       ],
-      "order": 4,
+      "order": 5,
       "title": "Senior Data Scientist"
     }
   },
