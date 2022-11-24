@@ -23,4 +23,4 @@ jobs:
           args: deploy
         env:
           PROJECT_ID: devfestahm-62cc4
-          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM_62CC4 }}
+          GCP_SA_KEY: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM_62CC4 }}'
