@@ -40,7 +40,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
           display: grid;
           grid-template-columns: 1fr;
           grid-gap: 16px;
-          min-height: 80%;
+          min-height: 50%;
         }
 
         .speaker {
@@ -174,20 +174,77 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <hero-block
-        background-color="[[heroSettings.background.color]]"
-        font-color="[[heroSettings.fontColor]]"
-      >
-        <div class="hero-title">[[heroSettings.title]]</div>
-        <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
-        <p class="hero-description">[[heroSettings.callForSpeakers.description]]</p>
-        <a href="[[heroSettings.callForSpeakers.callToAction.link]]">
-          <paper-button primary class="cta-button animated icon-right">
-            <span>[[heroSettings.callForSpeakers.callToAction.label]]</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
-        </a>
-      </hero-block>
+      <simple-hero page="speakers"></simple-hero>
+      <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+      <filter-menu
+        filter-groups="[[filterGroups]]"
+        selected-filters="[[selectedFilters]]"
+        results-count="[[speakersToRender.length]]"
+      ></filter-menu>
+      <content-loader
+        class="container"
+        card-padding="32px"
+        card-height="400px"
+        avatar-size="128px"
+        avatar-circle="64px"
+        horizontal-position="50%"
+        border-radius="4px"
+        box-shadow="var(--box-shadow)"
+        items-count="[[contentLoaders.speakers.itemsCount]]"
+        hidden$="[[contentLoaderVisibility]]"
+      ></content-loader>
+      <div class="container">
+        <template is="dom-repeat" items="[[speakersToRender]]" as="speaker">
+          <a class="speaker card" href$="[[speakerUrl(speaker.id)]]">
+            <div relative>
+              <lazy-image
+                class="photo"
+                src="[[speaker.photoUrl]]"
+                alt="[[speaker.name]]"
+              ></lazy-image>
+              <div class="badges" layout horizontal>
+                <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
+                  <a
+                    class$="badge [[badge.name]]-b"
+                    href$="[[badge.link]]"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title$="[[badge.description]]"
+                    layout
+                    horizontal
+                    center-center
+                  >
+                    <iron-icon icon="hoverboard:[[badge.name]]" class="badge-icon"></iron-icon>
+                  </a>
+                </template>
+              </div>
+            </div>
+            <lazy-image
+              class="company-logo"
+              src="[[speaker.companyLogoUrl]]"
+              alt="[[speaker.company]]"
+            ></lazy-image>
+            <div class="description">
+              <h2 class="name">[[speaker.name]]</h2>
+              <div class="origin">[[speaker.country]]</div>
+              <text-truncate lines="5">
+                <div class="bio">[[speaker.bio]]</div>
+              </text-truncate>
+            </div>
+            <div class="contacts">
+              <template is="dom-repeat" items="[[speaker.socials]]" as="social">
+                <a href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                  <paper-icon-button
+                    class="social-icon"
+                    icon="hoverboard:{{social.icon}}"
+                  ></paper-icon-button>
+                </a>
+              </template>
+            </div>
+          </a>
+        </template>
+      </div>
+      <previous-speakers-block></previous-speakers-block>
 
       <footer-block></footer-block>
     `;
