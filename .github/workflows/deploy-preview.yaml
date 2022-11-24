@@ -2,10 +2,10 @@ name: Deploy to Firebase Hosting on PR
 on:
   push:
     branches:
-      - deploy
+      - develop
   pull_request:
     branches:
-      - deploy
+      - develop
 jobs:
   build_and_preview:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
