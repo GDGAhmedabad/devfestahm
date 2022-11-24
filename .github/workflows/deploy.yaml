@@ -18,9 +18,9 @@ jobs:
         run: echo "{}" > serviceAccount.json
       - run: npm ci
       - run: npm run build
-      - uses: w9jds/firebase-action@v2.2.2
+      - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          args: deploy
-        env:
-          PROJECT_ID: devfestahm-62cc4
-          GCP_SA_KEY: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM_62CC4 }}'
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          projectId: devfestahm-62cc4
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM_62CC4 }}'
+          channelId: live
