@@ -62,7 +62,7 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <h2 class="name">Unveil soon</h2>
+        <h2 class="name">Unveil soon1</h2>
         <p class="hero-description">[[heroSettings.scheduleDeclareSoon]]</p>
       </hero-block>
 
