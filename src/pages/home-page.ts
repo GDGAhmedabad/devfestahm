@@ -10,6 +10,7 @@ import '../elements/about-organizer-block';
 import '../elements/featured-videos';
 import '../elements/fork-me-block';
 import '../elements/gallery-block';
+import '../elements/job-view-block';
 import '../elements/latest-posts-block';
 import '../elements/map-block';
 import '../elements/partners-block';
@@ -30,7 +31,7 @@ import {
   location,
   showForkMeBlockForProjectIds,
   title,
-  viewHighlights,
+  viewHighlights
 } from '../utils/data';
 import '../utils/icons';
 import { INCLUDE_SITE_TITLE, updateMetadata } from '../utils/metadata';
@@ -251,6 +252,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <featured-videos></featured-videos>
       <latest-posts-block></latest-posts-block>
       <map-block></map-block>
+      <job-view-block></job-view-block>
       <partners-block></partners-block>
       <footer-block></footer-block>
     `;

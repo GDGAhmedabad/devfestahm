@@ -128,6 +128,15 @@
         "color": "#fff"
       },
       "fontColor": "#424242"
+    },
+    "jobListing": {
+      "title": "Job Listing",
+      "metaDescription": "Job Listing",
+      "description": "",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
     }
   },
   "location": {

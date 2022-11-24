@@ -165,6 +165,13 @@ const ROUTES: Route[] = [
     },
   },
   {
+    path: '/jobs',
+    component: 'jobs-page',
+    action: async () => {
+      await import('./pages/jobs-page.js');
+    },
+  },
+  {
     path: '(.*)',
     component: 'not-found-page',
     action: async () => {
