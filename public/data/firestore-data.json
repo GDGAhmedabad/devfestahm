@@ -1271,7 +1271,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
-      "country": "Ahmedabad, Gujarat",
+      "country": "Bangalore",
       "featured": false,
       "name": "Adit Lal",
       "photo": "",
@@ -1292,6 +1292,45 @@
       ],
       "order": 9,
       "title": "Individual Consultant"
+    },
+    "anubhav_singh": {
+      "badges": [
+        {
+          "description": "Google Developers Group Cloud Kolkata",
+          "link": "https://gdg.community.dev/gdg-cloud-kolkata/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "A developer since the pre-Bootstrap era, Anubhav has over a decade of experience dealing with large-scale software complexities as a freelancer before embarking on his own AI startup venture. He has authored two books, \"Hands-on Python Deep Learning for Web\" and \"Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter\". He's also a Google Venkat Panchapakesan Memorial Scholar. Anubhav has been a contributor to several open-source projects and was a Google Summer of Code participant in 2019. He also leads the team at GDG Cloud Kolkata. You will often find him talking about System architecture, Machine Learning and the web.",
+      "company": "Dynopii",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdynopii.png?alt=media&token=8b3422af-9ecb-465a-83ad-c63cffcad12b",
+      "country": "Kolkata",
+      "featured": false,
+      "name": "Anubhav Singh",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fanubhav-singh.jpg?alt=media&token=50a24490-aad9-4e30-a8f1-0df99d28900a",
+      "pronouns": "he/him",
+      "shortBio": "A developer since the pre-Bootstrap era, Anubhav has over a decade of experie...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/xprilion",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/xprilion",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://xprilion.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 10,
+      "title": "CTO @ Dynopii Inc., Lead @ GDG Cloud Kolkata"
     }
   },
   "team": [
