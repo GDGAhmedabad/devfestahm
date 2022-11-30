@@ -102,13 +102,13 @@ export class JobPage extends ReduxMixin(PolymerElement) {
         <div class="" layout horizontal>
           <div class="member-details" layout vertical center-justified start>
             <p>[[companyDetails.bio]]</p>
-            <a href="[[companyDetails.companyCareerPage]]">
+            <a href="[[companyDetails.companyCareerPage]]" target="_blank" rel="noopener noreferrer">
               <paper-button primary class="cta-button animated icon-right">
                 <span>Apply now</span>
                 <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
               </paper-button>
             </a>
-            <h2 class="opening-title">Openings <small>(<a href$="[[companyDetails.companyCareerPage]]">more info</a>)</small></h2>
+            <h2 class="opening-title">Openings <small>(<a href$="[[companyDetails.companyCareerPage]]" target="_blank" rel="noopener noreferrer">more info</a>)</small></h2>
             <br>
             <div class="team-block">
               <template is="dom-repeat" items="[[companyDetails.openings]]" as="opening">
