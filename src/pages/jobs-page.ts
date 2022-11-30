@@ -5,6 +5,7 @@ import '../components/hero/simple-hero';
 import '../components/text-truncate';
 import '../elements/content-loader';
 import '../elements/shared-styles';
+import { router } from '../router';
 import { ReduxMixin } from '../store/mixin';
 import { heroSettings, jobs } from '../utils/data';
 
@@ -126,91 +127,32 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <template is="dom-if" if="{{!showJobDetails}}">
-        <hero-block
-          background-color="[[heroSettings.background.color]]"
-          font-color="[[heroSettings.fontColor]]"
-        >
-          <div class="hero-title">[[heroSettings.title]]</div>
-          <p class="hero-description">[[heroSettings.description]]</p>
-        </hero-block>
-      </template>
+      <hero-block
+        background-color="[[heroSettings.background.color]]"
+        font-color="[[heroSettings.fontColor]]"
+      >
+        <div class="hero-title">[[heroSettings.title]]</div>
+        <p class="hero-description">[[heroSettings.description]]</p>
+      </hero-block>
 
-      <template is="dom-if" if="{{showJobDetails}}">
-        <hero-block
-          background-color="[[heroSettings.background.color]]"
-          font-color="[[heroSettings.fontColor]]"
-        >
-          <lazy-image class="photo" src="[[selectedCompnay.companyLogoUrl]]" alt="[[selectedCompnay.companyName]]"></lazy-image>
-          <div class="hero-title">
-            <a href$="[[selectedCompnay.companyWebsite]]">[[selectedCompnay.companyName]]</a>
-            <paper-icon-button slide-icon"
-              icon="hoverboard:website"
-            ></paper-icon-button>
-          </div>
-          <p class="hero-description">[[selectedCompnay.bio]]</p>
-          <a href="[[selectedCompnay.companyCareerPage]]">
-            <paper-button primary class="cta-button animated icon-right">
-              <span>Apply now</span>
-              <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-            </paper-button>
-          </a>
-        </hero-block>
-      </template>
-
-
-
-      <template is="dom-if" if="{{!showJobDetails}}">
-        <div class="job-container">
-          <template is="dom-repeat" items="[[jobs]]" as="job">
-            <a class="speaker card" on-click="showJobDetail">
-              <lazy-image
-                class="photo"
-                src="[[job.companyLogoUrl]]"
-                alt="[[job.companyName]]"
-              ></lazy-image>
-              <div class="description">
-                <h2 class="name">[[job.companyName]]</h2>
-                <div class="origin">[[job.location]]</div>
-                <text-truncate lines="5">
-                  <div class="bio">[[job.bio]]</div>
-                </text-truncate>
-              </div>
-              <div class="contacts">
-                <template is="dom-repeat" items="[[job.socials]]" as="social">
-                  <a href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                    <paper-icon-button
-                      class="social-icon"
-                      icon="hoverboard:{{social.icon}}"
-                    ></paper-icon-button>
-                  </a>
-                </template>
-              </div>
-            </a>
-          </template>
-        </div>
-      </template>
-      <template is="dom-if" if="{{showJobDetails}}">
-      <div class="job-view-container">
-        <a on-click="hideJobDetails">
-          Back
-        </a>
-          <div class="" layout horizontal>
-            <div class="member-details" layout vertical center-justified start>
-              <h2 class="opening-title">Openings <small>(<a href$="[[selectedCompnay.companyCareerPage]]">more info</a>)</small></h2>
-              <br>
-              <div class="team-block">
-                <template is="dom-repeat" items="[[selectedCompnay.openings]]" as="opening">
-                  <div class="company-openings">
-                    <span>[[opening.title]] ([[opening.count]])</span><br>
-                    <small>Experience: [[opening.experience]]</small>
-                  </div>
-                </template>
-              </div>
+      <div class="job-container">
+        <template is="dom-repeat" items="[[jobs]]" as="job">
+          <a class="speaker card" href$="[[jobUrl(job.id)]]">
+            <lazy-image
+              class="photo"
+              src="[[job.companyLogoUrl]]"
+              alt="[[job.companyName]]"
+            ></lazy-image>
+            <div class="description">
+              <h2 class="name">[[job.companyName]]</h2>
+              <div class="origin">[[job.location]]</div>
+              <text-truncate lines="5">
+                <div class="bio">[[job.bio]]</div>
+              </text-truncate>
             </div>
-          </div>
-        </div>
-      </template>
+          </a>
+        </template>
+      </div>
 
       <footer-block></footer-block>
     `;
@@ -218,19 +160,9 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
 
   private heroSettings = heroSettings.jobListing;
   private jobs = jobs;
-  private selectedCompnay: any;
-  private showJobDetails = false;
 
 
-  showJobDetail(e: any) {
-    this.selectedCompnay = e.model.__data.job;
-    this.showJobDetails = true;
-    this.heroSettings.title = this.selectedCompnay.companyName,
-    this.heroSettings.description = this.selectedCompnay.bio
-  }
-
-  hideJobDetails() {
-    this.showJobDetails = false;
-    this.heroSettings = heroSettings.jobListing;
+  private jobUrl(id: string) {
+    return router.urlForName('job-page', { id });
   }
 }
