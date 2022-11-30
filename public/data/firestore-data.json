@@ -1185,7 +1185,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
-      "country": "Baroda, Gujarat",
+      "country": "Ahmedabad, Gujarat",
       "featured": true,
       "name": "Krupa Galiya",
       "photo": "",
@@ -1265,6 +1265,168 @@
       ],
       "order": 8,
       "title": "Product Ninja"
+    },
+    "adit_lal": {
+      "bio": "Adit is a Senior Android Engineer, currently working as an Individual Consultant. He has been working in the industry for close to about 9 years primarily helping build android mobile products and scaling them up. Some of his hobbies are Stargazing, Travel, and Landscape Photography.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Bangalore",
+      "featured": false,
+      "name": "Adit Lal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fadit-lal.jpg?alt=media&token=e4ff0eb7-7720-4d9d-a3c1-605eea93d5cc",
+      "pronouns": "he/him",
+      "shortBio": "Adit is a Senior Android Engineer, currently working as an Individual Consult...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aditlal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/aditlal",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 9,
+      "title": "Individual Consultant"
+    },
+    "anubhav_singh": {
+      "badges": [
+        {
+          "description": "Google Developers Group Cloud Kolkata",
+          "link": "https://gdg.community.dev/gdg-cloud-kolkata/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "A developer since the pre-Bootstrap era, Anubhav has over a decade of experience dealing with large-scale software complexities as a freelancer before embarking on his own AI startup venture. He has authored two books, \"Hands-on Python Deep Learning for Web\" and \"Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter\". He's also a Google Venkat Panchapakesan Memorial Scholar. Anubhav has been a contributor to several open-source projects and was a Google Summer of Code participant in 2019. He also leads the team at GDG Cloud Kolkata. You will often find him talking about System architecture, Machine Learning and the web.",
+      "company": "Dynopii",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdynopii.png?alt=media&token=8b3422af-9ecb-465a-83ad-c63cffcad12b",
+      "country": "Kolkata",
+      "featured": false,
+      "name": "Anubhav Singh",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fanubhav-singh.jpg?alt=media&token=50a24490-aad9-4e30-a8f1-0df99d28900a",
+      "pronouns": "he/him",
+      "shortBio": "A developer since the pre-Bootstrap era, Anubhav has over a decade of experie...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/xprilion",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/xprilion",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://xprilion.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 10,
+      "title": "CTO @ Dynopii Inc., Lead @ GDG Cloud Kolkata"
+    },
+    "pranay_patel": {
+      "bio": "Android Geek, Having 6+ years of professional experience in an Android development to deliver coding excellence. Results-driven software developer. Mostly doing stuff around Kotlin, Jetpack Compose, Flutter, KMP . Open source contributor, blogger, Tech savvy and self motivated equity investor!",
+      "company": "mutualmobile",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fmutualmobile.png?alt=media&token=897cd366-f620-4c96-96c6-44b67d428384",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Pranay Patel",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpranay-patel.png?alt=media&token=e005fdf6-91e1-445d-9e49-8e53c8e3575d",
+      "pronouns": "he/him",
+      "shortBio": "Android Geek, Having 6+ years of professional experience in an Android develo...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pranaypatel_",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pranaypatel512",
+          "name": "Github"
+        },
+        {
+          "icon": "website",
+          "link": "https://pranaypatel.medium.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 11,
+      "title": "Android Engineer"
+    },
+    "chintan_khetiya": {
+      "bio": "I am certified scrum master and passionate software developer having 10+ years of experience. I am working on Android, Flutter, and Java Spring boot. An active contributor to Stack Overflow, and GitHub Open source projects and publish articles on my blog. I would like to connect with like-minded people like you.",
+      "company": "Synoverge Technologies Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fsynoverge.png?alt=media&token=9243dc8d-1565-4f4d-880f-647a912b610b",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Chintan Khetiya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fchintan-khetiya.jpg?alt=media&token=16ff74b3-339e-48b8-a7b1-01a40a79dce6",
+      "pronouns": "he/him",
+      "shortBio": "I am certified scrum master and passionate software developer having 10+ year...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/khetiyachintan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/chintankhetiya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://chintankhetiya.wordpress.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 12,
+      "title": "Software Specialist"
+    },
+    "samyak_jain": {
+      "bio": "Samyak is a mobile engineer with experience working at Y Combinator and Silicon Valley Startups. Today he is running a dev studio called PixelApps, which helps startups develop on mobile and the web with Flutter.",
+      "company": "Synoverge Technologies Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fpixelapps.png?alt=media&token=f8bc6a03-32b9-4c56-a798-eaeb29f1ae72",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Samyak Jain",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fsamyak-jain.jpg?alt=media&token=20aa6854-68bc-4509-bdd6-ebd6a1cfd58b",
+      "pronouns": "he/him",
+      "shortBio": "Samyak is a mobile engineer with experience working at Y Combinator and Silic...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/samyak-jain963/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@samyakkk",
+          "name": "Website"
+        }
+      ],
+      "order": 13,
+      "title": "Founder, PixelApps | Flutter Expert"
     }
   },
   "team": [
