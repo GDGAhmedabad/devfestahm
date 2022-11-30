@@ -1400,6 +1400,33 @@
       ],
       "order": 12,
       "title": "Software Specialist"
+    },
+    "samyak_jain": {
+      "bio": "Samyak is a mobile engineer with experience working at Y Combinator and Silicon Valley Startups. Today he is running a dev studio called PixelApps, which helps startups develop on mobile and the web with Flutter.",
+      "company": "Synoverge Technologies Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fpixelapps.png?alt=media&token=f8bc6a03-32b9-4c56-a798-eaeb29f1ae72",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Samyak Jain",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fsamyak-jain.jpg?alt=media&token=20aa6854-68bc-4509-bdd6-ebd6a1cfd58b",
+      "pronouns": "he/him",
+      "shortBio": "Samyak is a mobile engineer with experience working at Y Combinator and Silic...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/samyak-jain963/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@samyakkk",
+          "name": "Website"
+        }
+      ],
+      "order": 13,
+      "title": "Founder, PixelApps | Flutter Expert"
     }
   },
   "team": [
