@@ -1368,6 +1368,38 @@
       ],
       "order": 11,
       "title": "Android Engineer"
+    },
+    "chintan_khetiya": {
+      "bio": "I am certified scrum master and passionate software developer having 10+ years of experience. I am working on Android, Flutter, and Java Spring boot. An active contributor to Stack Overflow, and GitHub Open source projects and publish articles on my blog. I would like to connect with like-minded people like you.",
+      "company": "Synoverge Technologies Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fsynoverge.png?alt=media&token=9243dc8d-1565-4f4d-880f-647a912b610b",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Chintan Khetiya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fchintan-khetiya.jpg?alt=media&token=16ff74b3-339e-48b8-a7b1-01a40a79dce6",
+      "pronouns": "he/him",
+      "shortBio": "I am certified scrum master and passionate software developer having 10+ year...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/khetiyachintan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/chintankhetiya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://chintankhetiya.wordpress.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 12,
+      "title": "Software Specialist"
     }
   },
   "team": [
