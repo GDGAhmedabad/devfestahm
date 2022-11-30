@@ -7,7 +7,7 @@ import '../elements/content-loader';
 import '../elements/shared-styles';
 import { router } from '../router';
 import { ReduxMixin } from '../store/mixin';
-import { heroSettings, jobs } from '../utils/data';
+import { heroSettings, jobs, jobViewBlock } from '../utils/data';
 
 @customElement('job-openings-page')
 export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
@@ -129,6 +129,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
         .page-description {
           margin: 0 auto;
           display: flex;
+          flex-direction: column;
           max-width: var(--max-container-width);
           padding: 24px 16px;
         }
@@ -141,7 +142,8 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
         <div class="hero-title">[[heroSettings.title]]</div>
       </hero-block>
       <div class="page-description">
-        [[heroSettings.description]]
+        <p> [[heroSettings.description]] </p>
+        <p> <strong>Disclaimer:</strong> [[jobViewBlock.disclaimer]] </p>
       </div>
       <div class="job-container">
         <template is="dom-repeat" items="[[jobs]]" as="job">
@@ -168,6 +170,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
 
   private heroSettings = heroSettings.jobOpenings;
   private jobs = jobs;
+  private jobViewBlock = jobViewBlock;
 
 
   private jobUrl(id: string) {

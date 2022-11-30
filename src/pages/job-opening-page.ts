@@ -54,7 +54,7 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
           margin-left: 16px;
         }
         .opening-title {
-          margin: 20px 0;
+          margin-top: 30px;
         }
         @media (min-width: 640px) {
           .team-block {
@@ -70,13 +70,17 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
           .team-block {
             grid-template-columns: repeat(4, 1fr);
           }
+
+          .hiring-image {
+            width: auto;
+          }
         }
 
         .hiring-image {
-          --lazy-image-width: 400px;
-          --lazy-image-height: 400px;
+          --lazy-image-width: 100%;
+          --lazy-image-height: auto;
           --lazy-image-fit: cover;
-          width: var(--lazy-image-width);
+          max-width: var(--lazy-image-width);
           height: var(--lazy-image-height);
           overflow: hidden;
           flex-shrink: 0;
