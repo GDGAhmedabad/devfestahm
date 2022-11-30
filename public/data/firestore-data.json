@@ -1331,6 +1331,43 @@
       ],
       "order": 10,
       "title": "CTO @ Dynopii Inc., Lead @ GDG Cloud Kolkata"
+    },
+    "pranay_patel": {
+      "bio": "Android Geek, Having 6+ years of professional experience in an Android development to deliver coding excellence. Results-driven software developer. Mostly doing stuff around Kotlin, Jetpack Compose, Flutter, KMP . Open source contributor, blogger, Tech savvy and self motivated equity investor!",
+      "company": "mutualmobile",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fmutualmobile.png?alt=media&token=897cd366-f620-4c96-96c6-44b67d428384",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Pranay Patel",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpranay-patel.png?alt=media&token=e005fdf6-91e1-445d-9e49-8e53c8e3575d",
+      "pronouns": "he/him",
+      "shortBio": "Android Geek, Having 6+ years of professional experience in an Android develo...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pranaypatel_",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pranaypatel512",
+          "name": "Github"
+        },
+        {
+          "icon": "website",
+          "link": "https://pranaypatel.medium.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 11,
+      "title": "Android Engineer"
     }
   },
   "team": [
