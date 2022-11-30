@@ -60,7 +60,7 @@ export class JobViewBlock extends ReduxMixin(PolymerElement) {
         <h2>[[jobViewBlock.title]]</h2>
         <div class="description">[[jobViewBlock.callToAction.description]]</div>
         <div class="disclaimer">
-          <strong>Disclaimer:</strong> [[jobViewBlock.desclaimer]]
+          <strong>Disclaimer:</strong> [[jobViewBlock.disclaimer]]
         </div>
         <a class="cta-button" href="[[jobViewBlock.callToAction.link]]">
           <paper-button

@@ -9,8 +9,8 @@ import { router } from '../router';
 import { ReduxMixin } from '../store/mixin';
 import { heroSettings, jobs } from '../utils/data';
 
-@customElement('jobs-page')
-export class JobsPage extends ReduxMixin(PolymerElement) {
+@customElement('job-openings-page')
+export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
 
   static get template() {
     return html`
@@ -171,6 +171,6 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
 
 
   private jobUrl(id: string) {
-    return router.urlForName('job-page', { id });
+    return router.urlForName('job-opening-page', { id });
   }
 }
