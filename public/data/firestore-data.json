@@ -1185,7 +1185,7 @@
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
-      "country": "Baroda, Gujarat",
+      "country": "Ahmedabad, Gujarat",
       "featured": true,
       "name": "Krupa Galiya",
       "photo": "",
@@ -1265,6 +1265,33 @@
       ],
       "order": 8,
       "title": "Product Ninja"
+    },
+    "adit_lal": {
+      "bio": "Adit is a Senior Android Engineer, currently working as an Individual Consultant. He has been working in the industry for close to about 9 years primarily helping build android mobile products and scaling them up. Some of his hobbies are Stargazing, Travel, and Landscape Photography.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Adit Lal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fadit-lal.jpg?alt=media&token=e4ff0eb7-7720-4d9d-a3c1-605eea93d5cc",
+      "pronouns": "he/him",
+      "shortBio": "Adit is a Senior Android Engineer, currently working as an Individual Consult...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aditlal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/aditlal",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 9,
+      "title": "Individual Consultant"
     }
   },
   "team": [
