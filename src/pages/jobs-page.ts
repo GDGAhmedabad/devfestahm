@@ -125,6 +125,13 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
             grid-template-columns: repeat(4, 1fr);
           }
         }
+
+        .page-description {
+          margin: 0 auto;
+          display: flex;
+          max-width: var(--max-container-width);
+          padding: 24px 16px;
+        }
       </style>
 
       <hero-block
@@ -132,9 +139,10 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <p class="hero-description">[[heroSettings.description]]</p>
       </hero-block>
-
+      <div class="page-description">
+        [[heroSettings.description]]
+      </div>
       <div class="job-container">
         <template is="dom-repeat" items="[[jobs]]" as="job">
           <a class="speaker card" href$="[[jobUrl(job.id)]]">
@@ -158,7 +166,7 @@ export class JobsPage extends ReduxMixin(PolymerElement) {
     `;
   }
 
-  private heroSettings = heroSettings.jobListing;
+  private heroSettings = heroSettings.jobOpenings;
   private jobs = jobs;
 
 

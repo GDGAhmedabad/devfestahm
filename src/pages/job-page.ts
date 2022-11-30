@@ -71,6 +71,16 @@ export class JobPage extends ReduxMixin(PolymerElement) {
             grid-template-columns: repeat(4, 1fr);
           }
         }
+
+        .hiring-image {
+          --lazy-image-width: 400px;
+          --lazy-image-height: 400px;
+          --lazy-image-fit: cover;
+          width: var(--lazy-image-width);
+          height: var(--lazy-image-height);
+          overflow: hidden;
+          flex-shrink: 0;
+        }
       </style>
 
       <hero-block
@@ -108,7 +118,7 @@ export class JobPage extends ReduxMixin(PolymerElement) {
                 <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
               </paper-button>
             </a>
-            <h2 class="opening-title">Openings <small>(<a href$="[[companyDetails.companyCareerPage]]" target="_blank" rel="noopener noreferrer">more info</a>)</small></h2>
+            <h2 class="opening-title">Openings</small></h2>
             <br>
             <div class="team-block">
               <template is="dom-repeat" items="[[companyDetails.openings]]" as="opening">
@@ -118,6 +128,9 @@ export class JobPage extends ReduxMixin(PolymerElement) {
                 </div>
               </template>
             </div>
+            <template is="dom-if" if="[[companyDetails.hiringImage]]">
+              <lazy-image class="hiring-image" src="[[companyDetails.hiringImage]]" alt="hiring image"></lazy-image>
+            </template>
           </div>
         </div>
       </div>
@@ -126,7 +139,7 @@ export class JobPage extends ReduxMixin(PolymerElement) {
     `;
   }
 
-  private heroSettings = heroSettings.jobListing;
+  private heroSettings = heroSettings.jobOpenings;
   private jobs = jobs;
   private companyDetails: any;
   @property({ type: Object })

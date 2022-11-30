@@ -23,9 +23,15 @@ export class JobViewBlock extends ReduxMixin(PolymerElement) {
         }
 
         .description {
-          font-size: 24px;
+          font-size: 18px;
           line-height: 1.5;
-          margin: 0 0 16px;
+          margin: 16px 0;
+        }
+
+        .disclaimer {
+          font-size: 14px;
+          margin-bottom: 15px;
+          text-align: center;
         }
 
         paper-button {
@@ -43,15 +49,19 @@ export class JobViewBlock extends ReduxMixin(PolymerElement) {
           }
 
           .description {
-            font-size: 32px;
-            margin: 0 0 24px;
+            font-size: 18px;
+            margin: 24px 0;
             text-align: center;
           }
         }
       </style>
 
       <div class="container" layout vertical center$="[[viewport.isTabletPlus]]">
+        <h2>[[jobViewBlock.title]]</h2>
         <div class="description">[[jobViewBlock.callToAction.description]]</div>
+        <div class="disclaimer">
+          <strong>Disclaimer:</strong> [[jobViewBlock.desclaimer]]
+        </div>
         <a class="cta-button" href="[[jobViewBlock.callToAction.link]]">
           <paper-button
             class="animated icon-right"

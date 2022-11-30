@@ -129,10 +129,10 @@
       },
       "fontColor": "#424242"
     },
-    "jobListing": {
-      "title": "Job Listing",
-      "metaDescription": "Job Listing",
-      "description": "",
+    "jobOpenings": {
+      "title": "Job Openings",
+      "metaDescription": "Job Openings",
+      "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents and the Companies who are always looking for the bright talents.",
       "background": {
         "color": "#FFF"
       },
