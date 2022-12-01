@@ -132,8 +132,8 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
                 </div>
               </template>
             </div>
-            <template is="dom-if" if="[[companyDetails.hiringImage]]">
-              <img class="hiring-image" src="[[companyDetails.hiringImage]]" alt="hiring image"></img>
+            <template is="dom-if" if="[[companyDetails.hiringImageUrl]]">
+              <img class="hiring-image" src="[[companyDetails.hiringImageUrl]]" alt="hiring image"></img>
             </template>
           </div>
         </div>
