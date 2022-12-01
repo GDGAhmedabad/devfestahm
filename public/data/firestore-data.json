@@ -1486,6 +1486,38 @@
       ],
       "order": 15,
       "title": "Software Engineer"
+    },
+    "priya_sindkar": {
+      "bio": "I am a Sr. Android Developer with experience of 7+ years. I am passionate about building android apps. I believe in neat code and a clean architecture.",
+      "company": "NovumLogic Technologies Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
+      "country": "Baroda, Gujarat",
+      "featured": false,
+      "name": "Priya Sindkar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpriya-sindkar.jpg?alt=media&token=8e614d7a-1021-4239-a920-68aafc75a727",
+      "pronouns": "she/her",
+      "shortBio": "I am a Sr. Android Developer with experience of 7+ years. I am passionate...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/SindkarP",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/priya-sindkar-shah-59b02898/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@SindkarP",
+          "name": "Website"
+        }
+      ],
+      "order": 16,
+      "title": "Sr. Android Developer"
     }
   },
   "team": [
