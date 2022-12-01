@@ -1518,6 +1518,38 @@
       ],
       "order": 16,
       "title": "Sr. Android Developer"
+    },
+    "paresh_mayani": {
+      "bio": "- Exploring the horizon of the software industry for the 15+ years. \n- Worked with 20+ startups and mentored them \n- Have hands-on android development experience of 9 years \n- Holder of 120,000 reputation points over StackOverflow https://stackoverflow.com/users/379693/paresh-mayani \n- Have published >150 blog posts over http://www.technotalkative.com/ \n- Known for community contribution, write blogs and deliver talks across India and outside India too. \n- Founded and managing GDG Ahmedabad since 2011 \n- Have delivered 30+ android talks in conferences like Android Developer Days Turkey (2 times), DevFest Kathmandu, GDG DevFest events across India.",
+      "company": "Solguruz",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Paresh Mayani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fparesh-mayani.jpg?alt=media&token=b350023f-f9cb-41ab-972a-8b0e401cf1a2",
+      "pronouns": "he/him",
+      "shortBio": "- Exploring the horizon of the software industry for the 15+ years...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pareshmayani",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pareshmayani/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://www.technotalkative.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 17,
+      "title": "Co-Founder / CEO | Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad"
     }
   },
   "team": [
