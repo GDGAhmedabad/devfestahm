@@ -1579,6 +1579,28 @@
       ],
       "order": 18,
       "title": "Founder"
+    },
+    "nikita_lalwani": {
+      "bio": "Nikita is First Bicycle Mayor of India and Founder of Crooze.app, a mobile app to reward cyclists for their cycling kilometres. It is a community driven platform where technogy and gamified cycling experience is at core. The app users earns free gifts and deep discounts by redeeming crooze coins. She is passionate about revolutionizing how people move around by using technology and behavioral economics.",
+      "company": "Crooze",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcrooze.png?alt=media&token=e7c868f8-7256-4712-9807-d9c7a8acd403",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Nikita Lalwani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fnikita-lalwani.jpg?alt=media&token=56d4377f-cfd0-4f24-a834-c64919ea0b34",
+      "pronouns": "she/her",
+      "shortBio": "Nikita is First Bicycle Mayor of India and Founder of Crooze.app, a mobile ap...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/nikitalalwani7",
+          "name": "Twitter"
+        }
+      ],
+      "order": 18,
+      "title": "Founder, CEO"
     }
   },
   "team": [
