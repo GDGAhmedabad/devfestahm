@@ -17,6 +17,11 @@ export type Viewport = {
   [index in VIEWPORT]: boolean;
 };
 
+export interface ViewportAndYear {
+  viewport: Viewport;
+  year: number;
+}
+
 export interface SetViewport {
   size: VIEWPORT;
   matches: boolean;

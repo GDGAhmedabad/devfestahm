@@ -124,7 +124,7 @@ export class PreviousSpeakersBlock extends ReduxMixin(PolymerElement) {
 
   override stateChanged(state: RootState) {
     this.previousSpeakers = state.previousSpeakers;
-    this.speakers = selectRandomPreviousSpeakers(state);
+    this.speakers = selectRandomPreviousSpeakers(state, previousSpeakersBlock.previousSpeakerYear);
   }
 
   override connectedCallback() {
