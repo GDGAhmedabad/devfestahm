@@ -1557,6 +1557,28 @@
       ],
       "order": 17,
       "title": "Co-Founder / CEO | Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad"
+    },
+    "abhishek_desai": {
+      "bio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicorp.",
+      "company": "CricHeroes",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcricheroes.png?alt=media&token=806d2221-be77-40ae-9886-db66e16fe08d",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Abhishek Desai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fabhishek-desai.jpeg?alt=media&token=8227c384-8290-4054-af7c-a095af348cb1",
+      "pronouns": "he/him",
+      "shortBio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicor...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/abhishekdesai",
+          "name": "Twitter"
+        }
+      ],
+      "order": 18,
+      "title": "Founder"
     }
   },
   "team": [
