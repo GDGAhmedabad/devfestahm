@@ -21,7 +21,7 @@ export {
   followUs,
   footer,
   footerRelBlock,
-  galleryBlock, image, jobViewBlock, latestPostsBlock,
+  galleryBlock, image, jobOpenings, latestPostsBlock,
   loading,
   mapBlock,
   mySchedule,

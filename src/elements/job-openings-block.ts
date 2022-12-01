@@ -5,12 +5,12 @@ import { html, PolymerElement } from '@polymer/polymer';
 import { RootState } from '../store';
 import { ReduxMixin } from '../store/mixin';
 import { initialUiState } from '../store/ui/state';
-import { jobViewBlock } from '../utils/data';
+import { jobOpenings } from '../utils/data';
 import '../utils/icons';
 import './shared-styles';
 
-@customElement('job-view-block')
-export class JobViewBlock extends ReduxMixin(PolymerElement) {
+@customElement('job-openings-block')
+export class JobOpeningsBlock extends ReduxMixin(PolymerElement) {
   static get template() {
     return html`
       <style include="shared-styles flex flex-alignment">
@@ -57,16 +57,16 @@ export class JobViewBlock extends ReduxMixin(PolymerElement) {
       </style>
 
       <div class="container" layout vertical center$="[[viewport.isTabletPlus]]">
-        <h2>[[jobViewBlock.title]]</h2>
-        <div class="description">[[jobViewBlock.callToAction.description]]</div>
+        <h2>[[jobOpenings.title]]</h2>
+        <div class="description">[[jobOpenings.callToAction.description]]</div>
         <div class="disclaimer">
-          <strong>Disclaimer:</strong> [[jobViewBlock.disclaimer]]
+          <strong>Disclaimer:</strong> [[jobOpenings.disclaimer]]
         </div>
-        <a class="cta-button" href="[[jobViewBlock.callToAction.link]]">
+        <a class="cta-button" href="[[jobOpenings.callToAction.link]]">
           <paper-button
             class="animated icon-right"
           >
-            <span class="cta-label">[[jobViewBlock.callToAction.label]]</span>
+            <span class="cta-label">[[jobOpenings.callToAction.label]]</span>
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
         </a>
@@ -74,7 +74,7 @@ export class JobViewBlock extends ReduxMixin(PolymerElement) {
     `;
   }
 
-  private jobViewBlock = jobViewBlock;
+  private jobOpenings = jobOpenings;
 
   @property({ type: Object })
   private viewport = initialUiState.viewport;

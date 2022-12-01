@@ -10,7 +10,7 @@ import '../elements/about-organizer-block';
 import '../elements/featured-videos';
 import '../elements/fork-me-block';
 import '../elements/gallery-block';
-import '../elements/job-view-block';
+import '../elements/job-openings-block';
 import '../elements/latest-posts-block';
 import '../elements/map-block';
 import '../elements/partners-block';
@@ -250,7 +250,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
-      <job-view-block></job-view-block>
+      <job-openings-block></job-openings-block>
       <latest-posts-block></latest-posts-block>
       <map-block></map-block>
       <partners-block></partners-block>
