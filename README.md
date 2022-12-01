@@ -13,7 +13,23 @@ The template is created based on 7 years of [GDG Lviv](https://www.meetup.com/GD
 
 Our goal is to allow event organizers to set up a professional conference website with minimum resources. To get started you need only basic knowledge of web technologies and a free Firebase account.
 
-## List jobs from the community companies
+## List Job Opportunities from the community companies
+We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).
+
+We welcome companies from the community to share job opportunities at their companies.
+
+Disclaimer: We are not responsible nor associated with anything in this initiative. We collect openings from the companies from the community and we list it out over here for the talents. You may check anything and everything before you apply, and only you and company are responsible while finalising the offer details.
+
+**How you can submit Job Opportunities**
+Please follow the given steps for listing out your company's job opportunities.
+
+1. Fork the repository
+2. Create a JSON object in the format given below
+3. Add your Job openings JSON object [here](/public/data/job-openings-data.json)
+3. Update the `id` (i.e. last element id + 1)
+4. Raise a PR for `develop` branch
+5. Our contributors will review, merge and deploy!
+
 ```json
 {
   "id": 1,
@@ -44,12 +60,6 @@ Our goal is to allow event organizers to set up a professional conference websit
   ]
 }
 ```
-**Steps to List Jobs**
-
-1. Fork the repository
-2. Add your Job Openings [here](/public/data/job-openings-data.json)
-3. update id (last element id + 1)
-4. Raise PR for `develop` branch
 
 ## Features
 

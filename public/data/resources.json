@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Ahmedabad Season 2022",
-  "description": "Join the community, learn new things!",
+  "description": "Join the community, Explore Opportunities!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "17th December, 2022",
@@ -130,7 +130,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "450+"
+        "number": "500+"
       },
       "days": {
         "label": "Days",
@@ -233,7 +233,7 @@
   },
   "jobOpenings": {
     "title": "Jobs from the community companies",
-    "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents and the Companies who are always looking for the bright talents.",
+    "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).",
     "disclaimer": "We are not responsible nor associated with anything in this initiative. We collect openings from the companies from the community and we list it out over here for the talents. You may check anything and everything before you apply, and only you and company are responsible while finalising the offer details.",
     "callToAction": {
       "label": "Apply Now",
