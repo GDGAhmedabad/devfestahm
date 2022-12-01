@@ -1181,17 +1181,17 @@
       "title": "Senior Data Scientist"
     },
     "krupa_galiya": {
-      "bio": "A 'PyGirl' whose main interest lies in Machine Learning, NLP, and Algorithms. Currently, she is exploring advanced AI concepts and tends to do algorithms from scratch. She has completed various projects based on Machine Learning/Deep Learning, NLP and Python. having passion for Learning, Researching and Teaching people. \n\nCurrently, pursuing BE-IT from Vishwakarma Govt. engineering college in the final year.",
-      "company": "",
+      "bio": "PyGirl, A Data Scientist at PatternAI. Having a passion for Learning, Developing, and Researching. With a strong interest in the study of Algorithms, Natural language processing (NLP), Machine Learning, Deep Learning, Statistics, and Data Science. Loves to build AI products and develop Algorithms.",
+      "company": "PatternAI",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fpattern-ai.png?alt=media&token=db3d24be-441e-4a4c-952d-511750511f80",
       "country": "Ahmedabad, Gujarat",
       "featured": true,
       "name": "Krupa Galiya",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkrupa-galiya.jpg?alt=media&token=70140b70-d042-4402-8801-c24e90c50876",
       "pronouns": "she/her",
-      "shortBio": "A 'PyGirl' whose main interest lies in Machine Learning, NLP, and Algorithms...",
+      "shortBio": "PyGirl, A Data Scientist at PatternAI. Having a passion for Learning, Develop...",
       "socials": [
         {
           "icon": "twitter",
@@ -1210,7 +1210,7 @@
         }
       ],
       "order": 6,
-      "title": "PyGirl"
+      "title": "Data Scientist"
     },
     "nilay_chauhan": {
       "bio": "Nilay is a Data Scientist on Kaggle's DevRel Team. He is living in Ahmedabad and in his free time he likes watching tv-series, guiding and supporting Data Science aspirants, and networking with new people around the globe.",
