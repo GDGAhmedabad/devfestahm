@@ -21,7 +21,7 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
           display: block;
           height: 100%;
         }
-        .job-view-container {
+        .job-openings-container {
           margin: 0 auto;
           padding: 10px 16px;
           max-width: var(--max-container-width);
@@ -112,7 +112,7 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
         </div>
       </hero-block>
 
-      <div class="job-view-container">
+      <div class="job-openings-container">
         <div class="" layout horizontal>
           <div class="member-details" layout vertical center-justified start>
             <p>[[companyDetails.bio]]</p>

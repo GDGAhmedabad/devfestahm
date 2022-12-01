@@ -19,18 +19,13 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
           display: block;
           height: 100%;
         }
-        .job-container {
+        .job-openings-container {
           display: grid;
           grid-template-columns: 1fr;
           grid-gap: 16px;
           min-height: 50%;
           margin: 0 auto;
           padding: 24px 16px;
-          max-width: var(--max-container-width);
-        }
-        .job-view-container {
-          margin: 0 auto;
-          padding: 10px 16px;
           max-width: var(--max-container-width);
         }
         .speaker {
@@ -102,7 +97,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
           .member {
             padding: 32px 0;
           }
-          .job-container {
+          .job-openings-container {
             grid-template-columns: repeat(2, 1fr);
           }
           .team-block {
@@ -110,7 +105,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
           }
         }
         @media (min-width: 812px) {
-          .job-container {
+          .job-openings-container {
             grid-template-columns: repeat(3, 1fr);
           }
           .team-block {
@@ -118,7 +113,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
           }
         }
         @media (min-width: 1024px) {
-          .job-container {
+          .job-openings-container {
             grid-template-columns: repeat(4, 1fr);
           }
           .team-block {
@@ -145,7 +140,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
         <p> [[heroSettings.description]] </p>
         <p> <strong>Disclaimer:</strong> [[jobOpenings.disclaimer]] </p>
       </div>
-      <div class="job-container">
+      <div class="job-openings-container">
         <template is="dom-repeat" items="[[jobs]]" as="job">
           <a class="speaker card" href$="[[jobUrl(job.id)]]">
             <lazy-image

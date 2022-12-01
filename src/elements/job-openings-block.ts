@@ -58,7 +58,7 @@ export class JobOpeningsBlock extends ReduxMixin(PolymerElement) {
 
       <div class="container" layout vertical center$="[[viewport.isTabletPlus]]">
         <h2>[[jobOpenings.title]]</h2>
-        <div class="description">[[jobOpenings.callToAction.description]]</div>
+        <div class="description">[[jobOpenings.description]]</div>
         <div class="disclaimer">
           <strong>Disclaimer:</strong> [[jobOpenings.disclaimer]]
         </div>
