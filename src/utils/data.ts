@@ -1,4 +1,7 @@
 export {
+  jobs
+} from '../../public/data/job-openings-data.json';
+export {
   aboutBlock,
   aboutOrganizerBlock,
   addToHomeScreen,
@@ -18,8 +21,7 @@ export {
   followUs,
   footer,
   footerRelBlock,
-  galleryBlock,
-  latestPostsBlock,
+  galleryBlock, image, jobOpenings, latestPostsBlock,
   loading,
   mapBlock,
   mySchedule,
@@ -40,14 +42,11 @@ export {
   speakerDetails,
   speakers,
   speakersBlock,
-  subscribeBlock,
-  subscribeNote,
+  subscribeBlock, subscribeNote,
   team,
   ticketsBlock,
   timezoneOffset,
-  title,
-  image,
-  viewHighlights,
+  title, viewHighlights
 } from '../../public/data/resources.json';
 export {
   contentLoaders,
@@ -61,5 +60,6 @@ export {
   organizer,
   showForkMeBlockForProjectIds,
   signInProviders,
-  socialNetwork,
+  socialNetwork
 } from '../../public/data/settings.json';
+
