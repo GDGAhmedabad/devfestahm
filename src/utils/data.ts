@@ -1,6 +1,6 @@
 export {
   jobs
-} from '../../public/data/jobs.json';
+} from '../../public/data/job-openings-data.json';
 export {
   aboutBlock,
   aboutOrganizerBlock,

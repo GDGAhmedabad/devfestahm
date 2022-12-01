@@ -12,7 +12,7 @@ import { html, PolymerElement } from '@polymer/polymer';
 import {
   setPassiveTouchGestures,
   setRemoveNestedTemplates,
-  setSuppressTemplateNotifications,
+  setSuppressTemplateNotifications
 } from '@polymer/polymer/lib/utils/settings';
 import '@power-elements/lazy-image';
 import './components/snack-bar';
@@ -37,7 +37,7 @@ import {
   navigation,
   offlineMessage,
   signInProviders,
-  title,
+  title
 } from './utils/data';
 import './utils/icons';
 import './utils/media-query';
@@ -150,7 +150,7 @@ export class HoverboardApp extends PolymerElement {
           <app-toolbar layout vertical start>
             <lazy-image
               class="toolbar-logo"
-              src="/images/logo-monochrome.svg"
+              src="/images/logo-monochrome.png"
               alt="[[alt]]"
             ></lazy-image>
             <h2 class="dates">[[dates]]</h2>

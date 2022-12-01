@@ -23,7 +23,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
           display: grid;
           grid-template-columns: 1fr;
           grid-gap: 16px;
-          min-height: 50%;
+          min-height: 35%;
           margin: 0 auto;
           padding: 24px 16px;
           max-width: var(--max-container-width);
