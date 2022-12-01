@@ -1599,8 +1599,40 @@
           "name": "Twitter"
         }
       ],
-      "order": 18,
+      "order": 19,
       "title": "Founder, CEO"
+    },
+    "jaykumar_joshi": {
+      "bio": "Program Head at Gujarat Student Startup and Innovation Hub (i-Hub), Education Department, Govt. of Gujarat",
+      "company": "Gujarat Student Startup and Innovation Hub (i-Hub)",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jaykumar Joshi",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fjaykumar-joshi.jpeg?alt=media&token=151cdf4a-7512-4cf1-bddb-c26c8935025f",
+      "pronouns": "he/him",
+      "shortBio": "Program Head at Gujarat Student Startup and Innovation Hub (i-Hub), Edu...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ihubgujarat",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/company/ihubgujarat",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://www.ihubgujarat.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 20,
+      "title": "Program Head"
     }
   },
   "team": [
