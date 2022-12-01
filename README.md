@@ -16,7 +16,7 @@ Our goal is to allow event organizers to set up a professional conference websit
 ## List jobs from the community companies
 ```json
 {
-  "id": 2,
+  "id": 1,
   "companyName": "GDG Ahmedabad",
   "location": "Ahmedabad",
   "bio": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
@@ -44,7 +44,7 @@ Our goal is to allow event organizers to set up a professional conference websit
   ]
 }
 ```
-1. Add your Job Openings [here](/public/data/jobs.json)
+1. Add your Job Openings [here](/public/data/job-openings-data.json)
 2. update id (last id + 1)
 
 ## Features
