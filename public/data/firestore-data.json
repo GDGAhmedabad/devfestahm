@@ -1454,6 +1454,38 @@
       ],
       "order": 14,
       "title": "Subject Matter Expert"
+    },
+    "ishan_sharma": {
+      "bio": "Ishan is a frontend enthusiast, who has been working with the web for over 8 years now. He's a full-stack web developer with a keen sense for design and crafting extraordinary experiences on the web. He's an active open-source contributor and loves talking/sharing and expanding his knowledge on the web and practically anything that runs on electricity :)",
+      "company": "HackerRank",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fhackerrank.png?alt=media&token=c9142906-116f-4caa-8561-57ec2a3d91fb",
+      "country": "Jalandhar, Punjab",
+      "featured": false,
+      "name": "Ishan Sharma",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fishan-sharma.jpg?alt=media&token=37a52030-2fd7-4bb1-90c8-8b2f97a487f3",
+      "pronouns": "he/him",
+      "shortBio": "Ishan is a frontend enthusiast, who has been working with the web for over 8...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ishandeveloper",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ishandeveloper/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://blog.ishandeveloper.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 15,
+      "title": "Software Engineer"
     }
   },
   "team": [
