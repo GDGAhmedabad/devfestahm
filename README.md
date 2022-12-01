@@ -44,8 +44,12 @@ Our goal is to allow event organizers to set up a professional conference websit
   ]
 }
 ```
-1. Add your Job Openings [here](/public/data/job-openings-data.json)
-2. update id (last id + 1)
+**Steps to List Jobs**
+
+1. Fork the repository
+2. Add your Job Openings [here](/public/data/job-openings-data.json)
+3. update id (last element id + 1)
+4. Raise PR for `develop` branch
 
 ## Features
 
