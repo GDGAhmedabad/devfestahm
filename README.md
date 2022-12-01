@@ -13,7 +13,7 @@ The template is created based on 7 years of [GDG Lviv](https://www.meetup.com/GD
 
 Our goal is to allow event organizers to set up a professional conference website with minimum resources. To get started you need only basic knowledge of web technologies and a free Firebase account.
 
-## List Job Opportunities from the community companies
+## List Job Opportunities of the companies
 We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).
 
 We welcome companies from the community to share job opportunities at their companies.
