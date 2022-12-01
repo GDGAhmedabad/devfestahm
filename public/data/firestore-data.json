@@ -1520,6 +1520,13 @@
       "title": "Sr. Android Developer"
     },
     "paresh_mayani": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
       "bio": "- Exploring the horizon of the software industry for the 15+ years. \n- Worked with 20+ startups and mentored them \n- Have hands-on android development experience of 9 years \n- Holder of 120,000 reputation points over StackOverflow https://stackoverflow.com/users/379693/paresh-mayani \n- Have published >150 blog posts over http://www.technotalkative.com/ \n- Known for community contribution, write blogs and deliver talks across India and outside India too. \n- Founded and managing GDG Ahmedabad since 2011 \n- Have delivered 30+ android talks in conferences like Android Developer Days Turkey (2 times), DevFest Kathmandu, GDG DevFest events across India.",
       "company": "Solguruz",
       "companyLogo": "",
