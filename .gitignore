@@ -71,3 +71,4 @@ serviceAccount.json
 internal_use/
 *-adminsdk-*.json
 .DS_Store
+.idea
