@@ -13,6 +13,44 @@ The template is created based on 7 years of [GDG Lviv](https://www.meetup.com/GD
 
 Our goal is to allow event organizers to set up a professional conference website with minimum resources. To get started you need only basic knowledge of web technologies and a free Firebase account.
 
+## List jobs from the community companies
+```json
+{
+  "id": 1,
+  "companyName": "GDG Ahmedabad",
+  "location": "Ahmedabad",
+  "bio": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
+  "companyLogoUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+  "companyWebsite": "https://devfest.gdgahmedabad.com/",
+  "companyCareerPage": "https://devfest.gdgahmedabad.com/",
+  "linkedin": "https://www.linkedin.com/company/gdg-ahmedabad/",
+  "hiringImageUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/we-are-hiring-postcard-design-template-9d69ace4777878ef63cd65ffcdda1af3_screen.jpg",
+  "openings": [
+    {
+      "title": "Angular Developers",
+      "count": 2,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "React Developers",
+      "count": 1,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "Flutter Developers",
+      "count": 2,
+      "experience": "1+ year"
+    }
+  ]
+}
+```
+**Steps to List Jobs**
+
+1. Fork the repository
+2. Add your Job Openings [here](/public/data/job-openings-data.json)
+3. update id (last element id + 1)
+4. Raise PR for `develop` branch
+
 ## Features
 
 | Feature                              | Description                                                                                                                  |

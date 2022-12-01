@@ -231,6 +231,15 @@
     "generalError": "An error has occurred. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
+  "jobOpenings": {
+    "title": "Jobs from the community companies",
+    "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents and the Companies who are always looking for the bright talents.",
+    "disclaimer": "We are not responsible nor associated with anything in this initiative. We collect openings from the companies from the community and we list it out over here for the talents. You may check anything and everything before you apply, and only you and company are responsible while finalising the offer details.",
+    "callToAction": {
+      "label": "Apply Now",
+      "link": "/job-openings"
+    }
+  },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Gujarat audience to boost development of IT."
   },
