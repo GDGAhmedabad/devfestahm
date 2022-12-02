@@ -48,5 +48,38 @@
         }
       ]
     }
+    ,{
+      "id": 3,
+      "companyName": "iTechOps",
+      "location": "Ahmedabad, India",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/logo.png",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "https://itechops.com/assets/hiring.jpg",
+      "openings": [
+      {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "0-4 years"
+        },
+        {
+          "title": "Full Stack Developers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "0-2 years"
+        }
+      ]
+    }
   ]
 }
