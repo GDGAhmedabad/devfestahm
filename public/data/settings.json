@@ -41,7 +41,7 @@
     {
       "route": "job-openings",
       "permalink": "/job-openings",
-      "label": "Job Openings"
+      "label": "Job Opportunities"
     },
     {
       "route": "blog",
