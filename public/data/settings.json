@@ -39,6 +39,11 @@
       "label": "Team"
     },
     {
+      "route": "job-openings",
+      "permalink": "/job-openings",
+      "label": "Job Opportunities"
+    },
+    {
       "route": "blog",
       "permalink": "/blog",
       "label": "Blog"
@@ -126,6 +131,15 @@
       "metaDescription": "Page not found",
       "background": {
         "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "jobOpenings": {
+      "title": "Job Opportunities from the companies",
+      "metaDescription": "Job Opportunities from the companies",
+      "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).",
+      "background": {
+        "color": "#FFF"
       },
       "fontColor": "#424242"
     }

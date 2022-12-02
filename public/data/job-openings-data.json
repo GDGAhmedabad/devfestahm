@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "companyName": "SolGuruz LLP",
+      "location": "Ahmedabad, India",
+      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
+      "companyWebsite": "http://solguruz.com/",
+      "companyCareerPage": "https://solguruz.kekahire.com/",
+      "linkedin": "https://www.linkedin.com/company/solguruz/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1BEB7HVJ6RjGIwbdKnhAU-nQMH1WkJQ-y",
+      "openings": [
+        {
+          "title": "MERN Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "React Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Node Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Manual QA Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 1,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "1 to 3 Years experience"
+        }
+      ]
+    }
+  ]
+}
