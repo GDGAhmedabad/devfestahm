@@ -1961,30 +1961,6 @@
           "title": ""
         },
         {
-          "name": "Moin Shaikh",
-          "photo": "/images/people/others/moin_shaikh.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmoin_shaikh.jpeg?alt=media&token=98688ea9-2d80-4db4-9849-beb68da8414c",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/moingshaikh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/moingshaikh/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://medium.com/@moingshaikh",
-              "name": "Blogs"
-            }
-          ],
-          "order": 6,
-          "title": ""
-        },
-        {
           "name": "Ravi Rupareliya",
           "photo": "/images/people/others/ravi_rupareliya_22.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fravi_rupareliya_22.jpg?alt=media&token=3a0b0846-427e-4b03-84d0-03cebef3b27b",
