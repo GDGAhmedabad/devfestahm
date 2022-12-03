@@ -2169,6 +2169,16 @@
             "title": "The Keynote",
             "videoId": "gpwLAaAVcLA"
           }
+        ],
+        "2019": [
+          {
+            "presentation": "https://www.slideshare.net/utpalbetai/gdg-dev-fest-2019",
+            "tags": [
+              "The Keynote"
+            ],
+            "title": "Keynote - Future is here",
+            "videoId": "zVXCQW1cP20"
+          }
         ]
       },
       "socials": [
@@ -2176,6 +2186,11 @@
           "icon": "twitter",
           "link": "https://twitter.com/utpalbetai",
           "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/utpal.betai.9",
+          "name": "Facebook"
         }
       ],
       "title": "Sr. Project Manager"
@@ -2393,14 +2408,14 @@
       "title": "Frontend Engineer"
     },
     "hiren_dave": {
-      "bio": "Hiren Dave is a software engineer, blogger and consultant with over 9 years of professional experience. He writes code in number of languages. Hiren has a passion for developing web apps, mobile apps and writing books and blog articles about programming. He has a solid experience of startups as he manages products for few startups. He is also passionate about researching and learning new technologies and trends.He has also authored a book Instant Sencha Touch, published by Packt. He is also a creator of Video Course “Beginning Laravel” for Packt.",
-      "company": "The Design Shop",
+      "bio": "Hiren Dave is a software engineer, blogger and consultant with over 9 years of professional experience. He writes code in number of languages. Hiren has a passion for developing web apps, mobile apps and writing books and blog articles about programming. He has a solid experience of startups as he manages products for few startups. He is also passionate about researching and learning new technologies and trends.",
+      "company": "",
       "companyLogo": "",
       "country": "Ahmedabad",
       "id": "hiren_dave",
       "name": "Hiren Dave",
       "order": 7,
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fprevious%2Fhiren_dave.jpg?alt=media&token=3eac7749-b33c-4613-9d31-2cf40b0e9956",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
       "sessions": {
         "2017": [
           {
@@ -2412,16 +2427,37 @@
             "title": "Power Of Progressive Web App",
             "videoId": "uI9r9ua-jiA"
           }
+        ],
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/hirendave/machinelearninginbrowserwithtensorflowjs",
+            "tags": [
+              "Web",
+              "ML"
+            ],
+            "title": "Machine learning in the Browser with TensorFlow.js",
+            "videoId": "aP1rH5px4NU"
+          }
         ]
       },
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/hjdave/",
+          "link": "https://twitter.com/hjdave",
           "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/davehiren",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "http://hirendave.tech/about-hiren/",
+          "name": "Website"
         }
       ],
-      "title": "CTO"
+      "title": "Self Employed Consultant"
     },
     "parth_jansari": {
       "bio": "Parth is a guy who is trying to grow up and do mature stuff but end up designing or making cool stuff. He has four years of experience in designing and a years experience in front end development. He uses angular as a front end framework and ionic as a hybrid app framework. Currently he is exploring flutter as he believes it can be a replacemet for ionic 2.",
@@ -2551,7 +2587,7 @@
       "country": "Ahmedabad",
       "id": "akshar_patel",
       "name": "Akshar Patel",
-      "order": 18,
+      "order": 12,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fprevious%2Fakshar_patel.jpg?alt=media&token=6721c493-8419-4e3b-b667-6d566e719ecc",
       "sessions": {
         "2017": [
@@ -2581,7 +2617,7 @@
       "country": "Ahmedabad",
       "id": "dhrumil_shah",
       "name": "Dhrumil Shah",
-      "order": 19,
+      "order": 13,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
       "sessions": {
         "2017": [
@@ -2611,7 +2647,7 @@
       "country": "Ahmedabad",
       "id": "pratik_patel",
       "name": "Pratik Patel",
-      "order": 20,
+      "order": 14,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fpratik_patel.jpg?alt=media&token=2d3a4883-a836-4b01-8f68-b94dfc6f1ffa",
       "sessions": {
         "2017": [
@@ -2640,7 +2676,7 @@
       "country": "Ahmedabad",
       "id": "chintan_rathod",
       "name": "Chintan Rathod",
-      "order": 21,
+      "order": 15,
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fchintan_rathod.jpg?alt=media&token=60ddc2ce-2436-43f0-8ccc-cdeef4049deb",
       "sessions": {
         "2016": [
@@ -2671,6 +2707,845 @@
         }
       ],
       "title": "Team Lead - Mobile"
+    },
+    "adit_lal": {
+      "bio": "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography.",
+      "company": "GoJek",
+      "country": "Bangalore",
+      "id": "adit_lal",
+      "name": "Adit Lal",
+      "order": 16,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fadit_lal.jpg?alt=media&token=4c633667-503b-482b-bb68-87a6e40fbdd7",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/aldefy/kotlin-dsls-mini-languge",
+            "tags": [
+              "Android"
+            ],
+            "title": "Kotlin DSL - let’s express code in “mini-language”",
+            "videoId": "sDWxnOZ5U9w"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aditlal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/aditlal",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://adit.dev/",
+          "name": "Blog"
+        }
+      ],
+      "title": "Product Engineer"
+    },
+    "rohan_mishra": {
+      "bio": "Product and UI/UX Designer focused on creating digital experiences that make peoples life easier around digital products. Currently Designing products at Zomato, to make it a farm to fork Food-tech company. Mostly Empath, Sometimes Foodie!!",
+      "company": "Zomato",
+      "country": "Gurgaon",
+      "id": "rohan_mishra",
+      "name": "Rohan Mishra",
+      "order": 17,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Frohan_mishra.png?alt=media&token=c153fe0f-42bd-43ca-9af6-98c5520cc71c",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://www.slideshare.net/RohanMishra20/reviews-20-a-new-way-to-review-gdg-devfest-ahmedabad-2019-188293347",
+            "tags": [
+              "Mobile"
+            ],
+            "title": "How we designed reviews to help people decide what and where to eat?",
+            "videoId": "sAQLl8yPg7g"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/iamrohanmishra",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.rohanmishra.design/blog",
+          "name": "Blog"
+        }
+      ],
+      "title": "Product Design"
+    },
+    "prajyot_mainkar": {
+      "bio": "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out of Goa and one of the winner's of Goa State CM Startup Award. He has been associated with Hon. PM Shri. Narendra Modi's PMO initiative of MYGOV. In mentoring more than 50 startups under the PMO initiative. Recipient of the Young Entrepreneur of the year by Business Goa and one of the 14 Intel innovators in the country, Prajyot has delivered more than 350 talks across the globe of which the prominent have been Droidcon Greece, Android Developer Days in Turkey, Google developer summit, Sri Lanka. Yourstory, one of India's leading startup brand recognized him as the Android man of Goa and was also featured as top techies in India in 2015. He is the technical advisor to India's one of the leading Digital Incubator For Students - The Startup Village and also several other incubators. Recently, became the first Goan author to publish a book on Mobile Technology called - Expert Android Programming, which is circulated in UK, India, Sri Lanka, Nepal, and Bangladesh. Post that, published another book on Flutter. He is also on the board of EDC Ignite as an advisor and industry advisor to Goa Stage IT policy.GEMS(Goa entrepreneur mentoring service) recently awarded him The trailblazer excellence award for contribution of IT in Goa.",
+      "company": "Androcid",
+      "country": "Goa",
+      "id": "prajyot_mainkar",
+      "name": "Prajyot Mainkar",
+      "order": 18,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fprajyot_mainkar.jpg?alt=media&token=ce9b5854-5536-4753-b8ea-6623dcd6238e",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/prajyotm/devfest-2019-ahmedabad-by-prajyot-mainkar",
+            "tags": [
+              "The Keynote"
+            ],
+            "title": "Keynote - Don't Build a Startup, Build a Culture",
+            "videoId": "eTEJUxNN0CQ"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/prajyotm",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/prajyotm/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Founder"
+    },
+    "divyanshu_bhargava": {
+      "bio": "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started from Android and took a turn at Flutter. He has 3+ years of experience of building mobile apps. He has done B.Tech in Computer Science and Engineering. He is creator of Android Draw and Chitr application. Being a blogger and open source lover he keen interest in to help developers & students who look forward to growing their careers in the field of Mobile Computing.",
+      "company": "GoHighLevel",
+      "country": "Bangalore",
+      "id": "divyanshu_bhargava",
+      "name": "Divyanshu Bhargava",
+      "order": 19,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdivyanshu_bhargava.jpg?alt=media&token=05805f70-5ce4-43f7-9bcc-658ff4480556",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/divyanshub024/fun-with-flutter-animations",
+            "tags": [
+              "Flutter"
+            ],
+            "title": "Fun with Flutter Animations",
+            "videoId": "gM0p4Srzgf8"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/divyanshub024",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/divyanshub024/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@divyanshub024",
+          "name": "Blog"
+        }
+      ],
+      "title": "Flutter Developer"
+    },
+    "dharmesh_vaya": {
+      "bio": "Dharmesh is a Solutions Architect known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams. Currently heading one of the Engineering divisions responsible for Software Environments/Cloud Architecture with a focus on Automation technologies. He is a Google Developer Expert for Google Cloud Platform and actively manages Google Cloud Developers Community, Mumbai. He speaks at various conferences and mentors Students, Young Professionals as well as local businesses on Cloud Technologies using the Google Cloud Platform and Open Source technologies. Loves travelling, back-packing as well as trekking off to unexplored destinations.",
+      "company": "Google Developer Expert (Cloud)",
+      "country": "Mumbai",
+      "id": "dharmesh_vaya",
+      "name": "Dharmesh Vaya",
+      "order": 20,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdharmesh_vaya.jpg?alt=media&token=cc9ec1b2-7526-4869-a556-78e434a40292",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://docs.google.com/presentation/d/1mijGxDmjFAwRc6S2C2DNyNRh0Pz0Kq90fmC8M8j76KU/edit?ts=5da11bd1#slide=id.p1",
+            "tags": [
+              "Cloud"
+            ],
+            "title": "Let's Deploy to Cloud Run using Cloud Build",
+            "videoId": "RfHVloy_bbk"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/DRVaya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/dharmeshvaya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@DRVaya",
+          "name": "Blog"
+        }
+      ],
+      "title": "Solutions Architect"
+    },
+    "jimit_rangras": {
+      "bio": "Currently working as an DevOps Engineer at Infostretch, I am mostly inclined towards crafting solutions revolving around various Cloud Platforms such as Google Cloud Platform, Amazon Web Services (AWS), Microsoft Azure and DevOps tools and technologies such as CI/CD, Infrastructure Management, Containerization using Docker and Kubernetes, etc.",
+      "company": "Infostretch",
+      "country": "Ahmedabad",
+      "id": "jimit_rangras",
+      "name": "Jimit Rangras",
+      "order": 21,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fjimit_rangras.png?alt=media&token=0cfa0bf6-b466-4ed3-94e2-a95dfae5fc82",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/jimit/cd-on-google-cloud",
+            "tags": [
+              "Cloud"
+            ],
+            "title": "CI/CD on Google Cloud",
+            "videoId": "gCoLVs2EjDM"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jimit_rangras",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/jimitrangras",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "DevOps Engineer"
+    },
+    "himadri_pandya": {
+      "bio": "Himadri Pandya is pursuing a Masters in Technology in the domain of Information and Communication Technology with a specialization in Machine Intelligence from DAIICT, India. She is currently exploring the field of computer vision. She is fascinated with Operating Systems and has worked with the Linux kernel as an Outreachy intern. During her internship, she has worked on improving the Linux kernel support for running as a guest on Microsoft's hypervisor Hyper-V with larger page sizes on ARM64 architecture. When she is not glued to the computer screen, she reads motivational and philosophical literature, practices Karate and plays her guitar.",
+      "company": "Outreachy",
+      "country": "Gandhinagar",
+      "id": "himadri_pandya",
+      "name": "Himadri Pandya",
+      "order": 22,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fhimadri_pandya.jpg?alt=media&token=faeded70-aa8c-48ff-819e-ad051e823e97",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://docs.google.com/presentation/d/1fgO7jVF7vNgX-p5XHpAB10g30jRsY8nhBHlESRWpIuU/edit",
+            "tags": [
+              "Motivation"
+            ],
+            "title": "Introduction to Open Source and Outreachy",
+            "videoId": "_JpOxAX-w8"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/himadrispandya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://himadripandya.me/",
+          "name": "Website"
+        }
+      ],
+      "title": "Linux Kernel Intern"
+    },
+    "sheeni_saxena": {
+      "bio": "My born & brought up is from ahmedabad. I have done B-Tech in IT from G.I.T college. I have 4+ experience in android development. I am attending WTM & GDG events from 2015.",
+      "company": "Icoderz solutions pvt ltd",
+      "country": "Ahmadabad",
+      "id": "sheeni_saxena",
+      "name": "Sheeni Saxena",
+      "order": 23,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsheeni_saxena.jpeg?alt=media&token=ddd1cd09-ada2-452e-902d-1854f8bbe905",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/sheenisaxena/android-app-from-sketch-to-android-studio",
+            "tags": [
+              "Android"
+            ],
+            "title": "Android app : From Sketch to Android studio",
+            "videoId": "3McE974YRI4"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sheenisaxena",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sheeni-saxena-76a86a7b/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Sr. Android Developer"
+    },
+    "anubhav_singh": {
+      "bio": "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it. I'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community. I am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
+      "company": "DataCamp Instructor | Author",
+      "country": "Allahabad",
+      "id": "anubhav_singh",
+      "name": "Anubhav Singh",
+      "order": 24,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fanubhav_singh.jpg?alt=media&token=30b0c8ed-4ff7-40fd-869c-cae1a73969bf",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://docs.google.com/presentation/d/1vlHr4H2FtJVKsHwJv60-ddprszTbbNHBQI1TtuPwmW0/edit",
+            "tags": [
+              "Web",
+              "AI"
+            ],
+            "title": "AI for Web : Web for AI",
+            "videoId": "ttPsRnKGIxQ"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/xprilion",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/xprilion",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://xprilion.com/",
+          "name": "Blog"
+        }
+      ],
+      "title": "Intel Software Innovator"
+    },
+    "bhavik_makwana": {
+      "bio": "He is a Flutter Enthusiast, Google certified associate android developer and Open-source contributor. He is one of the early Flutter adopter and loves to share knowledge through blog posts, public speaking and open source contributions. He has also started a community in Ahmedabad for Flutter and featured in The top 45 must-follow Flutter experts on Twitter by codemagic.io.",
+      "company": "Simform",
+      "country": "Ahmedabad",
+      "id": "bhavik_makwana",
+      "name": "Bhavik Makwana",
+      "order": 25,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fbhavik_makwana.jpg?alt=media&token=964b9c70-1bd2-4dc9-9848-00578f2937c0",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/ibhavikmakwana/adding-flutter-to-existing-android-app",
+            "tags": [
+              "Flutter",
+              "Android"
+            ],
+            "title": "Adding Flutter to existing Android app",
+            "videoId": "Y7FS9w_tmhc"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ibhavikmakwana",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/ibhavikmakwana",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@ibhavikmakwana",
+          "name": "Website"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "sachin_jani": {
+      "bio": "Sachin Jani is full-stack developer works in everything related to JavaScript. JavaScript has made him what he is today and will forever be his eternal love. He believes in writing quality code and quality matters a lot to him. He’s also a huge fan of React ecosystem and believes that react has made him a better developer. He’s also active in contributing to open source. DX matters a lot to him. The way UX is important for the users, DX is important for developers. It makes development productive. He recently built a node app using GraphQL and Prisma with all the amazing toolings and has also contributed in Prisma’s Github and Slack community.",
+      "company": "Simform",
+      "country": "Ahmedabad",
+      "id": "sachin_jani",
+      "name": "Sachin Jani",
+      "order": 26,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fsachin_jani.jpg?alt=media&token=d98bd0ac-7529-4952-9f5d-0260a312e0f4",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/ryands17/demystifying-dx-with-node-typescript-and-prisma",
+            "tags": [
+              "Web"
+            ],
+            "title": "Demystifying DX with Node, TypeScript & Prisma",
+            "videoId": "M9YBQwoSF2c"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/5achinjani",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sachin-jani",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@sachin.jani",
+          "name": "Website"
+        }
+      ],
+      "title": "Full-Stack JavaScript developer"
+    },
+    "ryan_dsouza": {
+      "bio": "A Team Lead and Full Stack developer who has fallen in love with the JavaScript ecosystem. He has an expertise in frontend technologies like React, Svelte as well as in the backend like Node, GraphQL, and Prisma. Also active in contributing to open-source projects and writing useful blog posts. He always likes to explore what's new in the JavaScript community and implement those in his repository. He is also active in the developer communities in Twitter, Slack, Dev.to as well as local meetups. Also, he’s a huge DevOps fanboy, who loves to tinker with AWS services. His mantra: Write code that humans can understand.",
+      "company": "Simform Solutions",
+      "country": "Ahmedabad",
+      "id": "ryan_dsouza",
+      "name": "Ryan Dsouza",
+      "order": 27,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fryan_dsouza.jpg?alt=media&token=92af1bd8-3f05-4b11-a250-ed49dcd5a770",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/ryands17/demystifying-dx-with-node-typescript-and-prisma",
+            "tags": [
+              "Web"
+            ],
+            "title": "Demystifying DX with Node, TypeScript & Prisma",
+            "videoId": "M9YBQwoSF2c"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ryands1701",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ryan-d-souza-880522125",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://dev.to/ryands17",
+          "name": "Website"
+        }
+      ],
+      "title": "Team Lead"
+    },
+    "nimesh_solanki": {
+      "bio": "I'm a tech enthusiast and a huge fan of FaaS and JavaScript, passionate about conversational AI. #1 Voice Ambassador globally and Scholarship holder in VOICE SUMMIT 2019. Also, invited to speak at Inside VOICE podcast by VOICE Summit 2019 Also got selected for the Bixby Premier Developer Program. Being a tech enthusiast, I'm a huge fan of FaaS and JavaScript, passionate about conversational AI. I happen to deliver a talk on Actions on Google at GDG AHMEDABAD'S DevFest last year. Worked as a software developer intern at Winimy, where I design & develop the voice user interface and voice user experiences.Earlier worked on a Research paper on BlockChain based Advanced Public Transport System. As a part of my interest in Conversational AI, I've developed voice-based apps for Google Assistant, Amazon Alexa and Samsung Bixby.",
+      "company": "Pandit Deendayal Petroleum Univerisity",
+      "country": "Ahmedabad",
+      "id": "nimesh_solanki",
+      "name": "Nimesh Solanki",
+      "order": 28,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fnimesh_solanki.jpg?alt=media&token=b3bd164e-7c90-4b87-acc6-815b683e522f",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/nimeshs17/best-practices-of-vui-design",
+            "tags": [
+              "Mobile"
+            ],
+            "title": "Best Practices for Voice User Interface Design",
+            "videoId": "JMbSDu80TlU"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/NimeshS17",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nish17/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@nish17/my-experience-of-voice-summit-2019-25157def56d6",
+          "name": "Blog"
+        }
+      ],
+      "title": "Final Year B.Tech student"
+    },
+    "darshan_pania": {
+      "bio": "Java/Android Developer for the past 7 years and trying to make a dent in the App universe by building a robust Android Library currently being used by 4000+ apps",
+      "company": "CleverTap",
+      "country": "Mumbai",
+      "id": "darshan_pania",
+      "name": "Darshan Pania",
+      "order": 29,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fdarshan_pania.jpg?alt=media&token=cd1a96b5-745a-43b1-8970-14efc5be33a1",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/darshanpania/coding-with-your-hands-tied",
+            "tags": [
+              "Mobile"
+            ],
+            "title": "Coding with your hands tied - A session on developing Android Libraries.",
+            "videoId": "j8ZiTi7CVDM"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/i_m_Pania",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/darshan-pania-4395592a/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Lead Android Developer"
+    },
+    "tathagat_thapliyal": {
+      "bio": "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things.",
+      "company": "Coding Blocks",
+      "country": "New Delhi",
+      "id": "tathagat_thapliyal",
+      "name": "Tathagat Thapliyal",
+      "order": 30,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Ftathagat_thapliyal.jpg?alt=media&token=a37ee686-353d-4ac9-bd61-706bbfcb085a",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/tathagat2006/awesome-react-hooks",
+            "tags": [
+              "Web"
+            ],
+            "title": "Demystifying React Hooks",
+            "videoId": "UHDcBL_M0mM"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sumoneisback001",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tathagat-thapliyal/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Software Developer & Mentor"
+    },
+    "ripal_shah": {
+      "bio": "A self-motivated electronics and communication engineer who found her love in computers. Working as a blockchain developer from last 2 years and accomplished a high level of expertise in the field . Fond of playing badminton and have strong belief in karma.",
+      "company": "Solulab",
+      "country": "Ahmedabad",
+      "id": "ripal_shah",
+      "name": "Ripal Shah",
+      "order": 31,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fripal_shah.png?alt=media&token=dce13c49-ef32-448c-bbad-8f07133dd57a",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/ripalshah400/decentralised-storage-system-in-blockchain",
+            "tags": [
+              "Motivation"
+            ],
+            "title": "Decentralised Storage System In Blockchain",
+            "videoId": "skZdvcPitNk"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ripal-shah-b22343113/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Blockchain developer"
+    },
+    "bharat_makwana": {
+      "bio": "Hey i am bharat makwana, I am android+flutter developer appart from that i am second year diploma student & having 1.5 years of experience in social media marketing + graphics designing and 6 months of experience in computer hardware engineering. I am also interested in operating system too.",
+      "company": "",
+      "country": "Ahmedabad",
+      "id": "bharat_makwana",
+      "name": "Bharat Makwana",
+      "order": 32,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fbharat_makwana.jpg?alt=media&token=f7334b88-21c3-4a27-905b-e142f88b3504",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/ibhavikmakwana/adding-flutter-to-existing-android-app",
+            "tags": [
+              "Mobile"
+            ],
+            "title": "Intro to fuchsia",
+            "videoId": "Y7FS9w_tmhc"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bharatmk256",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/bharatmk257/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@bharatmk257",
+          "name": "Blog"
+        }
+      ],
+      "title": "Pink+purple==fuchsia"
+    },
+    "himanshu_singh": {
+      "bio": "I am a Google Associate Android Developer with Android being my core. I also work on Blockchain and Go. I am a Open Source Contributor and a blogger at Mindorks. I have worked with Companies in Fintech,Heath & Fitness and Fast-moving consumer goods Sector as Software Developer. I focus on Architectures and Solid Design principles for Development of Apps.",
+      "company": "Roomi",
+      "country": "Mumbai",
+      "id": "himanshu_singh",
+      "name": "Himanshu Singh",
+      "order": 33,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fhimanshu_singh.jpg?alt=media&token=e7e42bde-b31f-40dd-a4ca-cf5c1d4a12e3",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/himanshoe/modularizing-your-android-app",
+            "tags": [
+              "Android"
+            ],
+            "title": "Modularizing your Android App",
+            "videoId": "a2DNrsDnK28"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hi_man_shoe",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/himanshoe-singh/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@himanshoe",
+          "name": "Blog"
+        }
+      ],
+      "title": "Senior Android Developer"
+    },
+    "nishant_dubey": {
+      "bio": "I consider myself a problem solver, the kind of work I do comprises of intensive user research to find a problem and then designing a user experience to solve it with a unique user interface that evolves as the identity of the brand. The kind of solutions I can design could be for a desktop application, portables or any other medium that can benefit from the user experience I designed. I have deep understanding about the web architecture and consider my self a specialist in portable/mobile design solutions (for android). With an obsession to produce high performance apps that have a unique experience and still work without crashing or launching in most extreme hardware configurations. My association with creativity has been since childhood when I used to click photographs and even won numerous awards for various creative showcases overtime. That interest later developed into a more profound Degree in Visual Effects and Motion graphics from a top film college in United Kingdom. Even then I impressed my lecturers and peers with my creativity and skill-set and went on to win biggest student film and visual effects award of UK sponsored by Cinefex magazine/presented by Oscar Winner vfx supervisor Paul Franklin.",
+      "company": "9stacks.com",
+      "country": "New Delhi",
+      "id": "nishant_dubey",
+      "name": "Nishant Dubey",
+      "order": 34,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fnishant_dubey.jpg?alt=media&token=c7fa4154-c958-41ba-bee5-74c71c05da20",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/nishant/design-for-performance",
+            "tags": [
+              "Web"
+            ],
+            "title": "Design For Performance",
+            "videoId": "vpr2ezeHkFk"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nishant05dubey/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "UI-UX Designer"
+    },
+    "charmi_chokshi": {
+      "bio": "Working with data and predicting future based on it is Charmi's passion and it has always made her feel like a Magician! She is an AI and Data enthusiast who loves to share her experiences with others. She often organises workshops, and talks to help developers & students who look forward to grow their careers in the field of Artificial Intelligence. She has facilitated the first pilot of Google's Machine Learning Crash Course in India back in 2017 and was a Research Trainee at Indian Space Research Organisation in 2018. After completing BTech in ICT Engineering currently, she is building the Next Generation Document Agent to automate the data entry and paperwork involved in global supply chains for Gigabytes of Structured and Unstructured data\u200B at Shipmnts.com.",
+      "company": "Shipmnts",
+      "country": "Ahmedabad",
+      "id": "charmi_chokshi",
+      "name": "Charmi Chokshi",
+      "order": 35,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcharmi_chokshi.jpg?alt=media&token=4c2485cd-d06e-43a1-a6eb-750611a734eb",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/charmichokshi/input-ml-enthusiast-output-ml-engineer",
+            "tags": [
+              "Cloud"
+            ],
+            "title": "input(ML_Enthusiast) : output(ML_Engineer)",
+            "videoId": "E-IfHRNSbd8"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/CharmiChokshi",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/charmichokshi/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Machine Learning Engineer"
+    },
+    "pranay_patel": {
+      "bio": "Software Engineer @simform | #AndroidDev | #Kotlin❤️ | #Flutter | #MobileSecurity #github #iot | #cooking Open for giving talk ✌️",
+      "company": "Simform",
+      "country": "Ahmedabad",
+      "id": "pranay_patel",
+      "name": "Pranay Patel",
+      "order": 36,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fpranay_patel.jpg?alt=media&token=cd5d1b35-a680-4951-b489-97b5f4395637",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://speakerdeck.com/pranaypatel512/android-camerax-devfestahm-2019",
+            "tags": [
+              "Android"
+            ],
+            "title": "CameraX - Android camera in simple way!",
+            "videoId": "NFApUq6a_xE"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pranaypatel_",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@pranaypatel",
+          "name": "Blog"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "namrata_more": {
+      "bio": "A part of WomenTechMakers & GDG Pune, Co-organizer of Google I/O extended Alandi, DSC MITAOE, Chief Product Officer (CPO) at We Share, GirlScript Pune Chapter Lead, REDX Innovator, President at Association of Energy Engineers Pune, AngelHack Ambassador Pune, AI project blog published by REDX under the guidance of Prof. Ramesh Raskar, recent Monday Motivation twit by Google Devs India & doing Mechanical Engineering!",
+      "company": "",
+      "country": "Pune",
+      "id": "namrata_more",
+      "name": "Namrata More",
+      "order": 37,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fnamrata_more.jpeg?alt=media&token=968b07b8-96e0-4c49-b32a-093315f11181",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://docs.google.com/presentation/d/1lt2q2c8tA72BXCeXP079q6uqasITe9YktRQ9POm_1go/edit",
+            "tags": [
+              "Motivation"
+            ],
+            "title": "It's the climb!",
+            "videoId": "DJijJABSNWM"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/namratamore_nm",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/namratamore-nm/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@nmrtmore",
+          "name": "Blog"
+        }
+      ],
+      "title": "Learning machines, doing machine Learning"
+    },
+    "jalpesh_vadgama": {
+      "bio": "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang beginner, 14+ Years of exp. in .NET Technology, JavaScript and Web",
+      "company": "Future Stack Solution",
+      "country": "Ahmedabad",
+      "id": "jalpesh_vadgama",
+      "name": "Jalpesh Vadgama",
+      "order": 38,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fjalpesh_vadgama.jpg?alt=media&token=1d56556e-405f-44b4-8981-996b14c12a61",
+      "sessions": {
+        "2019": [
+          {
+            "presentation": "https://www.slideshare.net/jalpesh07/top-10-rxjs-operators-in-angular/jalpesh07/top-10-rxjs-operators-in-angular",
+            "tags": [
+              "Web"
+            ],
+            "title": "Top 10 RxJS operators in Angular",
+            "videoId": "2KBjjObjPX8"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Jalpesh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jalpeshvadgama/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.dotnetjalps.com/",
+          "name": "Blog"
+        }
+      ],
+      "title": "Co-Founder"
     }
   }
 }
