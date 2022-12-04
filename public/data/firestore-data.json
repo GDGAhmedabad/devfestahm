@@ -1633,6 +1633,40 @@
       ],
       "order": 20,
       "title": "Program Head"
+    },
+    "utpal_betai": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Blockchain | On Demand Apps | SAAS | Product Customization | IoT | Enterprise Apps | Man with Midas Touch | Project Manager | Keynote Speaker | Product Manager | utpalbetai@gmail.com",
+      "company": "SoluLab",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fsolulab-dark.png?alt=media&token=c829492d-d5d7-4bcc-b71d-4ac79efc6edf",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Utpal Betai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+      "pronouns": "he/him",
+      "shortBio": "Blockchain | On Demand Apps | SAAS | Product Customization | IoT | Enterprise...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/utpalbetai",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/utpalbetai/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 21,
+      "title": "Sr. PM, SoluLab Guy with Midas Touch, Encouraging tech world for 20 years now"
     }
   },
   "team": [
