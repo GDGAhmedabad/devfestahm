@@ -47,6 +47,30 @@
           "experience": "1 to 3 Years experience"
         }
       ]
+    },
+    
+    {
+      "id": 2,
+      "companyName": "Infocusp Innovations Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "InFoCusp's mission is to make machines, devices, and computers act smarter and attain new heights of intelligence and sophisticated processing, all to make people’s day-to-day personal and professional lives better, healthier, more convenient, and safer. InFoCusp engineers work closely with R&D teams of commercial companies, collaborating in all development phases of smart products, from whiteboard to prototype to product launch.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1aAlEj654bSVa0zMKTDrDBE2ShAUWvqpf/view?usp=sharing",
+      "companyWebsite": "https://www.infocusp.com",
+      "companyCareerPage": "https://www.infocusp.in/careers",
+      "linkedin": "https://www.linkedin.com/company/infocusp",
+      "hiringImageUrl": "https://drive.google.com/file/d/1I9qB07WCwPKiRkXfSQtPPGKJm6_yY47Z/view?usp=sharing",
+      "openings": [
+        {
+          "title": "Senior Software Engineer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Senior Machine Learning Engineer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        }
+      ]
     }
   ]
 }
