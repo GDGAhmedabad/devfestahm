@@ -1527,7 +1527,7 @@
           "name": "gdg"
         }
       ],
-      "bio": "Paresh is a Co-Founder / CEO at SolGuruz, who have been exploring the horizon of the software industry for the 15+ years. - Worked with 20+ startups and mentored them \n- Have hands-on android development experience of 9 years \n- Holder of 120,000 reputation points over StackOverflow https://stackoverflow.com/users/379693/paresh-mayani \n- Have published >150 blog posts over http://www.technotalkative.com/ \n- Known for community contribution, write blogs and deliver talks across India and outside India too. \n- Founded and managing GDG Ahmedabad since 2011 \n- Have delivered 30+ android talks in conferences like Android Developer Days Turkey (2 times), DevFest Kathmandu, GDG DevFest events across India.",
+      "bio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon of the software industry for the 15+ years. - Worked with 20+ startups and mentored them. He is the founder / Organiser of Google Developers Group Ahmedabad. He is holding 120,000 reputation points over Stack Overflow. Known for community contribution, writing blogs, delivering talks across India and International, Mentoring and Working with Startups.",
       "company": "Solguruz",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
@@ -1537,7 +1537,7 @@
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fparesh-mayani.jpg?alt=media&token=b350023f-f9cb-41ab-972a-8b0e401cf1a2",
       "pronouns": "he/him",
-      "shortBio": "Paresh is a Co-Founder / CEO at SolGuruz, who have been exploring the horizon...",
+      "shortBio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon ...",
       "socials": [
         {
           "icon": "twitter",
@@ -1551,12 +1551,12 @@
         },
         {
           "icon": "website",
-          "link": "http://www.technotalkative.com/",
+          "link": "https://solguruz.com/",
           "name": "Website"
         }
       ],
       "order": 17,
-      "title": "Co-Founder / CEO | Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad"
+      "title": "Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad | Co-Founder / CEO"
     },
     "abhishek_desai": {
       "bio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicorp.",
@@ -1812,6 +1812,59 @@
     {
       "members": [
         {
+          "name": "Deep Govani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/djgovani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/djgovani/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/djgovani",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Nisharg Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnisharg-shah.jpeg?alt=media&token=e98896e6-1a45-4871-9d59-ecdd75e07645",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/iamnisharg",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nishargshah/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/nishargshah",
+              "name": "Github"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        }
+      ],
+      "title": "Web Team"
+    },
+    {
+      "members": [
+        {
           "name": "Amit Panchal",
           "photo": "/images/people/others/amit_panchal.png",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Famit_panchal.jpeg?alt=media&token=8a445e5d-f9a6-4812-b55c-31b85a1f6667",
@@ -1958,30 +2011,6 @@
             }
           ],
           "order": 5,
-          "title": ""
-        },
-        {
-          "name": "Moin Shaikh",
-          "photo": "/images/people/others/moin_shaikh.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmoin_shaikh.jpeg?alt=media&token=98688ea9-2d80-4db4-9849-beb68da8414c",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/moingshaikh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/moingshaikh/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://medium.com/@moingshaikh",
-              "name": "Blogs"
-            }
-          ],
-          "order": 6,
           "title": ""
         },
         {
