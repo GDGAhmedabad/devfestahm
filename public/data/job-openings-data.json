@@ -48,9 +48,112 @@
         }
       ]
     },
-    
     {
       "id": 2,
+      "companyName": "Codeflash Infotech",
+      "location": "Ahmedabad, India",
+      "bio": "At Codeflash Infotech, we offer a flexible, expanding, and refreshing work atmosphere. We'll give you the dream company you've always wanted to work for, with endless opportunities for advancement, fantastic coworkers. Looking for a career as an engineer, designer in Ahmedabad? Team up with us for a career filled with vitality and enthusiasm.",
+      "companyLogoUrl": "https://codeflashinfotech.in/wp-content/uploads/2022/09/Codeflash-Infotech-Logo.svg",
+      "companyWebsite": "https://codeflashinfotech.com/",
+      "companyCareerPage": "https://codeflashinfotech.com/career/",
+      "linkedin": "https://www.linkedin.com/company/codeflash-infotech/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "MERN Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Content Writer",
+          "count": 1,
+          "experience": "1+ Years experience"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "companyName": "iTechOps",
+      "location": "Ahmedabad, India",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "https://itechops.com/assets/hiring.jpg",
+      "openings": [
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "0-4 years"
+        },
+        {
+          "title": "Full Stack Developers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "0-2 years"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "companyName": "MagnusMinds IT Solution LLP",
+      "location": "Ahmedabad, India",
+      "bio": "MagnusMinds IT Solution is a leading IT Solution provider Company in India. We provide flexible business strategies with creative tools and advanced methodologies to help businesses achieve success. Our rich & varied experience of 15+ years and stringent quality standards ensure we develop software solutions that give your business an edge over competitors. MagnusMinds is looking for some of the talented individuals, who have an interest in solving real-world business problems and challenges through web-based solutions.",
+      "companyLogoUrl": "https://magnusminds.net/images/logo-icon-square.png",
+      "companyWebsite": "https://magnusminds.net/",
+      "companyCareerPage": "https://magnusminds.net/careers.html",
+      "linkedin": "https://www.linkedin.com/company/magnusmind",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Team Lead - .NET (MVC/Core)",
+          "count": 2,
+          "experience": "6+ Years"
+        },
+        {
+          "title": ".NET (MVC/Core) Developers",
+          "count": 6,
+          "experience": "1 to 6 Years"
+        },
+        {
+          "title": "Angular Developers",
+          "count": 3,
+          "experience": "1 to 4 Years"
+        },
+        {
+          "title": "MSSQL Developers",
+          "count": 5,
+          "experience": "1 to 4 Years"
+        },
+        {
+          "title": "MSBI (Power BI/SSIS/SSRS) Developers",
+          "count": 3,
+          "experience": "0 to 3 Years"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "0 to 2 Years"
+        }
+      ]
+    },
+    {
+      "id": 5,
       "companyName": "Infocusp Innovations",
       "location": "Ahmedabad, India",
       "bio": "InFoCusp's mission is to make machines, devices, and computers act smarter and attain new heights of intelligence and sophisticated processing, all to make people’s day-to-day personal and professional lives better, healthier, more convenient, and safer. InFoCusp engineers work closely with R&D teams of commercial companies, collaborating in all development phases of smart products, from whiteboard to prototype to product launch.",
