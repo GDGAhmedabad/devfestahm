@@ -1434,6 +1434,33 @@
       ],
       "order": 21,
       "title": "Sr. PM, SoluLab Guy with Midas Touch, Encouraging tech world for 20 years now"
+    },
+    "vishal_virani": {
+      "bio": "Vishal is a Co-Founder & CEO at DhiWise. He is an entrepreneur with the belief that if followed with proper actions, every billion dollar idea can yield multi-billion dollars. His passion is to build things that last, things that make users' life easier and things that solve problems.",
+      "company": "DhiWise",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=6cb57713-e905-4974-8ab8-5eecd4666be0",
+      "country": "Surat, Gujarat",
+      "featured": false,
+      "name": "Vishal Virani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fvishal-virani.jpeg?alt=media&token=b7a337b9-a1d5-4ce6-b4ed-4b0966216dc2",
+      "pronouns": "he/him",
+      "shortBio": "Vishal is a Co-Founder & CEO at DhiWise. He is an entrepreneur with the belie...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Vishalvirani91",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vishalvirani/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 22,
+      "title": "Co-Founder & CEO (Chief Everything Officer)"
     }
   },
   "team": [
