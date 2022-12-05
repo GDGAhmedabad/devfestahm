@@ -174,6 +174,44 @@
           "experience": "2 to 6 Years experience"
         }
       ]
+    },
+    {
+      "id": 6,
+      "companyName": "Simform Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "Simform is a tech company with a mission to help successful companies extend their tech capacity. Founded in October 2010, we have helped organizations ranging from Startups that went public, to Fortune 500 companies, and WHO backed NGOs. Simform helps companies become innovation leaders by delivering software teams on demand. We help you - choose the right technologies to invest in, decide on the best architecture and processes to follow, and oversee the successful delivery of their software projects.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1usuvVCeKHfpeDgspb1qd9WCvv-MpUJws",
+      "companyWebsite": "https://www.simform.com/",
+      "companyCareerPage": "https://www.simform.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/simform/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1k5SsTPPcd_NC6DfYIX_WhcchX2pT9PyT",
+      "openings": [
+        {
+          "title": "Java Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "MERNstack - Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Nodejs - Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Solutions Architect-Backend",
+          "count": 1,
+          "experience": "8+ years experience"
+        }
+      ]
     }
   ]
 }
