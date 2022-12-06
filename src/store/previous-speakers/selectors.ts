@@ -3,9 +3,13 @@ import { createSelector } from '@reduxjs/toolkit';
 import { RootState, store } from '..';
 import { PreviousSpeaker } from '../../models/previous-speaker';
 import { randomOrder } from '../../utils/arrays';
-import { selectViewport } from '../ui/selectors';
-import { Viewport } from '../ui/types';
+import { ViewportAndYear } from '../ui/types';
 import { fetchPreviousSpeakers } from './actions';
+
+export const selectViewPortAndYear = (state: RootState, year: number): ViewportAndYear => ({
+  viewport: state.ui.viewport,
+  year,
+});
 
 const selectSpeakerId = (_state: RootState, speakerId: string) => speakerId;
 
@@ -29,9 +33,11 @@ export const selectPreviousSpeaker = createSelector(
 
 export const selectRandomPreviousSpeakers = createSelector(
   selectPreviousSpeakers,
-  selectViewport,
-  (previousSpeakers: PreviousSpeaker[], viewport: Viewport): PreviousSpeaker[] => {
+  selectViewPortAndYear,
+  (previousSpeakers: PreviousSpeaker[], { viewport, year }: ViewportAndYear): PreviousSpeaker[] => {
     const displayCount = viewport.isPhone ? 8 : 14;
-    return randomOrder(previousSpeakers).slice(0, displayCount);
+    return randomOrder(previousSpeakers)
+      .filter((speaker) => speaker.sessions[year])
+      .slice(0, displayCount);
   }
 );

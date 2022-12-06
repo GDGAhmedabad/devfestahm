@@ -138,7 +138,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "15+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
@@ -200,7 +200,8 @@
     "callToAction": {
       "label": "View all",
       "link": "/previous-speakers"
-    }
+    },
+    "previousDevFestYear": 2019
   },
   "galleryBlock": {
     "title": "#devfestahm19 highlights",
