@@ -1461,6 +1461,33 @@
       ],
       "order": 22,
       "title": "Co-Founder & CEO (Chief Everything Officer)"
+    },
+    "jalpesh_vadgama": {
+      "bio": "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang beginner, 14+ Years of exp. in .NET Technology, JavaScript and Web",
+      "company": "Future Stack Solution",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ffuture-stack-solution.jpeg?alt=media&token=f35a3828-881e-4b27-9b21-113320e4b71d",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jalpesh Vadgama",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fjalpesh-vadgama.jpg?alt=media&token=2887cc20-6a4c-4bd7-8d69-9b22fb568e78",
+      "pronouns": "he/him",
+      "shortBio": "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang b...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Jalpesh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jalpeshvadgama",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 23,
+      "title": "Co-Founder"
     }
   },
   "team": [
