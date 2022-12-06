@@ -314,7 +314,7 @@
             },
             {
               "items": [
-                "140"
+                "116"
               ]
             },
             {
@@ -508,7 +508,7 @@
     },
     "110": {
       "complexity": "Intermediate",
-      "description": "TBD",
+      "description": "Here we will cover different static lint checks for code analysis for the Kotlin Jetpack Compose. That will helps any developer team size to validate the code quality before having the code review. On another side, Sonarqube help to identify the code quality in depth. That will identify the Code smells, Duplication, vulnerabilities, Major issues, Blocker issues, security Issues, and more. Ultimately the goal of the developer should be to make a flag PASS on SonarQube. That indicates your code is aligned with best practices and easy to adopt by any other team members. \n\nApproach: \n1. What is code review and Why it is required? \n2. Code Review Terminologies 3. Static Analysis in depth \n4. SonarQube Automation in depth \n5. Summary & Conclusion \n6. Q&A",
       "language": "English",
       "speakers": [
         "pranay_patel",
@@ -518,7 +518,7 @@
         "Mobile",
         "Android"
       ],
-      "title": "Implementing Code Review and Static Analysis in mobile apps"
+      "title": "Make your code shine with Static Analysis and SonarQube "
     },
     "111": {
       "complexity": "Intermediate",
@@ -583,17 +583,16 @@
       "title": "The way we've carved out our path in Data Science"
     },
     "116": {
-      "complexity": "Beginner",
-      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
+      "complexity": "Intermediate",
+      "description": "How to do Micro Front end with Module federation \nMicro FrontEnd with Module federation \n\n1) Why we need Micro Front End \n2) What is module federation \n3) Webpack 5 Module Federation \n4) Why webpack module federation \n5) Demo with Angular \n6) Challenges of Module federation and Micro front ned \n7) Resources",
       "language": "English",
-      "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
       "speakers": [
-        "aleksander_piotrowski"
+        "jalpesh_vadgama"
       ],
       "tags": [
         "Web"
       ],
-      "title": "On Polymer and smileys... or Polysmileys"
+      "title": "Micro FrontEnd with Module federation"
     },
     "117": {
       "complexity": "Intermediate",
@@ -1461,6 +1460,33 @@
       ],
       "order": 22,
       "title": "Co-Founder & CEO (Chief Everything Officer)"
+    },
+    "jalpesh_vadgama": {
+      "bio": "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang beginner, 14+ Years of exp. in .NET Technology, JavaScript and Web",
+      "company": "Future Stack Solution",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ffuture-stack-solution.jpeg?alt=media&token=f35a3828-881e-4b27-9b21-113320e4b71d",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jalpesh Vadgama",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fjalpesh-vadgama.jpg?alt=media&token=2887cc20-6a4c-4bd7-8d69-9b22fb568e78",
+      "pronouns": "he/him",
+      "shortBio": "Software Consultant, Full Stack Developer, Blogger, Microsoft Mvp, Golang b...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Jalpesh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jalpeshvadgama",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 23,
+      "title": "Co-Founder"
     }
   },
   "team": [
