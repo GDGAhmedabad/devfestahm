@@ -71,7 +71,61 @@
         }
       ],
       "order": 0,
+      "title": "Title Sponsor"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/dhiwise.png",
+          "name": "DhiWise",
+          "url": "https://www.dhiwise.com/"
+        }
+      ],
+      "order": 1,
       "title": "Platinum Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://akashtechnolabs.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/novumlogic.png",
+          "name": "Novum Logic",
+          "url": "https://www.novumlogic.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/sessionize.png",
+          "name": "Sessionize",
+          "url": "https://sessionize.com/"
+        }
+      ],
+      "order": 3,
+      "title": "CFP Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/allevents.png",
+          "name": "AllEvents",
+          "url": "https://allevents.in/"
+        }
+      ],
+      "order": 4,
+      "title": "Ticketing Partner"
     },
     {
       "items": [
@@ -82,26 +136,20 @@
           "url": "https://plus.google.com/102444623953913144164"
         }
       ],
-      "order": 1,
+      "order": 5,
       "title": "Template Partner"
     },
     {
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/sessionize.png",
-          "name": "Sessionize",
-          "url": "https://sessionize.com/"
-        },
-        {
-          "order": 1,
           "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
           "name": "GDG Cloud Ahmedabad",
           "url": "https://twitter.com/gdgcloudahm"
         }
       ],
-      "order": 2,
-      "title": "Partners"
+      "order": 6,
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
