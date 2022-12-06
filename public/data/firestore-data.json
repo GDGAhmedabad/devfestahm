@@ -314,7 +314,7 @@
             },
             {
               "items": [
-                "140"
+                "123"
               ]
             },
             {
@@ -508,7 +508,7 @@
     },
     "110": {
       "complexity": "Intermediate",
-      "description": "TBD",
+      "description": "Here we will cover different static lint checks for code analysis for the Kotlin Jetpack Compose. That will helps any developer team size to validate the code quality before having the code review. On another side, Sonarqube help to identify the code quality in depth. That will identify the Code smells, Duplication, vulnerabilities, Major issues, Blocker issues, security Issues, and more. Ultimately the goal of the developer should be to make a flag PASS on SonarQube. That indicates your code is aligned with best practices and easy to adopt by any other team members. \n\nApproach: \n1. What is code review and Why it is required? \n2. Code Review Terminologies 3. Static Analysis in depth \n4. SonarQube Automation in depth \n5. Summary & Conclusion \n6. Q&A",
       "language": "English",
       "speakers": [
         "pranay_patel",
@@ -518,7 +518,7 @@
         "Mobile",
         "Android"
       ],
-      "title": "Implementing Code Review and Static Analysis in mobile apps"
+      "title": "Make your code shine with Static Analysis and SonarQube "
     },
     "111": {
       "complexity": "Intermediate",
@@ -669,6 +669,18 @@
         "Flutter"
       ],
       "title": "Beginning of a Pro-code movement"
+    },
+    "123": {
+      "complexity": "Intermediate",
+      "description": "How to do Micro Front end with Module federation \nMicro FrontEnd with Module federation \n\n1) Why we need Micro Front End \n2) What is module federation \n3) Webpack 5 Module Federation \n4) Why webpack module federation \n5) Demo with Angular \n6) Challenges of Module federation and Micro front ned \n7) Resources",
+      "language": "English",
+      "speakers": [
+        "jalpesh_vadgama"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Micro FrontEnd with Module federation"
     },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
