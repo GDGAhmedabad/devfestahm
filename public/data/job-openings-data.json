@@ -212,6 +212,34 @@
           "experience": "8+ years experience"
         }
       ]
+    },
+    {
+      "id": 7,
+      "companyName": "7Span",
+      "location": "Ahmedabad",
+      "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+      "companyLogoUrl": "https://7span.com/wp-content/themes/SevenSpan/img/7Span.svg",
+      "companyWebsite": "https://7span.com",
+      "companyCareerPage": "https://7span.in/openings",
+      "linkedin": "https://www.linkedin.com/company/7span",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQEjxFHtmqfznQ/feedshare-shrink_2048_1536/0/1658492720709?e=1673481600&v=beta&t=6BlBz2EBrVLXSarWRgnNrBe10hJnuwsJuwb3fnAA2OE",
+      "openings": [
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3-4 years"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "5-6 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 2,
+          "experience": "2-3 years"
+        }
+      ]
     }
   ]
 }
