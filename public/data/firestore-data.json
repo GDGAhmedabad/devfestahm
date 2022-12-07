@@ -1988,7 +1988,7 @@
   ],
   "tickets": [
     {
-      "available": false,
+      "available": true,
       "currency": "₹",
       "ends": "Dec 9",
       "inDemand": true,
