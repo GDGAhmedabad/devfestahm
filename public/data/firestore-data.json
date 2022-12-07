@@ -1988,64 +1988,17 @@
   ],
   "tickets": [
     {
-      "available": true,
-      "currency": "$",
-      "ends": "Oct 13",
-      "info": "Requires valid student/lecturer ID",
-      "name": "EDU",
-      "price": 80,
-      "soldOut": false,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
       "available": false,
-      "currency": "$",
-      "ends": "Mar 31",
-      "inDemand": false,
-      "info": "Or first 50 tickets",
-      "name": "Pre Early Bird",
-      "price": 100,
-      "regular": true,
-      "soldOut": true,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "$",
-      "ends": "Jun 30",
+      "currency": "₹",
+      "ends": "Dec 9",
       "inDemand": true,
-      "info": "Or first 200 tickets",
-      "name": "Early Bird",
-      "price": 120,
-      "regular": true,
-      "soldOut": false,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": false,
-      "currency": "$",
-      "ends": "Sep 30",
-      "inDemand": false,
-      "info": "Or first 350 tickets",
+      "info": "I Love DevFestAhm",
       "name": "Regular",
-      "price": 160,
-      "primary": true,
+      "price": 300,
       "regular": true,
       "soldOut": false,
-      "starts": "Jul 1",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "$",
-      "info": "Money worth nothing when you love it",
-      "name": "I Love DFUA",
-      "price": 280,
-      "soldOut": false,
-      "url": "https://2event.com/events/1027108"
+      "starts": "Dec 7",
+      "url": "https://devfestahm.page.link/request-ticket"
     }
   ],
   "triggers": {
