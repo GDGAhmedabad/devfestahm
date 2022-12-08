@@ -659,7 +659,7 @@
       "description": "TBD",
       "language": "English",
       "speakers": [
-        "abhishek_desai"
+        "kuntal_shah"
       ],
       "tags": [
         "Mobile",
@@ -1372,27 +1372,27 @@
       "order": 17,
       "title": "Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad | Co-Founder / CEO"
     },
-    "abhishek_desai": {
-      "bio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicorp.",
+    "kuntal_shah": {
+      "bio": "Kuntal is a co-founder of CricHeroes. \n\nCricHeroes is an India-first Mobile-first platform organizing the vast sector of Indian Local Cricket. It bridges the gap between passionate amateur cricketers and international cricketers with the help of technology. It provides a platform for millions of local cricketers to showcase their talent and get recognition for their achievements. \n\nApart from CricHeroes, Kuntal has an active interest in learning Patanjali Yoga and other Vedic Literature.",
       "company": "CricHeroes",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcricheroes.png?alt=media&token=806d2221-be77-40ae-9886-db66e16fe08d",
       "country": "Ahmedabad, Gujarat",
       "featured": false,
-      "name": "Abhishek Desai",
+      "name": "Kuntal Shah",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fabhishek-desai.jpeg?alt=media&token=8227c384-8290-4054-af7c-a095af348cb1",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkuntal-shah.jpeg?alt=media&token=c816e7e1-e79c-49a4-a72c-6b7b179a24cc",
       "pronouns": "he/him",
-      "shortBio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicor...",
+      "shortBio": "Kuntal is a co-founder of CricHeroes. CricHeroes is an Mobile-first platf...",
       "socials": [
         {
-          "icon": "twitter",
-          "link": "https://twitter.com/abhishekdesai",
-          "name": "Twitter"
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kuntalshah37/",
+          "name": "LinkedIn"
         }
       ],
       "order": 18,
-      "title": "Founder"
+      "title": "Co-Founder"
     },
     "nikita_lalwani": {
       "bio": "Nikita is First Bicycle Mayor of India and Founder of Crooze.app, a mobile app to reward cyclists for their cycling kilometres. It is a community driven platform where technogy and gamified cycling experience is at core. The app users earns free gifts and deep discounts by redeeming crooze coins. She is passionate about revolutionizing how people move around by using technology and behavioral economics.",
