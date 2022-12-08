@@ -71,7 +71,61 @@
         }
       ],
       "order": 0,
+      "title": "Title Sponsor"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/dhiwise.png",
+          "name": "DhiWise",
+          "url": "https://www.dhiwise.com/"
+        }
+      ],
+      "order": 1,
       "title": "Platinum Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://akashtechnolabs.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/novumlogic.png",
+          "name": "Novum Logic",
+          "url": "https://www.novumlogic.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/sessionize.png",
+          "name": "Sessionize",
+          "url": "https://sessionize.com/"
+        }
+      ],
+      "order": 3,
+      "title": "CFP Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/allevents.png",
+          "name": "AllEvents",
+          "url": "https://allevents.in/"
+        }
+      ],
+      "order": 4,
+      "title": "Ticketing Partner"
     },
     {
       "items": [
@@ -82,26 +136,20 @@
           "url": "https://plus.google.com/102444623953913144164"
         }
       ],
-      "order": 1,
+      "order": 5,
       "title": "Template Partner"
     },
     {
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/sessionize.png",
-          "name": "Sessionize",
-          "url": "https://sessionize.com/"
-        },
-        {
-          "order": 1,
           "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
           "name": "GDG Cloud Ahmedabad",
           "url": "https://twitter.com/gdgcloudahm"
         }
       ],
-      "order": 2,
-      "title": "Partners"
+      "order": 6,
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
@@ -1941,63 +1989,16 @@
   "tickets": [
     {
       "available": true,
-      "currency": "$",
-      "ends": "Oct 13",
-      "info": "Requires valid student/lecturer ID",
-      "name": "EDU",
-      "price": 80,
-      "soldOut": false,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": false,
-      "currency": "$",
-      "ends": "Mar 31",
-      "inDemand": false,
-      "info": "Or first 50 tickets",
-      "name": "Pre Early Bird",
-      "price": 100,
-      "regular": true,
-      "soldOut": true,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "$",
-      "ends": "Jun 30",
+      "currency": "₹",
+      "ends": "Dec 9",
       "inDemand": true,
-      "info": "Or first 200 tickets",
-      "name": "Early Bird",
-      "price": 120,
-      "regular": true,
-      "soldOut": false,
-      "starts": "Feb 7",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": false,
-      "currency": "$",
-      "ends": "Sep 30",
-      "inDemand": false,
-      "info": "Or first 350 tickets",
+      "info": "I Love DevFestAhm",
       "name": "Regular",
-      "price": 160,
-      "primary": true,
+      "price": 300,
       "regular": true,
       "soldOut": false,
-      "starts": "Jul 1",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "$",
-      "info": "Money worth nothing when you love it",
-      "name": "I Love DFUA",
-      "price": 280,
-      "soldOut": false,
-      "url": "https://2event.com/events/1027108"
+      "starts": "Dec 7",
+      "url": "https://devfestahm.page.link/request-ticket"
     }
   ],
   "triggers": {

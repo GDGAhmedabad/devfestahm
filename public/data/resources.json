@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Request A Ticket",
   "registerToGetTicket": {
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
   },
@@ -149,7 +149,7 @@
   "ticketsBlock": {
     "title": "Tickets",
     "ticketsDeclareSoon": "We declare TICKETS very soon. Stay tuned with us!",
-    "ticketsDetails": "To ensure quality participation, the submitted entries are filtered based on the details filled in the registration form. Only those participants who receive confirmation email from us will be eligible to attend the event.",
+    "ticketsDetails": "To ensure quality participation, the submitted entries are filtered based on the details filled in the registration form. If you are shortlisted then you will receive a coupon code via email, with the registration link to buy a confirmed ticket.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
