@@ -214,7 +214,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 9,
       "companyName": "Pedals Up LLP",
       "location": "Ahmedabad, India",
       "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
@@ -248,6 +248,96 @@
           "title": "Business Development Manager",
           "count": 1,
           "experience": "1+ years experience"
+        }
+      ]
+    },
+      "id": 7,
+      "companyName": "7Span",
+      "location": "Ahmedabad",
+      "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+      "companyLogoUrl": "https://images.yourstory.com/cs/images/companies/2c2a4550f768-7spanlogo-1646824715089.jpg",
+      "companyWebsite": "https://7span.com",
+      "companyCareerPage": "https://7span.in/openings",
+      "linkedin": "https://www.linkedin.com/company/7span",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQEjxFHtmqfznQ/feedshare-shrink_2048_1536/0/1658492720709?e=1673481600&v=beta&t=6BlBz2EBrVLXSarWRgnNrBe10hJnuwsJuwb3fnAA2OE",
+      "openings": [
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3-4 years"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "5-6 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 2,
+          "experience": "2-3 years"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "companyName": "SrashtaSoft",
+      "location": "Ahmedabad, India",
+      "bio": "Srashta means CREATOR (Lord Vishnu). We took this name from \"विष्णु सहस्त्रनाम” SRASHTA + SOFT = Creator of Software. That's how we are providing CREATIVITY through INNOVATION for your SUCCESS!",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1OQp9y80grf7LnsfyKVSswr4lVue5_ZdL",
+      "companyWebsite": "https://www.srashtasoft.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=SrashtaSoft&company_uuid=4816D2274F",
+      "linkedin": "https://www.linkedin.com/company/srashtasoft/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1qoUU54VGZFnUEJfK2jEDYyBZnzwHO02K",
+      "openings": [
+        {
+          "title": "Manual QA Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
         }
       ]
     }
