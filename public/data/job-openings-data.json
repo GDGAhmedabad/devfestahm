@@ -215,6 +215,236 @@
     },
     {
       "id": 7,
+      "companyName": "7Span",
+      "location": "Ahmedabad",
+      "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+      "companyLogoUrl": "https://images.yourstory.com/cs/images/companies/2c2a4550f768-7spanlogo-1646824715089.jpg",
+      "companyWebsite": "https://7span.com",
+      "companyCareerPage": "https://7span.in/openings",
+      "linkedin": "https://www.linkedin.com/company/7span",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQEjxFHtmqfznQ/feedshare-shrink_2048_1536/0/1658492720709?e=1673481600&v=beta&t=6BlBz2EBrVLXSarWRgnNrBe10hJnuwsJuwb3fnAA2OE",
+      "openings": [
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3-4 years"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "5-6 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 2,
+          "experience": "2-3 years"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "companyName": "SrashtaSoft",
+      "location": "Ahmedabad, India",
+      "bio": "Srashta means CREATOR (Lord Vishnu). We took this name from \"विष्णु सहस्त्रनाम” SRASHTA + SOFT = Creator of Software. That's how we are providing CREATIVITY through INNOVATION for your SUCCESS!",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1b6A3BIloO_ORs1DxXVgWEa3ImqiQQC1v",
+      "companyWebsite": "https://www.srashtasoft.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=SrashtaSoft&company_uuid=4816D2274F",
+      "linkedin": "https://www.linkedin.com/company/srashtasoft/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1qoUU54VGZFnUEJfK2jEDYyBZnzwHO02K",
+      "openings": [
+        {
+          "title": "Manual QA Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "Recruitment Smart",
+      "location": "Ahmedabad, India",
+      "bio": "Recruitment Smart is a simple & AI powered Talent Intelligence platform. It helps in streamlining and automating the talent supply chain and makes sure that the hiring is devoid of any underlying biases like gender, racial or otherwise. It rationalises the time & cost to hire while using machine learning to match CVs and job specifications at blinding speed and with stunning accuracy. We are among the top Recruiting Automation products across the world with more than 100 corporate clients. You can visit our Website or LinkedIn Page to know more details about our organisation & our product..",
+      "companyLogoUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/logo.svg",
+      "companyWebsite": "https://recruitmentsmart.com",
+      "companyCareerPage": "https://recruitmentsmart.com/career/",
+      "linkedin": "https://www.linkedin.com/company/recruitment-smart/",
+      "hiringImageUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/banner.png",
+      "openings": [
+        {
+          "title": "Lead Data Scientist",
+          "count": 1,
+          "experience": "4 to 8 Years experience"
+        },
+        {
+          "title": "Sr. & Jr Data Scintist",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Azure Chatbot Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "PHP Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "Fullstack Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "8 to 12 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "WebMobTech Solutions Pvt.Ltd",
+      "location": "Ahmedabad",
+      "bio": "We are India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.   It’s a perfect combination between you and company when the career and your passion come together. We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   Be the active part of WebMob Tech team and get to work upon trending technologies. Be the problem solver and create a workplace where we can work on something new everyday. Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://webmobtechcdn.nyc3.cdn.digitaloceanspaces.com/wmt_v4/2021/02/WMT_Horizontal_Original.png",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://www.linkedin.com/company/webmob-technologies/",
+      "hiringImageUrl": "https://doc-00-5g-docs.googleusercontent.com/docs/securesc/475n6ab8l67spqqhu4b4bc470egtppll/7mhp92dkp1q1goovefro20q3rn2cb3f6/1670415375000/11917947967636265794/13931267198203101424/1eU22PO-Q-kmIxmwN0w6IpZm_L-3MFCpp?e=view&ax=AEKYgyR31KAIF-G7VRhr0kvCebz7VHt-ZaC5I38J7VpxMolHG3DJPL6_oqqBINhzSK93Bx0wgSXJhKYfSE16H3InhSnLr9dR6XCk0Tg3rYcyXjqKCweuEsABbbKOvjI4wTsT5ZSLRXN2jNXu4UWw-VHUMn-u6VEYOB2FfKoekcicXXglxKwjPCSYtFAzMwSMjwvL-rMq3gY67yBIitQGlZxNGHk5fYwL9N4HSBpwh30fxPmgKLrM_4Hn2ly1JIPWKJ2ijeG9i7J2vPadfTxvYYZ1Dk_WaCPJhKMrYz3ux3RjFPqXBKNeJvLc75rg02K7udMiXVlwgzfCeUHbbnx8xbNqUKYXsih17PljK8DCIKKkaNlGpc3PCqFpQMGclzppaZArXDeIhWZc1X2vi_72eM40xMqZeR7oqB_NB-0J6wrTa22mK612LCc0OEo2gZGodN6cgP75uVVHe4Z40KPZiQYMPmzgFdsXZlA1WPfOv54u7rdVC_kp9qVaS4GDlolvkqbkJabpowVbBCA-4PsJtyIDySF6UdlwKP5IXt-LGqnJGjReype-vs_sVUuQryQ7uWf9TwoWzMxhJmY3V3rZRx_lruifAybvLeFZDRMlMyQSleKVD1GQF3cxlQYQ0QT89xxLBAgKqbVAeNhTaieQqP0wSfwefxKbvndMuXROJ13D-l_29VYHMp2TfeTzOoBiX8LEtIHeA4Ye7U96eL_xB7FsM8DKDRqpySUjFv3LQlohiO8T9wzEoc0aVPs7mwC-NxYr-zl6445sB135se2R2RkE52f71b591xiKQUMtiWXW9p7NE-3ecTmMrVHBLHb0BEsyiqtKOqPcFCQOBgCckB4CaIyXe9P5RquVXVEtl3xezaHxwkfYSU2NRu-Tdw&uuid=214825a7-8b3a-4380-b061-decdd82b27a3&authuser=0",
+      "openings": [
+        {
+          "title": "Technical Lead- Web",
+          "count": 1,
+          "experience": "5-9 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Project Coordinator",
+          "count": 1,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "NodeJs Developer",
+          "count": 2,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "ReactJS Developer",
+          "count": 2,
+          "experience": "3-5 year"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "4-7 year"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "Pedals Up LLP",
+      "location": "Ahmedabad, India",
+      "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
+      "companyWebsite": "https://www.pedalsup.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
+      "linkedin": "https://www.linkedin.com/company/pedalsup/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Jr Frontend Developer",
+          "count": 3,
+          "experience": "1+ years experience"
+        },
+        {
+          "title": "Sr Frontend developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Sr Nodejs developer",
+          "count": 1,
+          "experience": "4+ years experience"
+        },
+        {
+          "title": "Blockchain Developer",
+          "count": 3,
+          "experience": "0 to 1+ years experience"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "1+ years experience"
+        }
+      ]
+    },
+    {
+      "id": 12,
       "companyName": "DhiWise Pvt. Ltd.",
       "location": "Surat, India",
       "bio": "DhiWise is a programming platform where developers can convert their designs into developer-friendly code for mobile and web apps. DhiWise automates the application development lifecycle and instantly generates readable, modular and reusable code. At DhiWise, you can fall in love with your work again. A platform built for developers to build apps in a way that uses their engineering muscle rather than forcing the use of crammed information.",
