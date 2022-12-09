@@ -303,6 +303,39 @@
           "experience": "1 to 2 Years experience"
         }
       ]
-    }
+    },
+    {
+"id": 9,
+"companyName": "AddWeb Solution Pvt Ltd",
+"location": "Ahmedabad",
+"bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
+"companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
+"companyWebsite": "https://www.addwebsolution.com/",
+"companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
+"linkedin": "https://in.linkedin.com/company/addwebsolution/",
+"hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2022-03/DSC_2251-min.JPG",
+"openings": [
+{
+"title": "Drupal Developers",
+"count": 3,
+"experience": "3-10 years"
+},
+{
+"title":  "ASP.Net Developers",
+"count": 1,
+"experience": "4-8 years"
+},
+{
+"title": "Business Development Executive \ Manager",
+"count": 4,
+"experience": "1 - 8 years"
+},
+{
+"title": "DevOps Engineer",
+"count": 1,
+"experience": "3-10 years"
+}
+]
+}
   ]
 }
