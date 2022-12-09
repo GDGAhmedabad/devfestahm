@@ -631,6 +631,49 @@
           "experience": "0 years experience"
         }
       ]
+    },
+    {
+      "id": 15,
+      "companyName": "Essence Solusoft",
+      "location": "Ahmedabad, India",
+      "bio": "At Essence Solusoft, we offer learning, opportunities and better work-life balance with our core values Transparency, Integrity, Innovation and contribution. Since inception, we have been loved by the community for our Full stack Ruby on Rails expertise. Now we are expanding 360 notch and growing. We would love to invite people to join our team and grow together.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1c_Ee5uF_ciER-D2d-U1lctOggeDZUSqj",
+      "companyWebsite": "https://essencesolusoft.com/",
+      "companyCareerPage": "https://essencesolusoft.com/careers",
+      "linkedin": "https://www.linkedin.com/company/essencesolusoft/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1S501IcOI1dR7eVNHiJKdbJ9UBE3zjjWD",
+      "openings": [
+        {
+          "title": "Ruby On Rails Engineers",
+          "count": 5,
+          "experience": "0 to 3 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "1 Year experience"
+        },
+        {
+          "title": "SEO Executives",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Technical Content Writers",
+          "count": 2,
+          "experience": "0 to 2 Years experience"
+        },
+        {
+          "title": "Jr. Business Development Executives",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        }
+      ]
     }
   ]
 }
