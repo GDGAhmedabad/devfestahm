@@ -351,6 +351,59 @@
           "experience": "8 to 12 Years experience"
         }
       ]
+    },
+    {
+      "id": 10,
+      "companyName": "WebMobTech Solutions Pvt.Ltd",
+      "location": "Ahmedabad",
+      "bio": "We are India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.   It’s a perfect combination between you and company when the career and your passion come together. We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   Be the active part of WebMob Tech team and get to work upon trending technologies. Be the problem solver and create a workplace where we can work on something new everyday. Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://webmobtechcdn.nyc3.cdn.digitaloceanspaces.com/wmt_v4/2021/02/WMT_Horizontal_Original.png",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://www.linkedin.com/company/webmob-technologies/",
+      "hiringImageUrl": "https://doc-00-5g-docs.googleusercontent.com/docs/securesc/475n6ab8l67spqqhu4b4bc470egtppll/7mhp92dkp1q1goovefro20q3rn2cb3f6/1670415375000/11917947967636265794/13931267198203101424/1eU22PO-Q-kmIxmwN0w6IpZm_L-3MFCpp?e=view&ax=AEKYgyR31KAIF-G7VRhr0kvCebz7VHt-ZaC5I38J7VpxMolHG3DJPL6_oqqBINhzSK93Bx0wgSXJhKYfSE16H3InhSnLr9dR6XCk0Tg3rYcyXjqKCweuEsABbbKOvjI4wTsT5ZSLRXN2jNXu4UWw-VHUMn-u6VEYOB2FfKoekcicXXglxKwjPCSYtFAzMwSMjwvL-rMq3gY67yBIitQGlZxNGHk5fYwL9N4HSBpwh30fxPmgKLrM_4Hn2ly1JIPWKJ2ijeG9i7J2vPadfTxvYYZ1Dk_WaCPJhKMrYz3ux3RjFPqXBKNeJvLc75rg02K7udMiXVlwgzfCeUHbbnx8xbNqUKYXsih17PljK8DCIKKkaNlGpc3PCqFpQMGclzppaZArXDeIhWZc1X2vi_72eM40xMqZeR7oqB_NB-0J6wrTa22mK612LCc0OEo2gZGodN6cgP75uVVHe4Z40KPZiQYMPmzgFdsXZlA1WPfOv54u7rdVC_kp9qVaS4GDlolvkqbkJabpowVbBCA-4PsJtyIDySF6UdlwKP5IXt-LGqnJGjReype-vs_sVUuQryQ7uWf9TwoWzMxhJmY3V3rZRx_lruifAybvLeFZDRMlMyQSleKVD1GQF3cxlQYQ0QT89xxLBAgKqbVAeNhTaieQqP0wSfwefxKbvndMuXROJ13D-l_29VYHMp2TfeTzOoBiX8LEtIHeA4Ye7U96eL_xB7FsM8DKDRqpySUjFv3LQlohiO8T9wzEoc0aVPs7mwC-NxYr-zl6445sB135se2R2RkE52f71b591xiKQUMtiWXW9p7NE-3ecTmMrVHBLHb0BEsyiqtKOqPcFCQOBgCckB4CaIyXe9P5RquVXVEtl3xezaHxwkfYSU2NRu-Tdw&uuid=214825a7-8b3a-4380-b061-decdd82b27a3&authuser=0",
+      "openings": [
+        {
+          "title": "Technical Lead- Web",
+          "count": 1,
+          "experience": "5-9 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Project Coordinator",
+          "count": 1,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "NodeJs Developer",
+          "count": 2,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "ReactJS Developer",
+          "count": 2,
+          "experience": "3-5 year"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "4-7 year"
+        }
+      ]
     }
   ]
 }
