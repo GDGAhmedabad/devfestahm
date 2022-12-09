@@ -303,6 +303,49 @@
           "experience": "1 to 2 Years experience"
         }
       ]
+    },
+    {
+      "id": 9,
+      "companyName": "Anglara Digital Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "We are on a mission to provide sophisticated software solutions for businesses and end users across the globe. In the process to achieve this we consider our team members as valuable assets and we take enough care of them as we do for our clients. We have multiple WFH positions available and we can not wait to have you on board if we feel you are one of us.",
+      "companyLogoUrl": "https://anglara.com/assets/images/career/logo.svg",
+      "companyWebsite": "https://anglara.com/",
+      "companyCareerPage": "https://anglara.com/career.html",
+      "linkedin": "https://www.linkedin.com/company/anglaradigitalsolutions/",
+      "hiringImageUrl": "https://anglara.com/assets/images/career/hiring-anglara-gdgdevfest.jpg",
+      "openings": [
+        {
+          "title": "Wordpress developer",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Laravel developer",
+          "count": 2,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Wordpress interns",
+          "count": 2,
+          "experience": "0 years experience"
+        },
+        {
+          "title": "Flutter interns",
+          "count": 2,
+          "experience": "0 years experience"
+        },
+        {
+          "title": "Laravel interns",
+          "count": 2,
+          "experience": "0 years experience"
+        }
+      ]
     }
   ]
 }
