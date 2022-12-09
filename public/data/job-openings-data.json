@@ -303,6 +303,54 @@
           "experience": "1 to 2 Years experience"
         }
       ]
+    },
+    {
+      "id": 9,
+      "companyName": "Recruitment Smart",
+      "location": "Ahmedabad, India",
+      "bio": "Recruitment Smart is a simple & AI powered Talent Intelligence platform. It helps in streamlining and automating the talent supply chain and makes sure that the hiring is devoid of any underlying biases like gender, racial or otherwise. It rationalises the time & cost to hire while using machine learning to match CVs and job specifications at blinding speed and with stunning accuracy. We are among the top Recruiting Automation products across the world with more than 100 corporate clients. You can visit our Website or LinkedIn Page to know more details about our organisation & our product..",
+      "companyLogoUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/logo.svg",
+      "companyWebsite": "https://recruitmentsmart.com",
+      "companyCareerPage": "https://recruitmentsmart.com/career/",
+      "linkedin": "https://www.linkedin.com/company/recruitment-smart/",
+      "hiringImageUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/banner.png",
+      "openings": [
+        {
+          "title": "Lead Data Scientist",
+          "count": 1,
+          "experience": "4 to 8 Years experience"
+        },
+        {
+          "title": "Sr. & Jr Data Scintist",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Azure Chatbot Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "PHP Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "Fullstack Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "8 to 12 Years experience"
+        }
+      ]
     }
   ]
 }
