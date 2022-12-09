@@ -1981,6 +1981,30 @@
           ],
           "order": 9,
           "title": ""
+        },
+        {
+          "name": "Vatsal Gajjar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal-gajjar.jpg?alt=media&token=9ece86fc-4f26-4e9d-82c4-83a4802f34ee",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/gajjarvatsall",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gajjarvatsall",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://gajjarvatsall.github.io/my-portfolio/#home",
+              "name": "Blog"
+            }
+          ],
+          "order": 10,
+          "title": ""
         }
       ],
       "title": "Social Media Team"
