@@ -505,6 +505,89 @@
           "experience": "2+ years of experience"
         }
       ]
+    },
+    {
+      "id": 13,
+      "companyName": "Saeculum Solutions Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "Saeculum Solutions Pvt Ltd has been helping companies across various industries optimize their business processes through custom software solutions. What distinguishes us from the rest is our ability to look beyond technologies and deliver innovative and progressive solutions.",
+      "companyLogoUrl": "https://saeculumsolutions.com/wp-content/uploads/2021/10/Logo-512-x-512.png",
+      "companyWebsite": "https://saeculumsolutions.com/",
+      "companyCareerPage": "https://saeculumsolutions.com/career/",
+      "linkedin": "https://www.linkedin.com/company/saeculumsolutions/",
+      "hiringImageUrl": "https://saeculumsolutions.com/wp-content/uploads/2022/12/hiring_post-scaled.jpg",
+      "openings": [
+        {
+          "title": "HR Recruiter | Talent Acquisition Executive",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 3,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Team Lead - .NET Core & Angular",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 3,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": ".NET Core Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "React Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Graphics Designers",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Angular Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Quality Assurance (Manual)",
+          "count": 1,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "MERN Developers",
+          "count": 3,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Freshers - Angular | React | Node | .NET Core",
+          "count": 10,
+          "experience": "0-1 year"
+        }
+      ]
     }
   ]
 }
