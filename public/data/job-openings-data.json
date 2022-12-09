@@ -442,6 +442,69 @@
           "experience": "1+ years experience"
         }
       ]
+    },
+    {
+      "id": 12,
+      "companyName": "DhiWise Pvt. Ltd.",
+      "location": "Surat, India",
+      "bio": "DhiWise is a programming platform where developers can convert their designs into developer-friendly code for mobile and web apps. DhiWise automates the application development lifecycle and instantly generates readable, modular and reusable code. At DhiWise, you can fall in love with your work again. A platform built for developers to build apps in a way that uses their engineering muscle rather than forcing the use of crammed information.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1CZ2lSzbhLWTIeG6fsZ5UQYl8_qzCshdK/view",
+      "companyWebsite": "https://www.dhiwise.com/",
+      "companyCareerPage": "https://dhiwise.freshteam.com/jobs",
+      "linkedin": "https://www.linkedin.com/company/dhiwise/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Flutter Developer (Mobile)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Flutter Developer (Web)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Kotlin Developer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "MERN Stack Developer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "React.js Developer (TypeScript)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Sr. Android Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. Next.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. Node.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. React.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Quality Assurance Engineer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        }
+      ]
     }
   ]
 }
