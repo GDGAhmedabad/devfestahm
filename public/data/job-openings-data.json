@@ -214,43 +214,6 @@
       ]
     },
     {
-      "id": 9,
-      "companyName": "Pedals Up LLP",
-      "location": "Ahmedabad, India",
-      "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
-      "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
-      "companyWebsite": "https://www.pedalsup.com/",
-      "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
-      "linkedin": "https://www.linkedin.com/company/pedalsup/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": "Jr Frontend Developer",
-          "count": 3,
-          "experience": "1+ years experience"
-        },
-        {
-          "title": "Sr Frontend developer",
-          "count": 2,
-          "experience": "3+ years experience"
-        },
-        {
-          "title": "Sr Nodejs developer",
-          "count": 1,
-          "experience": "4+ years experience"
-        },
-        {
-          "title": "Blockchain Developer",
-          "count": 3,
-          "experience": "0 to 1+ years experience"
-        },
-        {
-          "title": "Business Development Manager",
-          "count": 1,
-          "experience": "1+ years experience"
-        }
-      ]
-    },
       "id": 7,
       "companyName": "7Span",
       "location": "Ahmedabad",
@@ -439,6 +402,44 @@
           "title": "HR Manager",
           "count": 1,
           "experience": "4-7 year"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "Pedals Up LLP",
+      "location": "Ahmedabad, India",
+      "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
+      "companyWebsite": "https://www.pedalsup.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
+      "linkedin": "https://www.linkedin.com/company/pedalsup/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Jr Frontend Developer",
+          "count": 3,
+          "experience": "1+ years experience"
+        },
+        {
+          "title": "Sr Frontend developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Sr Nodejs developer",
+          "count": 1,
+          "experience": "4+ years experience"
+        },
+        {
+          "title": "Blockchain Developer",
+          "count": 3,
+          "experience": "0 to 1+ years experience"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "1+ years experience"
         }
       ]
     }
