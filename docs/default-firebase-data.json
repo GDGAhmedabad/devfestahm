@@ -817,6 +817,7 @@
       "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
       "socials": [],
       "order": 0,
+      "rockstarSpeakerOrder": 0,
       "title": "Product Manager/Developer"
     },
     "aleksander_piotrowski": {
@@ -854,6 +855,7 @@
         }
       ],
       "order": 1,
+      "rockstarSpeakerOrder": 1,
       "title": "Code Monkey"
     },
     "anton__minashkin": {
@@ -885,6 +887,7 @@
         }
       ],
       "order": 2,
+      "rockstarSpeakerOrder": 2,
       "title": "Lead Software Developer"
     },
     "carmen_popovicu": {
@@ -906,6 +909,7 @@
         }
       ],
       "order": 3,
+      "rockstarSpeakerOrder": 3,
       "title": "Front-end Engineer"
     },
     "constantine_mars": {
@@ -928,6 +932,7 @@
       "shortBio": "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
       "socials": [],
       "order": 4,
+      "rockstarSpeakerOrder": 4,
       "title": "Senior Android Developer"
     },
     "david_mayboroda": {
@@ -954,6 +959,7 @@
         }
       ],
       "order": 5,
+      "rockstarSpeakerOrder": 5,
       "title": "Android Engineer"
     },
     "david_vávra": {
@@ -992,6 +998,7 @@
         }
       ],
       "order": 6,
+      "rockstarSpeakerOrder": 6,
       "title": "Founder/CEO/Android Lead"
     },
     "dmytro_danylyk": {
@@ -1030,6 +1037,7 @@
         }
       ],
       "order": 7,
+      "rockstarSpeakerOrder": 7,
       "title": "Senior Android Developer"
     },
     "gerard_sans": {
@@ -1063,6 +1071,7 @@
         }
       ],
       "order": 8,
+      "rockstarSpeakerOrder": 8,
       "title": "Technical Evangelist"
     },
     "ihor_dvoretskyi": {
@@ -1096,6 +1105,7 @@
         }
       ],
       "order": 9,
+      "rockstarSpeakerOrder": 9,
       "title": "Deployment Engineer"
     },
     "jakub_škvára": {
@@ -1124,6 +1134,7 @@
         }
       ],
       "order": 10,
+      "rockstarSpeakerOrder": 10,
       "title": "Frontend engineer"
     },
     "jana_moudra": {
@@ -1167,6 +1178,7 @@
         }
       ],
       "order": 11,
+      "rockstarSpeakerOrder": 11,
       "title": "Co-Founder"
     },
     "jean-baptiste_clion": {
@@ -1205,6 +1217,7 @@
         }
       ],
       "order": 12,
+      "rockstarSpeakerOrder": 12,
       "title": "Founder"
     },
     "jozef_vodicka": {
@@ -1243,6 +1256,7 @@
         }
       ],
       "order": 13,
+      "rockstarSpeakerOrder": 13,
       "title": "Developer Relations Program Manager"
     },
     "konrad_dzwinel": {
@@ -1281,6 +1295,7 @@
         }
       ],
       "order": 14,
+      "rockstarSpeakerOrder": 14,
       "title": "Front-End Engineer"
     },
     "mateusz_herych": {
@@ -1319,6 +1334,7 @@
         }
       ],
       "order": 15,
+      "rockstarSpeakerOrder": 15,
       "title": "Android Tech Lead"
     },
     "mete_atamel": {
@@ -1357,6 +1373,7 @@
         }
       ],
       "order": 16,
+      "rockstarSpeakerOrder": 16,
       "title": "Developer Advocate"
     },
     "michael_pustovit": {
@@ -1388,6 +1405,7 @@
         }
       ],
       "order": 17,
+      "rockstarSpeakerOrder": 17,
       "title": "Senior Android Developer"
     },
     "paul_lammertsma": {
@@ -1409,6 +1427,7 @@
         }
       ],
       "order": 18,
+      "rockstarSpeakerOrder": 18,
       "title": "CTO"
     },
     "resul_caner__yildirim": {
@@ -1457,6 +1476,7 @@
         }
       ],
       "order": 19,
+      "rockstarSpeakerOrder": 19,
       "title": "User Experience Expert"
     },
     "roman_herasymenko": {
@@ -1490,6 +1510,7 @@
         }
       ],
       "order": 20,
+      "rockstarSpeakerOrder": 20,
       "title": "CEO"
     },
     "rustem_arzymbetov": {
@@ -1505,6 +1526,7 @@
       "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
       "socials": [],
       "order": 21,
+      "rockstarSpeakerOrder": 21,
       "title": "Software Engineer"
     },
     "sascha_wolter": {
@@ -1536,6 +1558,7 @@
         }
       ],
       "order": 22,
+      "rockstarSpeakerOrder": 22,
       "title": "Senior Developer Evangelist Connected Home"
     },
     "sergii_khomenko": {
@@ -1557,6 +1580,7 @@
         }
       ],
       "order": 23,
+      "rockstarSpeakerOrder": 23,
       "title": "Data Scientist"
     },
     "sergiy_mokienko": {
@@ -1590,6 +1614,7 @@
         }
       ],
       "order": 24,
+      "rockstarSpeakerOrder": 24,
       "title": "Android Team Lead"
     },
     "valentyn_shybanov": {
@@ -1623,6 +1648,7 @@
         }
       ],
       "order": 25,
+      "rockstarSpeakerOrder": 25,
       "title": "Software Engineer/Country Manager"
     },
     "yonatan_levin": {
@@ -1656,6 +1682,7 @@
         }
       ],
       "order": 26,
+      "rockstarSpeakerOrder": 26,
       "title": "Android Evangelist & Developer"
     }
   },
