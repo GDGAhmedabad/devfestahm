@@ -2012,7 +2012,7 @@
   ],
   "tickets": [
     {
-      "available": true,
+      "available": false,
       "currency": "₹",
       "ends": "Dec 9",
       "inDemand": true,
