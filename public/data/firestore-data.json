@@ -2056,7 +2056,7 @@
       "name": "Regular",
       "price": 300,
       "regular": true,
-      "soldOut": false,
+      "soldOut": true,
       "starts": "Dec 7",
       "url": "https://devfestahm.page.link/request-ticket"
     }
