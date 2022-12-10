@@ -11,7 +11,6 @@ import { RootState, store } from '../store';
 import { ReduxMixin } from '../store/mixin';
 import { fetchSpeakers } from '../store/speakers/actions';
 import { initialSpeakersState } from '../store/speakers/state';
-import { randomOrder } from '../utils/arrays';
 import { speakersBlock } from '../utils/data';
 import '../utils/icons';
 import './shared-styles';
@@ -243,8 +242,10 @@ export class SpeakersBlock extends ReduxMixin(PolymerElement) {
     if (this.speakers instanceof Success) {
       const { data } = this.speakers;
       const filteredSpeakers = data.filter((speaker) => speaker.featured);
-      const randomSpeakers = randomOrder(filteredSpeakers.length ? filteredSpeakers : data);
-      return randomSpeakers.slice(0, 4);
+      const randomSpeakers = filteredSpeakers.length ? filteredSpeakers : data;
+      return randomSpeakers
+        .sort((a, b) => a.rockstarSpeakerOrder - b.rockstarSpeakerOrder)
+        .slice(0, 4);
     } else {
       return [];
     }

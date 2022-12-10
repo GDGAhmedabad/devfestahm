@@ -98,6 +98,18 @@
           "logoUrl": "../images/logos/novumlogic.png",
           "name": "Novum Logic",
           "url": "https://www.novumlogic.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/quickblox.png",
+          "name": "QuickBlox",
+          "url": "https://quickblox.com/"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/solvative.png",
+          "name": "Solvative",
+          "url": "https://solvative.com/"
         }
       ],
       "order": 2,
@@ -304,7 +316,7 @@
             {
               "extend": 2,
               "items": [
-                "111"
+                "120"
               ]
             },
             {
@@ -394,7 +406,7 @@
             },
             {
               "items": [
-                "120"
+                "111"
               ]
             },
             {
@@ -556,7 +568,7 @@
     },
     "110": {
       "complexity": "Intermediate",
-      "description": "Here we will cover different static lint checks for code analysis for the Kotlin Jetpack Compose. That will helps any developer team size to validate the code quality before having the code review. On another side, Sonarqube help to identify the code quality in depth. That will identify the Code smells, Duplication, vulnerabilities, Major issues, Blocker issues, security Issues, and more. Ultimately the goal of the developer should be to make a flag PASS on SonarQube. That indicates your code is aligned with best practices and easy to adopt by any other team members. \n\nApproach: \n1. What is code review and Why it is required? \n2. Code Review Terminologies 3. Static Analysis in depth \n4. SonarQube Automation in depth \n5. Summary & Conclusion \n6. Q&A",
+      "description": "Here we will cover different static lint checks for code analysis for the Kotlin Jetpack Compose. That will helps any developer team size to validate the code quality before having the code review. On another side, Sonarqube help to identify the code quality in depth. That will identify the Code smells, Duplication, vulnerabilities, Major issues, Blocker issues, security Issues, and more. Ultimately the goal of the developer should be to make a flag PASS on SonarQube. That indicates your code is aligned with best practices and easy to adopt by any other team members. \n\nApproach: \n1. What is code review and Why it is required? \n2. Code Review Terminologies \n3. Static Code Analysis in Jetpack Compose 👨‍💻 \n4. SonarQube Code Review automation for Android and Flutter 👨‍💻 \n5. Summary & Conclusion \n6. Q&A",
       "language": "English",
       "speakers": [
         "pranay_patel",
@@ -659,7 +671,7 @@
       "description": "TBD",
       "language": "English",
       "speakers": [
-        "abhishek_desai"
+        "kuntal_shah"
       ],
       "tags": [
         "Mobile",
@@ -814,6 +826,7 @@
         }
       ],
       "order": 0,
+      "rockstarSpeakerOrder": 0,
       "title": "Angular Educator and founder of ng-India"
     },
     "kamesh_sampath": {
@@ -829,7 +842,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fharness.png?alt=media&token=7789fbb7-5856-4c67-b4d1-cd3db3227be7",
       "country": "Bengaluru, Karnataka",
-      "featured": true,
+      "featured": false,
       "name": "Kamesh Sampath",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkamesh-sampath.jpg?alt=media&token=e679807a-8bd9-45cd-abf1-9ca097c23974",
@@ -853,7 +866,8 @@
         }
       ],
       "order": 1,
-      "title": "Director of Developer Advocacy"
+      "rockstarSpeakerOrder": 4,
+      "title": "Director, Developer Advocate"
     },
     "shreyan_mehta": {
       "bio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India. I am programming since 2012 and love making and creating stuff that touches lives. SAAS and web is love. Also attracted to ai a lot. Recently gave up my comfortable dev job as senior dev to pursue my software business / startup in full time.",
@@ -861,7 +875,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fasambhav.png?alt=media&token=d4ba4360-28b7-4f3c-a77d-eb0e7aae3fa3",
       "country": "Ahmedabad, Gujarat, India",
-      "featured": true,
+      "featured": false,
       "name": "Shreyan Mehta",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fshreyan-mehta.png?alt=media&token=e010debb-3512-4ee4-8fe7-2224c18d30ad",
@@ -885,6 +899,7 @@
         }
       ],
       "order": 2,
+      "rockstarSpeakerOrder": 5,
       "title": "Founder and product manager"
     },
     "bhavik_makwana": {
@@ -919,6 +934,7 @@
         }
       ],
       "order": 3,
+      "rockstarSpeakerOrder": 6,
       "title": "Software Engineer"
     },
     "pawan_kumar": {
@@ -934,10 +950,10 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ffrontier.jpg?alt=media&token=1aef7ce0-f2c3-4f82-8c63-188f48d751e9",
       "country": "Faridabad",
-      "featured": false,
+      "featured": true,
       "name": "Pawan Kumar",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpawan-kumar.jpg?alt=media&token=675214bf-3547-4b8b-9325-a3731558be95",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fpawan-kumar.jpeg?alt=media&token=6c350a7b-e2b6-4c9d-925b-8f75879693ab",
       "pronouns": "he/him",
       "shortBio": "I'm the first GDE (Google Developer Expert) for Flutter in India. Also, I'm...",
       "socials": [
@@ -953,7 +969,8 @@
         }
       ],
       "order": 4,
-      "title": "Engineering"
+      "rockstarSpeakerOrder": 2,
+      "title": "VP of Engineering"
     },
     "bhavesh_bhatt": {
       "badges": [
@@ -992,6 +1009,7 @@
         }
       ],
       "order": 5,
+      "rockstarSpeakerOrder": 7,
       "title": "Senior Data Scientist"
     },
     "krupa_galiya": {
@@ -1024,6 +1042,7 @@
         }
       ],
       "order": 6,
+      "rockstarSpeakerOrder": 3,
       "title": "Data Scientist"
     },
     "nilay_chauhan": {
@@ -1051,6 +1070,7 @@
         }
       ],
       "order": 7,
+      "rockstarSpeakerOrder": 8,
       "title": "Data Scientist"
     },
     "shubham_pachori": {
@@ -1078,6 +1098,7 @@
         }
       ],
       "order": 8,
+      "rockstarSpeakerOrder": 9,
       "title": "Head of Product (Master Shifu)"
     },
     "adit_lal": {
@@ -1105,6 +1126,7 @@
         }
       ],
       "order": 9,
+      "rockstarSpeakerOrder": 10,
       "title": "Individual Consultant"
     },
     "anubhav_singh": {
@@ -1123,7 +1145,7 @@
       "featured": false,
       "name": "Anubhav Singh",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fanubhav-singh.jpg?alt=media&token=50a24490-aad9-4e30-a8f1-0df99d28900a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fanubhav-singh.png?alt=media&token=493da011-945b-4139-be2e-2deb6280ffad",
       "pronouns": "he/him",
       "shortBio": "A developer since the pre-Bootstrap era, Anubhav has over a decade of experie...",
       "socials": [
@@ -1144,6 +1166,7 @@
         }
       ],
       "order": 10,
+      "rockstarSpeakerOrder": 11,
       "title": "CTO @ Dynopii Inc., Lead @ GDG Cloud Kolkata"
     },
     "pranay_patel": {
@@ -1181,6 +1204,7 @@
         }
       ],
       "order": 11,
+      "rockstarSpeakerOrder": 12,
       "title": "SDE Android"
     },
     "chintan_khetiya": {
@@ -1213,6 +1237,7 @@
         }
       ],
       "order": 12,
+      "rockstarSpeakerOrder": 13,
       "title": "Software Specialist"
     },
     "samyak_jain": {
@@ -1240,6 +1265,7 @@
         }
       ],
       "order": 13,
+      "rockstarSpeakerOrder": 14,
       "title": "Flutter Expert | Founder"
     },
     "abhilasha_vyas": {
@@ -1248,7 +1274,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcloudthat-technologies.png?alt=media&token=537268dc-71aa-4c36-a192-91d0e9f25ad0",
       "country": "Baroda, Gujarat",
-      "featured": false,
+      "featured": true,
       "name": "Dr. Abhilasha Vyas",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fabhilasha-vyas.jpg?alt=media&token=ab973cff-09bb-4f7f-871a-e69589b33e15",
@@ -1267,7 +1293,8 @@
         }
       ],
       "order": 14,
-      "title": "Subject Matter Expert"
+      "rockstarSpeakerOrder": 1,
+      "title": "Business unit head Cloud Security and BI"
     },
     "ishan_sharma": {
       "bio": "Ishan is a frontend enthusiast, who has been working with the web for over 8 years now. He's a full-stack web developer with a keen sense for design and crafting extraordinary experiences on the web. He's an active open-source contributor and loves talking/sharing and expanding his knowledge on the web and practically anything that runs on electricity :)",
@@ -1278,7 +1305,7 @@
       "featured": false,
       "name": "Ishan Sharma",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fishan-sharma.jpg?alt=media&token=37a52030-2fd7-4bb1-90c8-8b2f97a487f3",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fishan-sharma.jpg?alt=media&token=d135cad7-5a80-4a87-9c0b-303f990edafe",
       "pronouns": "he/him",
       "shortBio": "Ishan is a frontend enthusiast, who has been working with the web for over 8...",
       "socials": [
@@ -1299,6 +1326,7 @@
         }
       ],
       "order": 15,
+      "rockstarSpeakerOrder": 15,
       "title": "Software Engineer"
     },
     "priya_sindkar": {
@@ -1331,6 +1359,7 @@
         }
       ],
       "order": 16,
+      "rockstarSpeakerOrder": 16,
       "title": "Sr. Android Developer"
     },
     "paresh_mayani": {
@@ -1370,29 +1399,31 @@
         }
       ],
       "order": 17,
+      "rockstarSpeakerOrder": 17,
       "title": "Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad | Co-Founder / CEO"
     },
-    "abhishek_desai": {
-      "bio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicorp.",
+    "kuntal_shah": {
+      "bio": "Kuntal is a co-founder of CricHeroes. \n\nCricHeroes is an India-first Mobile-first platform organizing the vast sector of Indian Local Cricket. It bridges the gap between passionate amateur cricketers and international cricketers with the help of technology. It provides a platform for millions of local cricketers to showcase their talent and get recognition for their achievements. \n\nApart from CricHeroes, Kuntal has an active interest in learning Patanjali Yoga and other Vedic Literature.",
       "company": "CricHeroes",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcricheroes.png?alt=media&token=806d2221-be77-40ae-9886-db66e16fe08d",
       "country": "Ahmedabad, Gujarat",
       "featured": false,
-      "name": "Abhishek Desai",
+      "name": "Kuntal Shah",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fabhishek-desai.jpeg?alt=media&token=8227c384-8290-4054-af7c-a095af348cb1",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fkuntal-shah.jpeg?alt=media&token=c816e7e1-e79c-49a4-a72c-6b7b179a24cc",
       "pronouns": "he/him",
-      "shortBio": "Founder of CricHeroes, world’s largest Cricket Network. Co-founder of Digicor...",
+      "shortBio": "Kuntal is a co-founder of CricHeroes. CricHeroes is an Mobile-first platf...",
       "socials": [
         {
-          "icon": "twitter",
-          "link": "https://twitter.com/abhishekdesai",
-          "name": "Twitter"
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kuntalshah37/",
+          "name": "LinkedIn"
         }
       ],
       "order": 18,
-      "title": "Founder"
+      "rockstarSpeakerOrder": 18,
+      "title": "Co-Founder"
     },
     "nikita_lalwani": {
       "bio": "Nikita is First Bicycle Mayor of India and Founder of Crooze.app, a mobile app to reward cyclists for their cycling kilometres. It is a community driven platform where technogy and gamified cycling experience is at core. The app users earns free gifts and deep discounts by redeeming crooze coins. She is passionate about revolutionizing how people move around by using technology and behavioral economics.",
@@ -1414,6 +1445,7 @@
         }
       ],
       "order": 19,
+      "rockstarSpeakerOrder": 19,
       "title": "Founder, CEO"
     },
     "jaykumar_joshi": {
@@ -1446,6 +1478,7 @@
         }
       ],
       "order": 20,
+      "rockstarSpeakerOrder": 20,
       "title": "Program Head"
     },
     "utpal_betai": {
@@ -1480,13 +1513,14 @@
         }
       ],
       "order": 21,
-      "title": "Sr. PM, SoluLab Guy with Midas Touch, Encouraging tech world for 20 years now"
+      "rockstarSpeakerOrder": 21,
+      "title": "VP of Sales"
     },
     "vishal_virani": {
       "bio": "Vishal is a Co-Founder & CEO at DhiWise. He is an entrepreneur with the belief that if followed with proper actions, every billion dollar idea can yield multi-billion dollars. His passion is to build things that last, things that make users' life easier and things that solve problems.",
       "company": "DhiWise",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=6cb57713-e905-4974-8ab8-5eecd4666be0",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=cca0999a-a925-4b7d-a29e-5b82c392fd24",
       "country": "Surat, Gujarat",
       "featured": false,
       "name": "Vishal Virani",
@@ -1507,6 +1541,7 @@
         }
       ],
       "order": 22,
+      "rockstarSpeakerOrder": 22,
       "title": "Co-Founder & CEO (Chief Everything Officer)"
     },
     "jalpesh_vadgama": {
@@ -1534,6 +1569,7 @@
         }
       ],
       "order": 23,
+      "rockstarSpeakerOrder": 23,
       "title": "Co-Founder"
     }
   },
@@ -1623,8 +1659,8 @@
         },
         {
           "name": "Jaldeep Asodariya",
-          "photo": "/images/people/jaldeep_asodariya_ics.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fjaldeep_asodariya_ics.jpg?alt=media&token=0cf65c42-c86b-45b4-93e0-1560c649f64e",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fjaldeep_asodariya.jpeg?alt=media&token=cf69e231-c96e-4321-adf4-09ed8e9f16d4",
           "socials": [
             {
               "icon": "twitter",
@@ -1981,6 +2017,30 @@
           ],
           "order": 9,
           "title": ""
+        },
+        {
+          "name": "Vatsal Gajjar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal-gajjar.jpg?alt=media&token=9ece86fc-4f26-4e9d-82c4-83a4802f34ee",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/gajjarvatsall",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gajjarvatsall",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://gajjarvatsall.github.io/my-portfolio/#home",
+              "name": "Blog"
+            }
+          ],
+          "order": 10,
+          "title": ""
         }
       ],
       "title": "Social Media Team"
@@ -1988,7 +2048,7 @@
   ],
   "tickets": [
     {
-      "available": true,
+      "available": false,
       "currency": "₹",
       "ends": "Dec 9",
       "inDemand": true,
@@ -1996,7 +2056,7 @@
       "name": "Regular",
       "price": 300,
       "regular": true,
-      "soldOut": false,
+      "soldOut": true,
       "starts": "Dec 7",
       "url": "https://devfestahm.page.link/request-ticket"
     }
