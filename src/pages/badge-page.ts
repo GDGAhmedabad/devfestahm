@@ -368,7 +368,7 @@ export class BadgePage extends PolymerElement {
   download = () => {
     const a = document.createElement("a");
     const url = this.canvas.toDataURL("image/png;base64");
-    a.download = "badge.png";
+    a.download = "devfestahm22-profile-badge.png";
     a.href = url;
     a.click();
   };
