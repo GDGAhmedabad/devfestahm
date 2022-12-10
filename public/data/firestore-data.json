@@ -98,6 +98,18 @@
           "logoUrl": "../images/logos/novumlogic.png",
           "name": "Novum Logic",
           "url": "https://www.novumlogic.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/quickblox.png",
+          "name": "QuickBlox",
+          "url": "https://quickblox.com/"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/solvative.png",
+          "name": "Solvative",
+          "url": "https://solvative.com/"
         }
       ],
       "order": 2,
@@ -1508,7 +1520,7 @@
       "bio": "Vishal is a Co-Founder & CEO at DhiWise. He is an entrepreneur with the belief that if followed with proper actions, every billion dollar idea can yield multi-billion dollars. His passion is to build things that last, things that make users' life easier and things that solve problems.",
       "company": "DhiWise",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=6cb57713-e905-4974-8ab8-5eecd4666be0",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=cca0999a-a925-4b7d-a29e-5b82c392fd24",
       "country": "Surat, Gujarat",
       "featured": false,
       "name": "Vishal Virani",
