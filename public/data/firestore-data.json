@@ -1611,6 +1611,41 @@
       "order": 24,
       "rockstarSpeakerOrder": 24,
       "title": "SDE ||"
+    },
+    "dhrumil_shah": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-dhrumil-shah",
+          "name": "gde"
+        }
+      ],
+      "bio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG Ahmedabad, Startup Mentor, Speaker, Industry Advisory Board Member",
+      "company": "TATA Digital",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ftata-digital.webp?alt=media&token=c7958870-6e81-4e4b-b91c-17a4f91af9f2",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
+      "pronouns": "he/him",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dhuma1981",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Lead Architect"
     }
   },
   "team": [
