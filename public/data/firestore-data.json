@@ -1744,25 +1744,6 @@
           "title": "Co-Organizer"
         },
         {
-          "name": "Utpal Betai",
-          "photo": "/images/people/utpal_betai.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/utpalbetai",
-              "name": "Twitter"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/utpal.betai.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 2,
-          "title": "Asst. Organizer"
-        },
-        {
           "name": "Dhruva Shastri",
           "photo": "/images/people/dhruva_shashtri_gdd.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri_gdd.jpg?alt=media&token=6a69f838-345d-4c92-a301-6c26c33900f7",
@@ -1778,8 +1759,27 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 3,
+          "order": 2,
           "title": "WTM Ambassador"
+        },
+        {
+          "name": "Utpal Betai",
+          "photo": "/images/people/utpal_betai.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/utpalbetai",
+              "name": "Twitter"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/utpal.betai.9",
+              "name": "Facebook"
+            }
+          ],
+          "order": 3,
+          "title": "Asst. Organizer"
         },
         {
           "name": "Jaldeep Asodariya",
