@@ -754,10 +754,14 @@
       "title": "Morning coffee"
     },
     "136": {
-      "description": "Official start of the conference. Greetings from the Paresh Mayani and Dhrumil Shah",
+      "description": "Official start of the conference. Greetings from the Paresh Mayani and Jaldeep Asodariya",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
+      "speakers": [
+        "paresh_mayani",
+        "jaldeep_asodariya"
+      ],
       "title": "GDG DevFest Ahmedabad 2022 Opening"
     },
     "137": {
@@ -770,6 +774,11 @@
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "language": "English",
+      "speakers": [
+        "dhrumil_shah",
+        "hiren_dave"
+      ],
       "title": "Conference closing and contest winners announcements"
     },
     "139": {
@@ -1571,6 +1580,121 @@
       "order": 23,
       "rockstarSpeakerOrder": 23,
       "title": "Co-Founder"
+    },
+    "jaldeep_asodariya": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Jaldeep Asodariya is an Sr. Mobile App Developer and working at HighLevel. As he developed many enormous emerging Android and Flutter Application so far and got client’s satisfaction through his Development work. He is an Event Organizer  of Google Developer Group (GDG), Ahmedabad. \n\nJaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant applications as well as he has proficient knowledge in NodeJS.",
+      "company": "HighLevel",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgohighlevel.png?alt=media&token=176123b7-3386-4933-b9af-afe6f02ebc77",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jaldeep Asodariya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fjaldeep_asodariya.jpeg?alt=media&token=cf69e231-c96e-4321-adf4-09ed8e9f16d4",
+      "pronouns": "he/him",
+      "shortBio": "Jaldeep Asodariya is an Sr. Mobile App Developer and working at HighLevel. As...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JaldeepAsodariy",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaldeepasodariya/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jaldeepasodariya",
+          "name": "Github"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "SDE ||"
+    },
+    "dhrumil_shah": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-dhrumil-shah",
+          "name": "gde"
+        }
+      ],
+      "bio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG Ahmedabad, Startup Mentor, Speaker, Industry Advisory Board Member",
+      "company": "TATA Digital",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ftata-digital.webp?alt=media&token=c7958870-6e81-4e4b-b91c-17a4f91af9f2",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
+      "pronouns": "he/him",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dhuma1981",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Lead Architect"
+    },
+    "hiren_dave": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel Live Ahmedabad, Auth0 Ambassador",
+      "company": "iBASEt India Software Pvt. Ltd.",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fibaset-india-software-pvt-ltd.jpeg?alt=media&token=84cd93b8-69a5-4632-9f43-bfc5bb0eac87",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Hiren Dave",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "pronouns": "he/him",
+      "shortBio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hjdave",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/davehiren",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://hirendave.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 26,
+      "rockstarSpeakerOrder": 26,
+      "title": "Senior Tech Lead"
     }
   },
   "team": [
@@ -1703,7 +1827,7 @@
             },
             {
               "icon": "website",
-              "link": "https://hirendave.tech",
+              "link": "https://hirendave.com/",
               "name": "Website"
             }
           ],
