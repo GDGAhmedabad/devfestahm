@@ -2048,7 +2048,7 @@
   ],
   "tickets": [
     {
-      "available": false,
+      "available": true,
       "currency": "₹",
       "ends": "Dec 9",
       "inDemand": true,
@@ -2056,7 +2056,7 @@
       "name": "Regular",
       "price": 300,
       "regular": true,
-      "soldOut": true,
+      "soldOut": false,
       "starts": "Dec 7",
       "url": "https://devfestahm.page.link/request-ticket"
     }
