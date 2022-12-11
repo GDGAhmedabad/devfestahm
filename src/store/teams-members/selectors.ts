@@ -21,7 +21,8 @@ export const selectTeamsAndMembers = createSelector(
   (teams: TeamsState, members: MembersState): TeamsMembersState => {
     if (teams instanceof Success && members instanceof Success) {
       const merged = teams.data.map((team) => mergeMembers(team, members.data));
-      return new Success(merged);
+      const sortedMerged = merged.sort((a,b) => a.order - b.order);
+      return new Success(sortedMerged);
     } else if (teams instanceof Pending || members instanceof Pending) {
       return new Pending();
     } else if (teams instanceof Failure) {

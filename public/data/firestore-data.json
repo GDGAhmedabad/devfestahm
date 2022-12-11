@@ -1711,6 +1711,7 @@
           "title": "Event Organizer"
         }
       ],
+      "order": 0,
       "title": "Core Team"
     },
     {
@@ -1745,60 +1746,8 @@
           "title": "Designer"
         }
       ],
+      "order": 1,
       "title": "Creative Team"
-    },
-    {
-      "members": [
-        {
-          "name": "Deep Govani",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/djgovani",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/djgovani/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/djgovani",
-              "name": "Github"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
-        {
-          "name": "Nisharg Shah",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnisharg-shah.jpeg?alt=media&token=e98896e6-1a45-4871-9d59-ecdd75e07645",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/iamnisharg",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nishargshah/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/nishargshah",
-              "name": "Github"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        }
-      ],
-      "title": "Web Team"
     },
     {
       "members": [
@@ -2043,7 +1992,62 @@
           "title": ""
         }
       ],
+      "order": 2,
       "title": "Social Media Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Deep Govani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/djgovani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/djgovani/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/djgovani",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Nisharg Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnisharg-shah.jpeg?alt=media&token=e98896e6-1a45-4871-9d59-ecdd75e07645",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/iamnisharg",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nishargshah/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/nishargshah",
+              "name": "Github"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        }
+      ],
+      "order": 3,
+      "title": "Web Team"
     },
     {
       "members": [
@@ -2210,6 +2214,7 @@
           "title": ""
         }
       ],
+      "order": 4,
       "title": "Registration and Swags Team"
     },
     {
@@ -2261,6 +2266,7 @@
           "title": ""
         }
       ],
+      "order": 5,
       "title": "Content Writer Team"
     },
     {
@@ -2713,6 +2719,7 @@
           "title": ""
         }
       ],
+      "order": 6,
       "title": "Speaker Buddy Team"
     }
   ],
