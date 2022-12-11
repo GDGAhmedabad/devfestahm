@@ -1648,6 +1648,46 @@
       "title": "Lead Architect"
     }
   },
+  "hiren_dave": {
+    "badges": [
+      {
+        "description": "Google Developers Group Ahmedabad",
+        "link": "https://www.meetup.com/GDG-Ahmedabad/",
+        "name": "gdg"
+      }
+    ],
+    "bio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel Live Ahmedabad, Auth0 Ambassador",
+    "company": "iBASEt India Software Pvt. Ltd.",
+    "companyLogo": "",
+    "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fibaset-india-software-pvt-ltd.jpeg?alt=media&token=84cd93b8-69a5-4632-9f43-bfc5bb0eac87",
+    "country": "Ahmedabad, Gujarat",
+    "featured": false,
+    "name": "Hiren Dave",
+    "photo": "",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+    "pronouns": "he/him",
+    "shortBio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/hjdave",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/davehiren",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://hirendave.com/",
+        "name": "Website"
+      }
+    ],
+    "order": 26,
+    "rockstarSpeakerOrder": 26,
+    "title": "Senior Tech Lead"
+  },
   "team": [
     {
       "members": [
@@ -1778,7 +1818,7 @@
             },
             {
               "icon": "website",
-              "link": "https://hirendave.tech",
+              "link": "https://hirendave.com/",
               "name": "Website"
             }
           ],
