@@ -2213,10 +2213,6 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/vahid-sumra-41675a52/?originalSubdomain=in",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 1,
@@ -2276,10 +2272,6 @@
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Faniket-khatri.jpg?alt=media&token=2c4d8a81-8441-4a08-8b21-58927906422b",
           "socials": [
             {
-              "icon": "twitter",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/aniket-khatri-b2860a177",
               "name": "LinkedIn"
@@ -2297,20 +2289,6 @@
           "name": "Balwani Niraj Satishkumar ",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fbalwani-niraj-satishkumar.jpg?alt=media&token=d534d1be-1881-4aa2-b0cc-4f42bcf95d7c",
-          "socials": [
-            {
-              "icon": "twitter",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
-            }
-          ],
           "order": 5,
           "title": ""
         },
@@ -2328,10 +2306,6 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/varshaba-zala-50a1b324b",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 6,
@@ -2357,10 +2331,6 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/kanchi-vasavada-3b32b8116",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 0,
@@ -2380,10 +2350,6 @@
               "icon": "linkedin",
               "link": "https://in.linkedin.com/in/yesha-bhatt-48101118b",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 1,
@@ -2433,10 +2399,6 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 1,
@@ -2520,17 +2482,9 @@
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fashish-sanjaybhai-adesara.jpeg?alt=media&token=9581db0d-c3e5-4566-8a90-c21b50bb8d2b",
           "socials": [
             {
-              "icon": "twitter",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/ashish-adesara-8992a4169",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 5,
@@ -2542,17 +2496,9 @@
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fmeet-panchal.jpg?alt=media&token=84162748-2c4b-4270-b59d-06fbfc54479e",
           "socials": [
             {
-              "icon": "twitter",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/meet-panchal-43bb601ba",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 6,
@@ -2732,17 +2678,9 @@
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fjoy-mehta.JPG?alt=media&token=ed77538c-3737-4067-97e0-b61e2d116b7f",
           "socials": [
             {
-              "icon": "twitter",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/joymehta17/",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 14,
@@ -2762,10 +2700,6 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/vidhi-suthar-99b328209/",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 15,
@@ -2809,10 +2743,6 @@
               "icon": "linkedin",
               "link": "linkedin.com/in/nidhi-dadiya-b1955b64",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "name": "Github"
             }
           ],
           "order": 17,
