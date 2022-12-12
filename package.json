@@ -13,6 +13,7 @@
     "deploy": "npm run build && NODE_ENV=production firebase deploy",
     "firestore:copy": "ts-node-script ./scripts/firestore-copy",
     "firestore:init": "ts-node-script ./scripts/firestore-init",
+    "firestore:delete": "npx firebase firestore:delete --recursive --all-collections",
     "fix": "concurrently npm:fix:*",
     "fix:eslint": "eslint . --ext .ts --ext .js --fix",
     "fix:markdownlint": "markdownlint '**/*.md' --fix",

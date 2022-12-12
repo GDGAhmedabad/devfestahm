@@ -448,7 +448,7 @@
       "companyName": "DhiWise Pvt. Ltd.",
       "location": "Surat, India",
       "bio": "DhiWise is a programming platform where developers can convert their designs into developer-friendly code for mobile and web apps. DhiWise automates the application development lifecycle and instantly generates readable, modular and reusable code. At DhiWise, you can fall in love with your work again. A platform built for developers to build apps in a way that uses their engineering muscle rather than forcing the use of crammed information.",
-      "companyLogoUrl": "https://uploads-ssl.webflow.com/618e36726d3c0f19c9284e56/6392ef0773801c4452bd8bde_DhiWise-Logo-150X150.jpg",
+      "companyLogoUrl": "https://uploads-ssl.webflow.com/618e36726d3c0f19c9284e56/6396b5ccaa7b4253b742ee5b_DhiWise-Logo-150X150.jpg",
       "companyWebsite": "https://www.dhiwise.com/",
       "companyCareerPage": "https://dhiwise.freshteam.com/jobs",
       "linkedin": "https://www.linkedin.com/company/dhiwise/",
@@ -677,6 +677,130 @@
     },
     {
       "id": 17,
+      "companyName": "Digicians",
+      "location": "Ahmedabad, India",
+      "bio": "We are solution oriented creative rebels who believe that effective use of technology can empower people, businesses, society and the world at large.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1UrgthBirQtiOOd26Rli9Jt5cyRYrFA0Z",
+      "companyWebsite": "https://digicians.com/",
+      "companyCareerPage": "https://digicians.com/contact/",
+      "linkedin": "https://www.linkedin.com/company/digicians/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 2,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "companyName": "AddWeb Solution Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
+      "companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
+      "companyWebsite": "https://www.addwebsolution.com/",
+      "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
+      "linkedin": "https://in.linkedin.com/company/addwebsolution/",
+      "hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2022-03/DSC_2251-min.JPG",
+      "openings": [
+        {
+          "title": "Drupal Developers",
+          "count": 3,
+          "experience": "3-10 years"
+        },
+        {
+          "title": "ASP.Net Developers",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Business Development Executive Manager",
+          "count": 4,
+          "experience": "1 - 8 years"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "3-10 years"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "companyName": "iView Labs Pvt. Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "iView Labs is a leading cloud-based application development company that provides software solutions to US, Europe, and Australian businesses.",
+      "companyLogoUrl": "https://www.iviewlabs.com/assets/img/iView-Labs-Logo.png",
+      "companyWebsite": "https://www.iviewlabs.com",
+      "companyCareerPage": "https://www.iviewlabs.com/join-us",
+      "linkedin": "https://www.linkedin.com/company/iviewlabs",
+      "hiringImageUrl": "https://tse2.mm.bing.net/th?id=OIP.L2gI9ov2hu2itvAuifSFpQHaHa&pid=Api&P=0",
+      "openings": [
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 19,
       "companyName": "Capermint Technologies Pvt. Ltd.",
       "location": "Ahmedabad, India",
       "bio": "Capermint Technologies is a leading Mobile App and Game Development company in India with ISO 9001:2015 Certification & also has a presence in Canada, USA, France & UK. We use the latest and high-quality technologies like AR, VR, AI, XR, Etc to develop apps and games that deliver unique and mesmerizing experiences to users. Capermint Technologies is a global leader in mobile game/application design and development. We create comprehensive games and applications for startups, businesses, and enterprises across various Android and iOS. Our vision is to constantly develop mobile apps and games and grow as a major mobile app and game development company.",
