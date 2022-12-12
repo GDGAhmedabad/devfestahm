@@ -740,6 +740,64 @@
           "experience": "3-10 years"
         }
       ]
+    },
+    {
+      "id": 18,
+      "companyName": "iView Labs Pvt. Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "iView Labs is a leading cloud-based application development company that provides software solutions to US, Europe, and Australian businesses.",
+      "companyLogoUrl": "https://www.iviewlabs.com/assets/img/iView-Labs-Logo.png",
+      "companyWebsite": "https://www.iviewlabs.com",
+      "companyCareerPage": "https://www.iviewlabs.com/join-us",
+      "linkedin": "https://www.linkedin.com/company/iviewlabs",
+      "hiringImageUrl": "https://tse2.mm.bing.net/th?id=OIP.L2gI9ov2hu2itvAuifSFpQHaHa&pid=Api&P=0",
+      "openings": [
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        }
+      ]
     }
   ]
 }
