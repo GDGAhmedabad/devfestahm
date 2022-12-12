@@ -44,7 +44,7 @@ export class BadgePage extends PolymerElement {
           margin-bottom: 0;
         }
 
-        .input label {
+        .input .title {
           font-size: 18px;
           margin-bottom: 8px;
           font-weight: 500;
@@ -150,6 +150,8 @@ export class BadgePage extends PolymerElement {
             background-color: #008aff;
         }
 
+        canvas { image-rendering: pixelated; image-rendering: optimizespeed; }
+
       </style>
 
       <hero-block
@@ -173,12 +175,12 @@ export class BadgePage extends PolymerElement {
               name="file"
               id="file"
             />
-            <paper-button on-click="openFileSelector">
-              Upload Image
+            <paper-button>
+              <label for="file">Upload Image</label>
             </paper-button>
           </div>
           <div class="input">
-            <label>Image Shape</label>
+            <label class="title">Image Shape</label>
             <div class="select-container">
               <div
                 class="select"
@@ -227,6 +229,7 @@ export class BadgePage extends PolymerElement {
   image: any;
   shape = "original";
   banner = new Image();
+  dpi = window.devicePixelRatio;
   onAfterEnter() {
     setTimeout(() => {
       this.canvas = this.shadowRoot?.querySelector('canvas');
@@ -234,6 +237,7 @@ export class BadgePage extends PolymerElement {
       this.banner.setAttribute('crossOrigin', 'anonymous')
       this.banner.src = '/images/devfestahm22-badge-frame.jpg';
       this.banner.onload = () => {
+        this.ctx.imageSmoothingEnabled = false;
         this.draw();
       };
     }, 1000);
@@ -302,8 +306,8 @@ export class BadgePage extends PolymerElement {
         }
         default: {
           const size = Math.min(this.image.width, this.image.height);
-          this.canvas.width = 500;
-          this.canvas.height = 500;
+          this.canvas.width = 500 * this.dpi;
+          this.canvas.height = 500 * this.dpi;
           const hRatio = this.canvas.width / this.image.width;
           const vRatio = this.canvas.height / this.image.height;
           const ratio = Math.max(hRatio, vRatio);
@@ -324,8 +328,8 @@ export class BadgePage extends PolymerElement {
         }
       }
     } else {
-      this.ctx.canvas.width = 500;
-      this.ctx.canvas.height = 500;
+      this.ctx.canvas.width = 500 * this.dpi;
+      this.ctx.canvas.height = 500 * this.dpi;
       this.ctx.fillStyle = "#fff";
       this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
     }
