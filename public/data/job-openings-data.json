@@ -798,6 +798,79 @@
           "experience": "3 to 8 Years experience"
         }
       ]
+    },
+    {
+      "id": 19,
+      "companyName": "Yudiz Solutions Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Yudiz Solutions is recognized as an eminent company in the software industry that offers the best in class digital solutions and impressive services that stands out globally.",
+      "companyLogoUrl": "https://www.yudiz.com/wp-content/uploads/2022/07/yudiz-logo-ltd.svg",
+      "companyWebsite": "https://www.yudiz.com/",
+      "companyCareerPage": "https://www.yudiz.com/join-our-team/",
+      "linkedin": "https://in.linkedin.com/company/yudiz-solutions-ltd",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "ETL Developer",
+          "count": 1,
+          "experience": "3-5 years experience"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 2,
+          "experience": "2-4 years experience"
+        },
+        {
+          "title": "ReactJs Developer",
+          "count": 2,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "BA (Product)",
+          "count": 1,
+          "experience": "1-2 years experience"
+        },
+        {
+          "title": "Content Writer/Copy Writer",
+          "count": 2,
+          "experience": "1-2 years experience"
+        },
+        {
+          "title": "SEO executive",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": ".NET Developer",
+          "count": 3,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Unity Developer",
+          "count": 2,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Web Designer",
+          "count": 1,
+          "experience": "2-4 years experience"
+        },
+        {
+          "title": "Front Developer",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 2,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "BDE",
+          "count": 3,
+          "experience": "2-5 years experience"
+        }
+      ]
     }
   ]
 }
