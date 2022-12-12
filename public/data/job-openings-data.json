@@ -871,6 +871,69 @@
           "experience": "2-5 years experience"
         }
       ]
+    },
+    {
+      "id": 20,
+      "companyName": "Capermint Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Capermint Technologies is a leading Mobile App and Game Development company in India with ISO 9001:2015 Certification & also has a presence in Canada, USA, France & UK. We use the latest and high-quality technologies like AR, VR, AI, XR, Etc to develop apps and games that deliver unique and mesmerizing experiences to users. Capermint Technologies is a global leader in mobile game/application design and development. We create comprehensive games and applications for startups, businesses, and enterprises across various Android and iOS. Our vision is to constantly develop mobile apps and games and grow as a major mobile app and game development company.",
+      "companyLogoUrl": "https://www.capermint.com/wp-content/uploads/2021/10/logo-capermint.webp",
+      "companyWebsite": "https://www.capermint.com/",
+      "companyCareerPage": "https://www.capermint.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQGC8biYrQWz8Q/feedshare-shrink_1280/0/1669017036889?e=1673481600&v=beta&t=Et23o801-hly4sM4oDz-O6V1Rsq1nyiWnF9NjgEhVYc",
+      "openings": [
+        {
+          "title": "Unity 3D Developer",
+          "count": 5,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "HTML5 Developer",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 4,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "3 to 5 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 2,
+          "experience": "2 to 5 Years experience"
+        },
+        {
+          "title": "Project Coordinator",
+          "count": 2,
+          "experience": "2 to 5 Years experience"
+        },
+        {
+          "title": "Project Manager",
+          "count": 2,
+          "experience": "5+ Years experience"
+        },
+        {
+          "title": "AR/VR Developer",
+          "count": 2,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "IOT Engineer",
+          "count": 2,
+          "experience": "2 to 3 Years experience"
+        }
+      ]
     }
   ]
 }
