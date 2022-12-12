@@ -677,7 +677,40 @@
     },
     {
       "id": 16,
-      "companyName": "iView Labs Pvt. Ltd",
+      "companyName": "Digicians",
+      "location": "Ahmedabad, India",
+      "bio": "We are solution oriented creative rebels who believe that effective use of technology can empower people, businesses, society and the world at large.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1UrgthBirQtiOOd26Rli9Jt5cyRYrFA0Z",
+      "companyWebsite": "https://digicians.com/",
+      "companyCareerPage": "https://digicians.com/contact/",
+      "linkedin": "https://www.linkedin.com/company/digicians/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 2,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+    "id" : 17,
+     "companyName": "iView Labs Pvt. Ltd",
       "location": "Ahmedabad, India",
       "bio": "iView Labs is a leading cloud-based application development company that provides software solutions to US, Europe, and Australian businesses.",
       "companyLogoUrl": "https://www.iviewlabs.com/assets/img/iView-Labs-Logo.png",
@@ -730,8 +763,8 @@
           "title": "Java Developer",
           "count": 2,
           "experience": "3 to 8 Years experience"
-        }
-      ]
+         }
+       ]
     }
   ]
 }

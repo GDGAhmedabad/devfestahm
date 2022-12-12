@@ -21,6 +21,7 @@ describe('speaker', () => {
       'shortBio',
       'socials',
       'title',
+      'rockstarSpeakerOrder',
     ];
     expect(speakers).toHaveLength(27);
     expect(allKeys(speakers)).toStrictEqual(keys);
