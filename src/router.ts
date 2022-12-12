@@ -184,6 +184,13 @@ const ROUTES: Route[] = [
     ],
   },
   {
+    path: '/badge',
+    component: 'badge-page',
+    action: async () => {
+      await import('./pages/badge-page.js');
+    },
+  },
+  {
     path: '(.*)',
     component: 'not-found-page',
     action: async () => {

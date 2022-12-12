@@ -8,10 +8,13 @@ import { selectTeams } from '../teams/selectors';
 import { TeamsState } from '../teams/state';
 import { TeamsMembersState } from './state';
 
-const mergeMembers = (team: TeamWithoutMembers, possibleMembers: Member[]): Team => {
+const mergeMembers = (team: TeamWithoutMembers, index: number, possibleMembers: Member[]): Team => {
+  const isCoreTeam = index === 0;
+  const members = possibleMembers.filter((member) => member.parentId === team.id);
+
   return {
     ...team,
-    members: possibleMembers.filter((member) => member.parentId === team.id),
+    members: isCoreTeam ? members.sort((a, b) => a.order - b.order) : members,
   };
 };
 
@@ -20,7 +23,9 @@ export const selectTeamsAndMembers = createSelector(
   selectMembers,
   (teams: TeamsState, members: MembersState): TeamsMembersState => {
     if (teams instanceof Success && members instanceof Success) {
-      const merged = teams.data.map((team) => mergeMembers(team, members.data));
+      const merged = teams.data
+        .sort((a, b) => a.order - b.order)
+        .map((team, index) => mergeMembers(team, index, members.data));
       return new Success(merged);
     } else if (teams instanceof Pending || members instanceof Pending) {
       return new Pending();
