@@ -934,6 +934,38 @@
           "experience": "2 to 3 Years experience"
         }
       ]
+    },
+    {
+      "id": 21,
+      "companyName": "TST Technology",
+      "location": "Ahmedabad, India",
+      "bio": "TST Technology is a young, energetic, and enthusiastic team of members bringing to the table a whole new set of innovative and fresh ideas to solve industry challenges and difficulties.Based on the foundation of excellence, commitment, and perfection, we provide businesses a chance to leverage the true power of technology.We are highly customer-centric, which means any client business/organization is our prime focus, and we work to deliver them core satisfaction.We provide our clients with -IT consulting services, App & Web Development, Cloud services, DevOps consultancy, and more. Talking about the services brings us to mentioning a rather compact list. Our services go beyond this to provide you with full-time support and assistance so that you get a rich experience.",
+      "companyLogoUrl": "https://tsttechnology.in/assets/img/logo.png",
+      "companyWebsite": "https://tsttechnology.in/",
+      "companyCareerPage": "https://tsttechnology.in/contact",
+      "linkedin": "https://www.linkedin.com/company/tst-technology/",
+      "openings": [
+      {
+        "title": "React developer",
+        "count": 2,
+        "experience": "1-3 years"
+      },
+      {
+        "title": "Node developer",
+        "count": 2,
+        "experience": "1-3 years"
+      },
+      {
+        "title": "Flutter developer",
+        "count": 3,
+        "experience": "1-3 years"
+      },
+      {
+        "title": "Business developer",
+        "count": 1,
+        "experience": "1-3 years"
+       }
+      ]
     }
   ]
 }
