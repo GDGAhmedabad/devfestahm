@@ -244,11 +244,6 @@ export class BadgePage extends PolymerElement {
     updateMetadata(this.heroSettings.title, this.heroSettings.metaDescription);
   }
 
-  openFileSelector() {
-    const shadowRoot: any = this.shadowRoot;
-    shadowRoot.querySelector("input.profile-input").click();
-  }
-
   changeShape(event: any) {
     const original:any = this.shadowRoot?.querySelector(
       ".select-container .select#original"
