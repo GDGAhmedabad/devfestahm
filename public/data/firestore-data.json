@@ -1380,7 +1380,7 @@
         }
       ],
       "bio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon of the software industry for the 15+ years. - Worked with 20+ startups and mentored them. He is the founder / Organiser of Google Developers Group Ahmedabad. He is holding 120,000 reputation points over Stack Overflow. Known for community contribution, writing blogs, delivering talks across India and International, Mentoring and Working with Startups.",
-      "company": "Solguruz",
+      "company": "SolGuruz",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
       "country": "Ahmedabad, Gujarat",
@@ -1461,7 +1461,7 @@
       "bio": "Program Head at Gujarat Student Startup and Innovation Hub (i-Hub), Education Department, Govt. of Gujarat",
       "company": "Gujarat Student Startup and Innovation Hub (i-Hub)",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fi-hub.jpeg?alt=media&token=3171ca1a-fbf3-48fd-8361-995df7e36c56",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fi-hub.png?alt=media&token=f8ba3619-d40a-46ab-a861-d3458435025d",
       "country": "Ahmedabad, Gujarat",
       "featured": false,
       "name": "Jaykumar Joshi",
@@ -2114,6 +2114,30 @@
           ],
           "order": 10,
           "title": ""
+        },
+        {
+          "name": "Bharat Makwana",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fbharat-makwana.jpg?alt=media&token=d25e8076-dfb0-4fb1-8729-4d95a1ca0615",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bharatmk256",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/bharatmk256/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "http://github.com/bharatmk256",
+              "name": "Github"
+            }
+          ],
+          "order": 11,
+          "title": ""
         }
       ],
       "order": 2,
@@ -2746,30 +2770,6 @@
             }
           ],
           "order": 17,
-          "title": ""
-        },
-        {
-          "name": "Bharat Makwana",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fbharat-makwana.jpg?alt=media&token=d25e8076-dfb0-4fb1-8729-4d95a1ca0615",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/bharatmk256",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/bharatmk256/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "http://github.com/bharatmk256",
-              "name": "Github"
-            }
-          ],
-          "order": 18,
           "title": ""
         }
       ],
