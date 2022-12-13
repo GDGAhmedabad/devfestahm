@@ -707,6 +707,39 @@
           "experience": "1+ year"
         }
       ]
+    },
+    {
+      "id": 17,
+      "companyName": "Novumlogic Technologies Pvt Ltd",
+      "location": "Vadodara, India",
+      "bio": "You're BRAIN to us, not a 'resource'.\nNovumlogic is India's top Mobile & Web app development company. Career growth with work life balance, that is what we believe in.\nWe are the best place for the best people to work.",
+      "companyLogoUrl": "https://www.novumlogic.com/assets/gdgahm/ntpl_top_bold.png",
+      "companyWebsite": "https://www.novumlogic.com/",
+      "companyCareerPage": "https://www.novumlogic.com/career/positions",
+      "linkedin": "https://www.linkedin.com/company/novumlogic",
+      "hiringImageUrl": "https://www.novumlogic.com/assets/gdgahm/gdgahm_open_position.png",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Android (Kotlin) Developers",
+          "count": 2,
+          "experience": "2 to 5 years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 2,
+          "experience": "2 to 4 years experience"
+        },
+        {
+          "title": "MEAN Stack Developers",
+          "count": 2,
+          "experience": "1 to 4 years experience"
+        }
+      ]
     }
   ]
 }
