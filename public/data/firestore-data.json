@@ -110,6 +110,18 @@
           "logoUrl": "../images/logos/solvative.png",
           "name": "Solvative",
           "url": "https://solvative.com/"
+        },
+        {
+          "order": 5,
+          "logoUrl": "../images/logos/oneclick.svg",
+          "name": "OneClick IT Consultancy Pvt. Ltd.",
+          "url": "https://www.oneclickitsolution.com/"
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/jetbrains.png",
+          "name": "JetBrains",
+          "url": "https://www.jetbrains.com/"
         }
       ],
       "order": 2,
