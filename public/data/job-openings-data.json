@@ -1128,6 +1128,59 @@
           "experience": "2-4 years"
         }
       ]
+    },
+    {
+      "id": 25,
+      "companyName": "OneClick IT Consultancy PVT Ltd",
+      "location": "Ahmedabad",
+      "bio": "OneClick IT Consultancy Pvt Ltd is a growing web, mobile and software development company with a diversified pool of technology and subject matter experts. It is an active member of GESIA, Nasscom registered and ISO Certified based in Ahmedabad, INDIA. OneClick has 120+ employees and was established in 2012.",
+      "companyLogoUrl": "https://www.oneclickitsolution.com/wp-content/uploads/2022/09/OC_Logo_-_HD.png",
+      "companyWebsite": "https://www.oneclickitsolution.com",
+      "companyCareerPage": "https://www.oneclickitsolution.com/careers",
+      "linkedin": "https://www.linkedin.com/company/one-click-it-consultancy",
+      "hiringImageUrl": "https://www.oneclickitsolution.com/wp-content/uploads/2022/12/Google_Hiring-scaled.jpg",
+      "openings": [
+        {
+          "title": "DotNet Developers",
+          "count": 6,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Content writers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Project Managers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Database Developer",
+          "count": 1,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Android Developers",
+          "count": 2,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Full stack developers",
+          "count": 2,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Scala Developers (Pune Location)",
+          "count": 2,
+          "experience": "10+ years"
+        },
+        {
+          "title": "MsDynamics (Chennai/Banglore Location)",
+          "count": 2,
+          "experience": "5+ years"
+        }
+      ]
     }
   ]
 }
