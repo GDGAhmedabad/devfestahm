@@ -966,6 +966,54 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": " Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS.Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "companyWebsite": "http://brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/about/",
+      "hiringImageUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "openings": [
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "ReactJS Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "NodeJS Developers",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 1,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Analyst-Magento",
+          "count": 2,
+          "experience": "1 to 3 Years experience"
+        }
+      ]
     }
   ]
 }
