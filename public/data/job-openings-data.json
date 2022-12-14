@@ -707,6 +707,49 @@
           "experience": "1+ year"
         }
       ]
+    },
+    {
+  "id": 17,
+  "companyName": "Dolphin Web Solution Pvt Ltd",
+  "location": "Ahmedabad",
+  "bio": "Our designers write code and create visuals; developers build interfaces and web strategists connect it all, seamlessly. To achieve this, we’ve assembled a team whose individual talents complement each other. Each of us has cultivated a unique skill set which allows us to work collaboratively to provide creative solutions and dedicated execution. We’re a close-knit team of product wizards, web strategists, design geniuses, and development masters. Together, we build scalable web apps and mobile applications that simplify businesses.",
+  "companyLogoUrl": "https://dolphinwebsolution.com/wp-content/uploads/2020/06/dolphin_logo.png",
+  "companyWebsite": "https://dolphinwebsolution.com/",
+  "companyCareerPage": "https://dolphinwebsolution.com/careers/",
+  "linkedin": "https://in.linkedin.com/company/dolphin-web-solution",
+  "hiringImageUrl": "https://dolphinwebsolution.com/wp-content/uploads/2020/06/dws_footer_icon.png",
+  "openings": [
+    {
+      "title": "React JS developer",
+      "count": 3,
+      "experience": "1 – 3 years"
+    },
+    {
+      "title": "React Native Developer",
+      "count": 3,
+      "experience": "1 – 3 years"
+    },
+    {
+      "title": "Magento Developer",
+      "count": 10,
+      "experience": "1 – 5 years"
+    },
+    {
+      "title": "Wordpress Developer",
+      "count": 5,
+      "experience": "1 – 4 years"
+    },
+    {
+      "title": "Shopify Developer",
+      "count": 5,
+      "experience": "1 – 3 years"
+    },
+    {
+      "title": "Sr.Business Development Executive",
+      "count": 2,
+      "experience": "1 – 3 years"
     }
+  ]
+}
   ]
 }
