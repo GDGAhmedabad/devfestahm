@@ -707,6 +707,49 @@
           "experience": "1+ year"
         }
       ]
+    },
+    {
+      "id": 17,
+      "companyName": "Inferenz Tech Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "Inferenz breaks the barriers to digitalization by uncomplicating the journey and helping customers discover complete clarity. We are a group of technologists and domain experts that provides new age technologies to adapt to change and accelerate business growth. We are obsessed with staying ahead of the technology curve. Our team of innovative technologists and domain experts are constantly working on improving our technologies to keep delivering the best solutions to our customers.",
+      "companyLogoUrl": "https://drive.google.com/drive/folders/13qhNUhPGCz0FlENmU30NF86qxCBbOijO",
+      "companyWebsite": "https://inferenz.ai/",
+      "companyCareerPage": "https://inferenz.ai/careers/",
+      "linkedin": "https://www.linkedin.com/company/inferenz/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Data Engineer",
+          "count": 5,
+          "experience": "3+ years"
+        },
+	  {
+          "title": "Sr.Data Engineer",
+          "count": 5,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Lead AI Engineer",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Unity Developer",
+          "count": 2,
+          "experience": "2+ years"
+        },
+	  {
+          "title": "Full Stack Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+      ]
     }
   ]
 }
