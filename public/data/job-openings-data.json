@@ -707,6 +707,34 @@
           "experience": "1+ year"
         }
       ]
+    },
+    {
+      "id": 17,
+      "companyName": "Sufalam Technologies Pvt. Ltd.",
+      "location": "Ahmedabad",
+      "bio": "Sufalam Technologies Pvt. Ltd. Ahmedabad Building Scalable & Secure Digital Products for Startups & Enterprises.",
+      "companyLogoUrl": "https://www.sufalamtech.com/wp-content/themes/sufalamtech/images/logo.png",
+      "companyWebsite": "https://www.sufalamtech.com/",
+      "companyCareerPage": "https://www.sufalamtech.com/career.htm/",
+      "linkedin": "https://www.linkedin.com/company/sufalamtech",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Fullstack Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "ReactJs Developers",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Nodejs Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        }
+      ]
     }
   ]
 }
