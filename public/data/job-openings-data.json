@@ -1128,6 +1128,44 @@
           "experience": "2-4 years"
         }
       ]
+    },
+    {
+      "id": 26,
+      "companyName": "Lucent Innovation",
+      "location": "Ahmedabad - Gandhinagar",
+      "bio": "Lucent Innovation is a global solution provider in Digital enterprises and provide seamless web and mobile application development and software solutions as well as e-commerce solutions.Lucent Innovation is a leading official Shopify plus partners, Shopify Experts that concepts your idea into the product.",
+      "companyLogoUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/lucent-black_logo_220.png?v=1670991872",
+      "companyWebsite": "https://www.lucentinnovation.com/",
+      "companyCareerPage": "https://www.lucentinnovation.com/pages/careers",
+      "linkedin": "https://www.linkedin.com/company/lucent-innovation",
+      "hiringImageUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/312799564_657759969049207_4029305728327268450_n.jpg",
+      "openings": [
+        {
+          "title": "Java Developers",
+          "count": 10,
+          "experience": "2+ years"
+        },
+        {
+          "title": "React Developers",
+          "count": 8,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 12,
+          "experience": "2+"
+        },
+        {
+          "title": "Digital Marketer - PPC",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Freshers",
+          "count": 10,
+          "experience": "0 - 1 years"
+        }
+      ]
     }
   ]
 }
