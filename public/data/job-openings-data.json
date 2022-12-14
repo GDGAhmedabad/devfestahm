@@ -966,6 +966,39 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "QDev Technolab",
+      "location": "Ahmedabad, India",
+      "bio": "We are software development company who believe in quality and excellence. When Quality meets excellence, it will gives us Innovation as output. QDev has been helping peoples across various industries to optimize their business processes through custom software solutions and convert their ideas to implementation. we also consider our team members as our most valuable assets and we are taking care of them.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1zPpzXGnmW6pExVI2RzKJ_7zgSp3wcaPa/view?usp=sharing",
+      "companyWebsite": "http://qdevtechnolab.com/",
+      "companyCareerPage": "https://qdevtechnolab.com/hiredeveloper",
+      "linkedin": "https://www.linkedin.com/company/qdev-technolab-21/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "2+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2+ year"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "2+ year"
+        }
+      ]
     }
   ]
 }
