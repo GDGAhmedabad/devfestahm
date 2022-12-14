@@ -1085,6 +1085,49 @@
           "experience": "1 – 3 years"
         }
       ]
+    },
+    {
+      "id": 25,
+      "companyName": "Technobrains Business Solution LLP",
+      "location": "Ahmedabad",
+      "bio": "TechnoBrains is a full-service Web & App development company in India with a head office situated in Ahmadabad. Our dynamic team consists of experienced web developers, designers, and digital strategists who work hard to deliver better business outcomes that empower our clients through our tailor-made result-driven solutions. Since its establishment in 2009, we have helped to transform many businesses by integrating our technological ability with a deeper understanding of the digital landscape. We take a collaborative approach to identify actionable ideas that can help your enterprise lead to better outcomes for any client engagement. We can turn your creative ideas into reality.",
+      "companyLogoUrl": "https://technobrains.io/wp-content/uploads/2021/06/logo.svg",
+      "companyWebsite": "https://technobrains.io/",
+      "companyCareerPage": "https://technobrains.io/career/",
+      "linkedin": "https://www.linkedin.com/company/technobrains-business-solutions",
+      "hiringImageUrl": "https://documents.schedulesoftware.net/uploads/images/24_job%20banner%206%20vacancy%2025-11%20(800).gif",
+      "openings": [
+        {
+          "title": "Sr. DotNet Developers",
+          "count": 2,
+          "experience": "4-9 years"
+        },
+        {
+          "title": "DotNet Developers",
+          "count": 7,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Wordpress Developers",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "SEO/Digital Marketing",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "PHP Developers",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Web Designer (Front-end)",
+          "count": 1,
+          "experience": "2-4 years"
+        }
+      ]
     }
   ]
 }
