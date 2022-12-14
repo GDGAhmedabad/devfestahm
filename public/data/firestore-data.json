@@ -550,7 +550,8 @@
         "abhilasha_vyas"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Cloud"
       ],
       "title": "Managing Identities and secure access with GCP Security"
     },
@@ -600,7 +601,8 @@
         "bhavesh_bhatt"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "AI/ML"
       ],
       "title": "Building ML Powered Web Applications using TensorFlow Hub & Gradio"
     },
@@ -650,7 +652,8 @@
         "nilay_chauhan"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Data Science"
       ],
       "title": "The way we've carved out our path in Data Science"
     },
@@ -712,7 +715,8 @@
         "kamesh_sampath"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Cloud"
       ],
       "title": "How to Build Applications using Google API"
     },
