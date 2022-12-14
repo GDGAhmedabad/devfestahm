@@ -966,6 +966,89 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "JB Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "JB Solutions is an excellent provider of innovative solutions in IT Services from over a decade and achieved the success as per its vision. Here is the great opportunity to work with challenging and inspiring peoples of JB Solutions that will lead to a change and personal growth.",
+      "companyLogoUrl": "https://www.jbsolutions.in/images/logo.png",
+      "companyWebsite": "https://www.jbsolutions.in/",
+      "companyCareerPage": "https://www.jbsolutions.in/careers.html",
+      "linkedin": "https://www.linkedin.com/company/jainbhaveshsolutions/",
+      "hiringImageUrl": "https://www.jbsolutions.in/images/career.jpg",
+      "openings": [
+        {
+          "title": "Sr. PHP Professional",
+          "count": 5,
+          "experience": "At-least 5 years"
+        },
+        {
+          "title": "React native",
+          "count": 5,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 3,
+          "experience": "2-10 years"
+        },
+        {
+          "title": "Software Professional",
+          "count": 6,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 5,
+          "experience": "3-8 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Microsoft .NET Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Javascript Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Graphic Designer",
+          "count": 3,
+          "experience": "0-3 years"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 3,
+          "experience": "2-5 years"
+        }
+      ]
     }
   ]
 }
