@@ -110,6 +110,18 @@
           "logoUrl": "../images/logos/solvative.png",
           "name": "Solvative",
           "url": "https://solvative.com/"
+        },
+        {
+          "order": 5,
+          "logoUrl": "../images/logos/oneclick.svg",
+          "name": "OneClick IT Consultancy Pvt. Ltd.",
+          "url": "https://www.oneclickitsolution.com/"
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/jetbrains.png",
+          "name": "JetBrains",
+          "url": "https://www.jetbrains.com/"
         }
       ],
       "order": 2,
@@ -538,7 +550,8 @@
         "abhilasha_vyas"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Cloud"
       ],
       "title": "Managing Identities and secure access with GCP Security"
     },
@@ -588,7 +601,8 @@
         "bhavesh_bhatt"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "AI/ML"
       ],
       "title": "Building ML Powered Web Applications using TensorFlow Hub & Gradio"
     },
@@ -638,7 +652,8 @@
         "nilay_chauhan"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Data Science"
       ],
       "title": "The way we've carved out our path in Data Science"
     },
@@ -700,7 +715,8 @@
         "kamesh_sampath"
       ],
       "tags": [
-        "Web"
+        "Web",
+        "Cloud"
       ],
       "title": "How to Build Applications using Google API"
     },
@@ -718,7 +734,7 @@
     },
     "122": {
       "complexity": "Intermediate",
-      "description": "We are here for a limited time and with limited resources, the only unlimited thing we have is our imagination, let's leave the world in a better shape than it was handed over to us.",
+      "description": "Devtools are driving the tech revolution: Get ahead of the game by exploring the rapidly-expanding devtool market and discover the latest trends and opportunities for startups.",
       "language": "English",
       "speakers": [
         "vishal_virani"
@@ -727,7 +743,7 @@
         "Mobile",
         "Flutter"
       ],
-      "title": "Beginning of a Pro-code movement"
+      "title": "The future of devtools: Trends and opportunities for startups"
     },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -754,10 +770,14 @@
       "title": "Morning coffee"
     },
     "136": {
-      "description": "Official start of the conference. Greetings from the Paresh Mayani and Dhrumil Shah",
+      "description": "Official start of the conference. Greetings from the Paresh Mayani and Jaldeep Asodariya",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
+      "speakers": [
+        "paresh_mayani",
+        "jaldeep_asodariya"
+      ],
       "title": "GDG DevFest Ahmedabad 2022 Opening"
     },
     "137": {
@@ -770,6 +790,11 @@
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "language": "English",
+      "speakers": [
+        "dhrumil_shah",
+        "hiren_dave"
+      ],
       "title": "Conference closing and contest winners announcements"
     },
     "139": {
@@ -1269,7 +1294,7 @@
       "title": "Flutter Expert | Founder"
     },
     "abhilasha_vyas": {
-      "bio": "Dr. Abhilasha Vyas working as Subject Matter Expert CloudThat Technologies. She is member of executive committee, Women in Big Data (WiBD) India and Core Team member of Women in Tech India. She is Gujarat Chapter Lead of infosecgirls community. She is also working as Head, Cyber Cell, Suraj Sansthan, Jaipur. Her research area is Cyber Security and Detection of DDoS attacks. Dr. Abhilasha is AWS Cloud Solution Architect certified trainer. She has been invited and honored as keynote speaker, session chair, resource person and technical committee member of various conferences. She delivered many CyberSecurity awareness sessions for Police Academies, school education and higher education institutions. She was part of the core team of eSaksham project which is joint initiative of AICTE, CPF and Ministry of Education. She received National Innovative Educator Award 2020 from International Institute of Organized Research (I2OR).",
+      "bio": "Dr. Abhilasha Vyas working as Subject Matter Expert CloudThat Technologies. She is member of executive committee, Women in Big Data (WiBD) India and Core Team member of Women in Tech India. She is Gujarat Chapter Lead of infosecgirls community. She is also working as Head, Cyber Cell, Suraj Sansthan, Jaipur. Her research area is Cyber Security and Detection of DDoS attacks. Dr. Abhilasha is AWS Cloud Solution Architect certified trainer. She has been invited and honored as keynote speaker, session chair, resource person and technical committee member of various conferences.",
       "company": "CloudThat Technologies",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcloudthat-technologies.png?alt=media&token=537268dc-71aa-4c36-a192-91d0e9f25ad0",
@@ -1371,7 +1396,7 @@
         }
       ],
       "bio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon of the software industry for the 15+ years. - Worked with 20+ startups and mentored them. He is the founder / Organiser of Google Developers Group Ahmedabad. He is holding 120,000 reputation points over Stack Overflow. Known for community contribution, writing blogs, delivering talks across India and International, Mentoring and Working with Startups.",
-      "company": "Solguruz",
+      "company": "SolGuruz",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
       "country": "Ahmedabad, Gujarat",
@@ -1452,7 +1477,7 @@
       "bio": "Program Head at Gujarat Student Startup and Innovation Hub (i-Hub), Education Department, Govt. of Gujarat",
       "company": "Gujarat Student Startup and Innovation Hub (i-Hub)",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fi-hub.png?alt=media&token=f8ba3619-d40a-46ab-a861-d3458435025d",
       "country": "Ahmedabad, Gujarat",
       "featured": false,
       "name": "Jaykumar Joshi",
@@ -1571,6 +1596,121 @@
       "order": 23,
       "rockstarSpeakerOrder": 23,
       "title": "Co-Founder"
+    },
+    "jaldeep_asodariya": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Jaldeep Asodariya is an Sr. Mobile App Developer and working at HighLevel. As he developed many enormous emerging Android and Flutter Application so far and got client’s satisfaction through his Development work. He is an Event Organizer  of Google Developer Group (GDG), Ahmedabad. \n\nJaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant applications as well as he has proficient knowledge in NodeJS.",
+      "company": "HighLevel",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgohighlevel.png?alt=media&token=176123b7-3386-4933-b9af-afe6f02ebc77",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jaldeep Asodariya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fjaldeep_asodariya.jpeg?alt=media&token=cf69e231-c96e-4321-adf4-09ed8e9f16d4",
+      "pronouns": "he/him",
+      "shortBio": "Jaldeep Asodariya is an Sr. Mobile App Developer and working at HighLevel. As...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JaldeepAsodariy",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaldeepasodariya/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jaldeepasodariya",
+          "name": "Github"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "SDE ||"
+    },
+    "dhrumil_shah": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-dhrumil-shah",
+          "name": "gde"
+        }
+      ],
+      "bio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG Ahmedabad, Startup Mentor, Speaker, Industry Advisory Board Member",
+      "company": "TATA Digital",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ftata-digital.webp?alt=media&token=c7958870-6e81-4e4b-b91c-17a4f91af9f2",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
+      "pronouns": "he/him",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dhuma1981",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Lead Architect"
+    },
+    "hiren_dave": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel Live Ahmedabad, Auth0 Ambassador",
+      "company": "iBASEt India Software Pvt. Ltd.",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fibaset-india-software-pvt-ltd.jpeg?alt=media&token=84cd93b8-69a5-4632-9f43-bfc5bb0eac87",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Hiren Dave",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "pronouns": "he/him",
+      "shortBio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hjdave",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/davehiren",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://hirendave.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 26,
+      "rockstarSpeakerOrder": 26,
+      "title": "Senior Tech Lead"
     }
   },
   "team": [
@@ -1603,7 +1743,7 @@
         {
           "name": "Dhrumil Shah",
           "photo": "/images/people/dhrumil_shah.png",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
           "socials": [
             {
               "icon": "twitter",
@@ -1618,25 +1758,6 @@
           ],
           "order": 1,
           "title": "Co-Organizer"
-        },
-        {
-          "name": "Utpal Betai",
-          "photo": "/images/people/utpal_betai.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/utpalbetai",
-              "name": "Twitter"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/utpal.betai.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 2,
-          "title": "Asst. Organizer"
         },
         {
           "name": "Dhruva Shastri",
@@ -1654,8 +1775,27 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 3,
+          "order": 2,
           "title": "WTM Ambassador"
+        },
+        {
+          "name": "Utpal Betai",
+          "photo": "/images/people/utpal_betai.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/utpalbetai",
+              "name": "Twitter"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/utpal.betai.9",
+              "name": "Facebook"
+            }
+          ],
+          "order": 3,
+          "title": "Asst. Organizer"
         },
         {
           "name": "Jaldeep Asodariya",
@@ -1703,7 +1843,7 @@
             },
             {
               "icon": "website",
-              "link": "https://hirendave.tech",
+              "link": "https://hirendave.com/",
               "name": "Website"
             }
           ],
@@ -1711,6 +1851,7 @@
           "title": "Event Organizer"
         }
       ],
+      "order": 0,
       "title": "Core Team"
     },
     {
@@ -1745,60 +1886,8 @@
           "title": "Designer"
         }
       ],
+      "order": 1,
       "title": "Creative Team"
-    },
-    {
-      "members": [
-        {
-          "name": "Deep Govani",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/djgovani",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/djgovani/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/djgovani",
-              "name": "Github"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
-        {
-          "name": "Nisharg Shah",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnisharg-shah.jpeg?alt=media&token=e98896e6-1a45-4871-9d59-ecdd75e07645",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/iamnisharg",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nishargshah/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/nishargshah",
-              "name": "Github"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        }
-      ],
-      "title": "Web Team"
     },
     {
       "members": [
@@ -2041,14 +2130,672 @@
           ],
           "order": 10,
           "title": ""
+        },
+        {
+          "name": "Bharat Makwana",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fbharat-makwana.jpg?alt=media&token=d25e8076-dfb0-4fb1-8729-4d95a1ca0615",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bharatmk256",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/bharatmk256/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "http://github.com/bharatmk256",
+              "name": "Github"
+            }
+          ],
+          "order": 11,
+          "title": ""
         }
       ],
+      "order": 2,
       "title": "Social Media Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Deep Govani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/djgovani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/djgovani/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/djgovani",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Nisharg Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fnisharg-shah.jpeg?alt=media&token=e98896e6-1a45-4871-9d59-ecdd75e07645",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/iamnisharg",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nishargshah/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/nishargshah",
+              "name": "Github"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        }
+      ],
+      "order": 3,
+      "title": "Web Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Parth Parmar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fparth_parmar.jpg?alt=media&token=6bbfb430-4d42-4fdb-8721-c1e0d25fe6d9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "twitter.com/thatp2blog",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "linkedin.com/in/parth030",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "github.com/parth-03083",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Vahid Sumra",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fvahid-sumra.jpeg?alt=media&token=732f47e0-4010-4062-8b8d-3f3aa7d0384d",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/vahidsnackeyes",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vahid-sumra-41675a52/?originalSubdomain=in",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Gupta Darshan Dilipkumar ",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fgupta-garshan-dilipkumar.png?alt=media&token=15bad78f-af3d-477e-bf4f-54f5b71ff84a",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/GuptaDarshan3?t=i0VWB7Zr4UiKOho9xjZVgg&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/darshan-gupta-430451221",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/DDgupta07",
+              "name": "Github"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "LAKSHYADIPKUMAR PATEL",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Flakhyadipkumar-patel.jpg?alt=media&token=86eb844f-3d6c-4eb3-ac3c-dfef485f204f",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/LaxdipPatel333",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/laxdip-patel-b9b114163",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/laxdippatel",
+              "name": "Github"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Aniket Khatri",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Faniket-khatri.jpg?alt=media&token=2c4d8a81-8441-4a08-8b21-58927906422b",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/aniket-khatri-b2860a177",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/Aniketkhatri",
+              "name": "Github"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Balwani Niraj Satishkumar ",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fbalwani-niraj-satishkumar.jpg?alt=media&token=d534d1be-1881-4aa2-b0cc-4f42bcf95d7c",
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Varshaba Nirubha zala",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fvarshaba-nirubha-zala.jpg?alt=media&token=e073f8ab-e4fe-4b10-8744-a332e1fd65e7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Varshaba8?t=QrcdevRwgfdIieQpjqFw_Q&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/varshaba-zala-50a1b324b",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
+          "title": ""
+        }
+      ],
+      "order": 4,
+      "title": "Registration and Swags Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Kanchi Vasavada",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fkanchi-vasavada.jpg?alt=media&token=3074c8ca-7bbc-48a0-a19b-93d920cfb659",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://mobile.twitter.com/KanchiVasavada",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/kanchi-vasavada-3b32b8116",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Yesha Bhatt",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fyesha-bhatt.jpg?alt=media&token=5080d12c-39ef-493f-82de-a0f18444226b",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://mobile.twitter.com/bhattyesha_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/yesha-bhatt-48101118b",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        }
+      ],
+      "order": 5,
+      "title": "Content Writer Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Tirth Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Ftirth-patel.jpg?alt=media&token=fd3cf6ea-9fbe-4186-bb2e-0e47d172f3c9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/piedcipher",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/tirth-patel",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/piedcipher",
+              "name": "Github"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Darpan Ketan Amre",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fdarpan-ketan-amre.jpeg?alt=media&token=3aff68e0-05a6-4476-843a-027a6d6a423c",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://mobile.twitter.com/amredarpan",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Harshvardhan Sharma",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fharshvardhan-sharma.png?alt=media&token=4b48c15d-c0b6-40be-bc0c-aa2bab6c8da9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/HVcodes",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/hv-sharma/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/hvsharma63",
+              "name": "Github"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Aayush Jain",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Faayush-jain.jpg?alt=media&token=32254e55-3318-4ed5-a08c-999915ce6617",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/jainaayush01",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/jainaayush01",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/jainaayush01",
+              "name": "Github"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Tanvi L. Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Ftanvi-shah.jpg?alt=media&token=d029ba3a-a50d-45c8-ab1d-21c913e5e758",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/tanvishah140",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/tanvi-shah-0a622b12b",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/Tanvi-shah02",
+              "name": "Github"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Ashish Sanjaybhai Adesara",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fashish-sanjaybhai-adesara.jpeg?alt=media&token=9581db0d-c3e5-4566-8a90-c21b50bb8d2b",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/ashish-adesara-8992a4169",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Meet K Panchal",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fmeet-panchal.jpg?alt=media&token=84162748-2c4b-4270-b59d-06fbfc54479e",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/meet-panchal-43bb601ba",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
+          "title": ""
+        },
+        {
+          "name": "Khushbu Thakker",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fkhushbu-thakker.jpg?alt=media&token=952da5ad-e160-4ee2-bc77-f9f84ad2b987",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/KhushbuThakker?t=0piT7KXzQzKFTIXeRcLS2w&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/khushbuThakker",
+              "name": "Github"
+            }
+          ],
+          "order": 7,
+          "title": ""
+        },
+        {
+          "name": "Ketan Vishwakarma",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fketan-vishwakarma.jpg?alt=media&token=c5525a2c-6686-4ac0-92b2-fc8fbbb8b6ec",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/KDevigner",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/kdevigner/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ketanvishwakarma",
+              "name": "Github"
+            }
+          ],
+          "order": 8,
+          "title": ""
+        },
+        {
+          "name": "Pratap Solanki",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fpratap-solanki.jpg?alt=media&token=c91980a9-4805-4ca1-8a71-c1f9dbc80996",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Pratap40710411",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pratap-solanki-6b5913a9/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pratapsolanki",
+              "name": "Github"
+            }
+          ],
+          "order": 9,
+          "title": ""
+        },
+        {
+          "name": "Sohel Shaikh",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fsohel-shaikh.jpeg?alt=media&token=f1687fbe-2998-482c-91e8-fd2dd95fc9e1",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/thesohelshaikh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/mwlite/in/thesohelshaikh",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/thesohelshaikh",
+              "name": "Github"
+            }
+          ],
+          "order": 10,
+          "title": ""
+        },
+        {
+          "name": "Tejas Chauhan",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Ftejas-chauhan.jpg?alt=media&token=4980bc5a-430a-41ad-a8e3-035b0d8388eb",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/tejasdchauhan",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/tejasdchauhan/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/tejadroid",
+              "name": "Github"
+            }
+          ],
+          "order": 11,
+          "title": ""
+        },
+        {
+          "name": "Jignesh Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fjignesh-patel.jpeg?alt=media&token=3aca6517-93ae-432c-989a-225dcd3ddc3b",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JigneshWorld",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jigneshworld/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/JigneshWorld",
+              "name": "Github"
+            }
+          ],
+          "order": 12,
+          "title": ""
+        },
+        {
+          "name": "Umang Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fumang-patel.png?alt=media&token=3dea9ad2-cbd5-400e-940a-8d1fff71013b",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/GetUmangon",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/getumangon/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/getumangon",
+              "name": "Github"
+            }
+          ],
+          "order": 13,
+          "title": ""
+        },
+        {
+          "name": "Joy Mehta",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fjoy-mehta.JPG?alt=media&token=ed77538c-3737-4067-97e0-b61e2d116b7f",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/joymehta17/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 14,
+          "title": ""
+        },
+        {
+          "name": "Vidhi Suthar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fvidhi-suthar.jpg?alt=media&token=7ff4c2dd-fdde-48cc-8bfa-c2f773b21d6a",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/_vidhi32",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vidhi-suthar-99b328209/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 15,
+          "title": ""
+        },
+        {
+          "name": "Vedant Amit Pandya",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fvedant-amit-pandya.png?alt=media&token=16cca819-94d6-4def-a2c2-80d7adef3fb6",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://www.twitter.com/MrVedPandya1",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vedant-pandya-662122135/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://www.github.com/pandyaved98",
+              "name": "Github"
+            }
+          ],
+          "order": 16,
+          "title": ""
+        },
+        {
+          "name": "Nidhi dadiya ",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2022%2Fnidhi-dadiya.jpg?alt=media&token=e7ff486b-d7e8-4d2a-be5f-83f2df5c069c",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dadiyanidhi",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nidhi-dadiya-b1955b64/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 17,
+          "title": ""
+        }
+      ],
+      "order": 6,
+      "title": "Speaker Buddy Team"
     }
   ],
   "tickets": [
     {
-      "available": false,
+      "available": true,
       "currency": "₹",
       "ends": "Dec 9",
       "inDemand": true,
