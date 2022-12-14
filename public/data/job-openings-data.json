@@ -708,5 +708,39 @@
         }
       ]
     }
+
+{
+      "id": 17,
+      "companyName": "Jarvis Technolabs",
+      "location": "Ahmedabad, India",
+      "bio": "Creating exciting software for the new age smartphone is not an easy task but thrilling anyway. We provide the best of mobile and web app development services that can help you grow your business.",
+      "companyLogoUrl": "https://lh5.googleusercontent.com/-Cbw6E7aQZj4/AAAAAAAAAAI/AAAAAAAAAAA/u8Fg4uy1YHU/s55-p-k-no-ns-nd/photo.jpg",
+      "companyWebsite": "https://jarvistechnolabs.com/",
+      "companyCareerPage": "https://jarvistechnolabs.com/contact-us",
+      "linkedin": "https://www.linkedin.com/company/13393713/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Liferay Developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Jr. MERNStack Developer",
+          "count": 1,
+          "experience": "2+ years experience"
+        },        
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "ASP.Net Core MVC Developer",
+          "count": 1,
+          "experience": "3+ years experience"
+        }
+      ]
+    }
   ]
 }
