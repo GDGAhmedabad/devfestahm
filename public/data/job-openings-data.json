@@ -728,7 +728,7 @@
       "companyName": "AddWeb Solution Pvt Ltd",
       "location": "Ahmedabad",
       "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
-      "companyLogoUrl":"https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
+      "companyLogoUrl": "https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
       "companyWebsite": "https://www.addwebsolution.com/",
       "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
       "linkedin": "https://in.linkedin.com/company/addwebsolution/",
@@ -960,26 +960,26 @@
       "companyCareerPage": "https://tsttechnology.in/contact",
       "linkedin": "https://www.linkedin.com/company/tst-technology/",
       "openings": [
-      {
-        "title": "React developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Node developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Flutter developer",
-        "count": 3,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Business developer",
-        "count": 1,
-        "experience": "1-3 years"
-       }
+        {
+          "title": "React developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Node developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Business developer",
+          "count": 1,
+          "experience": "1-3 years"
+        }
       ]
     },
     {
@@ -1012,6 +1012,34 @@
           "title": "MEAN Stack Developers",
           "count": 2,
           "experience": "1 to 4 years experience"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "companyName": "Sufalam Technologies Pvt. Ltd.",
+      "location": "Ahmedabad",
+      "bio": "Sufalam Technologies Pvt. Ltd. Ahmedabad Building Scalable & Secure Digital Products for Startups & Enterprises.",
+      "companyLogoUrl": "https://www.sufalamtech.com/wp-content/themes/sufalamtech/images/logo.png",
+      "companyWebsite": "https://www.sufalamtech.com/",
+      "companyCareerPage": "https://www.sufalamtech.com/career.htm/",
+      "linkedin": "https://www.linkedin.com/company/sufalamtech",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Fullstack Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "ReactJs Developers",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Nodejs Developer",
+          "count": 2,
+          "experience": "2-5 years"
         }
       ]
     }
