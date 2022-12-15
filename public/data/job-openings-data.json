@@ -966,6 +966,44 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "POSIMYTYH Innovations",
+      "location": "Ahmedabad",
+      "bio": "Innovating WordPress Ecosystem by crafting themes, plugins and SAAS Products. Makers of http://theplusaddons.com - 120+ Elementor widgets | http://theplusblocks.com - 85+ Gutenberg Blocks | http://nexterwp.com - Best Theme | http://wdeisngkit.com - Website Templates",
+      "companyLogoUrl": "https://posimyth.com/wp-content/uploads/2020/02/new_posimyth_logo.png",
+      "companyWebsite": "https://posimyth.com/",
+      "companyCareerPage": "https://posimyth.com/",
+      "linkedin": "https://www.linkedin.com/company/posimyth/",
+      "hiringImageUrl": "https://store.posimyth.com/wp-content/uploads/2021/02/team-posimyth-hiring-banner-gdg-ahmedabad.png",
+      "openings": [
+        {
+          "title": "PHP/WordPress Developers",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Content Writers",
+          "count": 4,
+          "experience": "1+ year"
+        },
+        {
+          "title": "SEO Executive",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Social Media Manager",
+          "count": 2,
+          "experience": "1+ year"
+        }
+      ]
     }
   ]
 }
