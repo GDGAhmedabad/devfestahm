@@ -861,11 +861,6 @@
           "experience": "2-5 years experience"
         },
         {
-          "title": "Unity Developer",
-          "count": 2,
-          "experience": "2-5 years experience"
-        },
-        {
           "title": "Web Designer",
           "count": 1,
           "experience": "2-4 years experience"
@@ -1130,7 +1125,360 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
+      "companyName": "Inferenz Tech Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "Inferenz breaks the barriers to digitalization by uncomplicating the journey and helping customers discover complete clarity. We are a group of technologists and domain experts that provides new age technologies to adapt to change and accelerate business growth. We are obsessed with staying ahead of the technology curve. Our team of innovative technologists and domain experts are constantly working on improving our technologies to keep delivering the best solutions to our customers.",
+      "companyLogoUrl": "https://inferenz.ai/wp-content/uploads/2022/07/main-logo-1.svg",
+      "companyWebsite": "https://inferenz.ai/",
+      "companyCareerPage": "https://inferenz.ai/careers/",
+      "linkedin": "https://www.linkedin.com/company/inferenz/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Data Engineer",
+          "count": 5,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Sr.Data Engineer",
+          "count": 5,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Lead AI Engineer",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Unity Developer",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Full Stack Developer",
+          "count": 3,
+          "experience": "3+ years"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "companyName": "QDev Technolab",
+      "location": "Ahmedabad, India",
+      "bio": "We are software development company who believe in quality and excellence. When Quality meets excellence, it will gives us Innovation as output. QDev has been helping peoples across various industries to optimize their business processes through custom software solutions and convert their ideas to implementation. we also consider our team members as our most valuable assets and we are taking care of them .",
+      "companyLogoUrl": "https://drive.google.com/file/d/1zPpzXGnmW6pExVI2RzKJ_7zgSp3wcaPa/view?usp=sharing",
+      "companyWebsite": "http://qdevtechnolab.com/",
+      "companyCareerPage": "https://qdevtechnolab.com/career",
+      "linkedin": "https://www.linkedin.com/company/qdev-technolab-21/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "2+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2+ year"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "2+ year"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "companyName": "iCoderz Solutions Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "iCoderz is Full stack mobile apps Development company, which inaugurated its operations in year 2011 with a few young and dynamic techno- entrepreneurs with an aim of offering customized mobile application development for diverse business industries and categories on various operating systems. In the present day, the company is on a verge of becoming one of the pioneers in the mobile app development domain. Within five years, we have achieved have expanded our business in terms of infrastructure and staff members. We have extended our service offering by including full-spectrum website design and development solutions.",
+      "companyLogoUrl": "https://www.icoderzsolutions.com/image/iclogo-new.png",
+      "companyWebsite": "https://www.icoderzsolutions.com/",
+      "companyCareerPage": "https://www.icoderzsolutions.com/career.shtml",
+      "linkedin": "https://www.linkedin.com/company/icoderz",
+      "hiringImageUrl": "https://www.icoderzsolutions.com/image/Hiring.png",
+      "openings": [
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2+ year"
+        },
+        {
+          "title": "IOS developer",
+          "count": 5,
+          "experience": "3+ year"
+        },
+        {
+          "title": "Android developer",
+          "count": 5,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Scrum Master Assistant",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 3,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": " Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS.Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "companyWebsite": "http://brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/about/",
+      "hiringImageUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "openings": [
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "ReactJS Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "NodeJS Developers",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 1,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Analyst-Magento",
+          "count": 2,
+          "experience": "1 to 3 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "companyName": "IT PATH SOLUTIONS PVT LTD",
+      "location": "Ahmedabad",
+      "bio": " IT Path Solutions is one of the leading tech consulting & solution development companies based in the US, and the UK and headquartered in India with 2 development centers.",
+      "companyLogoUrl": " https://www.itpathsolutions.com/wp-content/themes/itpathsolutions/img/logo.png",
+      "companyWebsite": "https://www.itpathsolutions.com/",
+      "companyCareerPage": "https://www.itpathsolutions.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/itpathsolutions",
+      "openings": [
+        {
+          "title": "Asp.net Developer",
+          "count": 2,
+          "experience": "3-6 years"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "5+ years"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "companyName": "JB Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "JB Solutions is an excellent provider of innovative solutions in IT Services from over a decade and achieved the success as per its vision. Here is the great opportunity to work with challenging and inspiring peoples of JB Solutions that will lead to a change and personal growth.",
+      "companyLogoUrl": "https://www.jbsolutions.in/images/logo.png",
+      "companyWebsite": "https://www.jbsolutions.in/",
+      "companyCareerPage": "https://www.jbsolutions.in/careers.html",
+      "linkedin": "https://www.linkedin.com/company/jainbhaveshsolutions/",
+      "hiringImageUrl": "https://www.jbsolutions.in/images/career.jpg",
+      "openings": [
+        {
+          "title": "Sr. PHP Professional",
+          "count": 5,
+          "experience": "At-least 5 years"
+        },
+        {
+          "title": "React native",
+          "count": 5,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 3,
+          "experience": "2-10 years"
+        },
+        {
+          "title": "Software Professional",
+          "count": 6,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 5,
+          "experience": "3-8 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Microsoft .NET Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Javascript Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Graphic Designer",
+          "count": 3,
+          "experience": "0-3 years"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 3,
+          "experience": "2-5 years"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "companyName": "Lucent Innovation",
+      "location": "Ahmedabad - Gandhinagar",
+      "bio": "Lucent Innovation is a global solution provider in Digital enterprises and provide seamless web and mobile application development and software solutions as well as e-commerce solutions.Lucent Innovation is a leading official Shopify plus partners, Shopify Experts that concepts your idea into the product.",
+      "companyLogoUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/lucent-black_logo_220.png?v=1670991872",
+      "companyWebsite": "https://www.lucentinnovation.com/",
+      "companyCareerPage": "https://www.lucentinnovation.com/pages/careers",
+      "linkedin": "https://www.linkedin.com/company/lucent-innovation",
+      "hiringImageUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/312799564_657759969049207_4029305728327268450_n.jpg",
+      "openings": [
+        {
+          "title": "Java Developers",
+          "count": 10,
+          "experience": "2+ years"
+        },
+        {
+          "title": "React Developers",
+          "count": 8,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 12,
+          "experience": "2+"
+        },
+        {
+          "title": "Digital Marketer - PPC",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Freshers",
+          "count": 10,
+          "experience": "0 - 1 years"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "companyName": "Jarvis Technolabs",
+      "location": "Ahmedabad, India",
+      "bio": "Creating exciting software for the new age is not an easy task but thrilling anyway. We provide the best of web and mobile app development services that can help you grow your business.",
+      "companyLogoUrl": "https://lh5.googleusercontent.com/-Cbw6E7aQZj4/AAAAAAAAAAI/AAAAAAAAAAA/u8Fg4uy1YHU/s55-p-k-no-ns-nd/photo.jpg",
+      "companyWebsite": "https://jarvistechnolabs.com/",
+      "companyCareerPage": "https://jarvistechnolabs.com/contact-us",
+      "linkedin": "https://www.linkedin.com/company/13393713/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Liferay Developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Jr. MERNStack Developer",
+          "count": 1,
+          "experience": "2+ years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "ASP.Net Core MVC Developer",
+          "count": 1,
+          "experience": "3+ years experience"
+        }
+      ]
+    },
+    {
+      "id": 34,
       "companyName": "OneClick IT Consultancy PVT Ltd",
       "location": "Ahmedabad",
       "bio": "OneClick IT Consultancy Pvt Ltd is a growing web, mobile and software development company with a diversified pool of technology and subject matter experts. It is an active member of GESIA, Nasscom registered and ISO Certified based in Ahmedabad, INDIA. OneClick has 120+ employees and was established in 2012.",
