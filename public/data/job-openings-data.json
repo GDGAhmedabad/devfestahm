@@ -861,11 +861,6 @@
           "experience": "2-5 years experience"
         },
         {
-          "title": "Unity Developer",
-          "count": 2,
-          "experience": "2-5 years experience"
-        },
-        {
           "title": "Web Designer",
           "count": 1,
           "experience": "2-4 years experience"
@@ -1131,6 +1126,49 @@
     },
     {
       "id": 26,
+      "companyName": "Inferenz Tech Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "Inferenz breaks the barriers to digitalization by uncomplicating the journey and helping customers discover complete clarity. We are a group of technologists and domain experts that provides new age technologies to adapt to change and accelerate business growth. We are obsessed with staying ahead of the technology curve. Our team of innovative technologists and domain experts are constantly working on improving our technologies to keep delivering the best solutions to our customers.",
+      "companyLogoUrl": "https://inferenz.ai/wp-content/uploads/2022/07/main-logo-1.svg",
+      "companyWebsite": "https://inferenz.ai/",
+      "companyCareerPage": "https://inferenz.ai/careers/",
+      "linkedin": "https://www.linkedin.com/company/inferenz/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Data Engineer",
+          "count": 5,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Sr.Data Engineer",
+          "count": 5,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Lead AI Engineer",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Unity Developer",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Full Stack Developer",
+          "count": 3,
+          "experience": "3+ years"
+        }
+      ]
+    },
+    {
+      "id": 27,
       "companyName": "QDev Technolab",
       "location": "Ahmedabad, India",
       "bio": "We are software development company who believe in quality and excellence. When Quality meets excellence, it will gives us Innovation as output. QDev has been helping peoples across various industries to optimize their business processes through custom software solutions and convert their ideas to implementation. we also consider our team members as our most valuable assets and we are taking care of them .",
