@@ -1201,52 +1201,100 @@
       ]
     },
     {
-    "id": 28,
-    "companyName": "iCoderz Solutions Pvt. Ltd.",
-    "location": "Ahmedabad, India",
-    "bio": "iCoderz is Full stack mobile apps Development company, which inaugurated its operations in year 2011 with a few young and dynamic techno- entrepreneurs with an aim of offering customized mobile application development for diverse business industries and categories on various operating systems. In the present day, the company is on a verge of becoming one of the pioneers in the mobile app development domain. Within five years, we have achieved have expanded our business in terms of infrastructure and staff members. We have extended our service offering by including full-spectrum website design and development solutions.",
-    "companyLogoUrl": "https://www.icoderzsolutions.com/image/iclogo-new.png",
-    "companyWebsite": "https://www.icoderzsolutions.com/",
-    "companyCareerPage": "https://www.icoderzsolutions.com/career.shtml",
-    "linkedin": "https://www.linkedin.com/company/icoderz",
-    "hiringImageUrl": "https://www.icoderzsolutions.com/image/Hiring.png",
-    "openings": [
-      {
-        "title": "Laravel Developer",
-        "count": 5,
-        "experience": "2+ year"
-      },
-      {
-        "title": "IOS developer",
-        "count": 5,
-        "experience": "3+ year"
-      },
-      {
-        "title": "Android developer",
-        "count": 5,
-        "experience": "1+ year"
-      },
-      {
-        "title": "Technical Project Manager",
-        "count": 1,
-        "experience": "5+ year"
-      },
-      {
-        "title": "Scrum Master Assistant",
-        "count": 1,
-        "experience": "5+ year"
-      },
-      {
-        "title": "Business Developement Executive",
-        "count": 1,
-        "experience": "1+ year"
-      },
-      {
-        "title": "UI/UX Designer",
-        "count": 3,
-        "experience": "1+ year"
-      }
-    ]
-  }
+      "id": 28,
+      "companyName": "iCoderz Solutions Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "iCoderz is Full stack mobile apps Development company, which inaugurated its operations in year 2011 with a few young and dynamic techno- entrepreneurs with an aim of offering customized mobile application development for diverse business industries and categories on various operating systems. In the present day, the company is on a verge of becoming one of the pioneers in the mobile app development domain. Within five years, we have achieved have expanded our business in terms of infrastructure and staff members. We have extended our service offering by including full-spectrum website design and development solutions.",
+      "companyLogoUrl": "https://www.icoderzsolutions.com/image/iclogo-new.png",
+      "companyWebsite": "https://www.icoderzsolutions.com/",
+      "companyCareerPage": "https://www.icoderzsolutions.com/career.shtml",
+      "linkedin": "https://www.linkedin.com/company/icoderz",
+      "hiringImageUrl": "https://www.icoderzsolutions.com/image/Hiring.png",
+      "openings": [
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2+ year"
+        },
+        {
+          "title": "IOS developer",
+          "count": 5,
+          "experience": "3+ year"
+        },
+        {
+          "title": "Android developer",
+          "count": 5,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Scrum Master Assistant",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 3,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": " Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS.Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "companyWebsite": "http://brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/about/",
+      "hiringImageUrl": "https://drive.google.com/file/d/1NFdzCNgpVdcEwDrofnKwr4_eSzKfKU_A/view?usp=share_link",
+      "openings": [
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "ReactJS Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "NodeJS Developers",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 1,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Analyst-Magento",
+          "count": 2,
+          "experience": "1 to 3 Years experience"
+        }
+      ]
+    }
   ]
 }
