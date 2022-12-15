@@ -1199,6 +1199,54 @@
           "experience": "2+ year"
         }
       ]
-    }
+    },
+    {
+    "id": 22,
+    "companyName": "iCoderz Solutions Pvt. Ltd.",
+    "location": "Ahmedabad, India",
+    "bio": "iCoderz is Full stack mobile apps Development company, which inaugurated its operations in year 2011 with a few young and dynamic techno- entrepreneurs with an aim of offering customized mobile application development for diverse business industries and categories on various operating systems. In the present day, the company is on a verge of becoming one of the pioneers in the mobile app development domain. Within five years, we have achieved have expanded our business in terms of infrastructure and staff members. We have extended our service offering by including full-spectrum website design and development solutions.",
+    "companyLogoUrl": "https://www.icoderzsolutions.com/image/iclogo-new.png",
+    "companyWebsite": "https://www.icoderzsolutions.com/",
+    "companyCareerPage": "https://www.icoderzsolutions.com/career.shtml",
+    "linkedin": "https://www.linkedin.com/company/icoderz",
+    "hiringImageUrl": "https://www.icoderzsolutions.com/image/Hiring.png",
+    "openings": [
+      {
+        "title": "Laravel Developer",
+        "count": 5,
+        "experience": "2+ year"
+      },
+      {
+        "title": "IOS developer",
+        "count": 5,
+        "experience": "3+ year"
+      },
+      {
+        "title": "Android developer",
+        "count": 5,
+        "experience": "1+ year"
+      },
+      {
+        "title": "Technical Project Manager",
+        "count": 1,
+        "experience": "5+ year"
+      },
+      {
+        "title": "Scrum Master Assistant",
+        "count": 1,
+        "experience": "5+ year"
+      },
+      {
+        "title": "Business Developement Executive",
+        "count": 1,
+        "experience": "1+ year"
+      },
+      {
+        "title": "UI/UX Designer",
+        "count": 3,
+        "experience": "1+ year"
+      }
+    ]
+  }
   ]
 }
