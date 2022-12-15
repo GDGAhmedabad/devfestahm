@@ -966,6 +966,29 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "Saleshandy",
+      "location": "Ahmedabad",
+      "bio": "At Saleshandy, we're building the sales engagement platform of the future. We're building product toward eliminating manual processes and helping companies generate more replies/book more meetings / generate leads (faster)",
+      "companyLogoUrl": "https://www.saleshandy.com/wp-content/uploads/2021/12/Saleshandy-logo_default.svg",
+      "companyWebsite": "https://www.saleshandy.com/",
+      "companyCareerPage": "https://ikigai.co.in/open-positions/",
+      "linkedin": "https://www.linkedin.com/company/saleshandy",
+      "hiringImageUrl": "https://www.saleshandy.com/wp-content/uploads/2022/12/Hiring_Engineers.png",
+      "openings": [
+        {
+          "title": "Sr Backend Engineer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Sr React Developer",
+          "count": 1,
+          "experience": "3-5 years"
+        }
+      ]
     }
   ]
 }
