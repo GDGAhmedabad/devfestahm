@@ -966,6 +966,39 @@
         "experience": "1-3 years"
        }
       ]
+    },
+    {
+      "id": 22,
+      "companyName": "Codiste Pvt Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "Codiste Started with a mission to Help Startup to Convert their ideas into Stable and usable products with the latest tech stack. We are working on following tech stack and expanding our horizon :\n\n✅ Blockchain\n✅ Web3.0\n✅ Machine Learning\n✅ Music App Making Expert\n✅ Mobile App Development | Flutter | React Native\n✅ Web Development | Backend | Frontend | MEAN stack | Laravel\n✅ E-Learning Solution\n✅ Streaming Solution\n✅ Digital Signal Processing\n✅ Online Food Ordering\n✅ Booking System Apps\n\nWe keep ourselves updated with Latest Tech stack and make sure our solution always stable by considering all Use cases. We are searching for Right Incubators to become their Technical Partner.",
+      "companyLogoUrl": "https://codiste.com/wp-content/uploads/2022/06/Asset-1.png",
+      "companyWebsite": "https://codiste.com/",
+      "companyCareerPage": "https://www.linkedin.com/jobs/search/?currentJobId=3354260923&f_C=31007549&geoId=92000000&originToLandingJobPostings=3378191168%2C3375368497%2C3354260923",
+      "linkedin": "https://www.linkedin.com/company/codiste-pvt-ltd/",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/C4D22AQFmHh15Y7GHHg/feedshare-shrink_800/0/1670588810138?e=1674086400&v=beta&t=rl0-J8rq8ZyeDAyv4Qtb0ibIw6J1EUkYn-BXjeJz6OY",
+      "openings": [
+        {
+          "title": "Unity Developer",
+          "count": 1,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Three JS developer",
+          "count": 1,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Content writer",
+          "count": 1,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Digital Marketing / Senior SEO",
+          "count": 1,
+          "experience": "3+ years"
+        }
+      ]
     }
   ]
 }
