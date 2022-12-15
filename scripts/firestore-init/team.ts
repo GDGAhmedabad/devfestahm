@@ -15,6 +15,7 @@ export const importTeam = () => {
     if (team) {
       batch.set(firestore.collection('team').doc(teamId), {
         title: team.title,
+        order: team.order,
       });
 
       team.members.forEach((member, id) => {
