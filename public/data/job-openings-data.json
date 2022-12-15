@@ -1600,6 +1600,38 @@
           "experience": "3+ years"
         }
       ]
+    },
+    {
+      "id": 37,
+      "companyName": "SStech System",
+      "location": "Ahmedabad, India",
+      "bio": "SSTech System came into existence with a vision to create superior technology solutions. A team of enthusiastic IT specialist establish the company, with an aim to overcome the regime and create innovative IT solutions. It is one of the premier IT company, providing products and services in web development, mobile application development, software development, IT consulting, web designing migration engineering and much more all under one roof. We embrace advanced technology that helps to enhance functionality and efficiency of your business. We adopt advanced technology that helps to boost functionality and productivity of your business.",
+      "companyLogoUrl": "https://www.sstechsystem.com/upload/sslogo_sticky.png",
+      "companyWebsite": "https://www.sstechsystem.com",
+      "companyCareerPage": "https://www.sstechsystem.com/careers",
+      "linkedin": "https://in.linkedin.com/company/sstech-system",
+      "openings": [
+        {
+          "title": "Mernstack Developer",
+          "count": 5,
+          "experience": "5 Years"
+        },
+        {
+          "title": "ASP.NET Developer",
+          "count": 3,
+          "experience": "5 Years"
+        },
+        {
+          "title": "Jr. iOS Developer",
+          "count": 1,
+          "experience": "1 Year"
+        },
+        {
+          "title": "Sr. PHP Developer",
+          "count": 2,
+          "experience": "5 Years"
+        }
+      ]
     }
   ]
 }
