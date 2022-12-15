@@ -448,7 +448,7 @@
       "companyName": "Pedals Up LLP",
       "location": "Ahmedabad, India",
       "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
-      "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
+      "companyLogoUrl": "https://drive.google.com/u/0/uc?id=1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk",
       "companyWebsite": "https://www.pedalsup.com/",
       "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
       "linkedin": "https://www.linkedin.com/company/pedalsup/",
@@ -751,7 +751,7 @@
       "companyName": "AddWeb Solution Pvt Ltd",
       "location": "Ahmedabad",
       "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
-      "companyLogoUrl":"https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
+      "companyLogoUrl": "https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
       "companyWebsite": "https://www.addwebsolution.com/",
       "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
       "linkedin": "https://in.linkedin.com/company/addwebsolution/",
@@ -983,26 +983,26 @@
       "companyCareerPage": "https://tsttechnology.in/contact",
       "linkedin": "https://www.linkedin.com/company/tst-technology/",
       "openings": [
-      {
-        "title": "React developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Node developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Flutter developer",
-        "count": 3,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Business developer",
-        "count": 1,
-        "experience": "1-3 years"
-       }
+        {
+          "title": "React developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Node developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Business developer",
+          "count": 1,
+          "experience": "1-3 years"
+        }
       ]
     }
   ]
