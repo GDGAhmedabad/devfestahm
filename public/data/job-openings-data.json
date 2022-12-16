@@ -964,7 +964,100 @@
         "title": "Business developer",
         "count": 1,
         "experience": "1-3 years"
-       }
+      }
+      ]
+    },
+    {
+      "id": 22,
+      "companyName": "The One Technologies",
+      "location": "Ahmedabad, India",
+      "bio": "The One Technologies is among the most trusted offshore web and software development companies. We have delivered 500+ projects successfully, and many more are in progress. We have 250+ highly trained and efficient IT professionals working on various projects. They have experience and expertise in multiple technologies and platforms such as python, angular, Reactjs, .net core, PHP, Xamarin, Django, WordPress, Magento, etc. We are committed to delivering high-performance technology-enabled solutions through our flexible engagement models. We have made our clients happy for over a decade with our efficient work.",
+      "companyLogoUrl": "https://theonetechnologies.com/images/logo.svg",
+      "companyWebsite": "https://theonetechnologies.com/",
+      "companyCareerPage": "https://theonetechnologies.com/career",
+      "linkedin": "https://www.linkedin.com/company/the-one-technologies/",
+      "hiringImageUrl": "https://theonetechnologies.com/Posts/files/openings3_638067891817037927.png",
+      "openings": [
+        {
+          "title": "Dot Net Developer",
+          "count": 10,
+          "experience": "2-6 years"
+        },
+        {
+          "title": "MERN Stack Developer",
+          "count": 3,
+          "experience": "2-6 years"
+        },
+        {
+          "title": "MEAN Stack Developer",
+          "count": 3,
+          "experience": "2-6 years"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 4,
+          "experience": "2-6 years"
+        },
+        {
+          "title": "Quality Analyst",
+          "count": 6,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Sr. Quality Analyst",
+          "count": 5,
+          "experience": "5-8 years"
+        },
+        {
+          "title": "QA Team Lead",
+          "count": 1,
+          "experience": "8+ years"
+        },
+        {
+          "title": "Netsuite Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Network Engineer",
+          "count": 1,
+          "experience": "1-4 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Sr. Business Developement Executive",
+          "count": 2,
+          "experience": "5-8 years"
+        },
+        {
+          "title": "Business Developement Manager",
+          "count": 1,
+          "experience": "8+ years"
+        },
+        {
+          "title": "UI/UX Developer",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "PHP Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 3,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Content Writer",
+          "count": 2,
+          "experience": "2+ years"
+        }
       ]
     }
   ]
