@@ -966,6 +966,63 @@
         "experience": "1-3 years"
        }
       ]
+    },{
+      "id": 23,
+      "companyName": "TecStub",
+      "location": "Ahmedabad, India",
+      "bio": "TecStub started as one man's dream to tap into the immense possibilities of technology and has now evolved into a leading provider of digital commerce solutions to some of the world’s leading enterprises. Since its inception in 2014, we are completely self-sustained and profitable with offices across North America and Asia-Pacific. We believe in growing together and delivering excellence, not just to our customers but to all stakeholders including our partners and employees .A career at TecStub means continuous growth, a lifelong opportunity to explore your true potential, and the joy of working on the latest technologies alongside the best talent in the industry. Come and find out openings and explore your Next with TecStub.We are a hybrid workplace where TecStub have the flexibility to work at the office, from home, or a bit of both.We are currently running fully remote recruitment processes due to the global pandemic.",
+      "companyLogoUrl": "https://www.tecstub.com/wp-content/uploads/2015/11/ts-logo.png",
+      "companyWebsite": "https://www.tecstub.com/",
+      "companyCareerPage": "https://tecstub.freshteam.com/jobs",
+      "linkedin": "https://www.linkedin.com/company/tecstub",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Human Resources",
+          "count": 1,
+          "experience": "6-8 years experience"
+        },
+        {
+          "title": "Automation Quality Assurance Engineer (Remote)",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "DevOps Engineer (Remote)",
+          "count": 1,
+          "experience": "2-7git  years experience"
+        },
+        {
+          "title": "Mobile (iOS) Developer (Remote)",
+          "count": 1,
+          "experience": "3-5 years experience"
+        },
+        {
+          "title": "PHP Developer (Remote)",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Quality Analyst (QA) Engineer (Remote)",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Web Designer (Remote)",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Desktop Support Engineer",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Jira Administrator (Remote)",
+          "count": 1,
+          "experience": "3-4 years experience"
+        }
+      ]
     }
   ]
 }
