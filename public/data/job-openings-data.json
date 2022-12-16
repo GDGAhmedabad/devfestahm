@@ -976,7 +976,7 @@
       "companyWebsite": "mailto:hello@devapps.co.in",
       "companyCareerPage": "mailto:hello@devapps.co.in",
       "linkedin": "https://www.linkedin.com/company/devapps-systems-private-limited",
-      "hiringImageUrl": "https://github.com/devapps-systems/gdg-hiring-details/blob/master/devapps-current-openings.png",
+      "hiringImageUrl": "https://raw.githubusercontent.com/devapps-systems/gdg-hiring-details/master/devapps-current-openings.png",
       "openings": [
         {
           "title": "React Native Developer",
