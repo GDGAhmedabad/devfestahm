@@ -713,7 +713,7 @@
       "companyName": "AddWeb Solution Pvt Ltd",
       "location": "Ahmedabad",
       "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
-      "companyLogoUrl":"https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
+      "companyLogoUrl": "https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
       "companyWebsite": "https://www.addwebsolution.com/",
       "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
       "linkedin": "https://in.linkedin.com/company/addwebsolution/",
@@ -945,26 +945,59 @@
       "companyCareerPage": "https://tsttechnology.in/contact",
       "linkedin": "https://www.linkedin.com/company/tst-technology/",
       "openings": [
-      {
-        "title": "React developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Node developer",
-        "count": 2,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Flutter developer",
-        "count": 3,
-        "experience": "1-3 years"
-      },
-      {
-        "title": "Business developer",
-        "count": 1,
-        "experience": "1-3 years"
-       }
+        {
+          "title": "React developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Node developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Business developer",
+          "count": 1,
+          "experience": "1-3 years"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "companyName": "JCaspTechnologies",
+      "location": "Ahmedabad",
+      "bio": "Our focus is on the achievement of organizational objectives of our clients in the most seamless manner. We never shy away from adopting latest technologies in the favour of our client. Applications developed by us resonate with the prospective leads of our clients as they meticulously reflect their ambitions and information requirements..",
+      "companyLogoUrl": "https://jcasptechnologies.com/wp-content/uploads/2017/08/387-X-211-LOGO-1.jpg",
+      "companyWebsite": "https://jcasptechnologies.com/",
+      "companyCareerPage": "https://jcasptechnologies.com/company/career-culture/",
+      "linkedin": "https://in.linkedin.com/in/jcasptechnologies",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Angular Developers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "React Developers",
+          "count": 2,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Full Stack Developers",
+          "count": 4,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 2,
+          "experience": "1 year"
+        }
       ]
     }
   ]
