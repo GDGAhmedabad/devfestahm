@@ -1692,6 +1692,48 @@
           "experience": "1-5 years"
         }
       ]
+    },
+    {
+      "id": 40,
+      "companyName": "AppStoneLab Technologies LLP",
+      "location": "Surat, India",
+      "bio": "AppStoneLab Technologies LLP is a provider of IT consulting and software development services. We not only provide web development & app development services but also combine marketing strategies with creative designs and innovative expertise to enhance client satisfaction leading us to develop our business.",
+      "companyLogoUrl": "https://appstonelab.com/logo.png",
+      "companyWebsite": "https://appstonelab.com/",
+      "companyCareerPage": "https://appstonelab.com/careers",
+      "linkedin": "https://www.linkedin.com/company/appstonelab-technologies/",
+      "openings": [
+        {
+          "title": "ReactJS Developer",
+          "count": 5,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "NodeJs Developer",
+          "count": 5,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "VueJs Developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 2,
+          "experience": "1-3 years"
+        }
+      ]
     }
   ]
 }
