@@ -1734,6 +1734,39 @@
           "experience": "1-3 years"
         }
       ]
+    },
+    {
+      "id": 41,
+      "companyName": "JCaspTechnologies",
+      "location": "Ahmedabad",
+      "bio": "Our focus is on the achievement of organizational objectives of our clients in the most seamless manner. We never shy away from adopting latest technologies in the favour of our client. Applications developed by us resonate with the prospective leads of our clients as they meticulously reflect their ambitions and information requirements..",
+      "companyLogoUrl": "https://jcasptechnologies.com/wp-content/uploads/2017/08/387-X-211-LOGO-1.jpg",
+      "companyWebsite": "https://jcasptechnologies.com/",
+      "companyCareerPage": "https://jcasptechnologies.com/company/career-culture/",
+      "linkedin": "https://in.linkedin.com/in/jcasptechnologies",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Angular Developers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "React Developers",
+          "count": 2,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Full Stack Developers",
+          "count": 4,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 2,
+          "experience": "1 year"
+        }
+      ]
     }
   ]
 }
