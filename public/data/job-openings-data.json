@@ -1920,7 +1920,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 45,
       "companyName": "Meiro Mobility",
       "location": "Ahmedabad",
       "bio": "Meiro Mobility is a DIPP-recognized startup building a tech stack for paratransit and shared mobility services.",
@@ -1930,12 +1930,12 @@
       "linkedin": "https://www.linkedin.com/company/meiro-mobility/",
       "hiringImageUrl": "",
       "openings": [
-      {
-        "title": "Android Developer",
-        "count": 1,
-        "experience": "2-6 years"
-      }
-     ]
+        {
+          "title": "Android Developer",
+          "count": 1,
+          "experience": "2-6 years"
+        }
+      ]
     }
   ]
 }
