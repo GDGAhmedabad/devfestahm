@@ -1,990 +1,1739 @@
 {
-    "jobs": [{
-            "id": 1,
-            "companyName": "SolGuruz LLP",
-            "location": "Ahmedabad, India",
-            "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-            "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
-            "companyWebsite": "http://solguruz.com/",
-            "companyCareerPage": "https://solguruz.kekahire.com/",
-            "linkedin": "https://www.linkedin.com/company/solguruz/",
-            "hiringImageUrl": "https://drive.google.com/uc?id=1BEB7HVJ6RjGIwbdKnhAU-nQMH1WkJQ-y",
-            "openings": [{
-                    "title": "MERN Developers",
-                    "count": 2,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "React Developers",
-                    "count": 2,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "Node Developers",
-                    "count": 2,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "Business Development Executives",
-                    "count": 2,
-                    "experience": "2+ Years experience"
-                },
-                {
-                    "title": "Manual QA Engineer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Flutter Developers",
-                    "count": 1,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "Business Analyst",
-                    "count": 1,
-                    "experience": "1 to 3 Years experience"
-                }
-            ]
+  "jobs": [
+    {
+      "id": 1,
+      "companyName": "SolGuruz LLP",
+      "location": "Ahmedabad, India",
+      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
+      "companyWebsite": "http://solguruz.com/",
+      "companyCareerPage": "https://solguruz.kekahire.com/",
+      "linkedin": "https://www.linkedin.com/company/solguruz/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1BEB7HVJ6RjGIwbdKnhAU-nQMH1WkJQ-y",
+      "openings": [
+        {
+          "title": "MERN Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
         },
         {
-            "id": 2,
-            "companyName": "Codeflash Infotech",
-            "location": "Ahmedabad, India",
-            "bio": "At Codeflash Infotech, we offer a flexible, expanding, and refreshing work atmosphere. We'll give you the dream company you've always wanted to work for, with endless opportunities for advancement, fantastic coworkers. Looking for a career as an engineer, designer in Ahmedabad? Team up with us for a career filled with vitality and enthusiasm.",
-            "companyLogoUrl": "https://codeflashinfotech.in/wp-content/uploads/2022/09/Codeflash-Infotech-Logo.svg",
-            "companyWebsite": "https://codeflashinfotech.com/",
-            "companyCareerPage": "https://codeflashinfotech.com/career/",
-            "linkedin": "https://www.linkedin.com/company/codeflash-infotech/",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "MERN Developers",
-                    "count": 2,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Business Development Executives",
-                    "count": 2,
-                    "experience": "2+ Years experience"
-                },
-                {
-                    "title": "Content Writer",
-                    "count": 1,
-                    "experience": "1+ Years experience"
-                }
-            ]
+          "title": "React Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
         },
         {
-            "id": 3,
-            "companyName": "iTechOps",
-            "location": "Ahmedabad, India",
-            "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
-            "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
-            "companyWebsite": "https://itechops.com/",
-            "companyCareerPage": "https://itechops.com/",
-            "linkedin": "https://www.linkedin.com/company/itechops/",
-            "hiringImageUrl": "https://itechops.com/assets/hiring.jpg",
-            "openings": [{
-                    "title": "DevOps Engineer",
-                    "count": 1,
-                    "experience": "0-4 years"
-                },
-                {
-                    "title": "Full Stack Developers",
-                    "count": 2,
-                    "experience": "0-2 years"
-                },
-                {
-                    "title": "Technical Content Writer",
-                    "count": 1,
-                    "experience": "0-2 years"
-                },
-                {
-                    "title": "Business Developement Executive",
-                    "count": 1,
-                    "experience": "0-2 years"
-                }
-            ]
+          "title": "Node Developers",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
         },
         {
-            "id": 4,
-            "companyName": "MagnusMinds IT Solution LLP",
-            "location": "Ahmedabad, India",
-            "bio": "MagnusMinds IT Solution is a leading IT Solution provider Company in India. We provide flexible business strategies with creative tools and advanced methodologies to help businesses achieve success. Our rich & varied experience of 15+ years and stringent quality standards ensure we develop software solutions that give your business an edge over competitors. MagnusMinds is looking for some of the talented individuals, who have an interest in solving real-world business problems and challenges through web-based solutions.",
-            "companyLogoUrl": "https://magnusminds.net/images/logo-icon-square.png",
-            "companyWebsite": "https://magnusminds.net/",
-            "companyCareerPage": "https://magnusminds.net/careers.html",
-            "linkedin": "https://www.linkedin.com/company/magnusmind",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "Team Lead - .NET (MVC/Core)",
-                    "count": 2,
-                    "experience": "6+ Years"
-                },
-                {
-                    "title": ".NET (MVC/Core) Developers",
-                    "count": 6,
-                    "experience": "1 to 6 Years"
-                },
-                {
-                    "title": "Angular Developers",
-                    "count": 3,
-                    "experience": "1 to 4 Years"
-                },
-                {
-                    "title": "MSSQL Developers",
-                    "count": 5,
-                    "experience": "1 to 4 Years"
-                },
-                {
-                    "title": "MSBI (Power BI/SSIS/SSRS) Developers",
-                    "count": 3,
-                    "experience": "0 to 3 Years"
-                },
-                {
-                    "title": "Web Designers",
-                    "count": 2,
-                    "experience": "0 to 2 Years"
-                }
-            ]
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
         },
         {
-            "id": 5,
-            "companyName": "Infocusp Innovations",
-            "location": "Ahmedabad, India",
-            "bio": "InFoCusp's mission is to make machines, devices, and computers act smarter and attain new heights of intelligence and sophisticated processing, all to make people’s day-to-day personal and professional lives better, healthier, more convenient, and safer. InFoCusp engineers work closely with R&D teams of commercial companies, collaborating in all development phases of smart products, from whiteboard to prototype to product launch.",
-            "companyLogoUrl": "https://www.infocusp.com/static/media/logo2.2b25740fa600fe779f23c6cf86e678b1.svg",
-            "companyWebsite": "https://www.infocusp.com",
-            "companyCareerPage": "https://www.infocusp.com/careers",
-            "linkedin": "https://www.linkedin.com/company/infocusp",
-            "hiringImageUrl": "https://www.infocusp.com/static/media/join_our_team.4b0991e146ffd61cb2bb889aee62426c.svg",
-            "openings": [{
-                    "title": "Senior Software Engineer",
-                    "count": 2,
-                    "experience": "2 to 6 Years experience"
-                },
-                {
-                    "title": "Senior Machine Learning Engineer",
-                    "count": 2,
-                    "experience": "2 to 6 Years experience"
-                }
-            ]
+          "title": "Manual QA Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
         },
         {
-            "id": 6,
-            "companyName": "Simform Solutions",
-            "location": "Ahmedabad, India",
-            "bio": "Simform is a tech company with a mission to help successful companies extend their tech capacity. Founded in October 2010, we have helped organizations ranging from Startups that went public, to Fortune 500 companies, and WHO backed NGOs. Simform helps companies become innovation leaders by delivering software teams on demand. We help you - choose the right technologies to invest in, decide on the best architecture and processes to follow, and oversee the successful delivery of their software projects.",
-            "companyLogoUrl": "https://drive.google.com/uc?id=1usuvVCeKHfpeDgspb1qd9WCvv-MpUJws",
-            "companyWebsite": "https://www.simform.com/",
-            "companyCareerPage": "https://www.simform.com/careers/",
-            "linkedin": "https://www.linkedin.com/company/simform/",
-            "hiringImageUrl": "https://drive.google.com/uc?id=1k5SsTPPcd_NC6DfYIX_WhcchX2pT9PyT",
-            "openings": [{
-                    "title": "Java Tech lead",
-                    "count": 1,
-                    "experience": "8+ years experience"
-                },
-                {
-                    "title": "MERNstack - Tech lead",
-                    "count": 1,
-                    "experience": "8+ years experience"
-                },
-                {
-                    "title": "Nodejs - Tech lead",
-                    "count": 1,
-                    "experience": "8+ years experience"
-                },
-                {
-                    "title": "Technical Project Manager",
-                    "count": 1,
-                    "experience": "8+ years experience"
-                },
-                {
-                    "title": "Solutions Architect-Backend",
-                    "count": 1,
-                    "experience": "8+ years experience"
-                }
-            ]
+          "title": "Flutter Developers",
+          "count": 1,
+          "experience": "1 to 4 Years experience"
         },
         {
-            "id": 7,
-            "companyName": "7Span",
-            "location": "Ahmedabad",
-            "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
-            "companyLogoUrl": "https://images.yourstory.com/cs/images/companies/2c2a4550f768-7spanlogo-1646824715089.jpg",
-            "companyWebsite": "https://7span.com",
-            "companyCareerPage": "https://7span.in/openings",
-            "linkedin": "https://www.linkedin.com/company/7span",
-            "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQEjxFHtmqfznQ/feedshare-shrink_2048_1536/0/1658492720709?e=1673481600&v=beta&t=6BlBz2EBrVLXSarWRgnNrBe10hJnuwsJuwb3fnAA2OE",
-            "openings": [{
-                    "title": "Angular Developer",
-                    "count": 2,
-                    "experience": "3-4 years"
-                },
-                {
-                    "title": ".Net Developer",
-                    "count": 2,
-                    "experience": "5-6 years"
-                },
-                {
-                    "title": "Shopify Developer",
-                    "count": 2,
-                    "experience": "2-3 years"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "companyName": "SrashtaSoft",
-            "location": "Ahmedabad, India",
-            "bio": "Srashta means CREATOR (Lord Vishnu). We took this name from \"विष्णु सहस्त्रनाम” SRASHTA + SOFT = Creator of Software. That's how we are providing CREATIVITY through INNOVATION for your SUCCESS!",
-            "companyLogoUrl": "https://drive.google.com/uc?id=1b6A3BIloO_ORs1DxXVgWEa3ImqiQQC1v",
-            "companyWebsite": "https://www.srashtasoft.com/",
-            "companyCareerPage": "https://app.pyjamahr.com/careers?company=SrashtaSoft&company_uuid=4816D2274F",
-            "linkedin": "https://www.linkedin.com/company/srashtasoft/",
-            "hiringImageUrl": "https://drive.google.com/uc?id=1qoUU54VGZFnUEJfK2jEDYyBZnzwHO02K",
-            "openings": [{
-                    "title": "Manual QA Engineer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Shopify Developers",
-                    "count": 2,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Flutter Developers",
-                    "count": 3,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Python Developer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "React Native Developers",
-                    "count": 2,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Business Development Executives",
-                    "count": 2,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "React JS Developer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Node JS Developer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Devops Engineer",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Business Analyst",
-                    "count": 1,
-                    "experience": "1 to 2 Years experience"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "companyName": "Recruitment Smart",
-            "location": "Ahmedabad, India",
-            "bio": "Recruitment Smart is a simple & AI powered Talent Intelligence platform. It helps in streamlining and automating the talent supply chain and makes sure that the hiring is devoid of any underlying biases like gender, racial or otherwise. It rationalises the time & cost to hire while using machine learning to match CVs and job specifications at blinding speed and with stunning accuracy. We are among the top Recruiting Automation products across the world with more than 100 corporate clients. You can visit our Website or LinkedIn Page to know more details about our organisation & our product..",
-            "companyLogoUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/logo.svg",
-            "companyWebsite": "https://recruitmentsmart.com",
-            "companyCareerPage": "https://recruitmentsmart.com/career/",
-            "linkedin": "https://www.linkedin.com/company/recruitment-smart/",
-            "hiringImageUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/banner.png",
-            "openings": [{
-                    "title": "Lead Data Scientist",
-                    "count": 1,
-                    "experience": "4 to 8 Years experience"
-                },
-                {
-                    "title": "Sr. & Jr Data Scintist",
-                    "count": 2,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "Azure Chatbot Developers",
-                    "count": 2,
-                    "experience": "2 to 4 Years experience"
-                },
-                {
-                    "title": "Business Development Executives",
-                    "count": 2,
-                    "experience": "2+ Years experience"
-                },
-                {
-                    "title": "PHP Developer",
-                    "count": 1,
-                    "experience": "3 to 6 Years experience"
-                },
-                {
-                    "title": "Fullstack Developer",
-                    "count": 1,
-                    "experience": "3 to 6 Years experience"
-                },
-                {
-                    "title": "HR Manager",
-                    "count": 1,
-                    "experience": "8 to 12 Years experience"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "companyName": "WebMobTech Solutions Pvt.Ltd",
-            "location": "Ahmedabad",
-            "bio": "We are India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.   It’s a perfect combination between you and company when the career and your passion come together. We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   Be the active part of WebMob Tech team and get to work upon trending technologies. Be the problem solver and create a workplace where we can work on something new everyday. Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
-            "companyLogoUrl": "http://drive.google.com/uc?id=1e-7ckZsC_EKBMC4uMw5rOrKi5M9jb8dU",
-            "companyWebsite": "https://webmobtech.com/",
-            "companyCareerPage": "https://webmobtech.com/career/",
-            "linkedin": "https://www.linkedin.com/company/webmob-technologies/",
-            "hiringImageUrl": "http://drive.google.com/uc?id=1mIJDJa39iu86y-hfjunJyH1fjAjXYYZd",
-            "openings": [{
-                    "title": "Technical Lead- Web",
-                    "count": 1,
-                    "experience": "5-9 Years"
-                },
-                {
-                    "title": "Project Manager",
-                    "count": 1,
-                    "experience": "5+ years"
-                },
-                {
-                    "title": "Project Coordinator",
-                    "count": 1,
-                    "experience": "2-5 year"
-                },
-                {
-                    "title": "Laravel Developer",
-                    "count": 2,
-                    "experience": "2-5 year"
-                },
-                {
-                    "title": "NodeJs Developer",
-                    "count": 2,
-                    "experience": "2-4 year"
-                },
-                {
-                    "title": "ReactJS Developer",
-                    "count": 2,
-                    "experience": "3-5 year"
-                },
-                {
-                    "title": "DevOps Engineer",
-                    "count": 1,
-                    "experience": "2-4 year"
-                },
-                {
-                    "title": "HR Manager",
-                    "count": 1,
-                    "experience": "4-7 year"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "companyName": "Pedals Up LLP",
-            "location": "Ahmedabad, India",
-            "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
-            "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
-            "companyWebsite": "https://www.pedalsup.com/",
-            "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
-            "linkedin": "https://www.linkedin.com/company/pedalsup/",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "Jr Frontend Developer",
-                    "count": 3,
-                    "experience": "1+ years experience"
-                },
-                {
-                    "title": "Sr Frontend developer",
-                    "count": 2,
-                    "experience": "3+ years experience"
-                },
-                {
-                    "title": "Sr Nodejs developer",
-                    "count": 1,
-                    "experience": "4+ years experience"
-                },
-                {
-                    "title": "Blockchain Developer",
-                    "count": 3,
-                    "experience": "0 to 1+ years experience"
-                },
-                {
-                    "title": "Business Development Manager",
-                    "count": 1,
-                    "experience": "1+ years experience"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "companyName": "DhiWise Pvt. Ltd.",
-            "location": "Surat, India",
-            "bio": "DhiWise is a programming platform where developers can convert their designs into developer-friendly code for mobile and web apps. DhiWise automates the application development lifecycle and instantly generates readable, modular and reusable code. At DhiWise, you can fall in love with your work again. A platform built for developers to build apps in a way that uses their engineering muscle rather than forcing the use of crammed information.",
-            "companyLogoUrl": "https://uploads-ssl.webflow.com/618e36726d3c0f19c9284e56/6396b5ccaa7b4253b742ee5b_DhiWise-Logo-150X150.jpg",
-            "companyWebsite": "https://www.dhiwise.com/",
-            "companyCareerPage": "https://dhiwise.freshteam.com/jobs",
-            "linkedin": "https://www.linkedin.com/company/dhiwise/",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "Flutter Developer (Mobile)",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                },
-                {
-                    "title": "Flutter Developer (Web)",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                },
-                {
-                    "title": "Kotlin Developer",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                },
-                {
-                    "title": "MERN Stack Developer",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                },
-                {
-                    "title": "React.js Developer (TypeScript)",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                },
-                {
-                    "title": "Sr. Android Developer",
-                    "count": 1,
-                    "experience": "3+ years of experience"
-                },
-                {
-                    "title": "Sr. Next.js Developer",
-                    "count": 1,
-                    "experience": "3+ years of experience"
-                },
-                {
-                    "title": "Sr. Node.js Developer",
-                    "count": 1,
-                    "experience": "3+ years of experience"
-                },
-                {
-                    "title": "Sr. React.js Developer",
-                    "count": 1,
-                    "experience": "3+ years of experience"
-                },
-                {
-                    "title": "Quality Assurance Engineer",
-                    "count": 1,
-                    "experience": "2+ years of experience"
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "companyName": "Saeculum Solutions Pvt Ltd",
-            "location": "Ahmedabad",
-            "bio": "Saeculum Solutions Pvt Ltd has been helping companies across various industries optimize their business processes through custom software solutions. What distinguishes us from the rest is our ability to look beyond technologies and deliver innovative and progressive solutions.",
-            "companyLogoUrl": "https://saeculumsolutions.com/wp-content/uploads/2021/10/Logo-512-x-512.png",
-            "companyWebsite": "https://saeculumsolutions.com/",
-            "companyCareerPage": "https://saeculumsolutions.com/career/",
-            "linkedin": "https://www.linkedin.com/company/saeculumsolutions/",
-            "hiringImageUrl": "https://saeculumsolutions.com/wp-content/uploads/2022/12/hiring_post-scaled.jpg",
-            "openings": [{
-                    "title": "HR Recruiter | Talent Acquisition Executive",
-                    "count": 1,
-                    "experience": "1+ year"
-                },
-                {
-                    "title": "React Native Developers",
-                    "count": 3,
-                    "experience": "2-5 years"
-                },
-                {
-                    "title": "Team Lead - .NET Core & Angular",
-                    "count": 1,
-                    "experience": "5+ years"
-                },
-                {
-                    "title": "Node JS Developers",
-                    "count": 3,
-                    "experience": "1-5 years"
-                },
-                {
-                    "title": "Project Manager",
-                    "count": 1,
-                    "experience": "5+ years"
-                },
-                {
-                    "title": ".NET Core Developers",
-                    "count": 5,
-                    "experience": "1-5 years"
-                },
-                {
-                    "title": "React Developers",
-                    "count": 5,
-                    "experience": "1-5 years"
-                },
-                {
-                    "title": "Graphics Designers",
-                    "count": 2,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Angular Developers",
-                    "count": 5,
-                    "experience": "1-5 years"
-                },
-                {
-                    "title": "Quality Assurance (Manual)",
-                    "count": 1,
-                    "experience": "0-1 year"
-                },
-                {
-                    "title": "MERN Developers",
-                    "count": 3,
-                    "experience": "1-5 years"
-                },
-                {
-                    "title": "Technical Content Writer",
-                    "count": 1,
-                    "experience": "1+ year"
-                },
-                {
-                    "title": "Web Designers",
-                    "count": 2,
-                    "experience": "2+ years"
-                },
-                {
-                    "title": "Freshers - Angular | React | Node | .NET Core",
-                    "count": 10,
-                    "experience": "0-1 year"
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "companyName": "Anglara Digital Solutions",
-            "location": "Ahmedabad, India",
-            "bio": "We are on a mission to provide sophisticated software solutions for businesses and end users across the globe. In the process to achieve this we consider our team members as valuable assets and we take enough care of them as we do for our clients. We have multiple WFH positions available and we can not wait to have you on board if we feel you are one of us.",
-            "companyLogoUrl": "https://anglara.com/assets/images/career/logo.svg",
-            "companyWebsite": "https://anglara.com/",
-            "companyCareerPage": "https://anglara.com/career.html",
-            "linkedin": "https://www.linkedin.com/company/anglaradigitalsolutions/",
-            "hiringImageUrl": "https://anglara.com/assets/images/career/hiring-anglara-gdgdevfest.jpg",
-            "openings": [{
-                    "title": "Wordpress developer",
-                    "count": 1,
-                    "experience": "2-3 years experience"
-                },
-                {
-                    "title": "Flutter developer",
-                    "count": 1,
-                    "experience": "2-3 years experience"
-                },
-                {
-                    "title": "Laravel developer",
-                    "count": 2,
-                    "experience": "2-3 years experience"
-                },
-                {
-                    "title": "Wordpress interns",
-                    "count": 2,
-                    "experience": "0 years experience"
-                },
-                {
-                    "title": "Flutter interns",
-                    "count": 2,
-                    "experience": "0 years experience"
-                },
-                {
-                    "title": "Laravel interns",
-                    "count": 2,
-                    "experience": "0 years experience"
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "companyName": "Essence Solusoft",
-            "location": "Ahmedabad, India",
-            "bio": "At Essence Solusoft, we offer learning, opportunities and better work-life balance with our core values Transparency, Integrity, Innovation and contribution. Since inception, we have been loved by the community for our Full stack Ruby on Rails expertise. Now we are expanding 360 notch and growing. We would love to invite people to join our team and grow together.",
-            "companyLogoUrl": "https://drive.google.com/uc?id=1c_Ee5uF_ciER-D2d-U1lctOggeDZUSqj",
-            "companyWebsite": "https://essencesolusoft.com/",
-            "companyCareerPage": "https://essencesolusoft.com/careers",
-            "linkedin": "https://www.linkedin.com/company/essencesolusoft/",
-            "hiringImageUrl": "https://drive.google.com/uc?id=1S501IcOI1dR7eVNHiJKdbJ9UBE3zjjWD",
-            "openings": [{
-                    "title": "Ruby On Rails Engineers",
-                    "count": 5,
-                    "experience": "0 to 3 Years experience"
-                },
-                {
-                    "title": "React Native Developers",
-                    "count": 2,
-                    "experience": "1 Year experience"
-                },
-                {
-                    "title": "SEO Executives",
-                    "count": 3,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Shopify Developers",
-                    "count": 2,
-                    "experience": "1 to 2 Years experience"
-                },
-                {
-                    "title": "Technical Content Writers",
-                    "count": 2,
-                    "experience": "0 to 2 Years experience"
-                },
-                {
-                    "title": "Jr. Business Development Executives",
-                    "count": 3,
-                    "experience": "1 to 2 Years experience"
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "companyName": "Digicians",
-            "location": "Ahmedabad, India",
-            "bio": "We are solution oriented creative rebels who believe that effective use of technology can empower people, businesses, society and the world at large.",
-            "companyLogoUrl": "https://drive.google.com/uc?id=1UrgthBirQtiOOd26Rli9Jt5cyRYrFA0Z",
-            "companyWebsite": "https://digicians.com/",
-            "companyCareerPage": "https://digicians.com/contact/",
-            "linkedin": "https://www.linkedin.com/company/digicians/",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "Laravel Developers",
-                    "count": 2,
-                    "experience": "1+ year"
-                },
-                {
-                    "title": "HR Recruiter | Talent Acquisition",
-                    "count": 1,
-                    "experience": "1+ year"
-                },
-                {
-                    "title": "Business Development Executive",
-                    "count": 2,
-                    "experience": "1+ year"
-                },
-                {
-                    "title": "UI/UX Designer",
-                    "count": 2,
-                    "experience": "1+ year"
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "companyName": "AddWeb Solution Pvt Ltd",
-            "location": "Ahmedabad",
-            "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
-            "companyLogoUrl": "https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
-            "companyWebsite": "https://www.addwebsolution.com/",
-            "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
-            "linkedin": "https://in.linkedin.com/company/addwebsolution/",
-            "hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2022-03/DSC_2251-min.JPG",
-            "openings": [{
-                    "title": "Drupal Developers",
-                    "count": 3,
-                    "experience": "3-10 years"
-                },
-                {
-                    "title": "ASP.Net Developers",
-                    "count": 1,
-                    "experience": "4-8 years"
-                },
-                {
-                    "title": "Business Development Executive Manager",
-                    "count": 4,
-                    "experience": "1 - 8 years"
-                },
-                {
-                    "title": "DevOps Engineer",
-                    "count": 1,
-                    "experience": "3-10 years"
-                }
-            ]
-        },
-        {
-            "id": 18,
-            "companyName": "iView Labs Pvt. Ltd",
-            "location": "Ahmedabad, India",
-            "bio": "iView Labs is a leading cloud-based application development company that provides software solutions to US, Europe, and Australian businesses.",
-            "companyLogoUrl": "https://www.iviewlabs.com/assets/img/iView-Labs-Logo.png",
-            "companyWebsite": "https://www.iviewlabs.com",
-            "companyCareerPage": "https://www.iviewlabs.com/join-us",
-            "linkedin": "https://www.linkedin.com/company/iviewlabs",
-            "hiringImageUrl": "https://tse2.mm.bing.net/th?id=OIP.L2gI9ov2hu2itvAuifSFpQHaHa&pid=Api&P=0",
-            "openings": [{
-                    "title": "Shopify Developers",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Flutter Developers",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Python Developer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "React Native Developers",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "React JS Developer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Angular Developer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Node JS Developer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Devops Engineer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                },
-                {
-                    "title": "Java Developer",
-                    "count": 2,
-                    "experience": "3 to 8 Years experience"
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "companyName": "Yudiz Solutions Ltd.",
-            "location": "Ahmedabad, India",
-            "bio": "Yudiz Solutions is recognized as an eminent company in the software industry that offers the best in class digital solutions and impressive services that stands out globally.",
-            "companyLogoUrl": "https://drive.google.com/uc?id=13KwLnWwhboLH8C9n0-4IWUeTbB5zLNwD",
-            "companyWebsite": "https://www.yudiz.com/",
-            "companyCareerPage": "https://www.yudiz.com/join-our-team/",
-            "linkedin": "https://in.linkedin.com/company/yudiz-solutions-ltd",
-            "hiringImageUrl": "",
-            "openings": [{
-                    "title": "ETL Developer",
-                    "count": 1,
-                    "experience": "3-5 years experience"
-                },
-                {
-                    "title": "DevOps Engineer",
-                    "count": 2,
-                    "experience": "2-4 years experience"
-                },
-                {
-                    "title": "ReactJs Developer",
-                    "count": 2,
-                    "experience": "2-5 years experience"
-                },
-                {
-                    "title": "BA (Product)",
-                    "count": 1,
-                    "experience": "1-2 years experience"
-                },
-                {
-                    "title": "Content Writer/Copy Writer",
-                    "count": 2,
-                    "experience": "1-2 years experience"
-                },
-                {
-                    "title": "SEO executive",
-                    "count": 1,
-                    "experience": "2-3 years experience"
-                },
-                {
-                    "title": ".NET Developer",
-                    "count": 3,
-                    "experience": "2-5 years experience"
-                },
-                {
-                    "title": "Unity Developer",
-                    "count": 2,
-                    "experience": "2-5 years experience"
-                },
-                {
-                    "title": "Web Designer",
-                    "count": 1,
-                    "experience": "2-4 years experience"
-                },
-                {
-                    "title": "Front Developer",
-                    "count": 1,
-                    "experience": "2-5 years experience"
-                },
-                {
-                    "title": "IOS Developer",
-                    "count": 2,
-                    "experience": "2-5 years experience"
-                },
-                {
-                    "title": "BDE",
-                    "count": 3,
-                    "experience": "2-5 years experience"
-                }
-            ]
-        },
-        {
-            "id": 20,
-            "companyName": "Capermint Technologies Pvt. Ltd.",
-            "location": "Ahmedabad, India",
-            "bio": "Capermint Technologies is a leading Mobile App and Game Development company in India with ISO 9001:2015 Certification & also has a presence in Canada, USA, France & UK. We use the latest and high-quality technologies like AR, VR, AI, XR, Etc to develop apps and games that deliver unique and mesmerizing experiences to users. Capermint Technologies is a global leader in mobile game/application design and development. We create comprehensive games and applications for startups, businesses, and enterprises across various Android and iOS. Our vision is to constantly develop mobile apps and games and grow as a major mobile app and game development company.",
-            "companyLogoUrl": "https://www.capermint.com/wp-content/uploads/2021/10/logo-capermint.webp",
-            "companyWebsite": "https://www.capermint.com/",
-            "companyCareerPage": "https://www.capermint.com/careers/",
-            "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
-            "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQGC8biYrQWz8Q/feedshare-shrink_1280/0/1669017036889?e=1673481600&v=beta&t=Et23o801-hly4sM4oDz-O6V1Rsq1nyiWnF9NjgEhVYc",
-            "openings": [{
-                    "title": "Unity 3D Developer",
-                    "count": 5,
-                    "experience": "1 to 4 Years experience"
-                },
-                {
-                    "title": "Flutter Developer",
-                    "count": 2,
-                    "experience": "2 to 4 Years experience"
-                },
-                {
-                    "title": "HTML5 Developer",
-                    "count": 2,
-                    "experience": "2 to 4 Years experience"
-                },
-                {
-                    "title": "Business Development Executive",
-                    "count": 4,
-                    "experience": "2+ Years experience"
-                },
-                {
-                    "title": "Business Development Manager",
-                    "count": 2,
-                    "experience": "3 to 5 Years experience"
-                },
-                {
-                    "title": "Business Analyst",
-                    "count": 2,
-                    "experience": "2 to 5 Years experience"
-                },
-                {
-                    "title": "Project Coordinator",
-                    "count": 2,
-                    "experience": "2 to 5 Years experience"
-                },
-                {
-                    "title": "Project Manager",
-                    "count": 2,
-                    "experience": "5+ Years experience"
-                },
-                {
-                    "title": "AR/VR Developer",
-                    "count": 2,
-                    "experience": "2 to 3 Years experience"
-                },
-                {
-                    "title": "IOT Engineer",
-                    "count": 2,
-                    "experience": "2 to 3 Years experience"
-                }
-            ]
-        },
-        {
-            "id": 21,
-            "companyName": "TST Technology",
-            "location": "Ahmedabad, India",
-            "bio": "TST Technology is a young, energetic, and enthusiastic team of members bringing to the table a whole new set of innovative and fresh ideas to solve industry challenges and difficulties.Based on the foundation of excellence, commitment, and perfection, we provide businesses a chance to leverage the true power of technology.We are highly customer-centric, which means any client business/organization is our prime focus, and we work to deliver them core satisfaction.We provide our clients with -IT consulting services, App & Web Development, Cloud services, DevOps consultancy, and more. Talking about the services brings us to mentioning a rather compact list. Our services go beyond this to provide you with full-time support and assistance so that you get a rich experience.",
-            "companyLogoUrl": "https://tsttechnology.in/assets/img/logo.png",
-            "companyWebsite": "https://tsttechnology.in/",
-            "companyCareerPage": "https://tsttechnology.in/contact",
-            "linkedin": "https://www.linkedin.com/company/tst-technology/",
-            "openings": [{
-                    "title": "React developer",
-                    "count": 2,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Node developer",
-                    "count": 2,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Flutter developer",
-                    "count": 3,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Business developer",
-                    "count": 1,
-                    "experience": "1-3 years"
-                }
-            ]
-        },
-        {
-            "id": 22,
-            "companyName": "AppStoneLab Technologies LLP",
-            "location": "Surat, India",
-            "bio": "AppStoneLab Technologies LLP is a provider of IT consulting and software development services. We not only provide web development & app development services but also combine marketing strategies with creative designs and innovative expertise to enhance client satisfaction leading us to develop our business.",
-            "companyLogoUrl": "https://appstonelab.com/logo.png",
-            "companyWebsite": "https://appstonelab.com/",
-            "companyCareerPage": "https://appstonelab.com/careers",
-            "linkedin": "https://www.linkedin.com/company/appstonelab-technologies/",
-            "openings": [{
-                    "title": "ReactJS Developer",
-                    "count": 5,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "NodeJs Developer",
-                    "count": 5,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Flutter Developer",
-                    "count": 3,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "Laravel Developer",
-                    "count": 2,
-                    "experience": "2-4 years"
-                },
-                {
-                    "title": "VueJs Developer",
-                    "count": 3,
-                    "experience": "1-3 years"
-                },
-                {
-                    "title": "iOS Developer",
-                    "count": 2,
-                    "experience": "1-3 years"
-                }
-            ]
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "1 to 3 Years experience"
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "companyName": "Codeflash Infotech",
+      "location": "Ahmedabad, India",
+      "bio": "At Codeflash Infotech, we offer a flexible, expanding, and refreshing work atmosphere. We'll give you the dream company you've always wanted to work for, with endless opportunities for advancement, fantastic coworkers. Looking for a career as an engineer, designer in Ahmedabad? Team up with us for a career filled with vitality and enthusiasm.",
+      "companyLogoUrl": "https://codeflashinfotech.com/wp-content/uploads/2022/09/CF-icon.svg",
+      "companyWebsite": "https://codeflashinfotech.com/",
+      "companyCareerPage": "https://codeflashinfotech.com/career/",
+      "linkedin": "https://www.linkedin.com/company/codeflash-infotech/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "MERN Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Content Writer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "SEO Executives",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "companyName": "iTechOps",
+      "location": "Ahmedabad, India",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "https://itechops.com/assets/hiring.jpg",
+      "openings": [
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "0-4 years"
+        },
+        {
+          "title": "Full Stack Developers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "0-2 years"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "companyName": "MagnusMinds IT Solution",
+      "location": "Ahmedabad, India",
+      "bio": "MagnusMinds IT Solution is a leading IT Solution provider Company in India. We provide flexible business strategies with creative tools and advanced methodologies to help businesses achieve success. Our rich & varied experience of 15+ years and stringent quality standards ensure we develop software solutions that give your business an edge over competitors. MagnusMinds is looking for some of the talented individuals, who have an interest in solving real-world business problems and challenges through web-based solutions.",
+      "companyLogoUrl": "https://magnusminds.net/images/logo-icon-square.png",
+      "companyWebsite": "https://magnusminds.net/",
+      "companyCareerPage": "https://magnusminds.net/careers.html",
+      "linkedin": "https://www.linkedin.com/company/magnusmind",
+      "hiringImageUrl": "https://magnusminds.net/images/jobfest-hiring.jpg",
+      "openings": [
+        {
+          "title": "Team Lead - .NET (MVC/Core)",
+          "count": 2,
+          "experience": "6+ Years"
+        },
+        {
+          "title": ".NET (MVC/Core) Developers",
+          "count": 6,
+          "experience": "1 to 6 Years"
+        },
+        {
+          "title": "Angular Developers",
+          "count": 3,
+          "experience": "1 to 4 Years"
+        },
+        {
+          "title": "MSSQL Developers",
+          "count": 5,
+          "experience": "1 to 4 Years"
+        },
+        {
+          "title": "MSBI (Power BI/SSIS/SSRS) Developers",
+          "count": 3,
+          "experience": "0 to 3 Years"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "0 to 2 Years"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "companyName": "Infocusp Innovations",
+      "location": "Ahmedabad, India",
+      "bio": "InFoCusp's mission is to make machines, devices, and computers act smarter and attain new heights of intelligence and sophisticated processing, all to make people’s day-to-day personal and professional lives better, healthier, more convenient, and safer. InFoCusp engineers work closely with R&D teams of commercial companies, collaborating in all development phases of smart products, from whiteboard to prototype to product launch.",
+      "companyLogoUrl": "https://www.infocusp.com/static/media/logo2.2b25740fa600fe779f23c6cf86e678b1.svg",
+      "companyWebsite": "https://www.infocusp.com",
+      "companyCareerPage": "https://www.infocusp.com/careers",
+      "linkedin": "https://www.linkedin.com/company/infocusp",
+      "hiringImageUrl": "https://www.infocusp.com/static/media/join_our_team.4b0991e146ffd61cb2bb889aee62426c.svg",
+      "openings": [
+        {
+          "title": "Senior Software Engineer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Senior Machine Learning Engineer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "companyName": "Simform Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "Simform is a tech company with a mission to help successful companies extend their tech capacity. Founded in October 2010, we have helped organizations ranging from Startups that went public, to Fortune 500 companies, and WHO backed NGOs. Simform helps companies become innovation leaders by delivering software teams on demand. We help you - choose the right technologies to invest in, decide on the best architecture and processes to follow, and oversee the successful delivery of their software projects.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1usuvVCeKHfpeDgspb1qd9WCvv-MpUJws",
+      "companyWebsite": "https://www.simform.com/",
+      "companyCareerPage": "https://www.simform.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/simform/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1k5SsTPPcd_NC6DfYIX_WhcchX2pT9PyT",
+      "openings": [
+        {
+          "title": "Java Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "MERNstack - Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Nodejs - Tech lead",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "8+ years experience"
+        },
+        {
+          "title": "Solutions Architect-Backend",
+          "count": 1,
+          "experience": "8+ years experience"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "companyName": "7Span",
+      "location": "Ahmedabad",
+      "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+      "companyLogoUrl": "https://images.yourstory.com/cs/images/companies/2c2a4550f768-7spanlogo-1646824715089.jpg",
+      "companyWebsite": "https://7span.com",
+      "companyCareerPage": "https://7span.in/openings",
+      "linkedin": "https://www.linkedin.com/company/7span",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQEjxFHtmqfznQ/feedshare-shrink_2048_1536/0/1658492720709?e=1673481600&v=beta&t=6BlBz2EBrVLXSarWRgnNrBe10hJnuwsJuwb3fnAA2OE",
+      "openings": [
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Workday Integration Analyst",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "4-5 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 2,
+          "experience": "2-3 years"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "companyName": "SrashtaSoft",
+      "location": "Ahmedabad, India",
+      "bio": "Srashta means CREATOR (Lord Vishnu). We took this name from \"विष्णु सहस्त्रनाम” SRASHTA + SOFT = Creator of Software. That's how we are providing CREATIVITY through INNOVATION for your SUCCESS!",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1b6A3BIloO_ORs1DxXVgWEa3ImqiQQC1v",
+      "companyWebsite": "https://www.srashtasoft.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=SrashtaSoft&company_uuid=4816D2274F",
+      "linkedin": "https://www.linkedin.com/company/srashtasoft/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1qoUU54VGZFnUEJfK2jEDYyBZnzwHO02K",
+      "openings": [
+        {
+          "title": "Manual QA Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "1 to 2 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "Recruitment Smart",
+      "location": "Ahmedabad, India",
+      "bio": "Recruitment Smart is a simple & AI powered Talent Intelligence platform. It helps in streamlining and automating the talent supply chain and makes sure that the hiring is devoid of any underlying biases like gender, racial or otherwise. It rationalises the time & cost to hire while using machine learning to match CVs and job specifications at blinding speed and with stunning accuracy. We are among the top Recruiting Automation products across the world with more than 100 corporate clients. You can visit our Website or LinkedIn Page to know more details about our organisation & our product..",
+      "companyLogoUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/logo.svg",
+      "companyWebsite": "https://recruitmentsmart.com",
+      "companyCareerPage": "https://recruitmentsmart.com/career/",
+      "linkedin": "https://www.linkedin.com/company/recruitment-smart/",
+      "hiringImageUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/banner.png",
+      "openings": [
+        {
+          "title": "Lead Data Scientist",
+          "count": 1,
+          "experience": "4 to 8 Years experience"
+        },
+        {
+          "title": "Sr. & Jr Data Scintist",
+          "count": 2,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Azure Chatbot Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "PHP Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "Fullstack Developer",
+          "count": 1,
+          "experience": "3 to 6 Years experience"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "8 to 12 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "WebMobTech Solutions Pvt.Ltd",
+      "location": "Ahmedabad",
+      "bio": "We are India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.   It’s a perfect combination between you and company when the career and your passion come together. We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   Be the active part of WebMob Tech team and get to work upon trending technologies. Be the problem solver and create a workplace where we can work on something new everyday. Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "http://drive.google.com/uc?id=1e-7ckZsC_EKBMC4uMw5rOrKi5M9jb8dU",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://www.linkedin.com/company/webmob-technologies/",
+      "hiringImageUrl": "http://drive.google.com/uc?id=1mIJDJa39iu86y-hfjunJyH1fjAjXYYZd",
+      "openings": [
+        {
+          "title": "Technical Lead- Web",
+          "count": 1,
+          "experience": "5-9 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Project Coordinator",
+          "count": 1,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "2-5 year"
+        },
+        {
+          "title": "NodeJs Developer",
+          "count": 2,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "ReactJS Developer",
+          "count": 2,
+          "experience": "3-5 year"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "2-4 year"
+        },
+        {
+          "title": "HR Manager",
+          "count": 1,
+          "experience": "4-7 year"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "Pedals Up LLP",
+      "location": "Ahmedabad, India",
+      "bio": "At Pedals up, we are aware that creating client-oriented software takes a mixture of technical excellence and clear communication and our firm hires only the very best to ensure you receive both. We know that every client is unique and we strive to deliver an individual, innovative and affordable proposal every time and to follow it through with an outstanding delivery which is both on time and within budget.We also pride ourselves on our after-sales client-care including our guarantees, staff-training and onsite and offsite support.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1xQCEv8ABf79o5VTgytIDrrMlYRXlRJdk/view?usp=sharing",
+      "companyWebsite": "https://www.pedalsup.com/",
+      "companyCareerPage": "https://app.pyjamahr.com/careers?company=Pedals%20Up%20Innovations%20LLP&company_uuid=F22A544723",
+      "linkedin": "https://www.linkedin.com/company/pedalsup/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Jr Frontend Developer",
+          "count": 3,
+          "experience": "1+ years experience"
+        },
+        {
+          "title": "Sr Frontend developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Sr Nodejs developer",
+          "count": 1,
+          "experience": "4+ years experience"
+        },
+        {
+          "title": "Blockchain Developer",
+          "count": 3,
+          "experience": "0 to 1+ years experience"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "1+ years experience"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "companyName": "DhiWise Pvt. Ltd.",
+      "location": "Surat, India",
+      "bio": "DhiWise is a programming platform where developers can convert their designs into developer-friendly code for mobile and web apps. DhiWise automates the application development lifecycle and instantly generates readable, modular and reusable code. At DhiWise, you can fall in love with your work again. A platform built for developers to build apps in a way that uses their engineering muscle rather than forcing the use of crammed information.",
+      "companyLogoUrl": "https://uploads-ssl.webflow.com/618e36726d3c0f19c9284e56/6396b5ccaa7b4253b742ee5b_DhiWise-Logo-150X150.jpg",
+      "companyWebsite": "https://www.dhiwise.com/",
+      "companyCareerPage": "https://dhiwise.freshteam.com/jobs",
+      "linkedin": "https://www.linkedin.com/company/dhiwise/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Flutter Developer (Mobile)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Flutter Developer (Web)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Kotlin Developer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "MERN Stack Developer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "React.js Developer (TypeScript)",
+          "count": 1,
+          "experience": "2+ years of experience"
+        },
+        {
+          "title": "Sr. Android Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. Next.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. Node.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Sr. React.js Developer",
+          "count": 1,
+          "experience": "3+ years of experience"
+        },
+        {
+          "title": "Quality Assurance Engineer",
+          "count": 1,
+          "experience": "2+ years of experience"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "companyName": "Saeculum Solutions Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "Saeculum Solutions Pvt Ltd has been helping companies across various industries optimize their business processes through custom software solutions. What distinguishes us from the rest is our ability to look beyond technologies and deliver innovative and progressive solutions.",
+      "companyLogoUrl": "https://saeculumsolutions.com/wp-content/uploads/2021/10/Logo-512-x-512.png",
+      "companyWebsite": "https://saeculumsolutions.com/",
+      "companyCareerPage": "https://saeculumsolutions.com/career/",
+      "linkedin": "https://www.linkedin.com/company/saeculumsolutions/",
+      "hiringImageUrl": "https://saeculumsolutions.com/wp-content/uploads/2022/12/hiring_post-scaled.jpg",
+      "openings": [
+        {
+          "title": "HR Recruiter | Talent Acquisition Executive",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 3,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Team Lead - .NET Core & Angular",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 3,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "5+ years"
+        },
+        {
+          "title": ".NET Core Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "React Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Graphics Designers",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Angular Developers",
+          "count": 5,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Quality Assurance (Manual)",
+          "count": 1,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "MERN Developers",
+          "count": 3,
+          "experience": "1-5 years"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Freshers - Angular | React | Node | .NET Core",
+          "count": 10,
+          "experience": "0-1 year"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "companyName": "Anglara Digital Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "We are on a mission to provide sophisticated software solutions for businesses and end users across the globe. In the process to achieve this we consider our team members as valuable assets and we take enough care of them as we do for our clients. We have multiple WFH positions available and we can not wait to have you on board if we feel you are one of us.",
+      "companyLogoUrl": "https://anglara.com/assets/images/career/logo.svg",
+      "companyWebsite": "https://anglara.com/",
+      "companyCareerPage": "https://anglara.com/career.html",
+      "linkedin": "https://www.linkedin.com/company/anglaradigitalsolutions/",
+      "hiringImageUrl": "https://anglara.com/assets/images/career/hiring-anglara-gdgdevfest.jpg",
+      "openings": [
+        {
+          "title": "Wordpress developer",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Laravel developer",
+          "count": 2,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Wordpress interns",
+          "count": 2,
+          "experience": "0 years experience"
+        },
+        {
+          "title": "Flutter interns",
+          "count": 2,
+          "experience": "0 years experience"
+        },
+        {
+          "title": "Laravel interns",
+          "count": 2,
+          "experience": "0 years experience"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "companyName": "Essence Solusoft",
+      "location": "Ahmedabad, India",
+      "bio": "At Essence Solusoft, we offer learning, opportunities and better work-life balance with our core values Transparency, Integrity, Innovation and contribution. Since inception, we have been loved by the community for our Full stack Ruby on Rails expertise. Now we are expanding 360 notch and growing. We would love to invite people to join our team and grow together.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1c_Ee5uF_ciER-D2d-U1lctOggeDZUSqj",
+      "companyWebsite": "https://essencesolusoft.com/",
+      "companyCareerPage": "https://essencesolusoft.com/careers",
+      "linkedin": "https://www.linkedin.com/company/essencesolusoft/",
+      "hiringImageUrl": "https://drive.google.com/uc?id=1S501IcOI1dR7eVNHiJKdbJ9UBE3zjjWD",
+      "openings": [
+        {
+          "title": "Ruby On Rails Engineers",
+          "count": 5,
+          "experience": "0 to 3 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "1 Year experience"
+        },
+        {
+          "title": "SEO Executives",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "1 to 2 Years experience"
+        },
+        {
+          "title": "Technical Content Writers",
+          "count": 2,
+          "experience": "0 to 2 Years experience"
+        },
+        {
+          "title": "Jr. Business Development Executives",
+          "count": 3,
+          "experience": "1 to 2 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "companyName": "Digicians",
+      "location": "Ahmedabad, India",
+      "bio": "We are solution oriented creative rebels who believe that effective use of technology can empower people, businesses, society and the world at large.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1UrgthBirQtiOOd26Rli9Jt5cyRYrFA0Z",
+      "companyWebsite": "https://digicians.com/",
+      "companyCareerPage": "https://digicians.com/contact/",
+      "linkedin": "https://www.linkedin.com/company/digicians/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 2,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "companyName": "AddWeb Solution Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "We know that finding a meaningful and rewarding job can be a long journey. Our goal is to make that process as easy as possible for you and create an enjoyable work environment that you'll look forward to coming to every day. Start your journey with us by browsing available jobs..",
+      "companyLogoUrl": "https://www.addwebsolution.com//sites/default/files/addweb_logo_128x128.svg",
+      "companyWebsite": "https://www.addwebsolution.com/",
+      "companyCareerPage": "https://addwebsolution.zohorecruit.in/jobs/Careers/",
+      "linkedin": "https://in.linkedin.com/company/addwebsolution/",
+      "hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2022-03/DSC_2251-min.JPG",
+      "openings": [
+        {
+          "title": "Drupal Developers",
+          "count": 3,
+          "experience": "3-10 years"
+        },
+        {
+          "title": "ASP.Net Developers",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Business Development Executive Manager",
+          "count": 4,
+          "experience": "1 - 8 years"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "3-10 years"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "companyName": "iView Labs Pvt. Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "iView Labs is a leading cloud-based application development company that provides software solutions to US, Europe, and Australian businesses.",
+      "companyLogoUrl": "https://www.iviewlabs.com/assets/img/iView-Labs-Logo.png",
+      "companyWebsite": "https://www.iviewlabs.com",
+      "companyCareerPage": "https://www.iviewlabs.com/join-us",
+      "linkedin": "https://www.linkedin.com/company/iviewlabs",
+      "hiringImageUrl": "https://tse2.mm.bing.net/th?id=OIP.L2gI9ov2hu2itvAuifSFpQHaHa&pid=Api&P=0",
+      "openings": [
+        {
+          "title": "Shopify Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Python Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "React JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Node JS Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Devops Engineer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "3 to 8 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "companyName": "Yudiz Solutions Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Yudiz Solutions is recognized as an eminent company in the software industry that offers the best in class digital solutions and impressive services that stands out globally.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=13KwLnWwhboLH8C9n0-4IWUeTbB5zLNwD",
+      "companyWebsite": "https://www.yudiz.com/",
+      "companyCareerPage": "https://www.yudiz.com/join-our-team/",
+      "linkedin": "https://in.linkedin.com/company/yudiz-solutions-ltd",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "ETL Developer",
+          "count": 1,
+          "experience": "3-5 years experience"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 2,
+          "experience": "2-4 years experience"
+        },
+        {
+          "title": "ReactJs Developer",
+          "count": 2,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "BA (Product)",
+          "count": 1,
+          "experience": "1-2 years experience"
+        },
+        {
+          "title": "Content Writer/Copy Writer",
+          "count": 2,
+          "experience": "1-2 years experience"
+        },
+        {
+          "title": "SEO executive",
+          "count": 1,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": ".NET Developer",
+          "count": 3,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "Web Designer",
+          "count": 1,
+          "experience": "2-4 years experience"
+        },
+        {
+          "title": "Front Developer",
+          "count": 1,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 2,
+          "experience": "2-5 years experience"
+        },
+        {
+          "title": "BDE",
+          "count": 3,
+          "experience": "2-5 years experience"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "companyName": "Capermint Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Capermint Technologies is a leading Mobile App and Game Development company in India with ISO 9001:2015 Certification & also has a presence in Canada, USA, France & UK. We use the latest and high-quality technologies like AR, VR, AI, XR, Etc to develop apps and games that deliver unique and mesmerizing experiences to users. Capermint Technologies is a global leader in mobile game/application design and development. We create comprehensive games and applications for startups, businesses, and enterprises across various Android and iOS. Our vision is to constantly develop mobile apps and games and grow as a major mobile app and game development company.",
+      "companyLogoUrl": "https://www.capermint.com/wp-content/uploads/2021/10/logo-capermint.webp",
+      "companyWebsite": "https://www.capermint.com/",
+      "companyCareerPage": "https://www.capermint.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
+      "hiringImageUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQGC8biYrQWz8Q/feedshare-shrink_1280/0/1669017036889?e=1673481600&v=beta&t=Et23o801-hly4sM4oDz-O6V1Rsq1nyiWnF9NjgEhVYc",
+      "openings": [
+        {
+          "title": "Unity 3D Developer",
+          "count": 5,
+          "experience": "1 to 4 Years experience"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "HTML5 Developer",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 4,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "3 to 5 Years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 2,
+          "experience": "2 to 5 Years experience"
+        },
+        {
+          "title": "Project Coordinator",
+          "count": 2,
+          "experience": "2 to 5 Years experience"
+        },
+        {
+          "title": "Project Manager",
+          "count": 2,
+          "experience": "5+ Years experience"
+        },
+        {
+          "title": "AR/VR Developer",
+          "count": 2,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "IOT Engineer",
+          "count": 2,
+          "experience": "2 to 3 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "companyName": "TST Technology",
+      "location": "Ahmedabad, India",
+      "bio": "TST Technology is a young, energetic, and enthusiastic team of members bringing to the table a whole new set of innovative and fresh ideas to solve industry challenges and difficulties.Based on the foundation of excellence, commitment, and perfection, we provide businesses a chance to leverage the true power of technology.We are highly customer-centric, which means any client business/organization is our prime focus, and we work to deliver them core satisfaction.We provide our clients with -IT consulting services, App & Web Development, Cloud services, DevOps consultancy, and more. Talking about the services brings us to mentioning a rather compact list. Our services go beyond this to provide you with full-time support and assistance so that you get a rich experience.",
+      "companyLogoUrl": "https://tsttechnology.in/assets/img/logo.png",
+      "companyWebsite": "https://tsttechnology.in/",
+      "companyCareerPage": "https://tsttechnology.in/contact",
+      "linkedin": "https://www.linkedin.com/company/tst-technology/",
+      "openings": [
+        {
+          "title": "React developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Node developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Business developer",
+          "count": 1,
+          "experience": "1-3 years"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "companyName": "Novumlogic Technologies Pvt Ltd",
+      "location": "Vadodara, India",
+      "bio": "You're BRAIN to us, not a 'resource'.\nNovumlogic is India's top Mobile & Web app development company. Career growth with work life balance, that is what we believe in.\nWe are the best place for the best people to work.",
+      "companyLogoUrl": "https://www.novumlogic.com/assets/gdgahm/ntpl_top_bold.png",
+      "companyWebsite": "https://www.novumlogic.com/",
+      "companyCareerPage": "https://www.novumlogic.com/career/positions",
+      "linkedin": "https://www.linkedin.com/company/novumlogic",
+      "hiringImageUrl": "https://www.novumlogic.com/assets/gdgahm/gdgahm_open_position.png",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Android (Kotlin) Developers",
+          "count": 2,
+          "experience": "2 to 5 years experience"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 2,
+          "experience": "2 to 4 years experience"
+        },
+        {
+          "title": "MEAN Stack Developers",
+          "count": 2,
+          "experience": "1 to 4 years experience"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "companyName": "Sufalam Technologies Pvt. Ltd.",
+      "location": "Ahmedabad",
+      "bio": "Sufalam Technologies Pvt. Ltd. Ahmedabad Building Scalable & Secure Digital Products for Startups & Enterprises.",
+      "companyLogoUrl": "https://www.sufalamtech.com/wp-content/themes/sufalamtech/images/logo.png",
+      "companyWebsite": "https://www.sufalamtech.com/",
+      "companyCareerPage": "https://www.sufalamtech.com/career.htm/",
+      "linkedin": "https://www.linkedin.com/company/sufalamtech",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Fullstack Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "ReactJs Developers",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Nodejs Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "companyName": "Dolphin Web Solution Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "Our designers write code and create visuals; developers build interfaces and web strategists connect it all, seamlessly. To achieve this, we’ve assembled a team whose individual talents complement each other. Each of us has cultivated a unique skill set which allows us to work collaboratively to provide creative solutions and dedicated execution. We’re a close-knit team of product wizards, web strategists, design geniuses, and development masters. Together, we build scalable web apps and mobile applications that simplify businesses.",
+      "companyLogoUrl": "https://dolphinwebsolution.com/wp-content/uploads/2020/06/dolphin_logo.png",
+      "companyWebsite": "https://dolphinwebsolution.com/",
+      "companyCareerPage": "https://dolphinwebsolution.com/careers/",
+      "linkedin": "https://in.linkedin.com/company/dolphin-web-solution",
+      "hiringImageUrl": "https://dolphinwebsolution.com/wp-content/uploads/2020/06/dws_footer_icon.png",
+      "openings": [
+        {
+          "title": "React JS developer",
+          "count": 3,
+          "experience": "1 – 3 years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 3,
+          "experience": "1 – 3 years"
+        },
+        {
+          "title": "Magento Developer",
+          "count": 10,
+          "experience": "1 – 5 years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 5,
+          "experience": "1 – 4 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 5,
+          "experience": "1 – 3 years"
+        },
+        {
+          "title": "Sr.Business Development Executive",
+          "count": 2,
+          "experience": "1 – 3 years"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "companyName": "Technobrains Business Solution LLP",
+      "location": "Ahmedabad",
+      "bio": "TechnoBrains is a full-service Web & App development company in India with a head office situated in Ahmadabad. Our dynamic team consists of experienced web developers, designers, and digital strategists who work hard to deliver better business outcomes that empower our clients through our tailor-made result-driven solutions. Since its establishment in 2009, we have helped to transform many businesses by integrating our technological ability with a deeper understanding of the digital landscape. We take a collaborative approach to identify actionable ideas that can help your enterprise lead to better outcomes for any client engagement. We can turn your creative ideas into reality.",
+      "companyLogoUrl": "https://technobrains.io/wp-content/uploads/2021/06/logo.svg",
+      "companyWebsite": "https://technobrains.io/",
+      "companyCareerPage": "https://technobrains.io/career/",
+      "linkedin": "https://www.linkedin.com/company/technobrains-business-solutions",
+      "hiringImageUrl": "https://documents.schedulesoftware.net/uploads/images/24_job%20banner%206%20vacancy%2025-11%20(800).gif",
+      "openings": [
+        {
+          "title": "Sr. DotNet Developers",
+          "count": 2,
+          "experience": "4-9 years"
+        },
+        {
+          "title": "DotNet Developers",
+          "count": 7,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Wordpress Developers",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "SEO/Digital Marketing",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "PHP Developers",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Web Designer (Front-end)",
+          "count": 1,
+          "experience": "2-4 years"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "companyName": "Inferenz Tech Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "Inferenz breaks the barriers to digitalization by uncomplicating the journey and helping customers discover complete clarity. We are a group of technologists and domain experts that provides new age technologies to adapt to change and accelerate business growth. We are obsessed with staying ahead of the technology curve. Our team of innovative technologists and domain experts are constantly working on improving our technologies to keep delivering the best solutions to our customers.",
+      "companyLogoUrl": "https://inferenz.ai/wp-content/uploads/2022/07/main-logo-1.svg",
+      "companyWebsite": "https://inferenz.ai/",
+      "companyCareerPage": "https://inferenz.ai/careers/",
+      "linkedin": "https://www.linkedin.com/company/inferenz/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Data Engineer",
+          "count": 5,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Sr.Data Engineer",
+          "count": 5,
+          "experience": "5+ years"
+        },
+        {
+          "title": "Lead AI Engineer",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Unity Developer",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Full Stack Developer",
+          "count": 3,
+          "experience": "3+ years"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "companyName": "QDev Technolab",
+      "location": "Ahmedabad, India",
+      "bio": "We are software development company who believe in quality and excellence. When Quality meets excellence, it will gives us Innovation as output. QDev has been helping peoples across various industries to optimize their business processes through custom software solutions and convert their ideas to implementation. we also consider our team members as our most valuable assets and we are taking care of them .",
+      "companyLogoUrl": "https://qdevtechnolab.com/assets/images/logo.png",
+      "companyWebsite": "http://qdevtechnolab.com/",
+      "companyCareerPage": "https://qdevtechnolab.com/career",
+      "linkedin": "https://www.linkedin.com/company/qdev-technolab-21/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "2+ year"
+        },
+        {
+          "title": "HR Recruiter | Talent Acquisition",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2+ year"
+        },
+        {
+          "title": "Java Developer",
+          "count": 2,
+          "experience": "2+ year"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "companyName": "iCoderz Solutions Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "iCoderz is Full stack mobile apps Development company, which inaugurated its operations in year 2011 with a few young and dynamic techno- entrepreneurs with an aim of offering customized mobile application development for diverse business industries and categories on various operating systems. In the present day, the company is on a verge of becoming one of the pioneers in the mobile app development domain. Within five years, we have achieved have expanded our business in terms of infrastructure and staff members. We have extended our service offering by including full-spectrum website design and development solutions.",
+      "companyLogoUrl": "https://www.icoderzsolutions.com/image/iclogo-new.png",
+      "companyWebsite": "https://www.icoderzsolutions.com/",
+      "companyCareerPage": "https://www.icoderzsolutions.com/career.shtml",
+      "linkedin": "https://www.linkedin.com/company/icoderz",
+      "hiringImageUrl": "https://www.icoderzsolutions.com/image/Hiring.png",
+      "openings": [
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2+ year"
+        },
+        {
+          "title": "IOS developer",
+          "count": 5,
+          "experience": "3+ year"
+        },
+        {
+          "title": "Android developer",
+          "count": 5,
+          "experience": "1+ year"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Scrum Master Assistant",
+          "count": 1,
+          "experience": "5+ year"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 1,
+          "experience": "1+ year"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 3,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": " Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS.Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+      "companyLogoUrl": "https://drive.google.com/uc?export=download&id=1_UVyoryazr9cmQYVDzedlZUfG8N6EfIy",
+      "companyWebsite": "http://brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/about/",
+      "hiringImageUrl": "https://drive.google.com/uc?export=download&id=1_UVyoryazr9cmQYVDzedlZUfG8N6EfIy",
+      "openings": [
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "ReactJS Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "NodeJS Developers",
+          "count": 2,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Business Development Executives",
+          "count": 2,
+          "experience": "2+ Years experience"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 1,
+          "experience": "2 to 6 Years experience"
+        },
+        {
+          "title": "Laravel Developers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "Business Analyst-Magento",
+          "count": 2,
+          "experience": "1 to 3 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "companyName": "IT PATH SOLUTIONS PVT LTD",
+      "location": "Ahmedabad",
+      "bio": " IT Path Solutions is one of the leading tech consulting & solution development companies based in the US, and the UK and headquartered in India with 2 development centers.",
+      "companyLogoUrl": " https://www.itpathsolutions.com/wp-content/themes/itpathsolutions/img/logo.png",
+      "companyWebsite": "https://www.itpathsolutions.com/",
+      "companyCareerPage": "https://www.itpathsolutions.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/itpathsolutions",
+      "openings": [
+        {
+          "title": "Asp.net Developer",
+          "count": 2,
+          "experience": "3-6 years"
+        },
+        {
+          "title": "Business Developement Executive",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 2,
+          "experience": "5+ years"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "companyName": "JB Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "JB Solutions is an excellent provider of innovative solutions in IT Services from over a decade and achieved the success as per its vision. Here is the great opportunity to work with challenging and inspiring peoples of JB Solutions that will lead to a change and personal growth.",
+      "companyLogoUrl": "https://www.jbsolutions.in/images/logo_short.png",
+      "companyWebsite": "https://www.jbsolutions.in/",
+      "companyCareerPage": "https://www.jbsolutions.in/careers.html",
+      "linkedin": "https://www.linkedin.com/company/jainbhaveshsolutions/",
+      "hiringImageUrl": "https://www.jbsolutions.in/images/career.jpg",
+      "openings": [
+        {
+          "title": "Sr. PHP Professional",
+          "count": 5,
+          "experience": "At-least 5 years"
+        },
+        {
+          "title": "React native",
+          "count": 5,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Angular Developer",
+          "count": 3,
+          "experience": "2-10 years"
+        },
+        {
+          "title": "Software Professional",
+          "count": 6,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 5,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 5,
+          "experience": "3-8 years"
+        },
+        {
+          "title": "Shopify Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Microsoft .NET Developer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Javascript Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "IOS Developer",
+          "count": 2,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Graphic Designer",
+          "count": 3,
+          "experience": "0-3 years"
+        },
+        {
+          "title": "Business Development Manager",
+          "count": 3,
+          "experience": "2-5 years"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "companyName": "Lucent Innovation",
+      "location": "Ahmedabad - Gandhinagar",
+      "bio": "Lucent Innovation is a global solution provider in Digital enterprises and provide seamless web and mobile application development and software solutions as well as e-commerce solutions.Lucent Innovation is a leading official Shopify plus partners, Shopify Experts that concepts your idea into the product.",
+      "companyLogoUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/lucent-black_logo_220.png?v=1670991872",
+      "companyWebsite": "https://www.lucentinnovation.com/",
+      "companyCareerPage": "https://www.lucentinnovation.com/pages/careers",
+      "linkedin": "https://www.linkedin.com/company/lucent-innovation",
+      "hiringImageUrl": "https://cdn.shopify.com/s/files/1/1905/9639/files/312799564_657759969049207_4029305728327268450_n.jpg",
+      "openings": [
+        {
+          "title": "Java Developers",
+          "count": 10,
+          "experience": "2+ years"
+        },
+        {
+          "title": "React Developers",
+          "count": 8,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Node JS Developers",
+          "count": 12,
+          "experience": "2+"
+        },
+        {
+          "title": "Digital Marketer - PPC",
+          "count": 2,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Freshers",
+          "count": 10,
+          "experience": "0 - 1 years"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "companyName": "Jarvis Technolabs",
+      "location": "Ahmedabad, India",
+      "bio": "Creating exciting software for the new age is not an easy task but thrilling anyway. We provide the best of web and mobile app development services that can help you grow your business.",
+      "companyLogoUrl": "https://lh5.googleusercontent.com/-Cbw6E7aQZj4/AAAAAAAAAAI/AAAAAAAAAAA/u8Fg4uy1YHU/s55-p-k-no-ns-nd/photo.jpg",
+      "companyWebsite": "https://jarvistechnolabs.com/",
+      "companyCareerPage": "https://jarvistechnolabs.com/contact-us",
+      "linkedin": "https://www.linkedin.com/company/13393713/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Liferay Developer",
+          "count": 2,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "Jr. MERNStack Developer",
+          "count": 1,
+          "experience": "2+ years experience"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "3+ years experience"
+        },
+        {
+          "title": "ASP.Net Core MVC Developer",
+          "count": 1,
+          "experience": "3+ years experience"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "companyName": "OneClick IT Consultancy PVT Ltd",
+      "location": "Ahmedabad",
+      "bio": "OneClick IT Consultancy Pvt Ltd is a growing web, mobile and software development company with a diversified pool of technology and subject matter experts. It is an active member of GESIA, Nasscom registered and ISO Certified based in Ahmedabad, INDIA. OneClick has 120+ employees and was established in 2012.",
+      "companyLogoUrl": "https://www.oneclickitsolution.com/wp-content/uploads/2022/09/OC_Logo_-_HD.png",
+      "companyWebsite": "https://www.oneclickitsolution.com",
+      "companyCareerPage": "https://www.oneclickitsolution.com/careers",
+      "linkedin": "https://www.linkedin.com/company/one-click-it-consultancy",
+      "hiringImageUrl": "https://www.oneclickitsolution.com/wp-content/uploads/2022/12/Google_Hiring-scaled.jpg",
+      "openings": [
+        {
+          "title": "DotNet Developers",
+          "count": 6,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Content writers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Project Managers",
+          "count": 2,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Database Developer",
+          "count": 1,
+          "experience": "2+ years"
+        },
+        {
+          "title": "Android Developers",
+          "count": 2,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Full stack developers",
+          "count": 2,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Scala Developers (Pune Location)",
+          "count": 2,
+          "experience": "10+ years"
+        },
+        {
+          "title": "MsDynamics (Chennai/Banglore Location)",
+          "count": 2,
+          "experience": "5+ years"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "companyName": "POSIMYTYH Innovations",
+      "location": "Ahmedabad",
+      "bio": "Innovating WordPress Ecosystem by crafting themes, plugins and SAAS Products. Makers of http://theplusaddons.com - 120+ Elementor widgets | http://theplusblocks.com - 85+ Gutenberg Blocks | http://nexterwp.com - Best Theme | http://wdeisngkit.com - Website Templates",
+      "companyLogoUrl": "https://posimyth.com/wp-content/uploads/2020/02/new_posimyth_logo.png",
+      "companyWebsite": "https://posimyth.com/",
+      "companyCareerPage": "https://posimyth.com/",
+      "linkedin": "https://www.linkedin.com/company/posimyth/",
+      "hiringImageUrl": "https://store.posimyth.com/wp-content/uploads/2021/02/team-posimyth-hiring-banner-gdg-ahmedabad.png",
+      "openings": [
+        {
+          "title": "PHP/WordPress Developers",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Web Designers",
+          "count": 2,
+          "experience": "0-2 years"
+        },
+        {
+          "title": "Content Writers",
+          "count": 4,
+          "experience": "1+ year"
+        },
+        {
+          "title": "SEO Executive",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Social Media Manager",
+          "count": 2,
+          "experience": "1+ year"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "companyName": "Codiste Pvt Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "Codiste Started with a mission to Help Startup to Convert their ideas into Stable and usable products with the latest tech stack. We are working on following tech stack and expanding our horizon :\n\n✅ Blockchain\n✅ Web3.0\n✅ Machine Learning\n✅ Music App Making Expert\n✅ Mobile App Development | Flutter | React Native\n✅ Web Development | Backend | Frontend | MEAN stack | Laravel\n✅ E-Learning Solution\n✅ Streaming Solution\n✅ Digital Signal Processing\n✅ Online Food Ordering\n✅ Booking System Apps\n\nWe keep ourselves updated with Latest Tech stack and make sure our solution always stable by considering all Use cases. We are searching for Right Incubators to become their Technical Partner.",
+      "companyLogoUrl": "https://drive.google.com/uc?export=download&id=1E5ysxZDXSGQ7O3CvpgIPJDpQZkqt6oOP",
+      "companyWebsite": "https://codiste.com",
+      "companyCareerPage": "https://www.linkedin.com/jobs/search/?currentJobId=3354260923&f_C=31007549&geoId=92000000&originToLandingJobPostings=3378191168%2C3375368497%2C3354260923",
+      "linkedin": "https://www.linkedin.com/company/codiste-pvt-ltd",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/C4D22AQFmHh15Y7GHHg/feedshare-shrink_800/0/1670588810138?e=1674086400&v=beta&t=rl0-J8rq8ZyeDAyv4Qtb0ibIw6J1EUkYn-BXjeJz6OY",
+      "openings": [
+        {
+          "title": "Unity Developer",
+          "count": 1,
+          "experience": "4+ years"
+        },
+        {
+          "title": "Three JS developer",
+          "count": 1,
+          "experience": "3+ years"
+        },
+        {
+          "title": "Content writer",
+          "count": 1,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Digital Marketing / Senior SEO",
+          "count": 1,
+          "experience": "3+ years"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "companyName": "SStech System",
+      "location": "Ahmedabad, India",
+      "bio": "SSTech System came into existence with a vision to create superior technology solutions. A team of enthusiastic IT specialist establish the company, with an aim to overcome the regime and create innovative IT solutions. It is one of the premier IT company, providing products and services in web development, mobile application development, software development, IT consulting, web designing migration engineering and much more all under one roof. We embrace advanced technology that helps to enhance functionality and efficiency of your business. We adopt advanced technology that helps to boost functionality and productivity of your business.",
+      "companyLogoUrl": "https://www.sstechsystem.com/upload/sslogo_sticky.png",
+      "companyWebsite": "https://www.sstechsystem.com",
+      "companyCareerPage": "https://www.sstechsystem.com/careers",
+      "linkedin": "https://in.linkedin.com/company/sstech-system",
+      "openings": [
+        {
+          "title": "Mernstack Developer",
+          "count": 5,
+          "experience": "5 Years"
+        },
+        {
+          "title": "ASP.NET Developer",
+          "count": 3,
+          "experience": "5 Years"
+        },
+        {
+          "title": "Jr. iOS Developer",
+          "count": 1,
+          "experience": "1 Year"
+        },
+        {
+          "title": "Sr. PHP Developer",
+          "count": 2,
+          "experience": "5 Years"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "companyName": "Saleshandy",
+      "location": "Ahmedabad",
+      "bio": "At Saleshandy, we're building the sales engagement platform of the future. We're building product toward eliminating manual processes and helping companies generate more replies/book more meetings / generate leads (faster)",
+      "companyLogoUrl": "https://www.saleshandy.com/wp-content/uploads/2021/12/Saleshandy-logo_default.svg",
+      "companyWebsite": "https://www.saleshandy.com/",
+      "companyCareerPage": "https://ikigai.co.in/open-positions/",
+      "linkedin": "https://www.linkedin.com/company/saleshandy",
+      "hiringImageUrl": "https://www.saleshandy.com/wp-content/uploads/2022/12/Hiring_Engineers.png",
+      "openings": [
+        {
+          "title": "Sr Backend Engineer",
+          "count": 3,
+          "experience": "3-5 years"
+        },
+        {
+          "title": "Sr React Developer",
+          "count": 1,
+          "experience": "3-5 years"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "companyName": "Impero IT Services",
+      "location": "Ahmedabad, India",
+      "bio": "Impero is a software development company creating full-fledged smart mobility solutions for your business to make it a recognized brand. Our services include discovering your ideas to designing it and developing it to launching it in the market and ultimately making it a solution that your users will love to use and which will of course top the charts. That is why we term Impero as a tech kingdom.",
+      "companyLogoUrl": "https://imperoit.com/assets/images/others/logo.svg",
+      "companyWebsite": "https://imperoit.com/",
+      "companyCareerPage": "https://imperoit.com/careers",
+      "linkedin": "https://ie.linkedin.com/company/imperoitservices",
+      "openings": [
+        {
+          "title": "SEO Executive",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Senior Backend developer (Node.js & AWS)",
+          "count": 3,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Sr. Flutter developer",
+          "count": 2,
+          "experience": "3-6 years"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "UI/UX Designer",
+          "count": 3,
+          "experience": "1-5 years"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "companyName": "AppStoneLab Technologies LLP",
+      "location": "Surat, India",
+      "bio": "AppStoneLab Technologies LLP is a provider of IT consulting and software development services. We not only provide web development & app development services but also combine marketing strategies with creative designs and innovative expertise to enhance client satisfaction leading us to develop our business.",
+      "companyLogoUrl": "https://appstonelab.com/logo.png",
+      "companyWebsite": "https://appstonelab.com/",
+      "companyCareerPage": "https://appstonelab.com/careers",
+      "linkedin": "https://www.linkedin.com/company/appstonelab-technologies/",
+      "openings": [
+        {
+          "title": "ReactJS Developer",
+          "count": 5,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "NodeJs Developer",
+          "count": 5,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "VueJs Developer",
+          "count": 3,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 2,
+          "experience": "1-3 years"
+        }
+      ]
+    }
+  ]
 }
