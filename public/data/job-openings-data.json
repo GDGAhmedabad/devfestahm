@@ -2037,6 +2037,24 @@
           "experience": "2-6 years"
         }
       ]
+    },
+    {
+      "id": 47,
+      "companyName": "Vedlogic Solutions Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "Vedlogic was founded in 2010 by technocrats who actively strengthen the executive management of Vedlogic today. Vedlogic team comprises of experts in the area of Technology, Business Analysis, Software Development, Project Management, Outsourcing, Finance, Consulting, Quality Standards, Operations, Administration which makes Vedlogic one stop outsourcing solutions provider to clients.",
+      "companyLogoUrl": "https://www.vedlogic.com/wp-content/uploads/2019/03/Vedlogic_logo_light.svg",
+      "companyWebsite": "https://www.vedlogic.com",
+      "companyCareerPage": "https://www.vedlogic.com/careers",
+      "linkedin": "https://www.linkedin.com/company/vedlogic-solutions-pvt.-ltd./about/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Golang Developers",
+          "count": 5,
+          "experience": "3-8 years"
+        }
+      ]
     }
   ]
 }
