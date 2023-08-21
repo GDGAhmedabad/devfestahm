@@ -204,11 +204,11 @@
     "previousDevFestYear": 2019
   },
   "galleryBlock": {
-    "title": "#devfestahm19 highlights",
+    "title": "#devfestahm22 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and Q&A.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/aiY71hshutA7qm9y6"
+      "link": "https://photos.app.goo.gl/QT7yRpuUq6JikN1CA"
     }
   },
   "mapBlock": {
@@ -302,7 +302,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team.jpeg",
     "blocks": [
       {
         "title": "Organizer",

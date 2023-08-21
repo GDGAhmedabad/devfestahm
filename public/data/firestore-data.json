@@ -19,14 +19,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_0314.JPG?alt=media&token=eea65e55-c855-482f-ad8d-4c58ac5dde21",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_0159.JPG?alt=media&token=bc99bd31-8a6d-44ab-9ee5-ed181d35310d",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_029A4148.jpg?alt=media&token=8eae3443-2e08-4d26-afde-fb25b4351698",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_029A4178.JPG?alt=media&token=d6bf8df6-6b94-4440-8aaf-aaf811dc87b5",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_029A3989.JPG?alt=media&token=a9de280e-6dfc-43f2-98dc-13f62fb7e6bf",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_0188.JPG?alt=media&token=a1d56f55-91bf-4444-8ab7-f271b34698bd",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_029A4381.JPG?alt=media&token=0d2e32cf-b9fa-4bd0-848d-d2a6fa968f0f",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2Fdevfestahm19_029A4036.JPG?alt=media&token=ae08f995-a5a3-4a56-bde5-50a97cd69781"
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_02739.JPG?alt=media&token=1c0dfba8-fa7a-4a04-95bb-668d80be12e9",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4397.JPG?alt=media&token=37da75e9-8528-4af9-a33c-22627ba96649",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A5786.JPG?alt=media&token=2d14bdca-c7a5-4a37-8b39-ebb67d3c6a4d",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4628.JPG?alt=media&token=7c294708-bb62-4810-a387-b931cdf63c97",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4338.JPG?alt=media&token=e9b3370c-7254-4b49-80b0-75f9545e1a57",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_03261.JPG?alt=media&token=5c6a7e0e-4eb0-4ddc-b696-0027d378889f",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A5884.JPG?alt=media&token=363e8b5c-1ee9-4c2b-be11-6e35f51b5d77",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_03447.JPG?alt=media&token=a9f8e1ad-4edc-4217-9564-4e562f1dc8d1"
   ],
   "config": {
     "notifications": {
@@ -470,7 +470,7 @@
       "complexity": "Intermediate",
       "description": "Keynote on everything futuristic in Tech this is going to be a hell of a ride with exciting things coming our way in Tech",
       "language": "English",
-      "presentation": "",
+      "presentation": "https://docs.google.com/presentation/d/1dSM8TpaHg_BCddoQeYjT4CxFMiZzKprIjfzhBYVCU_U/edit#slide=id.g1b5f868151d_0_6",
       "speakers": [
         "utpal_betai"
       ],
@@ -484,6 +484,7 @@
       "complexity": "Introductory & Overview",
       "description": "This talk emphasises on the thought process one can employ to build a design system , with Jetpack Compose - which gets even easier now. \nThis talk would introduce Andromeda - an open-source design system with custom components and a customisable theme. We would focus on how to setup a custom theme with custom colors typography and everything else needed to build a custom design system.",
       "language": "English",
+      "presentation": "https://speakerdeck.com/aldefy/andromeda-jetpack-compose-open-source-design-system",
       "speakers": [
         "adit_lal"
       ],
@@ -496,6 +497,7 @@
       "complexity": "Intermediate",
       "description": "JavaScript objects are complex; in this live coding-based talk, we will try to simplify that. \nJavaScript is an object-oriented language or not? The answer to this question lies in the understanding of the following concepts, \n-Different ways of JavaScript object creation \n-prototypes and prototype chain \n-this \n__proto__ \n\nThis session will simplify these truly vital topics of JavaScript language. This talk combines live coding and visualization of concepts on the whiteboard.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1UcY_tfFdC_3GejAMzpiJX_o7GcYJGZf9/edit?usp=share_link&ouid=113705176390707280497&rtpof=true&sd=true",
       "speakers": [
         "dhananjay_kumar"
       ],
@@ -508,6 +510,7 @@
       "complexity": "Intermediate",
       "description": "I am not a CEO of a billion dollar company, well then why should you listen to my experience? From all the people who are present here and who will start their own business, less than 0.01% will make a billion dollar company, rest most folks here would be either making a small to medium scale company, so these are my experiences , my mistakes and my learnings from it, which i would like to share with you all today, from a gujju boy from your neighbouring city Gandhinagar, raised in a middle class family who started his business at the age of 24. \nInteractive session with lot of memes - Things to keep in mind before starting an IT company or startup. Sharing my 2 cents , which new or budding entrepreneurs need to keep in mind before starting new business and / or dropping the good pay job. ",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1XWFKuxkV0ILrmbIQj2vES4DG1BuTP_f8EpOnD4clM-A/edit#slide=id.g1aec8ff13d0_0_440",
       "speakers": [
         "shreyan_mehta"
       ],
@@ -520,6 +523,7 @@
       "complexity": "Intermediate",
       "description": "Sharing the journey of the Crooze app which is for a niche community of highly engaged cyclists. How it all started the sea of challenges faced and how I overcame them as a non-tech Founder. Learnings of building high-engagement tech product by understanding users and their issues better.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/18Ubsu27FZsHG-Et9rb8fioGlWGiFx1ejBcGmSIzxwYY/edit#slide=id.g125514d5365_0_10",
       "speakers": [
         "nikita_lalwani"
       ],
@@ -532,6 +536,7 @@
       "complexity": "Advanced",
       "description": "To meet the developer demands to make the subscriptions less complex, the Android team at Google has released an entirely new subscription model in May 2022. Are you still trying to wrap your head around the new model? You have come to the right place. \nIn this talk you will learn: \n1. What are subscriptions in android? How do they work? \n2. The new structure of in-app subscriptions- What is a base plan, an offer, pricing phases, etc. \n3. How to construct your app’s in-app subscriptions according to the new billing library structure? \n4. How to query data from the APIs like queryProductDetailsAsync and queryPurchasesAsync? \n5. Examples on how to structure subscriptions for your apps. \nBy the end of the talk, you will be able to construct your app for monetization with a clear understanding of what would be your base plans, various offers for each plan, and the pricing phases in which you would like to roll out your in-app products.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1cki64g7MMGFh7PfCm6i2-fU2uFld4GDRwrQdMJNfL8E/edit?usp=sharing",
       "speakers": [
         "priya_sindkar"
       ],
@@ -546,6 +551,7 @@
       "description": "Identity and access management (generally referred to as IAM) is the practice of granting the right individuals access to the right resources for the right reasons. This talk will discuss the general practice for IAM including corporate identities, customer identities, service identities, granting access to google services, applications and resources. The participants will be able to understand the provisioning and managing identities users and groups. In addition, will also be able to understand enabling secure authentication to services and workloads.",
       "extend": 2,
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1XHZPSlNk85XWold0k1UOCtM4aWwGAdYg/edit#slide=id.p1",
       "speakers": [
         "abhilasha_vyas"
       ],
@@ -559,6 +565,7 @@
       "complexity": "Intermediate",
       "description": "In this talk, we’ll take a deep dive into web animations. Firstly, We will look at the history of web animation starting from SMIL, its evolution and transformations, the different types of animations available today CSS, JS or CSS + JS + Third party libraries, how to choose a suitable type for your requirements, while keeping it performant. Of course, we’ll close it with a brief walkthrough of the new good stuff such as Page Transitions coming in the Web Animations API.",
       "language": "English",
+      "presentation": "https://onedrive.live.com/view.aspx?resid=AC982C114DC719DB!30245&ithint=file%2cpptx&authkey=!AKxRdhlki5zMzTc",
       "speakers": [
         "ishan_sharma"
       ],
@@ -571,6 +578,7 @@
       "complexity": "Beginner",
       "description": "In the season of mass layoffs going off, it's supercritical for engineers to understand what goes into building self-propelling growth products with profits. Products which have business models which will not reap benefits after making huge losses for years but the ones which will earn you hard bucks from day 1. \n\nThis session will focus on \n-What are business models and what suits your business best? \n-How to engineer the pricing model? \n-How to grow revenue? \nHow to run successful experiments? \n\nWhy it is supercritical? \nIt's Supercritical for building your own next profitable unicorn or assessing whether you are part of a company which has a profitable future (unlike the FTX saga)",
       "language": "English",
+      "presentation": "https://www.beautiful.ai/player/-NJPDLqwadaVHua872P9/How-to-Build-Profitable-Business",
       "speakers": [
         "shubham_pachori"
       ],
@@ -583,6 +591,7 @@
       "complexity": "Intermediate",
       "description": "Here we will cover different static lint checks for code analysis for the Kotlin Jetpack Compose. That will helps any developer team size to validate the code quality before having the code review. On another side, Sonarqube help to identify the code quality in depth. That will identify the Code smells, Duplication, vulnerabilities, Major issues, Blocker issues, security Issues, and more. Ultimately the goal of the developer should be to make a flag PASS on SonarQube. That indicates your code is aligned with best practices and easy to adopt by any other team members. \n\nApproach: \n1. What is code review and Why it is required? \n2. Code Review Terminologies \n3. Static Code Analysis in Jetpack Compose 👨‍💻 \n4. SonarQube Code Review automation for Android and Flutter 👨‍💻 \n5. Summary & Conclusion \n6. Q&A",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/14DIDN-Hc9r5g2ZuCfWLwLUNDcmlrNDuzuAYMYGZnO8g/edit?usp=sharing",
       "speakers": [
         "pranay_patel",
         "chintan_khetiya"
@@ -597,6 +606,7 @@
       "complexity": "Intermediate",
       "description": "With ML becoming more mainstream, the need for reinventing the wheel has decreased & there is very little entry barrier for creating ML powered applications. TensorFlow Hub is an open repository and library for reusable machine learning. The tfhub.dev repository provides many pre-trained models: text embeddings, image classification models, TF.js/TFLite models and much more. \n\nThe repository is open to community contributors. Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere! In this session, I'll demonstrate how one can use TensorFlow Hub & Gradio to create a fully functional ML powered web application.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1_fRyvQNIEapjGaXp_T7_Tm_oZv8DEcUZz3QoWlxfV54/edit?usp=sharing&resourcekey=0-0RHgzscCAqTcRsyoyjktfQ",
       "speakers": [
         "bhavesh_bhatt"
       ],
@@ -610,6 +620,7 @@
       "complexity": "Intermediate",
       "description": "LHello world to Computer Vision - most tutorials on the internet don't take you beyond the basic implementations. \n\nIn this talk, I will take you through a story of how we built a scalable distributed computer vision platform which helped a startup raise $600,000 of funding. This solution was implemented at National University of Singapore. \n\nOutline: \nIntroduction to the speaker and topic \nProblem statement description \nHow it started \nThe roadblocks we hit \nHow we overcame those roadblocks \nTowards fundraising \nQ/A",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/10Tu-xH-ZeTymtyYRM1Bp_Itk7lSkDtXpX0_581SznyA/edit#slide=id.g125514d5365_0_178",
       "speakers": [
         "anubhav_singh"
       ],
@@ -622,6 +633,7 @@
       "complexity": "Intermediate",
       "description": "Government of Gujarat’s persistent efforts towards creating an innovation/startup-centric ecosystem in the state. Gujarat was awarded best performer for the third time in a row in the “State Startup Ranking” by the Ministry of Commerce, Government of India. \n\nGujarat has been at the forefront of working towards the Hon’ble Prime Minister’s ‘Startup India’ mission. To provide a thriving environment to empower and encourage its young innovators and entrepreneurs, the Education Department, Government of Gujarat, has formulated and successfully implemented its iconic Student Startup and Innovation Policy (SSIP). Gujarat Student Startup and Innovation Hub (i-Hub), registered under Section 8 of the Companies Act 2013 (Not for profit organization), is envisioned to be a center for all Startup stakeholders to develop an end-to-end innovation and entrepreneurial ecosystem in the State by creating pathways from “Mind-to-Market.” i-Hub is a vibrant incubation setup established under SSIP by the Education Department, Government of Gujarat.",
       "language": "English",
+      "presentation": "",
       "speakers": [
         "jaykumar_joshi"
       ],
@@ -634,6 +646,7 @@
       "complexity": "Intermediate",
       "description": "Blockchain technology and the crypto space in general are one of the major trends in the world right now. The number of increasing buzzwords such as NFTs, ETFs, DApps, and DeFi are undeniable markers to this assertion. In this session you will understand how we can jump into the web3 space on mobile. We will learn what all you need to create a dApp using Flutter.",
       "language": "English",
+      "presentation": "",
       "speakers": [
         "pawan_kumar"
       ],
@@ -647,6 +660,7 @@
       "complexity": "Intermediate",
       "description": "We will be sharing our experiences including, \nEducation obtained in and outside of the University \nLive Projects and Internships \nNetworking and Community \nInterview Experiences \nProfessional Journey \nMistakes we have made",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1DObpTez7UDg8IOCRNmuZtt_AFqm4sgPwLNFNFEaSj-I/edit#slide=id.g1bb0821e81b_1_151",
       "speakers": [
         "krupa_galiya",
         "nilay_chauhan"
@@ -661,6 +675,7 @@
       "complexity": "Intermediate",
       "description": "How to do Micro Front end with Module federation \nMicro FrontEnd with Module federation \n\n1) Why we need Micro Front End \n2) What is module federation \n3) Webpack 5 Module Federation \n4) Why webpack module federation \n5) Demo with Angular \n6) Challenges of Module federation and Micro front ned \n7) Resources",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1diOi6_0NucEoGfV4HPBRbRxnBX6z0cAV/edit?usp=sharing&ouid=100040283480866309914&rtpof=true&sd=true",
       "speakers": [
         "jalpesh_vadgama"
       ],
@@ -673,6 +688,7 @@
       "complexity": "Intermediate",
       "description": "As engineers, we know how to build a product end to end. However, it can be a big step for us to wear an entrepreneur hat and also sell the product. Over the past few years, we have engineered three mobile app startups and have raised funds for two of them. \n\nIn the session, we will be sharing our knowledge about creating a pitch deck, getting initial traction and reaching out to investors to successfully raise funds.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/19NcK3LemTD9On2uyWcC1r-_P8AxqgUhxBQk14zFAzlY/edit?usp=sharing",
       "speakers": [
         "samyak_jain"
       ],
@@ -685,6 +701,7 @@
       "complexity": "Intermediate",
       "description": "TBD",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1L4N-ydzFOwamqAgnT_ROFNbd8CT61XR6Saz9yzyt4sE/edit#slide=id.g1ba1c00d0c9_0_112",
       "speakers": [
         "kuntal_shah"
       ],
@@ -698,6 +715,7 @@
       "complexity": "Advanced",
       "description": "You all must've heard that everything in Flutter is widget, while it's not the fact, When we are building Flutter apps, we mostly interact with outer layer of the Widgets. In this talk we will go deep down into the Widget and will learn about Widget rendering, inspector and life cycle.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1MsUipRfYgm6uT9AXrAAqVBYp_-wSeY8W/edit?usp=share_link&ouid=107270346999222187214&rtpof=true&sd=true",
       "speakers": [
         "bhavik_makwana"
       ],
@@ -711,6 +729,7 @@
       "complexity": "Introductory & Overview",
       "description": "One of the advantages of using Cloud and its ecosystem, is that we don't need to reinvent the wheel e.g. database, message queue,AI/ML etc. For any API need, it is just a click away. \n\nGoogle Cloud provides a rich set of API services e.g. Translation, Pub/Sub, Analytics etc., which can cater most of the distributed application integration needs with less or no effort. \n\nAs part of this session we will build a microservice from scratch that will leverage Google APIs. As part of the development process we will also explore how to increase our application delivery velocity i.e. deploying application quicker/faster into production by automating the build and test using an open source project Drone – a Self-service Continuous Integration platform for busy development teams",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1K59-GgORpOUPNqkgqFTgn6bnhdcZnSQ0n-j9BeMcMXY/edit",
       "speakers": [
         "kamesh_sampath"
       ],
@@ -724,6 +743,7 @@
       "complexity": "Intermediate",
       "description": "It's been 15 years since I've been exploring the horizon of IT, Software development and Startup ecosystem. During this tenure, I've worked with multiple startups and I've helped many clients in developing a great set of products, which helped them in generating revenue and scaling up their business. During this talk, I will be sharing key insights on building a startup, things I wish I knew before I started my own venture. Insights and experience like how to build MVP version, which top 3 selling features should go into the MVP Version and how to decide top selling features, how to build a great team, how to build portfolio and winning clients, how to remove redundant tasks and implement automation to reduce efforts and increase productivity. Hope to see you folks at GDG Ahmedabad DevFest 2022!",
       "language": "English",
+      "presentation": "https://pitch.com/public/16ac5a35-8b2e-48fb-a7ff-d0c2845763ed",
       "speakers": [
         "paresh_mayani"
       ],
@@ -736,6 +756,7 @@
       "complexity": "Intermediate",
       "description": "Devtools are driving the tech revolution: Get ahead of the game by exploring the rapidly-expanding devtool market and discover the latest trends and opportunities for startups.",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1fcLiJNh-jPm66Hf-iRZa7knzhelOSQNp/edit",
       "speakers": [
         "vishal_virani"
       ],
@@ -774,6 +795,7 @@
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/12kWqLMtlgD45Q-vrFdst9H5BtD621czr9Y04IR3a9Ew/edit#slide=id.g1ba331e460a_1_0",
       "speakers": [
         "paresh_mayani",
         "jaldeep_asodariya"
@@ -791,6 +813,7 @@
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1wQ9FfINzRmMS4rwQWiJWmL55d-LjOi1W23UwsJE-uoQ/edit?usp=share_link",
       "speakers": [
         "dhrumil_shah",
         "hiren_dave"
