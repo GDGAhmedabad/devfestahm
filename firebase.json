@@ -9,7 +9,7 @@
   },
   "hosting": {
     "public": "dist",
-    "site": "devfestahm-develop",
+    "site": "devfestahm22",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
