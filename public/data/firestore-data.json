@@ -68,90 +68,12 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/dhiwise.png",
-          "name": "DhiWise",
-          "url": "https://www.dhiwise.com/"
-        }
-      ],
-      "order": 1,
-      "title": "Platinum Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/akash-technolabs.png",
-          "name": "Akash Technolabs",
-          "url": "https://akashtechnolabs.com/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/novumlogic.png",
-          "name": "Novum Logic",
-          "url": "https://www.novumlogic.com/"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/quickblox.png",
-          "name": "QuickBlox",
-          "url": "https://quickblox.com/"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/solvative.png",
-          "name": "Solvative",
-          "url": "https://solvative.com/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/oneclick.svg",
-          "name": "OneClick IT Consultancy Pvt. Ltd.",
-          "url": "https://www.oneclickitsolution.com/"
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/jetbrains.png",
-          "name": "JetBrains",
-          "url": "https://www.jetbrains.com/"
-        }
-      ],
-      "order": 2,
-      "title": "Silver Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/sessionize.png",
-          "name": "Sessionize",
-          "url": "https://sessionize.com/"
-        }
-      ],
-      "order": 3,
-      "title": "CFP Partners"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/allevents.png",
-          "name": "AllEvents",
-          "url": "https://allevents.in/"
-        }
-      ],
-      "order": 4,
-      "title": "Ticketing Partner"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/gdg-lviv.svg",
           "name": "GDG Lviv",
           "url": "https://plus.google.com/102444623953913144164"
         }
       ],
-      "order": 5,
+      "order": 1,
       "title": "Template Partner"
     },
     {
@@ -163,7 +85,7 @@
           "url": "https://twitter.com/gdgcloudahm"
         }
       ],
-      "order": 6,
+      "order": 2,
       "title": "Partner Communities"
     }
   ],
