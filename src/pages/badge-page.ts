@@ -3,7 +3,7 @@ import { html, PolymerElement } from '@polymer/polymer';
 import '../components/hero/simple-hero';
 import '../elements/footer-block';
 import '../elements/shared-styles';
-import { heroSettings } from '../utils/data';
+import { heroSettings, toBeAnnounce } from '../utils/data';
 import { updateMetadata } from '../utils/metadata';
 
 @customElement('badge-page')
@@ -159,9 +159,11 @@ export class BadgePage extends PolymerElement {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
       </hero-block>
 
-      <div class="container" layout horizontal justified wrap center>
+      <!-- <div class="container" layout horizontal justified wrap center>
         <div class="input-panel">
           <p>
             Now that you are here, how about personalising your profile? Upload an image and generate a personalised badge with the GDG DevFest Ahmedabad 2022 frame. Also share your image using <a href="https://twitter.com/search?q=%23DevFestAhm&src=typeahead_click&f=live" target="_blank">#DevFestAhm</a> on different social platforms.
@@ -217,12 +219,13 @@ export class BadgePage extends PolymerElement {
             </svg>
           </paper-button>
         </div>
-      </div>
+      </div> -->
 
       <footer-block></footer-block>
     `;
   }
 
+  private tbd = toBeAnnounce;
   private heroSettings = heroSettings.badge;
   canvas: any;
   ctx: any;

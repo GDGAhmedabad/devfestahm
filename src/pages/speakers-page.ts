@@ -22,7 +22,7 @@ import { selectFilterGroups } from '../store/sessions/selectors';
 import { fetchSpeakers } from '../store/speakers/actions';
 import { selectFilteredSpeakers } from '../store/speakers/selectors';
 import { initialSpeakersState } from '../store/speakers/state';
-import { contentLoaders, heroSettings } from '../utils/data';
+import { contentLoaders, heroSettings, toBeAnnounce } from '../utils/data';
 import '../utils/icons';
 import { updateMetadata } from '../utils/metadata';
 
@@ -174,8 +174,11 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <simple-hero page="speakers"></simple-hero>
-      <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+      <simple-hero page="speakers">
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
+      </simple-hero>
+      <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
       <filter-menu
         filter-groups="[[filterGroups]]"
         selected-filters="[[selectedFilters]]"
@@ -244,12 +247,13 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
           </a>
         </template>
       </div>
-      <previous-speakers-block></previous-speakers-block>
+      <previous-speakers-block></previous-speakers-block> -->
 
       <footer-block></footer-block>
     `;
   }
 
+  private tbd = toBeAnnounce;
   private heroSettings = heroSettings.speakers;
   private contentLoaders = contentLoaders;
 
