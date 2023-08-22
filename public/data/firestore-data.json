@@ -1,12 +1,12 @@
 {
   "blog": {
-    "devfestahm22-announced": {
+    "devfestahm23-announced": {
       "backgroundColor": "#2196F3",
-      "brief": "It is official. GDG DevFest Ahmedabad 2022 is going to take place in Ahmedabad, 17th December 2022.",
-      "content": "Mark your dates for the biggest developer conclave of the city as **DevFest Ahmedabad 2022** is here on 17th December, 2022. </br> [Google Developers Group Ahmedabad (GDG Ahmedabad)](http://www.gdgahmedabad.com/) is for the developers, interested in Google's developer technology from Android to App Engine, Google Chrome platforms to product APIs like the Maps, YouTube, Flutter and Tensorflow, all that Google you can think of. GDG Ahmedabad is back with its annual gathering of technology enthusiasts working on Android, Web and Cloud technologies for a day full of sessions, workshops, showcases, networking with other like-minded industry colleagues and ample fun. This year, we expect over **450+ engineers, managers, and entrepreneurs** come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere. </br></br> Come and join us at [#DevFestAhm](https://twitter.com/search?q=DevFestAhm) 2022 to witness the best of tech, explore and learn about Flutter, Kotlin, Machine Learning, Tensorflow, Google Cloud, Blockchain, Firebase, AngularJS, ARCore, Actions on Google etc. and experience the magnificent atmosphere with tech all around you.  <div layout horizontal center-justified>  <paper-button primary>Tickets - Declare soon</paper-button> </div> </br> ## Stay in Touch! </br> We would love to see you at #DevFestAhm 2022. **Subscribe to DevFest newsletter** or follow us on [Facebook](https://www.facebook.com/GDGAhmedabad/), [Twitter](https://twitter.com/GDGAhmedabad/) not to miss any of our announcements and conference updates.   <span><i> We can't wait to meet you in Ahmedabad, the rising tech capital of Gujarat.</br> - The GDG DevFest Ahmedabad Team. </i></span>",
-      "image": "/images/posts/devfestahm22-announced.jpg",
-      "published": "2022-09-15",
-      "title": "Announcing GDG DevFest Ahmedabad 2022"
+      "brief": "It is official. GDG DevFest Ahmedabad 2023 is going to take place in Ahmedabad, 15th October 2023.",
+      "content": "Mark your dates for the biggest developer conclave of the city as **DevFest Ahmedabad 2023** is here on 15th October, 2023. </br> [Google Developers Group Ahmedabad (GDG Ahmedabad)](http://www.gdgahmedabad.com/) is for the developers, interested in Google's developer technology from Android to App Engine, Google Chrome platforms to product APIs like the Maps, YouTube, Flutter and Tensorflow, all that Google you can think of. GDG Ahmedabad is back with its annual gathering of technology enthusiasts working on Android, Web and Cloud technologies for a day full of sessions, workshops, showcases, networking with other like-minded industry colleagues and ample fun. This year, we expect over **1000+ engineers, managers, and entrepreneurs** come to DevFest to learn about Android, Web and Cloud technologies, and to experience the phenomenal atmosphere. </br></br> Come and join us at [#DevFestAhm](https://twitter.com/search?q=DevFestAhm) 2023 to witness the best of tech, explore and learn about Flutter, Kotlin, Machine Learning, Tensorflow, Google Cloud, Blockchain, Firebase, AngularJS, ARCore, Actions on Google etc. and experience the magnificent atmosphere with tech all around you.  <div layout horizontal center-justified>  <paper-button primary>Tickets - Declare soon</paper-button> </div> </br> ## Stay in Touch! </br> We would love to see you at #DevFestAhm 2023. **Subscribe to DevFest newsletter** or follow us on [Facebook](https://www.facebook.com/GDGAhmedabad/), [Twitter](https://twitter.com/GDGAhmedabad/) not to miss any of our announcements and conference updates.   <span><i> We can't wait to meet you in Ahmedabad, the rising tech capital of Gujarat.</br> - The GDG DevFest Ahmedabad Team. </i></span>",
+      "image": "/images/posts/devfestahm23-announced.jpeg",
+      "published": "2023-08-22",
+      "title": "Announcing GDG DevFest Ahmedabad 2023"
     }
   },
   "gallery": [
@@ -2171,7 +2171,7 @@
   "videos": [
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fhighlights%2Fdevfestahm19.jpeg?alt=media&token=a5ba2410-ae3f-4e67-a197-c353de8f504c",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fhighlights%2Fdevfestahm22.jpg?alt=media&token=89c5b7f8-8e6e-401d-b99f-79d8b91051aa",
       "title": "#DevFestAhm - GDG Ahmedabad DevFest 2022   Highlights",
       "youtubeId": "InT3W2cfx34"
     },
