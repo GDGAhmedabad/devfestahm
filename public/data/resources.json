@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Ahmedabad Season 2022",
+  "title": "GDG DevFest Ahmedabad Season 2023",
   "description": "Join the community, Explore Opportunities!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "17th December, 2022",
+  "dates": "15th October, 2023",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -13,7 +13,7 @@
   "eventResources": "Event Resources",
   "buyTicket": "Request A Ticket",
   "registerToGetTicket": {
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfXalpwcHVqmXeOyyhB-p795WWb4c-q3BVKOmdtej5hk9m7Ew/viewform"
+      "link": ""
   },
   "signIn": "Sign in",
   "signOut": "Sign out",
@@ -89,6 +89,11 @@
           "name": "DevfestAhm 2019",
           "url": "http://devfest19.gdgahmedabad.com/",
           "newTab": true
+        },
+        {
+          "name": "DevfestAhm 2022",
+          "url": "http://devfest22.gdgahmedabad.com/",
+          "newTab": true
         }
       ]
     },
@@ -96,8 +101,8 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Announcing DevFestAhm 2022",
-          "url": "/blog/posts/devfestahm22-announced/",
+          "name": "Announcing DevFestAhm 2023",
+          "url": "/blog/posts/devfestahm23-announced/",
           "newTab": false
         }
       ]
@@ -119,18 +124,18 @@
       "featuredSessions": {
         "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdiqZ93WwhGu2PHjgj6czUWAg"
+        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdirF2hz4iX-hl415kCUO_aia"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2019",
-        "youtubeId": "cmvDjenGdBA"
+        "label": "See how it was in 2022",
+        "youtubeId": "InT3W2cfx34"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "500+"
+        "number": "1000+"
       },
       "days": {
         "label": "Days",
@@ -138,11 +143,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "20+"
+        "number": "25+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "3"
+        "number": "5"
       }
     }
   },
@@ -201,7 +206,7 @@
       "label": "View all",
       "link": "/previous-speakers"
     },
-    "previousDevFestYear": 2019
+    "previousDevFestYear": 2022
   },
   "galleryBlock": {
     "title": "#devfestahm22 highlights",

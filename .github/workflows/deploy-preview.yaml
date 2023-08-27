@@ -2,6 +2,8 @@ name: Deploy Preview
 on: pull_request
 jobs:
   build_and_preview:
+    # To skip the workflow
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,5 +18,5 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           # See docs/tutorials/04-deploy.md for configuring these
-          projectId: hoverboard-master
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_HOVERBOARD_MASTER }}'
+          projectId: devfestahm-master
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM_MASTER }}'
