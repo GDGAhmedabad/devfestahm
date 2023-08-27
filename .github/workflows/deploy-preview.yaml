@@ -2,6 +2,7 @@ name: Deploy Preview
 on: pull_request
 jobs:
   build_and_preview:
+    # To skip the workflow
     if: false
     runs-on: ubuntu-latest
     steps:
