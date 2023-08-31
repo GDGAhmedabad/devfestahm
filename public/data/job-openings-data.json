@@ -2051,7 +2051,12 @@
       "openings": [
         {
           "title": "Golang Developers",
-          "count": 5,
+          "count": 2,
+          "experience": "2-7 years"
+        },
+        {
+          "title": "Python (Django, Postgres)",
+          "count": 2,
           "experience": "3-8 years"
         }
       ]
