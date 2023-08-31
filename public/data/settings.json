@@ -5,8 +5,8 @@
     "blog": "https://gdgahmedabad.com/",
     "url": "http://devfest.gdgahmedabad.com/"
   },
-  "startDate": "2022-11-19T09:00:00+05:30",
-  "endDate": "2022-11-19T07:00:00+05:30",
+  "startDate": "2023-10-15T09:00:00+05:30",
+  "endDate": "2023-10-15T07:00:00+05:30",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#419CF6",
@@ -59,7 +59,7 @@
       "description": "Join the community, Explore Opportunities!",
       "background": {
         "color": "#419CF6",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/home.jpeg"
       },
       "fontColor": "#FFF"
     },
@@ -149,8 +149,8 @@
       "fontColor": "#424242"
     },
     "badge": {
-      "title": "DevFestAhm 2022 Badge",
-      "metaDescription": "GDG Ahmedabad DevFest 2022 Badge Generator",
+      "title": "DevFestAhm 2023 Badge",
+      "metaDescription": "GDG Ahmedabad DevFest 2023 Badge Generator",
       "background": {
         "color": "#FFF"
       },
