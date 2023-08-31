@@ -3,7 +3,7 @@ import { html, PolymerElement } from '@polymer/polymer';
 import '../components/hero/simple-hero';
 import '../elements/footer-block';
 import '../elements/shared-styles';
-import { heroSettings } from '../utils/data';
+import { heroSettings, toBeAnnounce } from '../utils/data';
 import { updateMetadata } from '../utils/metadata';
 
 @customElement('badge-page')
@@ -159,12 +159,19 @@ export class BadgePage extends PolymerElement {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
       </hero-block>
 
-      <div class="container" layout horizontal justified wrap center>
+      <!-- <div class="container" layout horizontal justified wrap center>
         <div class="input-panel">
           <p>
-            Now that you are here, how about personalising your profile? Upload an image and generate a personalised badge with the GDG DevFest Ahmedabad 2022 frame. Also share your image using <a href="https://twitter.com/search?q=%23DevFestAhm&src=typeahead_click&f=live" target="_blank">#DevFestAhm</a> on different social platforms.
+            Now that you are here, how about personalising your profile? Upload an image and generate a
+            personalised badge with the GDG DevFest Ahmedabad 2022 frame. Also share your image using
+            <a href="https://twitter.com/search?q=%23DevFestAhm&src=typeahead_click&f=live" target="_blank">
+              #DevFestAhm
+            </a>
+            on different social platforms.
           </p>
           <div class="input">
             <input
@@ -212,17 +219,20 @@ export class BadgePage extends PolymerElement {
             >
               <path d="M0 0h24v24H0V0z" fill="none" />
               <path
-                d="M16.59 9H15V4c0-.55-.45-1-1-1h-4c-.55 0-1 .45-1 1v5H7.41c-.89 0-1.34 1.08-.71 1.71l4.59 4.59c.39.39 1.02.39 1.41 0l4.59-4.59c.63-.63.19-1.71-.7-1.71zM5 19c0 .55.45 1 1 1h12c.55 0 1-.45 1-1s-.45-1-1-1H6c-.55 0-1 .45-1 1z"
+                d="M16.59 9H15V4c0-.55-.45-1-1-1h-4c-.55 0-1 .45-1 1v5H7.41c-.89 0-1.34 1.08-.71
+                1.71l4.59 4.59c.39.39 1.02.39 1.41 0l4.59-4.59c.63-.63.19-1.71-.7-1.71zM5 19c0
+                .55.45 1 1 1h12c.55 0 1-.45 1-1s-.45-1-1-1H6c-.55 0-1 .45-1 1z"
               />
             </svg>
           </paper-button>
         </div>
-      </div>
+      </div> -->
 
       <footer-block></footer-block>
     `;
   }
 
+  private tbd = toBeAnnounce;
   private heroSettings = heroSettings.badge;
   canvas: any;
   ctx: any;
@@ -300,7 +310,6 @@ export class BadgePage extends PolymerElement {
           break;
         }
         default: {
-          const size = Math.min(this.image.width, this.image.height);
           this.canvas.width = 500 * this.dpi;
           this.canvas.height = 500 * this.dpi;
           const hRatio = this.canvas.width / this.image.width;

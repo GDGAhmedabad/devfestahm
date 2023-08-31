@@ -46,7 +46,8 @@ export {
   team,
   ticketsBlock,
   timezoneOffset,
-  title, viewHighlights
+  title, viewHighlights,
+  toBeAnnounce
 } from '../../public/data/resources.json';
 export {
   contentLoaders,
