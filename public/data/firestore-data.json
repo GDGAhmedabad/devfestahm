@@ -87,6 +87,18 @@
       ],
       "order": 2,
       "title": "Partner Communities"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/sessionize.png",
+          "name": "Sessionize",
+          "url": "https://sessionize.com/"
+        }
+      ],
+      "order": 3,
+      "title": "CFP Partners"
     }
   ],
   "schedule": {
