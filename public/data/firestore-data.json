@@ -87,6 +87,18 @@
       ],
       "order": 2,
       "title": "Partner Communities"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/sessionize.png",
+          "name": "Sessionize",
+          "url": "https://sessionize.com/"
+        }
+      ],
+      "order": 3,
+      "title": "CFP Partners"
     }
   ],
   "schedule": {
@@ -1794,27 +1806,27 @@
       "members": [
         {
           "name": "Vatsal Trivedi",
-          "photo": "/images/people/others/vatsal_trivedi.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi.jpg?alt=media&token=7cebaac9-c669-4b73-b3f3-a15a134063bf",
+          "photo": "/images/people/others/vatsal_trivedi_23.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi_23.jpg?alt=media&token=1656d2c4-c2e8-46a4-92e1-e2b2a2563a8f",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://twitter.com/vatty_trivedi",
+              "link": "https://twitter.com/trivedivatsal_",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vattytrivedi/",
+              "link": "https://www.linkedin.com/in/trivedi-vatsal/",
               "name": "LinkedIn"
             },
             {
               "icon": "website",
-              "link": "https://dribbble.com/vattytrivedi",
+              "link": "https://dribbble.com/trivedivatsal",
               "name": "Dribbble"
             },
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/vattytrivedi",
+              "link": "https://www.facebook.com/trivedivatsl/",
               "name": "Facebook"
             }
           ],
