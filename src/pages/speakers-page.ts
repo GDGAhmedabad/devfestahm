@@ -175,8 +175,14 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
       </style>
 
       <simple-hero page="speakers">
-        <h2 class="name">[[tbd.unveilSoon]]</h2>
-        <p class="hero-description">[[tbd.announcedSoon]]</p>
+        <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
+        <p class="hero-description">[[heroSettings.callForSpeakers.description]]</p>
+        <a href="[[heroSettings.callForSpeakers.callToAction.link]]" target="_blank">
+          <paper-button primary class="cta-button animated icon-right">
+            <span>[[heroSettings.callForSpeakers.callToAction.label]]</span>
+            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+          </paper-button>
+        </a>
       </simple-hero>
       <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
       <filter-menu
