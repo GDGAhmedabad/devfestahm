@@ -1841,6 +1841,30 @@
           ],
           "order": 0,
           "title": "Designer"
+        },
+        {
+          "name": "Dixita Ganatra",
+          "photo": "/images/people/others/dixita_ganatra.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdixita_ganatra.jpg?alt=media&token=6a7edde5-be2f-45b9-83c3-b6c8d249edb5",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dixita0607",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/dixita0607",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://dribbble.com/dixita0607",
+              "name": "Dribbble"
+            }
+          ],
+          "order": 1,
+          "title": "Designer"
         }
       ],
       "order": 1,
@@ -1873,30 +1897,6 @@
           "title": ""
         },
         {
-          "name": "Harendrasingh Rajput",
-          "photo": "/images/people/others/harendrasingh_rajput.png",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharendrasingh_rajput.jpeg?alt=media&token=c544d4c9-e775-47d3-ab3d-92f5a9dc1b76",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/harendrasingh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/harendrasingh/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.harendrasinghrajput.com/",
-              "name": "Website"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        },
-        {
           "name": "Jignesh Thanki",
           "photo": "/images/people/others/jignesh_thanki_22.jpeg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki_22.jpeg?alt=media&token=f0131177-971c-41cf-b870-0cef3067238f",
@@ -1917,7 +1917,7 @@
               "name": "Website"
             }
           ],
-          "order": 2,
+          "order": 1,
           "title": ""
         },
         {
@@ -1941,7 +1941,7 @@
               "name": "Github"
             }
           ],
-          "order": 3,
+          "order": 2,
           "title": ""
         },
         {
@@ -1970,7 +1970,7 @@
               "name": "Website"
             }
           ],
-          "order": 4,
+          "order": 3,
           "title": ""
         },
         {
@@ -1994,7 +1994,7 @@
               "name": "Website"
             }
           ],
-          "order": 5,
+          "order": 4,
           "title": ""
         },
         {
@@ -2023,7 +2023,7 @@
               "name": "Website"
             }
           ],
-          "order": 7,
+          "order": 5,
           "title": ""
         },
         {
@@ -2047,7 +2047,7 @@
               "name": "Blog"
             }
           ],
-          "order": 8,
+          "order": 6,
           "title": ""
         },
         {
@@ -2061,7 +2061,7 @@
               "name": "Twitter"
             }
           ],
-          "order": 9,
+          "order": 7,
           "title": ""
         },
         {
@@ -2085,7 +2085,7 @@
               "name": "Blog"
             }
           ],
-          "order": 10,
+          "order": 8,
           "title": ""
         },
         {
@@ -2109,7 +2109,7 @@
               "name": "Github"
             }
           ],
-          "order": 11,
+          "order": 9,
           "title": ""
         }
       ],
