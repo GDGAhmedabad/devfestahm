@@ -104,6 +104,11 @@
           "name": "Announcing DevFestAhm 2023",
           "url": "/blog/posts/devfestahm23-announced/",
           "newTab": false
+        },
+        {
+          "name": "Call for Speakers",
+          "url": "/blog/posts/c4p/",
+          "newTab": false
         }
       ]
     }

@@ -140,7 +140,10 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
         <p> [[heroSettings.description]] </p>
         <p>
           <strong>Add your company's job opportunities</strong><br>
-          Follow steps mentioned over the Github repository <a href="https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies" target="_blank">https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies</a>
+          Follow steps mentioned over the Github repository
+          <a href="https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies" target="_blank">
+            https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies
+          </a>
         </p>
         <p> <strong>Disclaimer:</strong> [[jobOpenings.disclaimer]] </p>
       </div>
