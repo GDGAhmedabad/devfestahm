@@ -159,20 +159,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Courtyard by Marriott",
+    "name": "The Forum - Celebration & Convention",
     "city": "Ahmedabad",
     "short": "Ahmedabad, Gujarat",
-    "address": "Courtyard by Marriott Ahmedabad, Ramdev Nagar Cross Road, Satellite Rd, Ahmedabad, Gujarat 380015",
+    "address": "The Forum - Celebration & Convention, Near Club O7, Off SP Ring Road, Club O7 Rd, Shela, Gujarat 380058",
     "pointer": {
-      "latitude": 23.027870,
-      "longitude": 72.512128,
-      "zoom": 16
+      "latitude": 23.0057804,
+      "longitude": 72.4529069,
+      "zoom": 18
     },
     "mapCenter": {
-      "latitude": 23.03,
-      "longitude": 72.51
+      "latitude": 23.006,
+      "longitude": 72.453
     },
-    "description": "COURTYARD by Marriott"
+    "description": "The Forum - Celebration & Convention"
   },
   "socialNetwork": {
     "follow": [
