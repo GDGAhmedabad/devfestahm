@@ -68,7 +68,7 @@ node_modules/
 # Custom
 dist/
 serviceAccount.json
-internal_use/
+local/
 *-adminsdk-*.json
 .DS_Store
 .idea
