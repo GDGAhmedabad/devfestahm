@@ -138,6 +138,104 @@
           "experience": "3-8 years"
         }
       ]
+    },
+    {
+      "id": 4,
+      "companyName": "Trentium Solution Pvt Ltd",
+      "location": "Ahmedabad, India",
+      "bio": "We are a brand strategy & digital design agency that creates culturally significant brands. With more than a decade of experience and knowledge. We collaborate with folks who are equally committed to their craft. Integrity, diligence, and trust are our guiding principles in all that we do.",
+      "companyLogoUrl": "https://www.trentiums.com/front/theme/assets/img/logo/logo.png",
+      "companyWebsite": "https://www.trentiums.com/",
+      "companyCareerPage": "https://www.trentiums.com/career",
+      "linkedin": "https://www.linkedin.com/company/trentium-solution",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Sr. Laravel Developer",
+          "count": 1,
+          "experience": "4+ Years"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 1,
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 1,
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Sr. React Native Developer",
+          "count": 1,
+          "experience": "4+ Years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 1,
+          "experience": "1+ Years"
+        },
+        {
+          "title": "SEO Executive",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Content Writer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "PPC Expert",
+          "count": 1,
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Laravel Intern",
+          "count": 5,
+          "experience": "-"
+        },
+        {
+          "title": "ReactJS Intern",
+          "count": 4,
+          "experience": "-"
+        },
+        {
+          "title": "React Native Inter",
+          "count": 4,
+          "experience": "-"
+        },
+        {
+          "title": "Flutter Intern",
+          "count": 5,
+          "experience": "-"
+        },
+        {
+          "title": "SEO Intern",
+          "count": 5,
+          "experience": "-"
+        },
+        {
+          "title": "Content Writer Intern",
+          "count": 2,
+          "experience": "-"
+        },
+        {
+          "title": "Graphics Designer Intern",
+          "count": 2,
+          "experience": "-"
+        }
+      ]
     }
   ]
 }
