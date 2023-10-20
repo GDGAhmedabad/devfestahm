@@ -12,39 +12,34 @@
       "hiringImageUrl": "https://drive.google.com/uc?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
       "openings": [
         {
-          "title": "MERN Developers",
+          "title": "Technical Content Writers",
           "count": 2,
-          "experience": "1 to 4 Years experience"
+          "experience": "2 to 5 Years experience"
         },
         {
-          "title": "React Developers",
+          "title": "MERN Stack Developers",
           "count": 2,
-          "experience": "1 to 4 Years experience"
+          "experience": "2 to 4 Years experience"
         },
         {
-          "title": "Node Developers",
+          "title": "ReactJs Developers",
           "count": 2,
-          "experience": "1 to 4 Years experience"
-        },
-        {
-          "title": "Business Development Executives",
-          "count": 2,
-          "experience": "2+ Years experience"
-        },
-        {
-          "title": "Manual QA Engineer",
-          "count": 1,
-          "experience": "1 to 2 Years experience"
+          "experience": "2 to 4 Years experience"
         },
         {
           "title": "Flutter Developers",
           "count": 1,
-          "experience": "1 to 4 Years experience"
+          "experience": "2 to 4 Years experience"
         },
         {
-          "title": "Business Analyst",
+          "title": "Node Developers",
           "count": 1,
-          "experience": "1 to 3 Years experience"
+          "experience": "2 to 4 Years experience"
+        },
+        {
+          "title": "QA Engineers",
+          "count": 2,
+          "experience": "2 to 4 Years experience"
         }
       ]
     },
