@@ -92,7 +92,11 @@ export class JobOpeningPage extends ReduxMixin(PolymerElement) {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="dialog-container header-content" layout horizontal center>
-          <lazy-image class="photo" src="[[companyDetails.companyLogoUrl]]" alt="[[companyDetails.companyName]]" />
+          <lazy-image
+            class="photo"
+            src="[[companyDetails.companyLogoUrl]]"
+            alt="[[companyDetails.companyName]]">
+          </lazy-image>
           <div>
             <h2 class="name" flex>
               [[companyDetails.companyName]]
