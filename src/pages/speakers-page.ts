@@ -22,7 +22,7 @@ import { selectFilterGroups } from '../store/sessions/selectors';
 import { fetchSpeakers } from '../store/speakers/actions';
 import { selectFilteredSpeakers } from '../store/speakers/selectors';
 import { initialSpeakersState } from '../store/speakers/state';
-import { contentLoaders, heroSettings, toBeAnnounce } from '../utils/data';
+import { contentLoaders, heroSettings } from '../utils/data';
 import '../utils/icons';
 import { updateMetadata } from '../utils/metadata';
 
@@ -174,17 +174,8 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <simple-hero page="speakers">
-        <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
-        <p class="hero-description">[[heroSettings.callForSpeakers.description]]</p>
-        <a href="[[heroSettings.callForSpeakers.callToAction.link]]" target="_blank">
-          <paper-button primary class="cta-button animated icon-right">
-            <span>[[heroSettings.callForSpeakers.callToAction.label]]</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
-        </a>
-      </simple-hero>
-      <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+      <simple-hero page="speakers"></simple-hero>
+      <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
       <filter-menu
         filter-groups="[[filterGroups]]"
         selected-filters="[[selectedFilters]]"
@@ -252,7 +243,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
             </div>
           </a>
         </template>
-      </div> -->
+      </div>
       
       <previous-speakers-block></previous-speakers-block> 
 
@@ -260,7 +251,6 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
     `;
   }
 
-  private tbd = toBeAnnounce;
   private heroSettings = heroSettings.speakers;
   private contentLoaders = contentLoaders;
 
