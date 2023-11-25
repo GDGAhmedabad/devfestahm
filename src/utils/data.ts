@@ -48,7 +48,8 @@ export {
   timezoneOffset,
   title, viewHighlights,
   toBeAnnounce,
-  registerNow
+  registerNow,
+  registration
 } from '../../public/data/resources.json';
 export {
   contentLoaders,

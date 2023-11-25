@@ -29,7 +29,7 @@ import {
   description,
   heroSettings,
   location,
-  registerNow,
+  registration,
   showForkMeBlockForProjectIds,
   title,
   viewHighlights
@@ -181,7 +181,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <a href="/registration">
             <paper-button primary>
             <iron-icon icon="hoverboard:ticket"></iron-icon>
-            [[registerNow]]
+            [[registration]]
             </paper-button>
           </a>
 
@@ -283,7 +283,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private buyTicket = buyTicket;
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
-  private registerNow = registerNow;
+  private registration = registration;
 
   @query('#hero')
   hero!: HeroBlock;
