@@ -24,6 +24,11 @@
       "label": "Home"
     },
     {
+      "route": "registration",
+      "permalink": "/registration",
+      "label": "Registration"
+    },
+    {
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
@@ -151,6 +156,14 @@
     "badge": {
       "title": "DevFestAhm 2023 Badge",
       "metaDescription": "GDG Ahmedabad DevFest 2023 Badge Generator",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "registration": {
+      "title": "Registration Guide",
+      "metaDescription": "GDG Ahmedabad DevFest Registration Guide",
       "background": {
         "color": "#FFF"
       },

@@ -1,7 +1,7 @@
 import { customElement, property, query } from '@polymer/decorators';
 import '@polymer/iron-icon';
 import '@polymer/paper-button';
-import { html, PolymerElement } from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer';
 import '@power-elements/lazy-image';
 import '../components/about-block';
 import '../components/hero/hero-block';
@@ -29,6 +29,7 @@ import {
   description,
   heroSettings,
   location,
+  registration,
   showForkMeBlockForProjectIds,
   title,
   viewHighlights
@@ -171,12 +172,19 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             <div class="info-item">[[city]]. [[dates]]</div>
             <div class="info-item">[[heroSettings.description]]</div>
           </div>
-          
           <div class="action-buttons" layout horizontal center-justified wrap>
           <paper-button on-click="playVideo" primary invert>
-              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              <iron-icon icon="hoverboard:play"></iron-icon>
               [[viewHighlights]]
             </paper-button>
+
+          <a href="/registration">
+            <paper-button primary>
+            <iron-icon icon="hoverboard:ticket"></iron-icon>
+            [[registration]]
+            </paper-button>
+          </a>
+
           <!-- <paper-button class="watch-video" on-click="playVideo">
               <iron-icon icon="hoverboard:movie"></iron-icon>
               [[viewHighlights]]
@@ -275,6 +283,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private buyTicket = buyTicket;
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
+  private registration = registration;
 
   @query('#hero')
   hero!: HeroBlock;
