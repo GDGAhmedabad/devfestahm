@@ -111,25 +111,180 @@
     }
   ],
   "schedule": {
-    "2022-12-17": {
-      "date": "2022-12-17",
+    "2023-12-17": {
+      "date": "2023-12-17",
       "dateReadable": "December 17",
       "timeslots": [
+        {
+          "endTime": "09:30",
+          "sessions": [
+            {
+              "items": [
+                "132"
+              ]
+            }
+          ],
+          "startTime": "08:30"
+        },
+        {
+          "endTime": "09:45",
+          "sessions": [
+            {
+              "items": [
+                "136"
+              ]
+            }
+          ],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "10:15",
+          "sessions": [
+            {
+              "items": [
+                "101"
+              ]
+            }
+          ],
+          "startTime": "09:45"
+        },
+        {
+          "endTime": "10:45",
+          "sessions": [
+            {
+              "items": [
+                "140"
+              ]
+            }
+          ],
+          "startTime": "10:15"
+        },
+        {
+          "endTime": "11:15",
+          "sessions": [
+            {
+              "items": [
+                "141"
+              ]
+            }
+          ],
+          "startTime": "10:45"
+        },
+        {
+          "endTime": "12:00",
+          "sessions": [
+            {
+              "items": [
+                "102"
+              ]
+            },
+            {
+              "items": [
+                "103"
+              ]
+            },
+            {
+              "items": [
+                "104"
+              ]
+            },
+            {
+              "items": [
+                "105"
+              ]
+            }
+          ],
+          "startTime": "11:15"
+        }
       ],
       "tracks": [
         {
-          "title": "Alishan hall 1"
+          "title": "Breakout Room 1"
         },
         {
-          "title": "Alishan hall 2"
+          "title": "Breakout Room 2"
         },
         {
-          "title": "Shalimar"
+          "title": "Breakout Room 3"
+        },
+        {
+          "title": "Breakout Room 4"
+        },
+        {
+          "title": "Breakout Room 5"
         }
       ]
     }
   },
   "sessions": {
+    "101": {
+      "complexity": "Intermediate",
+      "description": "Keynote on everything futuristic in Tech this is going to be a hell of a ride with exciting things coming our way in Tech",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "utpal_betai"
+      ],
+      "tags": [
+        "Keynote"
+      ],
+      "title": "Focus on Future Keynote",
+      "videoId": ""
+    },
+    "102": {
+      "complexity": "Introductory & Overview",
+      "description": "This talk delves into the dynamic synergy of Compose and KMP, exploring how this duo can revolutionize cross-platform development while addressing key production challenges and performance optimization. \nIn this session, we will embark on a journey that fuses the expressive power of Compose with the code-sharing prowess of KMP. Drawing from over a decade of Android and Kotlin experience, I will guide you through practical solutions for harnessing this powerful combination. \n- Compose and KMP Integration \n- Production ready compose and gotchas \n- Performance enchamements \n- Compatibility and Migration \n- Tests and release",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "adit_lal"
+      ],
+      "tags": [
+        "Mobile",
+        "Android"
+      ],
+      "title": "Elevating Cross-Platform Excellence: Compose Unleashed with Kotlin Multiplatform"
+    },
+    "103": {
+      "complexity": "Intermediate",
+      "description": "Duet AI is set to change the way you work with Google Cloud. It is an available assistant to a variety of roles : Developer, Operator, Data Analyst and more in Google Cloud. It is a new work to work with Google Cloud and is meant to address multiple tasks ranging from learning, onboarding, best practices, application development, analyzing errors and more. \nThe goal of Duet AI is to boost productivity and help the users stay in the flow. \nThis session will demonstrate features of Duet AI (available in Preview at this time) across multiple personas: Developer, Operator and Analyst. It will also demonstrate it across multiple surfaces that it is available (VS Code, Cloud Workstations and Google Cloud Console).",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "romin_irani"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Duet AI : Your assistant in Google Cloud"
+    },
+    "104": {
+      "complexity": "Intermediate",
+      "description": "This Session will focus on creating GenAI Powered Search and Conversational Experiences with Google Cloud's Vertex AI by leveraging Vertex AI Search & Conversation, it will cover intro to GenAI & LLMs, real world usecases that can solve day to day problems and optimize the processes using GenAI and how those can be implemented using Google Cloud's AI Suite, it will also take a dive into PaLM & Bison Models (Text & Chat) and have a demo of how to create a bot trained on a specific corpus of data such as a website and answer questions it will also cover some real world usecases and architectures that can be implemented using Vertex AI such as automating IT & HR Helpdesk functions, etc. \n- High level breakup \n- VertexAI App Builder \n- VertexAI Conversational AI \n- Underlying Architecture \n- Use cases around creating search applications and bots \n- Working demo of creating a search engine on corpus of documents and data and a chatbot trained on a corpus of data such as a website to answer questions.",
+      "language": "English",
+      "presentation": "https://docs.google.com/presentation/d/1XWFKuxkV0ILrmbIQj2vES4DG1BuTP_f8EpOnD4clM-A/edit#slide=id.g1aec8ff13d0_0_440",
+      "speakers": [
+        "jimit_rangras"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Creating GenAI Powered Search and Conversational Experiences with Vertex AI"
+    },
+    "105": {
+      "complexity": "Intermediate",
+      "description": "Adaptation of flutter is really fast. Flutter has surpassed likes of other cross platform technologies. Nowadays, companies want to reuse code and use flutter in web. But, grass is always greener on other side. \nThere is lacking on how to use flutter web, how to scale it, how to optimize it , security, deployment and many more. \nIn this session I am going to share how we at Tata Digital are using Flutter web for consumer website with over millions of users, thousands of products and hundreds of brands. How we have scaled it and how we are optimizing it.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "vivek_yadav"
+      ],
+      "tags": [
+        "Mobile",
+        "Flutter"
+      ],
+      "title": "How to scale Flutter Web?"
+    },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -159,12 +314,9 @@
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
-      "presentation": "https://docs.google.com/presentation/d/12kWqLMtlgD45Q-vrFdst9H5BtD621czr9Y04IR3a9Ew/edit#slide=id.g1ba331e460a_1_0",
-      "speakers": [
-        "paresh_mayani",
-        "jaldeep_asodariya"
-      ],
-      "title": "GDG DevFest Ahmedabad 2022 Opening"
+      "presentation": "",
+      "speakers": [],
+      "title": "GDG DevFest Ahmedabad 2023 Opening"
     },
     "137": {
       "description": "Afterparty is a great time to have some fun and meet new people",
@@ -201,6 +353,180 @@
     }
   },
   "speakers": {
+    "utpal_betai": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Blockchain | On Demand Apps | SAAS | Product Customization | IoT | Enterprise Apps | Man with Midas Touch | Project Manager | Keynote Speaker | Product Manager | utpalbetai@gmail.com",
+      "company": "SoluLab",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fsolulab-dark.png?alt=media&token=c829492d-d5d7-4bcc-b71d-4ac79efc6edf",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Utpal Betai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+      "pronouns": "he/him",
+      "shortBio": "Blockchain | On Demand Apps | SAAS | Product Customization | IoT | Enterprise...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/utpalbetai",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/utpalbetai/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 0,
+      "rockstarSpeakerOrder": 0,
+      "title": "VP of Sales"
+    },
+    "adit_lal": {
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/aditlal",
+          "name": "gde"
+        }
+      ],
+      "bio": "Adit is a Senior Android Manager/ Architect, currently working for Viacom18. He has been working in the industry for close to about 10+ years primarily helping build android mobile products and scaling them up. Some of his hobbies are Stargazing, Travel, and Landscape Photography.",
+      "company": "Viacom18",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Adit Lal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fadit-lal.jpg?alt=media&token=e4ff0eb7-7720-4d9d-a3c1-605eea93d5cc",
+      "pronouns": "he/him",
+      "shortBio": "Adit is a Senior Android Manager/ Architect, currently working for Viacom18...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aditlal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/aditlal",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.aditlal.dev/",
+          "name": "Website"
+        }
+      ],
+      "order": 1,
+      "rockstarSpeakerOrder": 1,
+      "title": "Senior Android Manager/ Architect"
+    },
+    "romin_irani": {
+      "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
+      "company": "Google Cloud",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Romin Irani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fromin-irani.png?alt=media&token=9c10accb-3ff6-4a07-9d01-715d8eece673",
+      "pronouns": "he/him",
+      "shortBio": "Romin works as a Developer Advocate at Google. He has over 25+ years...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/iRomin",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/iromin/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://iromin.medium.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 2,
+      "rockstarSpeakerOrder": 2,
+      "title": "Developer Advocate"
+    },
+    "jimit_rangras": {
+      "bio": "Currently Working as a Technical Account Manager at Google supporting Google Cloud's strategic enterprise customers get successful with their cloud transformation journey and accelerate Google Cloud adoption in areas such as Infrastructure Modernization, Application Modernization, FinOps, GenAI, etc. Prior to joining Google I have worked in several Cloud and DevOps roles enabling enterprise customers across the globe to get started with their Cloud and DevOps journey by designing and implementing Cloud Infrastructure Architectures with cloud platforms such as Google Cloud, modernizing applications to containers with tools such as Kubernetes, implement CI/CD for automating the build and release process and configuring observability solutions such as ELK, Grafana and Prometheus for monitoring and reliability.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Jimit Rangras",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fjimit-rangras.png?alt=media&token=22101c9c-5bf3-4734-9ac6-8d5919f9b1ed",
+      "pronouns": "he/him",
+      "shortBio": "Currently Working as a Technical Account Manager at Google supporting...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jimit_rangras",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jimitrangras/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@rangrasjimit",
+          "name": "Website"
+        }
+      ],
+      "order": 3,
+      "rockstarSpeakerOrder": 3,
+      "title": "Technical Account Manager"
+    },
+    "vivek_yadav": {
+      "bio": "Hi, I am Vivek Yadav. I am Google Developer Expert for Flutter and Dart. I am Mobile Dev Lead at Tata Digital. I have more than 6 years of experience with mobile development and related tech. \nI am a community organizer of Flutter India, Flutter Mumbai, and the PROCoach community. I love to share things and help the community. I write blogs and produce video content to help the community. I support the community in all possible ways. \nTwitter, LinkedIn, Youtube, and discord are some platforms where I am always available to help.",
+      "company": "Tata Digital",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Vivek Yadav",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fvivek-yadav.png?alt=media&token=14718e5e-0c0a-4f40-9d2b-5d74c9d5a8a7",
+      "pronouns": "he/him",
+      "shortBio": "Hi, I am Vivek Yadav. I am Google Developer Expert for Flutter and Dart...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/viveky259259",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vivek-yadav-665823129",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://viveky259259.medium.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 4,
+      "rockstarSpeakerOrder": 4,
+      "title": "Flutter Lead, Google Developer Expert for Flutter and Dart"
+    }
   },
   "team": [
     {
