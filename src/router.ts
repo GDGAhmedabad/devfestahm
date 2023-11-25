@@ -191,6 +191,13 @@ const ROUTES: Route[] = [
     },
   },
   {
+    path: '/registration',
+    component: 'registration-page',
+    action: async () => {
+      await import('./pages/registration-page.js');
+    },
+  },
+  {
     path: '(.*)',
     component: 'not-found-page',
     action: async () => {

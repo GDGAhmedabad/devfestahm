@@ -47,7 +47,8 @@ export {
   ticketsBlock,
   timezoneOffset,
   title, viewHighlights,
-  toBeAnnounce
+  toBeAnnounce,
+  registerNow
 } from '../../public/data/resources.json';
 export {
   contentLoaders,
