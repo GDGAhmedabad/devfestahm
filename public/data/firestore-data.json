@@ -526,6 +526,128 @@
       "order": 4,
       "rockstarSpeakerOrder": 4,
       "title": "Flutter Lead, Google Developer Expert for Flutter and Dart"
+    },
+    "deepa_chaurasia": {
+      "bio": "I am working as an angular developer at decimal technologies,gurugram .I continuosly share my learning on linkedin and i write technical posts on medium,dev.to and other sites as well",
+      "company": "Decimal Technologies",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Haryana",
+      "featured": true,
+      "name": "Deepa Chaurasia",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am working as an angular developer at decimal technologies,gurugram...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/deepachaurasia1",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/deepa-chaurasia-notes/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 5,
+      "rockstarSpeakerOrder": 5,
+      "title": "NG-INDIA SPEAKER-2022, LINKEDIN CREATOR WITH 25K+ FOLLOWERS, SOFTWARE ENGINEER"
+    },
+    "shubhangi_shukla": {
+      "bio": "A passionate Software Engineer, specializing in Frontend Development. I began my journey with Angular and has since expanded to include React Native, Flutter, and Flask. As a frontend specialist, I have a proven track record of crafting seamless user experiences and innovative web solutions.",
+      "company": "Dados Analytics",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Shubhangi Shukla",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "A passionate Software Engineer, specializing in Frontend Development...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shubhangi-shukla-086753181/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 6,
+      "rockstarSpeakerOrder": 6,
+      "title": "Software Engineer"
+    },
+    "namrata_more": {
+      "bio": "Tech Product @BajajFinservHealth | Co-organizer Google Developer Group Pune | Women TechMakers Pune Ambassador | Product Enthusiast | UX Researcher | Speaker | Mentor",
+      "company": "Bajaj Finserv Health",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Namrata More",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Tech Product @BajajFinservHealth | Co-organizer Google Developer Group Pune...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/imnamratamore",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/namratamore.nm/",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/namratamore",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@imnamratamore",
+          "name": "Blog"
+        }
+      ],
+      "order": 7,
+      "rockstarSpeakerOrder": 7,
+      "title": "Technical Product Manager | Organizer & Ambassador at GDG & WTM Pune"
+    },
+    "amey_nerkar": {
+      "bio": "Amey is a social innovator and changemaker who enjoys building things that impact the community. He develops exceptional products and deploys those in the community around him. He is featured by Google for the impact he is creating using the technology! Amey is currently working as a Technical Product Manager and is experienced in developing and managing the technical side of the products. He is a Google Cloud Certified Engineer and Facebook-certified community manager. He is a full-time Technical Product Manager and loves spending weekends over Music + Code!",
+      "company": "Bajaj Finserv Health",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Amey Nerkar",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Amey is a social innovator and changemaker who enjoys building things...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ameyinvent",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ameyinvent/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://ameyinvent.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 8,
+      "rockstarSpeakerOrder": 8,
+      "title": "Social Innovator | Technical Product Manager | GDG Organizer"
     }
   },
   "team": [
