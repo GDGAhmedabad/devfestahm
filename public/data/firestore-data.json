@@ -1001,6 +1001,151 @@
       "order": 19,
       "rockstarSpeakerOrder": 19,
       "title": "Manager - Google Cloud Engineering @KPMG Global Services"
+    },
+    "mukund_sonaiya": {
+      "bio": "Mukund is a senior software Developer at smartSense Consulting Solutions with 8+ years of experience in frontend, backend & blockchain technology. He is passionate about architecting systems that are highly optimized for performance. He loves to explore and learn new technologies & train his team for these new technologies that will thrive in the future.",
+      "company": "smartSense Consulting Solutions PVT LTD",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Mukund Sonaiya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Mukund is a senior software Developer at smartSense Consulting Solutions with 8+ years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/MukundSonaiya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/mukundsonaiya/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 20,
+      "rockstarSpeakerOrder": 20,
+      "title": "Sr. Software Developer - smartSense Consulting Solutions PVT LTD"
+    },
+    "ronak_thacker": {
+      "bio": "Ronak is a Sr. Software Developer at smartSense Consulting Solutions with 9+ years of experience in Frontend, Backend and Blockchain technology. He is also a tech enthusiast and loves to explore the latest technologies. When not working, Ronak loves to travel and explore new places and food.",
+      "company": "smartSense Consulting Solutions PVT LTD",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Ronak Thacker",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Ronak is a Sr. Software Developer at smartSense Consulting Solutions with 9+ years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/thackerronak",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ronak-thacker-1aa58473/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 21,
+      "rockstarSpeakerOrder": 21,
+      "title": "Sr. Software Developer - smartSense Consulting Solutions PVT LTD"
+    },
+    "bhoomi_vaghasiya": {
+      "bio": "I am an Android Application Developer with 4+ years of experience. I am proficient in Java and Kotlin. I am dedicated to developing high-quality mobile applications that are user-friendly, intuitive, and provide a seamless experience for users. I strongly believe that every app we create holds the potential to make a positive impact in people's lives. \n\nAdditionally, I'm passionate about promoting women in technology and believe in continuous personal growth. I actively contribute to the Android developer community by sharing knowledge and expertise through various articles and blog posts. I delivered a talk on \"Simplify Android Development with Jetpack Compose\" during the Google I/O extended event.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Bhoomi Vaghasiya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am an Android Application Developer with 4+ years of experience. I am proficient in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bhoomi_0104",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/bhoomivaghasiya",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@bhoomivaghasiya",
+          "name": "Blog"
+        }
+      ],
+      "order": 22,
+      "rockstarSpeakerOrder": 22,
+      "title": "Android Developer"
+    },
+    "shreyan_mehta": {
+      "bio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India. I am programming since 2012 and love making and creating stuff that touches lives. SAAS and web is love. Also attracted to ai a lot. Recently gave up my comfortable dev job as senior dev to pursue my software business / startup in full time.",
+      "company": "Asambhav",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Shreyan Mehta",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Developer | innovator | AI fan boy. I am a Full stack developer based in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/devshreyan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/devsm",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@shreyanmehta",
+          "name": "Blog"
+        }
+      ],
+      "order": 23,
+      "rockstarSpeakerOrder": 23,
+      "title": "Founder and product manager at asambhav. Ex - senior software engineer at simform"
+    },
+    "harsh_goyal": {
+      "bio": "Harsh is a B.Tech graduate in Information Technology, with more than 3 years of data scientist experience. His expertise spans machine learning, computer vision, natural language processing (NLP), and Large Language Models (LLMs). Proficient in Python, cloud platforms, and API development, he's adept at leading teams to project success, fueled by his passion for cutting-edge AI technologies like Hugging Face Transformers, ChatGPT OpenAI Third Party API Integrations, and the development of LangChain for advanced LLM applications. \n\nAt ThinkBridge, Harsh spearheaded the development of a product roadmap tool utilizing LLM, excelling in prompt engineering, tuning, and fine-tuning. During his tenure at SculptSoft, he crafted an efficient Python backend server, optimized 3D reconstruction models, and mastered advanced technologies. As a Machine Learning Engineer at Teksun Microsys, he deployed predictive models and enhanced skeleton detection on Android.",
+      "company": "ThinkBridge",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Harsh Goyal",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Harsh is a B.Tech graduate in Information Technology, with more than 3 years of data scientist experience...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hgoyal194/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "ThinkBridge, Senior Data Scientist"
     }
   },
   "team": [
