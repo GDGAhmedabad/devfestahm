@@ -231,6 +231,39 @@
           "experience": "-"
         }
       ]
+    },
+    {
+      "id": 5,
+      "companyName": "YesbhautikX",
+      "location": "Ahmedabad",
+      "bio": "We are your partner in transforming ideas into thriving brands. From crafting the perfect brand name to designing a captivating visual identity, and managing your online presence, we've got you covered. We specialize in revitalizing established businesses, ensuring they stay relevant in the modern digital landscape. Our services range from website and app development to consultancy, brand development, design, tech audits, security enhancements, and much more. Let's build your brand's success together.",
+      "companyLogoUrl": "https://pub-f858c7e521464395920779af297fb1bd.r2.dev/1500%20White%20YesbhautikX%20Full%20BG.png",
+      "companyWebsite": "https://yesbhautikx.co.in/",
+      "companyCareerPage": "https://yesbhautikx.co.in/career/",
+      "linkedin": "https://www.linkedin.com/company/yesbhautikx/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Business Development",
+          "count": 2,
+          "experience": "1-4 years"
+        },
+        {
+          "title": "Android Developer Intern [kotlin, java, flutter, other]",
+          "count": 4,
+          "experience": "1-2 Years as Fresher"
+        },
+        {
+          "title": "Sales Manager Intern",
+          "count": 2,
+          "experience": "1-2 Years as Fresher"
+        },
+        {
+          "title": "NodeJS & Python Developer Intern [Must have knowledge of both Language]",
+          "count": 4,
+          "experience": "1-2 Years as Fresher"
+        }
+      ]
     }
   ]
 }
