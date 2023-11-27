@@ -907,6 +907,100 @@
       "order": 16,
       "rockstarSpeakerOrder": 16,
       "title": "Jr. Staff AI Engineer at Detect Technologies"
+    },
+    "firoz_sabaliya": {
+      "bio": "Firoz is a Scrum Master at BuddyBoss, a premium WordPress plugin provider. With over 14 years of experience in the tech industry, he is passionate about Generative AI and prompt engineering. Firoz enjoys experimenting with new technologies in his free time. As a Scrum Master, he helps facilitate collaboration and productivity within his team. His depth of knowledge and passion for technology make Firoz a valuable member of the BuddyBoss team. Known for his innovative thinking, he is always looking for new ways to leverage AI and other emerging technologies to solve problems and enhance user experiences.",
+      "company": "BuddyBoss",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Firoz Sabaliya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Firoz is a Scrum Master at BuddyBoss, a premium WordPress plugin provider. With over 14 years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/firozsabaliya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/firozsabaliya/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 17,
+      "rockstarSpeakerOrder": 17,
+      "title": "Scrum Master, BuddyBoss"
+    },
+    "biswanath_giri": {
+      "bio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience, I am self-motivated & result-oriented with 6+ Years of experience as a Cloud Solution Architect with a proven track record in Solution Design for Cloud technologies in IT Infrastructure functions and Managed Services domain with migration strategies planned from on-prem to the cloud and As a Cloud Architect, I guide customers in their digital transformation journey to the cloud. My primary role is to design solutions that will help customers migrate, operate, deploy and optimize cloud-based Infrastructure, Applications, DevOps, and Databases. I also contribute to knowledge sharing and conducting training. I am also Google Cloud, AWS, Azure, and Terraform Associate Certified.",
+      "company": "Tech Mahindra",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Biswanath Giri",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bgiri_gcloud",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/biswanathgirigcloudcertified/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://bgiri-gcloud.medium.com/",
+          "name": "Blog"
+        }
+      ],
+      "order": 18,
+      "rockstarSpeakerOrder": 18,
+      "title": "Working as Senior Google Cloud Architect @TechMahindra"
+    },
+    "jitendra_gupta": {
+      "bio": "Jitendra Gupta is ~11 years experienced IT professional with expertise in information security and cloud computing. As a sought-after speaker, with a proven track record of implementing security best practices in cloud environments, Jitendra is dedicated to empowering fellow IT professionals with actionable takeaways to safeguard their applications, data and infrastructure on Google Cloud.",
+      "company": "KPMG Global Services",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Jitendra Gupta",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Jitendra Gupta is ~11 years experienced IT professional with expertise in information security and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jitu028",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jitu028/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@jitu028",
+          "name": "Blog"
+        }
+      ],
+      "order": 19,
+      "rockstarSpeakerOrder": 19,
+      "title": "Manager - Google Cloud Engineering @KPMG Global Services"
     }
   },
   "team": [
