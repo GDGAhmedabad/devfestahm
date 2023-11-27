@@ -120,7 +120,7 @@
           "sessions": [
             {
               "items": [
-                "132"
+                "151"
               ]
             }
           ],
@@ -131,7 +131,7 @@
           "sessions": [
             {
               "items": [
-                "136"
+                "155"
               ]
             }
           ],
@@ -153,7 +153,7 @@
           "sessions": [
             {
               "items": [
-                "140"
+                "159"
               ]
             }
           ],
@@ -164,7 +164,7 @@
           "sessions": [
             {
               "items": [
-                "141"
+                "160"
               ]
             }
           ],
@@ -569,31 +569,31 @@
       ],
       "title": "Volume Snapshot in GKE using CRD"
     },
-    "132": {
+    "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
       "title": "Registration & morning Coffee"
     },
-    "133": {
+    "152": {
       "description": "Foooooooood!",
       "icon": "lunch",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
       "title": "Lunch"
     },
-    "134": {
+    "153": {
       "description": "Coffeeeeeee!",
       "icon": "coffee-break",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
       "title": "Coffee break"
     },
-    "135": {
+    "154": {
       "description": "Coffeeeeeee!",
       "icon": "coffee-break",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
       "title": "Morning coffee"
     },
-    "136": {
+    "155": {
       "description": "Official start of the conference. Greetings from the Paresh Mayani and Jaldeep Asodariya",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
@@ -602,13 +602,13 @@
       "speakers": [],
       "title": "GDG DevFest Ahmedabad 2023 Opening"
     },
-    "137": {
+    "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
       "title": "Afterparty & Networking"
     },
-    "138": {
+    "157": {
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
@@ -620,17 +620,17 @@
       ],
       "title": "Conference closing and contest winners announcements"
     },
-    "139": {
+    "158": {
       "description": "",
       "language": "English",
       "title": "Keynote"
     },
-    "140": {
+    "159": {
       "description": "TBD",
       "language": "English",
       "title": "TBD"
     },
-    "141": {
+    "160": {
       "description": "Networking and Separation Break for different tracks",
       "language": "English",
       "title": "Networking - Separation Break"
