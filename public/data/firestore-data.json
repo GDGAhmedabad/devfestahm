@@ -1146,6 +1146,128 @@
       "order": 24,
       "rockstarSpeakerOrder": 24,
       "title": "ThinkBridge, Senior Data Scientist"
+    },
+    "aakansha_doshi": {
+      "bio": "Aakansha is an open-source enthusiast, Javascript, and React fan. She is one of the organizers of FOSS United meetups in Bangalore. She is a big foodie, and loves traveling and spending time with her family.",
+      "company": "Excalidraw",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Aakansha Doshi",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Aakansha is an open-source enthusiast, Javascript, and React fan...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aakansha1216",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/aa1992/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://aakansha.dev/",
+          "name": "Blog"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Maintainer, Excalidraw"
+    },
+    "shivam_joshi": {
+      "bio": "Shivam Joshi, a young tech wizard is an entrepreneur, founder and executive director at Codon's as well as a Corporate trainer. This individual is India's youngest corporate trainer for Artificial Intelligence. He started his entrepreneurial journey at the mere age of 18. Building Codon's from scratch and all by himself, Shivam's efforts are praise worthy. Shivam has always been of the strong opinion that marks and grades are just an overviewing factor but it cannot define one's worth. He proved his words through his exceptional accomplishments.Shivam's clientele includes renowned companies like LTI, Infosys, HCL, Wipro, TCS and many more. Along with a continuously increasing list of remarkable achievements, he has featured in a number of publishers which include Outlook India, Asian Age, Business World, The Hitvada.",
+      "company": "Codons Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Shivam Joshi",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Shivam Joshi, a young tech wizard is an entrepreneur, founder and executive director at Codon's...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shivam-joshi-b36384183/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://codons.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 26,
+      "rockstarSpeakerOrder": 26,
+      "title": "Founder and Director at Codons Ltd."
+    },
+    "aman_sharma": {
+      "bio": "Aman has been a serial tech entrepreneur with 3 startup, most recently cofounding twimbit as the CTO. He has been a former ML researcher at TU Vienna Informatics, UX / AI lead at upsell.ai and founder lead at Mobile-web.dev . He is an active member of web and web3 community while he have delivered 40+ tech talks, shared advice on product building and mentored hundred of kids in tech and entrepreneurship. He has been featured as top CTO of India and recognised among world most influential tech business leaders.",
+      "company": "Dinnerfy",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Aman Sharma",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Aman has been a serial tech entrepreneur with 3 startup, most recently...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/amanintech",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/amanintech/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://amanin.tech/",
+          "name": "Blog"
+        }
+      ],
+      "order": 27,
+      "rockstarSpeakerOrder": 27,
+      "title": "Cofounder & CTO Dinnerfy, DevOps Ambassador"
+    },
+    "ashutosh_bhakare": {
+      "bio": "Passionate about opensource fields, active fedora contributor, written few article for fedora and Red Hat , Active Docker community leader, Trying to promote Opensource by arranging AWS / Google Events as I am AWS UG , GDG UG and AWS CB. In Dec 2022 GDG Devfest we had taken a session for around 550+ attendees. Currently delivering training for Kubernertes / Docker and GKE",
+      "company": "Unnati Development and Training Centre Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Ashutosh Bhakare",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Passionate about opensource fields, active fedora contributor, written few article for fedora and Red Hat...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/abhakare/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.unnatidevelopment.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 28,
+      "rockstarSpeakerOrder": 28,
+      "title": "CEO, Unnati Development and Training Centre Pvt Ltd"
     }
   },
   "team": [
