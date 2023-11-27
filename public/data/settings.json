@@ -24,6 +24,11 @@
       "label": "Home"
     },
     {
+      "route": "registration",
+      "permalink": "/registration",
+      "label": "Registration"
+    },
+    {
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
@@ -155,6 +160,14 @@
         "color": "#FFF"
       },
       "fontColor": "#424242"
+    },
+    "registration": {
+      "title": "Registration Guide",
+      "metaDescription": "GDG Ahmedabad DevFest Registration Guide",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
     }
   },
   "location": {
@@ -195,6 +208,10 @@
       {
         "name": "instagram",
         "url": "https://www.instagram.com/gdg_ahmedabad/"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/gdg-ahmedabad/"
       }
     ],
     "share": [

@@ -29,6 +29,8 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
+  "registerNow": "Register Now",
+  "registration": "Registration",
   "timezoneOffset": "-180",
   "loading": "Loading...",
   "footer": {
