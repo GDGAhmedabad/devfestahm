@@ -285,6 +285,290 @@
       ],
       "title": "How to scale Flutter Web?"
     },
+    "106": {
+      "complexity": "Intermediate",
+      "description": "We will be exploring and presenting in-depth information about the advancements in Angular17. From fundamental architectural improvements to advanced tooling and developer experience updates, we will take a deep dive into the evolution of Angular \nLearn about the revolutionary \nNew Control Flow \nImproved SSR Support \nDeferrable Views \nSignal-based Components \nNew lifecycle hooks \nStandalone components \nand many more. Join us to leverage the power of Angular 17 in your web development projects.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "deepa_chaurasia",
+        "shubhangi_shukla"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Angular 17 Unveiled"
+    },
+    "107": {
+      "complexity": "Intermediate",
+      "description": "We'll be starting with some stats on online business, essentially growth of UPI transactions in India. A question for traditional startups of why not take your business online? Or are you the one planning to utilise the payment capabilities to the fullest? \n\nABC of a payment gateway usage and integration with discussion on widely used as well as non-trendy new payment methods that can benefit not just on business level but on individual level too. \nSuccess Rate being the most important parameter for a PG, some important tricks and techniques to help improve & maintain the Success Rate. Concept of virtual accounts which solves some major issues with startups and multi-payment disbursements. \nSession end with the use-cases of the trendy WhatsApp Pay Update.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "namrata_more",
+        "amey_nerkar"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Unraveling the world of Payments"
+    },
+    "108": {
+      "complexity": "Intermediate",
+      "description": "High levels things to cover \n1. Purpose and benefits of code review \n- Bonding & learning opportunity for everyone \n- Finding issues/bugs early on \n- Improve the quality of the code \n\n2. Mindset to have \n- Person on the order side is a human \n- Review the code, not the coder \n- Code reviewer also learns a lot from reviewing other's code \n\n3. Best practices ( examples to be added in slide for each of them) \n- Use linting/formatters for things that can be automated - Both in IDEs and on CI pipelines. Protect developer’s time \n- Code style arguments: tabs vs spaces, relative imports vs absolute imports etc \n- Give code examples wherever you can \n- Avoid the terniminology of “You” and instead use “we” \n- Write comments as suggestions or curious questions and not as a command \n- Leave at least one positive comment. \n- Know when to take the discussion offline \n- Add a template for code committer to fill in the PR description including before/after screenshots, steps to run changes locally etc",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harshit_jain"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "How to review code effectively with empathy"
+    },
+    "109": {
+      "complexity": "Intermediate",
+      "description": "We all know what drones are, but have you thought about a world where drones can not only communicate to the controller but also to each other? Here in this talk, I will introduce you to the conecpt of drone platforms and how drones can be used to perform complex actions autonomously. This is an emerging topic and a lot of new ideas and new technology will be shared throughout the session.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "avirup_basu"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Internet of Drones"
+    },
+    "110": {
+      "complexity": "Intermediate",
+      "description": "\"ALL THINGS ML... Literally... Oversimplified\" ~ A challenge that we have taken upon us and are extending it to you ! \n\nDISCLAIMER: 3 words, Useful - Fun - AI. We would like to stress on the useful part. We are extremely cautious about our sessions not ending up being something you can read in a blog in 5 minutes but you would have to sit through an hour in the event for the same. Exhausting, we relate ☹️ \n\nThis session is to encourage everyone to start asking the right questions and cut through the hype and the black box approaches when it comes to -  \n\nML Research vs Applied ML: You NEED to know the difference \nGot a problem?: Make it a problem ML can solve \nCritical Thinking: Got a problem ML can solve? Great! Now how to solve it. HOW TO ALIGN YOUR OBJECTIVES WITH YOUR LOSS FUNCTIONS? \nData Engineering: Sources, Formats, Models… How to piece it all together in the CORRECT CONTEXT? \nTraining Data: Where does it come from? Kaggle? Well yes.. But No. A discussion on the critical thinking and techniques required to create training datasets and avoid disasters taking real-life examples of Language Models & Self-Driving Cars. \nData Labeling: A sneak-peek with jargon you do need to be aware of \nDealing with Class Imbalance: Data-level methods and algorithm-level methods \nHands-On MLOps with PyCaret, MLFlow & DagsHub: Covers everything we learnt so far and also includes the rest - Data  & Model versioning, Experiment tracking, Feature Engineering, Model Selection, Model Training, Model Deployment",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "vaishnavi_sonawane"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "All things ML Literally….Oversimplified"
+    },
+    "111": {
+      "complexity": "Advanced",
+      "description": "Overview - maintain Hybrid/Multi cloud infrastructures using Anthos, and Istio-based service mesh. Anthos on Google Cloud offers organizations flexibility and scalability in their cloud strategies.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_manvar"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Hybrid & Multi Cloud with Anthos"
+    },
+    "112": {
+      "complexity": "Intermediate",
+      "description": "Bundling is essential to JavaScript applications and we have seen how bundling tools have evolved over time. In this talk we will be exploring that evolution journey and digging deeper into how bundler works, what problems they solve, and how their evolution affects us.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "ashok_vishwakarma"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "The evolution of JavaScript bundlers"
+    },
+    "113": {
+      "complexity": "Advanced",
+      "description": "In this session, I'll cover the following topics: \n\n- The key difference between Navigator 1.0 and 2.0 \n- Need of Navigator 2.0 and why should you upgrade to Navigator 2.0 \n- How can we use Auto Route to simplify navigation using Navigator 2.0 \n- Advanced functionalities of Auto route like: Route Guards, Declarative routing, Nested Navigation",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "cavin_macwan"
+      ],
+      "tags": [
+        "Mobile",
+        "Flutter"
+      ],
+      "title": "Mastering Flutter App Navigation: A Deep Dive into Auto Route and Navigator 2.0"
+    },
+    "114": {
+      "complexity": "Intermediate",
+      "description": "In the glittering world of startups and entrepreneurship, not everything that glitters is gold. This talk aims to shed light on the often-overlooked aspects of starting a business: the challenges, pitfalls, and the darker sides that many entrepreneurs face but seldom talk about. From the common reasons why startups fail to the emotional and psychological toll entrepreneurship can take, this session offers a candid look into what it really takes to run a startup. Join us for an eye-opening discussion that goes beyond the success stories and dives deep into the lessons learned from failure, providing valuable insights for both aspiring and seasoned entrepreneurs.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "jaydip_parikh"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "Why Startups Fail & Darker side of Entrepreneurship"
+    },
+    "115": {
+      "complexity": "Intermediate",
+      "description": "The rapid advancement of ML technologies has created an urgent need for organizations to harness the power of data. While many are eager to adopt ML, the complexities of managing data pipelines, ensuring data quality, building robust models, and deploying them into production often lead to challenges and bottlenecks. TFX is here to bridge this gap. This session aims to inspire and empower data professionals, engineers, and decision-makers by illustrating how TFX can simplify and accelerate the ML journey, leading to real-world business transformation. \n\nThe session will focus on Understanding TFX's significance in modern ML workflows and its tools of ecosystem such as Data Ingestion, Tensorflow Data Validation (TFDV), Tensorflow Transform (TFT), Estimator or Keras Models, Tensorflow Model Analysis (TFMA), ML Metadata (MLMD) and Tensorflow Serving (TFServing). At the end, there will be a Real-world example of TFX transforming businesses.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "bhargav_patel"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Ingest, Analyze, Validate, Train, Test, Deploy: TFX's Journey Towards Transforming Business with ML"
+    },
+    "116": {
+      "complexity": "Intermediate",
+      "description": "Dealing with enterprise applications is inherently complex. The typical Big Bang approach or complete system rewrite often doesn't yield the expected results. To stay current, it's crucial to embrace migration, which involves a strategic transition from old to new technology. \n\nThis session will explore migration challenges, such as technical debt, codebase migration complexity, dependencies, and testing challenges. We will also explore different migration strategies, comparing the conventional Big Bang approach with the incremental migration method. Additionally, we'll dive deeper into some practical migration steps, including setting up a hybrid app, code migration, routing, and state management, and implementing essential testing procedures. The session will conclude by highlighting post-migration activities, such as validating migrated code to ensure the future readiness of your application.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "sapan_parikh",
+        "akshay_vadher"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Migrating AngularJS (1.x) enterprise applications to Angular 12"
+    },
+    "117": {
+      "complexity": "Intermediate",
+      "description": "Brief about Myself \nWhat is Generative AI? (Definition, ChatGPT/Bard/Cloude2, Brief history and recent advances , Capabilities and limitations) \nPrompt Engineering Basics (Prompt structure and components, Tips for writing effective prompts, Examples) \nPrompt Engineering In Practice(Text Generation, Code Writing and Assistance, Code translation, Creative Content Generation, Image/Video/Audio Generation, Examples) \nAdvanced Prompt Engineering (Chaining prompts and seed tuning, Limitations of prompt engineering, Examples) \nTips for Using Generative AI (Ethical considerations, Uses in business, art, entertainment, etc.) \nGoogle Generative AI Tools (MakerSuite & PaLM API, Studio Bot, Google Workspace, Google Cloud) \nAdditional Resources and Further Reading \nKey takeaways",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "firoz_sabaliya"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Level Up Your Prompts: Taking Generative AI Results to the Next Level"
+    },
+    "118": {
+      "complexity": "Intermediate",
+      "description": "Migration phase 1: assess \n\nIn the assessment phase, you gather information about the workloads you want to migrate and their current runtime environment. \n\nMigration assessment tool: \n\n1️⃣StratoZone \n\n2️⃣Migvisor \n\n3️⃣CloudPhysics \n\n➡️Migration phase 2: plan \n\nTo plan for your migration, you need to do the following: \n\nEstablish user and service identities. \nDesign your resource organization. \nDefine groups and roles for resource access. \nDesign your network topology and establish connectivity. \n\nCreate Landing zone \n\n➡️Migration phase 3: deploy \n\nOnce you have established the foundation of your Google Cloud environment, you can proceed with deploying your workloads. You may need to refine your deployment process as you migrate and revisit your environment’s foundation as you become more proficient with the new cloud environment, platforms, services, and tools.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "biswanath_giri",
+        "jitendra_gupta"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Migration from anywhere to GCP"
+    },
+    "119": {
+      "complexity": "Intermediate",
+      "description": "The session will help to understand: \n- A Real-life product use case of how Angular Elements rescued us from the nightmare of spending large amounts of funds, developer efforts and time again & again. \n- Basics of web components / Custom elements \n- Basics of Angular elements",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "mukund_sonaiya",
+        "ronak_thacker"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Angular elements at the rescue!"
+    },
+    "120": {
+      "complexity": "Advanced",
+      "description": "Jetpack Compose is a powerful tool that can help app developers build apps in a far more dynamic, complex and polished way. In this talk, you’ll learn how to simplify building big apps with Jetpack Compose! We'll explore the best ways to structure your app using architectural patterns. Find out which pattern suits your project, how to make your app perform wellIt's all about managing complexity and making your app development easier using different architectural patterns. \n\nMy agenda for the talk includes: \n\n1. Introduction to problems in Large-Scale Jetpack Compose Apps \n2. The Importance of Architectural Patterns \n3. Common Architectural Patterns and their differences \n4. Choosing the Right Pattern 5. Implementing the Chosen Pattern \n\nBy following these strategies, you can make app development easier and handle complex tasks more efficiently. When you combine Jetpack Compose with the right architectural pattern, creating strong, fast-performing apps becomes simpler and more rewarding.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "bhoomi_vaghasiya"
+      ],
+      "tags": [
+        "Mobile",
+        "Android"
+      ],
+      "title": "Architectural Patterns for Large-Scale Jetpack Compose Apps"
+    },
+    "121": {
+      "complexity": "Intermediate",
+      "description": "In my humble experience of making multiple GenAI products , I have observed some patterns that what works and what does not. what timeline it works and when it works and not. which platforms to launch and which not to. And much more.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "shreyan_mehta"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "How to create, timeline, launch and price a GenAI product MVP without making a hole in your pocket"
+    },
+    "122": {
+      "complexity": "Intermediate",
+      "description": "🌟 Introduction (5 minutes): \nUnveil the definition and profound significance of Large Language Models (LLMs) in today's AI-driven era. \n\n🧠 Understanding LLMs (10 minutes): \nDelve deep into LLM intricacies, encompassing their training, evaluation, and fine-tuning. \nIlluminate advanced techniques like prompt engineering and P-tuning. \nIllustrate with concrete models such as GPT-4 and llama for absolute clarity. \n\n🚀 Applications of LLMs (10 minutes): \nDiverse applications: text summarization, translation, question answering, code generation. \nReal-world use cases across industries and scenarios. \n\n👐 Hands-on Demonstration (10 minutes): \nPractical demonstration showcasing LLM capabilities. \nEnhancing understanding of LLM concepts. \n\n🧩 Challenges and Ethical Considerations (5 minutes): \nAddressing challenges: model complexity, controllability, scalability. \n\n🎯 Wrap-up and Q&A (5 minutes): \nSummarizing key session points. \nInviting questions and discussions, ensuring participant engagement.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_goyal"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Leveraging the Power of Large Language Models (LLMs)"
+    },
+    "123": {
+      "complexity": "Intermediate",
+      "description": "In this talk, I will be diving into how text containers work under the hood in Canvas and also share insights on how it's built in Excalidraw (ttps://github.com/excalidraw/excalidraw). \nA little bit about the architecture of an Element - how elements are structured, how text is tied to shape \nCover about Hitbox testing \nWhen typing a text area is rendered and with CSS we can make sure that the text doesn’t overflow \nOnce typed, when rendering in Canvas, we need a word wrap algorithm to render the text correctly inside the container \nSince we are running the algo to wrap the text correctly, on resizing it could be very expensive hence caching is needed. \nCalculating dimensions of word by rendering it on DOM vs using canvas.measureText -> huge impact on performance \nPerf tricks that can be applied \nAligning the canvas with the text editor \nTakeaways - the audience will understand how text containers work internally in Canvas and get a glimpse of how it is implemented in Excalidraw",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "aakansha_doshi"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Building Text Containers in Canvas"
+    },
+    "124": {
+      "complexity": "Intermediate",
+      "description": "In a world where change is the only constant, start-ups find themselves at a pivotal crossroads; innovate or risk fading into obscurity. I will be exploring key topics like Strategies for Innovation, Overcoming Challenges, Investor Insights, Future Horizons. This talk is designed to empower start-up founders, innovators, and visionary leaders with the knowledge and tools to pioneer their ventures in the age of emerging technologies. By the end of the talk, the audience will be equipped with the knowledge, inspiration, and practical strategies needed to navigate the complex and ever-changing landscape of emerging technologies, enabling them to elevate their start-up endeavours.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "shivam_joshi"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Innovate or Evaporate: Elevating Start-up Success in the Age of Emerging Technologies"
+    },
+    "125": {
+      "complexity": "Introductory & Overview",
+      "description": "Learn through this session how a team of AI and LLM engineers is translating and preserving the words of Buddha through Large Language model. This session will also help you understand how to get started and apply LLM in various other applications.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "aman_sharma"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Preserving Buddha wisdom through LLM"
+    },
+    "126": {
+      "complexity": "Intermediate",
+      "description": "This article discusses volume provisioning in Kubernetes, focusing on static and dynamic types, their use cases, volume snapshots, and how to take and restore them. It also discusses operators and CRDs in Kubernetes, highlighting the importance of managing volume effectively. The article also covers volume snapshots and their restoration capabilities.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "ashutosh_bhakare"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Volume Snapshot in GKE using CRD"
+    },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -526,6 +810,809 @@
       "order": 4,
       "rockstarSpeakerOrder": 4,
       "title": "Flutter Lead, Google Developer Expert for Flutter and Dart"
+    },
+    "deepa_chaurasia": {
+      "bio": "I am working as an angular developer at decimal technologies,gurugram .I continuosly share my learning on linkedin and i write technical posts on medium,dev.to and other sites as well",
+      "company": "Decimal Technologies",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Haryana",
+      "featured": false,
+      "name": "Deepa Chaurasia",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am working as an angular developer at decimal technologies,gurugram...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/deepachaurasia1",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/deepa-chaurasia-notes/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 5,
+      "rockstarSpeakerOrder": 5,
+      "title": "NG-INDIA SPEAKER-2022, LINKEDIN CREATOR WITH 25K+ FOLLOWERS, SOFTWARE ENGINEER"
+    },
+    "shubhangi_shukla": {
+      "bio": "A passionate Software Engineer, specializing in Frontend Development. I began my journey with Angular and has since expanded to include React Native, Flutter, and Flask. As a frontend specialist, I have a proven track record of crafting seamless user experiences and innovative web solutions.",
+      "company": "Dados Analytics",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Shubhangi Shukla",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "A passionate Software Engineer, specializing in Frontend Development...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shubhangi-shukla-086753181/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 6,
+      "rockstarSpeakerOrder": 6,
+      "title": "Software Engineer"
+    },
+    "namrata_more": {
+      "bio": "Tech Product @BajajFinservHealth | Co-organizer Google Developer Group Pune | Women TechMakers Pune Ambassador | Product Enthusiast | UX Researcher | Speaker | Mentor",
+      "company": "Bajaj Finserv Health",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Namrata More",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Tech Product @BajajFinservHealth | Co-organizer Google Developer Group Pune...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/imnamratamore",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/namratamore.nm/",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/namratamore",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@imnamratamore",
+          "name": "Blog"
+        }
+      ],
+      "order": 7,
+      "rockstarSpeakerOrder": 7,
+      "title": "Technical Product Manager | Organizer & Ambassador at GDG & WTM Pune"
+    },
+    "amey_nerkar": {
+      "bio": "Amey is a social innovator and changemaker who enjoys building things that impact the community. He develops exceptional products and deploys those in the community around him. He is featured by Google for the impact he is creating using the technology! Amey is currently working as a Technical Product Manager and is experienced in developing and managing the technical side of the products. He is a Google Cloud Certified Engineer and Facebook-certified community manager. He is a full-time Technical Product Manager and loves spending weekends over Music + Code!",
+      "company": "Bajaj Finserv Health",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Amey Nerkar",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Amey is a social innovator and changemaker who enjoys building things...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ameyinvent",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ameyinvent/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://ameyinvent.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 8,
+      "rockstarSpeakerOrder": 8,
+      "title": "Social Innovator | Technical Product Manager | GDG Organizer"
+    },
+    "harshit_jain": {
+      "bio": "Harshit is a seasoned front-end engineer with 9 years of experience building highly scalable products.",
+      "company": "Intuit",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Harshit Jain",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Harshit is a seasoned front-end engineer with 9 years of experience building...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jain_harshit",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshit-jain-bb51292a",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 9,
+      "rockstarSpeakerOrder": 9,
+      "title": "SDE-3 at Intuit"
+    },
+    "avirup_basu": {
+      "bio": "Avirup Basu is one of the inventors of Swittons (an IoT based product for the pharma industry) and is working as a Technical Lead (IoT) at P360. \n\nHe is the organiser of GDG Siliguri and is also an Intel Software Innovator. He is certified Azure IoT Developer and Intel One API Instructor. \n\nProfessionally he is responsible for developing full stack IoT solutions with his team at P360. \n\nHe speaks on IoT, Computer Vision, Metaverse and other topics related to smart systems. He has also published multiple research papers and holds a patent on Swittons.",
+      "company": "P360",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Avirup Basu",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Avirup Basu is one of the inventors of Swittons (an IoT based product for the pharma industry) and is working...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/avirup171",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/avirup171/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 10,
+      "rockstarSpeakerOrder": 10,
+      "title": "Technical Lead (IoT), P360"
+    },
+    "vaishnavi_sonawane": {
+      "bio": "Vaishnavi is a MLOps Engineer at Intuitive.Cloud. As a MLOps Engineer, she helps enterprises bridge the data science to production gap and create data-driven value. \n\nShe has also led a Google Developer Student Clubs Lead during her undergraduate degree and she believes in upholding the GDSC motto - Learn. Share. Grow. \n\nWhen she is not fighting neural netherlords with her caffienated code, you will find her writing poetry or on a foodventure (current favorite? Japanese! Give me a ramen anyday)",
+      "company": "Intuitive Cloud",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Vaishnavi Sonawane",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Vaishnavi is a MLOps Engineer at Intuitive.Cloud. As a MLOps Engineer, she helps enterprises bridge...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/GPTeeeHeee",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vaishnavisonawane/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://all-things-machine-learning.gitbook.io/all-things-machine-learning/",
+          "name": "Blog"
+        }
+      ],
+      "order": 11,
+      "rockstarSpeakerOrder": 11,
+      "title": "MLOps Engineer"
+    },
+    "harsh_manvar": {
+      "bio": "Experienced working as a Software Engineer & DevOps Engineer. Currently, I work as a DevOps engineer, where I am managing web SaaS solutions based on Linux/Unix platforms in the cloud. Building Kubernetes clusters and Ci/CD automation that helps developers & businesses to achieve targets and deliverables! Deeply passionate about creating scalable and highly available infrastructure architecture. \n\nIf you catch me outside of work, I'm an adventurous traveler and an avid contributor at Stack Overflow...!",
+      "company": "Oracle",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Harsh Manvar",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Experienced working as a Software Engineer & DevOps Engineer. Currently, I work as a DevOps engineer...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/manvar_harsh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harsh-manvar-64a30aa3/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@harsh.manvar111",
+          "name": "Blog"
+        }
+      ],
+      "order": 12,
+      "rockstarSpeakerOrder": 12,
+      "title": "Senior Software Engineer - Oracle"
+    },
+    "ashok_vishwakarma": {
+      "bio": "Driving tech for products used and loved by millions of people, acquiring a sound knowledge of Web Technologies, System Design, Performance, Database, Cloud, and Tools. Speaks at tech conferences, writes blogs, and contribute to Open Source.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Ashok Vishwakarma",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Driving tech for products used and loved by millions of people...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/avishwakarmadev",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/avishwakarmadev/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/avishwakarmadev",
+          "name": "Facebook"
+        },
+        {
+          "icon": "website",
+          "link": "https://avishwakarma.dev/",
+          "name": "Blog"
+        }
+      ],
+      "order": 13,
+      "rockstarSpeakerOrder": 13,
+      "title": "@GoogleDevExpert | #Writes @Medium | #Ex @Adobe, @PayTM, @Naukri | #Entrepreneur | #TechEnthusiast | #Speaker"
+    },
+    "cavin_macwan": {
+      "bio": "He is a Flutter Developer at 7Span. \n\nHe likes to share his insights on Flutter and Mobile Development by writing articles on Medium and by contributing on Stackoverflow. \n\nApart from coding, He likes to play basketball and participate in hackathons. He is also a national basketball player.",
+      "company": "7Span",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Cavin Macwan",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "He is a Flutter Developer at 7Span. He likes to share his insights on Flutter and Mobile...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/cavin_1910",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/cavin-macwan/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/cavin.macwan.4",
+          "name": "Facebook"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@CavinMac",
+          "name": "Blog"
+        }
+      ],
+      "order": 14,
+      "rockstarSpeakerOrder": 14,
+      "title": "Flutter Developer at 7Span | Helping Flutter Developers | Open Source Contributor | Blogger"
+    },
+    "jaydip_parikh": {
+      "bio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing with over 18 years of experience in Sales & Marketing. Renowned for his ability to turn pixels into profit, Jaydip transitioned from a successful sales career to make a significant impact in the digital marketing landscape. A mentor at heart, he has guided hundreds of aspiring digital marketers and startups, offering invaluable insights for achieving success. Jaydip also serves as a mentor on various startup incubators, where he provides strategic guidance to emerging businesses. A regular keynote speaker, he covers a diverse range of topics from Digital India to entrepreneurship, making him a sought-after voice in the industry for actionable strategies that maximize ROI",
+      "company": "Tej SolPro",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Jaydip Parikh",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JaydipParikh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaydipparikh/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://jaydip.co/",
+          "name": "Website"
+        }
+      ],
+      "order": 15,
+      "rockstarSpeakerOrder": 15,
+      "title": "Jaydip Parikh: Turning Pixels into Profit and Paving Your Path to Success"
+    },
+    "bhargav_patel": {
+      "bio": "Bhargav is a passionate Jr. Staff AI Engineer dedicated to spreading knowledge and awareness in the realms of machine learning, artificial intelligence, and deep learning. With a strong commitment to excellence, he currently contributes his expertise at Detect Technologies, specializing in developing cutting-edge software engineering and machine learning operations products. \n\nOutside of his professional engagements, Bhargav maintains an avid interest in the latest technology trends and products. Through platforms like LinkedIn and Medium, he actively shares his insights on machine learning, deep learning, data science, and MLOps, contributing to the broader tech community in various roles such as speaker, mentor, and judge. He has reached 1000+ students through speaking engagements and training sessions. \n\nBeyond his tech pursuits, Bhargav embraces his love for culinary delights as a devoted foodie with a sweet tooth. Additionally, he finds joy in exploring the world of Anime.",
+      "company": "Detect Technologies",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Bhargav Patel",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Bhargav is a passionate Jr. Staff AI Engineer dedicated to spreading knowledge and awareness in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/0xbhargavpatel",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@callbhargavp",
+          "name": "Blog"
+        }
+      ],
+      "order": 16,
+      "rockstarSpeakerOrder": 16,
+      "title": "Jr. Staff AI Engineer at Detect Technologies"
+    },
+    "firoz_sabaliya": {
+      "bio": "Firoz is a Scrum Master at BuddyBoss, a premium WordPress plugin provider. With over 14 years of experience in the tech industry, he is passionate about Generative AI and prompt engineering. Firoz enjoys experimenting with new technologies in his free time. As a Scrum Master, he helps facilitate collaboration and productivity within his team. His depth of knowledge and passion for technology make Firoz a valuable member of the BuddyBoss team. Known for his innovative thinking, he is always looking for new ways to leverage AI and other emerging technologies to solve problems and enhance user experiences.",
+      "company": "BuddyBoss",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Firoz Sabaliya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Firoz is a Scrum Master at BuddyBoss, a premium WordPress plugin provider. With over 14 years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/firozsabaliya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/firozsabaliya/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 17,
+      "rockstarSpeakerOrder": 17,
+      "title": "Scrum Master, BuddyBoss"
+    },
+    "biswanath_giri": {
+      "bio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience, I am self-motivated & result-oriented with 6+ Years of experience as a Cloud Solution Architect with a proven track record in Solution Design for Cloud technologies in IT Infrastructure functions and Managed Services domain with migration strategies planned from on-prem to the cloud and As a Cloud Architect, I guide customers in their digital transformation journey to the cloud. My primary role is to design solutions that will help customers migrate, operate, deploy and optimize cloud-based Infrastructure, Applications, DevOps, and Databases. I also contribute to knowledge sharing and conducting training. I am also Google Cloud, AWS, Azure, and Terraform Associate Certified.",
+      "company": "Tech Mahindra",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Biswanath Giri",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bgiri_gcloud",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/biswanathgirigcloudcertified/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://bgiri-gcloud.medium.com/",
+          "name": "Blog"
+        }
+      ],
+      "order": 18,
+      "rockstarSpeakerOrder": 18,
+      "title": "Working as Senior Google Cloud Architect @TechMahindra"
+    },
+    "jitendra_gupta": {
+      "bio": "Jitendra Gupta is ~11 years experienced IT professional with expertise in information security and cloud computing. As a sought-after speaker, with a proven track record of implementing security best practices in cloud environments, Jitendra is dedicated to empowering fellow IT professionals with actionable takeaways to safeguard their applications, data and infrastructure on Google Cloud.",
+      "company": "KPMG Global Services",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Jitendra Gupta",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Jitendra Gupta is ~11 years experienced IT professional with expertise in information security and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jitu028",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jitu028/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@jitu028",
+          "name": "Blog"
+        }
+      ],
+      "order": 19,
+      "rockstarSpeakerOrder": 19,
+      "title": "Manager - Google Cloud Engineering @KPMG Global Services"
+    },
+    "mukund_sonaiya": {
+      "bio": "Mukund is a senior software Developer at smartSense Consulting Solutions with 8+ years of experience in frontend, backend & blockchain technology. He is passionate about architecting systems that are highly optimized for performance. He loves to explore and learn new technologies & train his team for these new technologies that will thrive in the future.",
+      "company": "smartSense Consulting Solutions PVT LTD",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Mukund Sonaiya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Mukund is a senior software Developer at smartSense Consulting Solutions with 8+ years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/MukundSonaiya",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/mukundsonaiya/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 20,
+      "rockstarSpeakerOrder": 20,
+      "title": "Sr. Software Developer - smartSense Consulting Solutions PVT LTD"
+    },
+    "ronak_thacker": {
+      "bio": "Ronak is a Sr. Software Developer at smartSense Consulting Solutions with 9+ years of experience in Frontend, Backend and Blockchain technology. He is also a tech enthusiast and loves to explore the latest technologies. When not working, Ronak loves to travel and explore new places and food.",
+      "company": "smartSense Consulting Solutions PVT LTD",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Ronak Thacker",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Ronak is a Sr. Software Developer at smartSense Consulting Solutions with 9+ years of experience in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/thackerronak",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ronak-thacker-1aa58473/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 21,
+      "rockstarSpeakerOrder": 21,
+      "title": "Sr. Software Developer - smartSense Consulting Solutions PVT LTD"
+    },
+    "bhoomi_vaghasiya": {
+      "bio": "I am an Android Application Developer with 4+ years of experience. I am proficient in Java and Kotlin. I am dedicated to developing high-quality mobile applications that are user-friendly, intuitive, and provide a seamless experience for users. I strongly believe that every app we create holds the potential to make a positive impact in people's lives. \n\nAdditionally, I'm passionate about promoting women in technology and believe in continuous personal growth. I actively contribute to the Android developer community by sharing knowledge and expertise through various articles and blog posts. I delivered a talk on \"Simplify Android Development with Jetpack Compose\" during the Google I/O extended event.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Bhoomi Vaghasiya",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am an Android Application Developer with 4+ years of experience. I am proficient in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bhoomi_0104",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/bhoomivaghasiya",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@bhoomivaghasiya",
+          "name": "Blog"
+        }
+      ],
+      "order": 22,
+      "rockstarSpeakerOrder": 22,
+      "title": "Android Developer"
+    },
+    "shreyan_mehta": {
+      "bio": "Developer | innovator | AI fan boy. I am a Full stack developer based in India. I am programming since 2012 and love making and creating stuff that touches lives. SAAS and web is love. Also attracted to ai a lot. Recently gave up my comfortable dev job as senior dev to pursue my software business / startup in full time.",
+      "company": "Asambhav",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Shreyan Mehta",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Developer | innovator | AI fan boy. I am a Full stack developer based in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/devshreyan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/devsm",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@shreyanmehta",
+          "name": "Blog"
+        }
+      ],
+      "order": 23,
+      "rockstarSpeakerOrder": 23,
+      "title": "Founder and product manager at asambhav. Ex - senior software engineer at simform"
+    },
+    "harsh_goyal": {
+      "bio": "Harsh is a B.Tech graduate in Information Technology, with more than 3 years of data scientist experience. His expertise spans machine learning, computer vision, natural language processing (NLP), and Large Language Models (LLMs). Proficient in Python, cloud platforms, and API development, he's adept at leading teams to project success, fueled by his passion for cutting-edge AI technologies like Hugging Face Transformers, ChatGPT OpenAI Third Party API Integrations, and the development of LangChain for advanced LLM applications. \n\nAt ThinkBridge, Harsh spearheaded the development of a product roadmap tool utilizing LLM, excelling in prompt engineering, tuning, and fine-tuning. During his tenure at SculptSoft, he crafted an efficient Python backend server, optimized 3D reconstruction models, and mastered advanced technologies. As a Machine Learning Engineer at Teksun Microsys, he deployed predictive models and enhanced skeleton detection on Android.",
+      "company": "ThinkBridge",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Harsh Goyal",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Harsh is a B.Tech graduate in Information Technology, with more than 3 years of data scientist experience...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hgoyal194/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "ThinkBridge, Senior Data Scientist"
+    },
+    "aakansha_doshi": {
+      "bio": "Aakansha is an open-source enthusiast, Javascript, and React fan. She is one of the organizers of FOSS United meetups in Bangalore. She is a big foodie, and loves traveling and spending time with her family.",
+      "company": "Excalidraw",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Aakansha Doshi",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Aakansha is an open-source enthusiast, Javascript, and React fan...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/aakansha1216",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/aa1992/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://aakansha.dev/",
+          "name": "Blog"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Maintainer, Excalidraw"
+    },
+    "shivam_joshi": {
+      "bio": "Shivam Joshi, a young tech wizard is an entrepreneur, founder and executive director at Codon's as well as a Corporate trainer. This individual is India's youngest corporate trainer for Artificial Intelligence. He started his entrepreneurial journey at the mere age of 18. Building Codon's from scratch and all by himself, Shivam's efforts are praise worthy. Shivam has always been of the strong opinion that marks and grades are just an overviewing factor but it cannot define one's worth. He proved his words through his exceptional accomplishments.Shivam's clientele includes renowned companies like LTI, Infosys, HCL, Wipro, TCS and many more. Along with a continuously increasing list of remarkable achievements, he has featured in a number of publishers which include Outlook India, Asian Age, Business World, The Hitvada.",
+      "company": "Codons Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Shivam Joshi",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Shivam Joshi, a young tech wizard is an entrepreneur, founder and executive director at Codon's...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shivam-joshi-b36384183/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://codons.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 26,
+      "rockstarSpeakerOrder": 26,
+      "title": "Founder and Director at Codons Ltd."
+    },
+    "aman_sharma": {
+      "bio": "Aman has been a serial tech entrepreneur with 3 startup, most recently cofounding twimbit as the CTO. He has been a former ML researcher at TU Vienna Informatics, UX / AI lead at upsell.ai and founder lead at Mobile-web.dev . He is an active member of web and web3 community while he have delivered 40+ tech talks, shared advice on product building and mentored hundred of kids in tech and entrepreneurship. He has been featured as top CTO of India and recognised among world most influential tech business leaders.",
+      "company": "Dinnerfy",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Aman Sharma",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Aman has been a serial tech entrepreneur with 3 startup, most recently...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/amanintech",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/amanintech/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://amanin.tech/",
+          "name": "Blog"
+        }
+      ],
+      "order": 27,
+      "rockstarSpeakerOrder": 27,
+      "title": "Cofounder & CTO Dinnerfy, DevOps Ambassador"
+    },
+    "ashutosh_bhakare": {
+      "bio": "Passionate about opensource fields, active fedora contributor, written few article for fedora and Red Hat , Active Docker community leader, Trying to promote Opensource by arranging AWS / Google Events as I am AWS UG , GDG UG and AWS CB. In Dec 2022 GDG Devfest we had taken a session for around 550+ attendees. Currently delivering training for Kubernertes / Docker and GKE",
+      "company": "Unnati Development and Training Centre Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Ashutosh Bhakare",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Passionate about opensource fields, active fedora contributor, written few article for fedora and Red Hat...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/abhakare/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://www.unnatidevelopment.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 28,
+      "rockstarSpeakerOrder": 28,
+      "title": "CEO, Unnati Development and Training Centre Pvt Ltd"
+    },
+    "sapan_parikh": {
+      "bio": "A tech evangelist and mentor, Sapan has been fuelled by two things in his 15+ year professional career; coffee and his love of designing self-motivated, high-performing and passionate software engineering teams. Being a software crafts person at heart, he has created and coached teams of over 500 software developers spread across the US and India with the sole objective of forging exceptional software products with an unfettered focus on quality.",
+      "company": "Incubyte",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Sapan Parikh",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "A tech evangelist and mentor, Sapan has been fuelled by two things in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sapanparikh18",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sapanparikh/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://akshayvadher.github.io/",
+          "name": "Website"
+        }
+      ],
+      "order": 29,
+      "rockstarSpeakerOrder": 29,
+      "title": "Incubyte,Co - Founder"
+    },
+    "akshay_vadher": {
+      "bio": "I get things done without compromising quality",
+      "company": "Incubyte",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": false,
+      "name": "Akshay Vadher",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "I get things done without compromising quality...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/akshayvadher/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://akshayvadher.github.io/",
+          "name": "Website"
+        }
+      ],
+      "order": 30,
+      "rockstarSpeakerOrder": 30,
+      "title": "Getting things done with Craftsmanship mindset | DevOps | Performance"
     }
   },
   "team": [
