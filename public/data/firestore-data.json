@@ -285,6 +285,290 @@
       ],
       "title": "How to scale Flutter Web?"
     },
+    "106": {
+      "complexity": "Intermediate",
+      "description": "We will be exploring and presenting in-depth information about the advancements in Angular17. From fundamental architectural improvements to advanced tooling and developer experience updates, we will take a deep dive into the evolution of Angular \nLearn about the revolutionary \nNew Control Flow \nImproved SSR Support \nDeferrable Views \nSignal-based Components \nNew lifecycle hooks \nStandalone components \nand many more. Join us to leverage the power of Angular 17 in your web development projects.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "deepa_chaurasia",
+        "shubhangi_shukla"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Angular 17 Unveiled"
+    },
+    "107": {
+      "complexity": "Intermediate",
+      "description": "We'll be starting with some stats on online business, essentially growth of UPI transactions in India. A question for traditional startups of why not take your business online? Or are you the one planning to utilise the payment capabilities to the fullest? \n\nABC of a payment gateway usage and integration with discussion on widely used as well as non-trendy new payment methods that can benefit not just on business level but on individual level too. \nSuccess Rate being the most important parameter for a PG, some important tricks and techniques to help improve & maintain the Success Rate. Concept of virtual accounts which solves some major issues with startups and multi-payment disbursements. \nSession end with the use-cases of the trendy WhatsApp Pay Update.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "namrata_more",
+        "amey_nerkar"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Unraveling the world of Payments"
+    },
+    "108": {
+      "complexity": "Intermediate",
+      "description": "High levels things to cover \n1. Purpose and benefits of code review \n- Bonding & learning opportunity for everyone \n- Finding issues/bugs early on \n- Improve the quality of the code \n\n2. Mindset to have \n- Person on the order side is a human \n- Review the code, not the coder \n- Code reviewer also learns a lot from reviewing other's code \n\n3. Best practices ( examples to be added in slide for each of them) \n- Use linting/formatters for things that can be automated - Both in IDEs and on CI pipelines. Protect developer’s time \n- Code style arguments: tabs vs spaces, relative imports vs absolute imports etc \n- Give code examples wherever you can \n- Avoid the terniminology of “You” and instead use “we” \n- Write comments as suggestions or curious questions and not as a command \n- Leave at least one positive comment. \n- Know when to take the discussion offline \n- Add a template for code committer to fill in the PR description including before/after screenshots, steps to run changes locally etc",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harshit_jain"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "How to review code effectively with empathy"
+    },
+    "109": {
+      "complexity": "Intermediate",
+      "description": "We all know what drones are, but have you thought about a world where drones can not only communicate to the controller but also to each other? Here in this talk, I will introduce you to the conecpt of drone platforms and how drones can be used to perform complex actions autonomously. This is an emerging topic and a lot of new ideas and new technology will be shared throughout the session.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "avirup_basu"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Internet of Drones"
+    },
+    "110": {
+      "complexity": "Intermediate",
+      "description": "\"ALL THINGS ML... Literally... Oversimplified\" ~ A challenge that we have taken upon us and are extending it to you ! \n\nDISCLAIMER: 3 words, Useful - Fun - AI. We would like to stress on the useful part. We are extremely cautious about our sessions not ending up being something you can read in a blog in 5 minutes but you would have to sit through an hour in the event for the same. Exhausting, we relate ☹️ \n\nThis session is to encourage everyone to start asking the right questions and cut through the hype and the black box approaches when it comes to -  \n\nML Research vs Applied ML: You NEED to know the difference \nGot a problem?: Make it a problem ML can solve \nCritical Thinking: Got a problem ML can solve? Great! Now how to solve it. HOW TO ALIGN YOUR OBJECTIVES WITH YOUR LOSS FUNCTIONS? \nData Engineering: Sources, Formats, Models… How to piece it all together in the CORRECT CONTEXT? \nTraining Data: Where does it come from? Kaggle? Well yes.. But No. A discussion on the critical thinking and techniques required to create training datasets and avoid disasters taking real-life examples of Language Models & Self-Driving Cars. \nData Labeling: A sneak-peek with jargon you do need to be aware of \nDealing with Class Imbalance: Data-level methods and algorithm-level methods \nHands-On MLOps with PyCaret, MLFlow & DagsHub: Covers everything we learnt so far and also includes the rest - Data  & Model versioning, Experiment tracking, Feature Engineering, Model Selection, Model Training, Model Deployment",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "vaishnavi_sonawane"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "All things ML Literally….Oversimplified"
+    },
+    "111": {
+      "complexity": "Advanced",
+      "description": "Overview - maintain Hybrid/Multi cloud infrastructures using Anthos, and Istio-based service mesh. Anthos on Google Cloud offers organizations flexibility and scalability in their cloud strategies.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_manvar"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Hybrid & Multi Cloud with Anthos"
+    },
+    "112": {
+      "complexity": "Intermediate",
+      "description": "Bundling is essential to JavaScript applications and we have seen how bundling tools have evolved over time. In this talk we will be exploring that evolution journey and digging deeper into how bundler works, what problems they solve, and how their evolution affects us.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "ashok_vishwakarma"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "The evolution of JavaScript bundlers"
+    },
+    "113": {
+      "complexity": "Advanced",
+      "description": "In this session, I'll cover the following topics: \n\n- The key difference between Navigator 1.0 and 2.0 \n- Need of Navigator 2.0 and why should you upgrade to Navigator 2.0 \n- How can we use Auto Route to simplify navigation using Navigator 2.0 \n- Advanced functionalities of Auto route like: Route Guards, Declarative routing, Nested Navigation",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "cavin_macwan"
+      ],
+      "tags": [
+        "Mobile",
+        "Flutter"
+      ],
+      "title": "Mastering Flutter App Navigation: A Deep Dive into Auto Route and Navigator 2.0"
+    },
+    "114": {
+      "complexity": "Intermediate",
+      "description": "In the glittering world of startups and entrepreneurship, not everything that glitters is gold. This talk aims to shed light on the often-overlooked aspects of starting a business: the challenges, pitfalls, and the darker sides that many entrepreneurs face but seldom talk about. From the common reasons why startups fail to the emotional and psychological toll entrepreneurship can take, this session offers a candid look into what it really takes to run a startup. Join us for an eye-opening discussion that goes beyond the success stories and dives deep into the lessons learned from failure, providing valuable insights for both aspiring and seasoned entrepreneurs.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "jaydip_parikh"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "Why Startups Fail & Darker side of Entrepreneurship"
+    },
+    "115": {
+      "complexity": "Intermediate",
+      "description": "The rapid advancement of ML technologies has created an urgent need for organizations to harness the power of data. While many are eager to adopt ML, the complexities of managing data pipelines, ensuring data quality, building robust models, and deploying them into production often lead to challenges and bottlenecks. TFX is here to bridge this gap. This session aims to inspire and empower data professionals, engineers, and decision-makers by illustrating how TFX can simplify and accelerate the ML journey, leading to real-world business transformation. \n\nThe session will focus on Understanding TFX's significance in modern ML workflows and its tools of ecosystem such as Data Ingestion, Tensorflow Data Validation (TFDV), Tensorflow Transform (TFT), Estimator or Keras Models, Tensorflow Model Analysis (TFMA), ML Metadata (MLMD) and Tensorflow Serving (TFServing). At the end, there will be a Real-world example of TFX transforming businesses.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "bhargav_patel"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Ingest, Analyze, Validate, Train, Test, Deploy: TFX's Journey Towards Transforming Business with ML"
+    },
+    "116": {
+      "complexity": "Intermediate",
+      "description": "Dealing with enterprise applications is inherently complex. The typical Big Bang approach or complete system rewrite often doesn't yield the expected results. To stay current, it's crucial to embrace migration, which involves a strategic transition from old to new technology. \n\nThis session will explore migration challenges, such as technical debt, codebase migration complexity, dependencies, and testing challenges. We will also explore different migration strategies, comparing the conventional Big Bang approach with the incremental migration method. Additionally, we'll dive deeper into some practical migration steps, including setting up a hybrid app, code migration, routing, and state management, and implementing essential testing procedures. The session will conclude by highlighting post-migration activities, such as validating migrated code to ensure the future readiness of your application.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "sapan_parikh",
+        "akshay_vadher"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Migrating AngularJS (1.x) enterprise applications to Angular 12"
+    },
+    "117": {
+      "complexity": "Intermediate",
+      "description": "Brief about Myself \nWhat is Generative AI? (Definition, ChatGPT/Bard/Cloude2, Brief history and recent advances , Capabilities and limitations) \nPrompt Engineering Basics (Prompt structure and components, Tips for writing effective prompts, Examples) \nPrompt Engineering In Practice(Text Generation, Code Writing and Assistance, Code translation, Creative Content Generation, Image/Video/Audio Generation, Examples) \nAdvanced Prompt Engineering (Chaining prompts and seed tuning, Limitations of prompt engineering, Examples) \nTips for Using Generative AI (Ethical considerations, Uses in business, art, entertainment, etc.) \nGoogle Generative AI Tools (MakerSuite & PaLM API, Studio Bot, Google Workspace, Google Cloud) \nAdditional Resources and Further Reading \nKey takeaways",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "firoz_sabaliya"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Level Up Your Prompts: Taking Generative AI Results to the Next Level"
+    },
+    "118": {
+      "complexity": "Intermediate",
+      "description": "Migration phase 1: assess \n\nIn the assessment phase, you gather information about the workloads you want to migrate and their current runtime environment. \n\nMigration assessment tool: \n\n1️⃣StratoZone \n\n2️⃣Migvisor \n\n3️⃣CloudPhysics \n\n➡️Migration phase 2: plan \n\nTo plan for your migration, you need to do the following: \n\nEstablish user and service identities. \nDesign your resource organization. \nDefine groups and roles for resource access. \nDesign your network topology and establish connectivity. \n\nCreate Landing zone \n\n➡️Migration phase 3: deploy \n\nOnce you have established the foundation of your Google Cloud environment, you can proceed with deploying your workloads. You may need to refine your deployment process as you migrate and revisit your environment’s foundation as you become more proficient with the new cloud environment, platforms, services, and tools.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "biswanath_giri",
+        "jitendra_gupta"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Migration from anywhere to GCP"
+    },
+    "119": {
+      "complexity": "Intermediate",
+      "description": "The session will help to understand: \n- A Real-life product use case of how Angular Elements rescued us from the nightmare of spending large amounts of funds, developer efforts and time again & again. \n- Basics of web components / Custom elements \n- Basics of Angular elements",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "mukund_sonaiya",
+        "ronak_thacker"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Angular elements at the rescue!"
+    },
+    "120": {
+      "complexity": "Advanced",
+      "description": "Jetpack Compose is a powerful tool that can help app developers build apps in a far more dynamic, complex and polished way. In this talk, you’ll learn how to simplify building big apps with Jetpack Compose! We'll explore the best ways to structure your app using architectural patterns. Find out which pattern suits your project, how to make your app perform wellIt's all about managing complexity and making your app development easier using different architectural patterns. \n\nMy agenda for the talk includes: \n\n1. Introduction to problems in Large-Scale Jetpack Compose Apps \n2. The Importance of Architectural Patterns \n3. Common Architectural Patterns and their differences \n4. Choosing the Right Pattern 5. Implementing the Chosen Pattern \n\nBy following these strategies, you can make app development easier and handle complex tasks more efficiently. When you combine Jetpack Compose with the right architectural pattern, creating strong, fast-performing apps becomes simpler and more rewarding.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "bhoomi_vaghasiya"
+      ],
+      "tags": [
+        "Mobile",
+        "Android"
+      ],
+      "title": "Architectural Patterns for Large-Scale Jetpack Compose Apps"
+    },
+    "121": {
+      "complexity": "Intermediate",
+      "description": "In my humble experience of making multiple GenAI products , I have observed some patterns that what works and what does not. what timeline it works and when it works and not. which platforms to launch and which not to. And much more.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "shreyan_mehta"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "How to create, timeline, launch and price a GenAI product MVP without making a hole in your pocket"
+    },
+    "122": {
+      "complexity": "Intermediate",
+      "description": "🌟 Introduction (5 minutes): \nUnveil the definition and profound significance of Large Language Models (LLMs) in today's AI-driven era. \n\n🧠 Understanding LLMs (10 minutes): \nDelve deep into LLM intricacies, encompassing their training, evaluation, and fine-tuning. \nIlluminate advanced techniques like prompt engineering and P-tuning. \nIllustrate with concrete models such as GPT-4 and llama for absolute clarity. \n\n🚀 Applications of LLMs (10 minutes): \nDiverse applications: text summarization, translation, question answering, code generation. \nReal-world use cases across industries and scenarios. \n\n👐 Hands-on Demonstration (10 minutes): \nPractical demonstration showcasing LLM capabilities. \nEnhancing understanding of LLM concepts. \n\n🧩 Challenges and Ethical Considerations (5 minutes): \nAddressing challenges: model complexity, controllability, scalability. \n\n🎯 Wrap-up and Q&A (5 minutes): \nSummarizing key session points. \nInviting questions and discussions, ensuring participant engagement.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_goyal"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Leveraging the Power of Large Language Models (LLMs)"
+    },
+    "123": {
+      "complexity": "Intermediate",
+      "description": "In this talk, I will be diving into how text containers work under the hood in Canvas and also share insights on how it's built in Excalidraw (ttps://github.com/excalidraw/excalidraw). \nA little bit about the architecture of an Element - how elements are structured, how text is tied to shape \nCover about Hitbox testing \nWhen typing a text area is rendered and with CSS we can make sure that the text doesn’t overflow \nOnce typed, when rendering in Canvas, we need a word wrap algorithm to render the text correctly inside the container \nSince we are running the algo to wrap the text correctly, on resizing it could be very expensive hence caching is needed. \nCalculating dimensions of word by rendering it on DOM vs using canvas.measureText -> huge impact on performance \nPerf tricks that can be applied \nAligning the canvas with the text editor \nTakeaways - the audience will understand how text containers work internally in Canvas and get a glimpse of how it is implemented in Excalidraw",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "aakansha_doshi"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Building Text Containers in Canvas"
+    },
+    "124": {
+      "complexity": "Intermediate",
+      "description": "In a world where change is the only constant, start-ups find themselves at a pivotal crossroads; innovate or risk fading into obscurity. I will be exploring key topics like Strategies for Innovation, Overcoming Challenges, Investor Insights, Future Horizons. This talk is designed to empower start-up founders, innovators, and visionary leaders with the knowledge and tools to pioneer their ventures in the age of emerging technologies. By the end of the talk, the audience will be equipped with the knowledge, inspiration, and practical strategies needed to navigate the complex and ever-changing landscape of emerging technologies, enabling them to elevate their start-up endeavours.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "shivam_joshi"
+      ],
+      "tags": [
+        "Startup",
+        "Emerging Technologies"
+      ],
+      "title": "Innovate or Evaporate: Elevating Start-up Success in the Age of Emerging Technologies"
+    },
+    "125": {
+      "complexity": "Introductory & Overview",
+      "description": "Learn through this session how a team of AI and LLM engineers is translating and preserving the words of Buddha through Large Language model. This session will also help you understand how to get started and apply LLM in various other applications.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "aman_sharma"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Preserving Buddha wisdom through LLM"
+    },
+    "126": {
+      "complexity": "Intermediate",
+      "description": "This article discusses volume provisioning in Kubernetes, focusing on static and dynamic types, their use cases, volume snapshots, and how to take and restore them. It also discusses operators and CRDs in Kubernetes, highlighting the importance of managing volume effectively. The article also covers volume snapshots and their restoration capabilities.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "ashutosh_bhakare"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Volume Snapshot in GKE using CRD"
+    },
     "132": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
