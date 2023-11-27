@@ -770,6 +770,143 @@
       "order": 12,
       "rockstarSpeakerOrder": 12,
       "title": "Senior Software Engineer - Oracle"
+    },
+    "ashok_vishwakarma": {
+      "bio": "Driving tech for products used and loved by millions of people, acquiring a sound knowledge of Web Technologies, System Design, Performance, Database, Cloud, and Tools. Speaks at tech conferences, writes blogs, and contribute to Open Source.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Ashok Vishwakarma",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Driving tech for products used and loved by millions of people...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/avishwakarmadev",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/avishwakarmadev/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/avishwakarmadev",
+          "name": "Facebook"
+        },
+        {
+          "icon": "website",
+          "link": "https://avishwakarma.dev/",
+          "name": "Blog"
+        }
+      ],
+      "order": 13,
+      "rockstarSpeakerOrder": 13,
+      "title": "@GoogleDevExpert | #Writes @Medium | #Ex @Adobe, @PayTM, @Naukri | #Entrepreneur | #TechEnthusiast | #Speaker"
+    },
+    "cavin_macwan": {
+      "bio": "He is a Flutter Developer at 7Span. \n\nHe likes to share his insights on Flutter and Mobile Development by writing articles on Medium and by contributing on Stackoverflow. \n\nApart from coding, He likes to play basketball and participate in hackathons. He is also a national basketball player.",
+      "company": "7Span",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Cavin Macwan",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "He is a Flutter Developer at 7Span. He likes to share his insights on Flutter and Mobile...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/cavin_1910",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/cavin-macwan/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/cavin.macwan.4",
+          "name": "Facebook"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@CavinMac",
+          "name": "Blog"
+        }
+      ],
+      "order": 14,
+      "rockstarSpeakerOrder": 14,
+      "title": "Flutter Developer at 7Span | Helping Flutter Developers | Open Source Contributor | Blogger"
+    },
+    "jaydip_parikh": {
+      "bio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing with over 18 years of experience in Sales & Marketing. Renowned for his ability to turn pixels into profit, Jaydip transitioned from a successful sales career to make a significant impact in the digital marketing landscape. A mentor at heart, he has guided hundreds of aspiring digital marketers and startups, offering invaluable insights for achieving success. Jaydip also serves as a mentor on various startup incubators, where he provides strategic guidance to emerging businesses. A regular keynote speaker, he covers a diverse range of topics from Digital India to entrepreneurship, making him a sought-after voice in the industry for actionable strategies that maximize ROI",
+      "company": "Tej SolPro",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Jaydip Parikh",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JaydipParikh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaydipparikh/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://jaydip.co/",
+          "name": "Website"
+        }
+      ],
+      "order": 15,
+      "rockstarSpeakerOrder": 15,
+      "title": "Jaydip Parikh: Turning Pixels into Profit and Paving Your Path to Success"
+    },
+    "bhargav_patel": {
+      "bio": "Bhargav is a passionate Jr. Staff AI Engineer dedicated to spreading knowledge and awareness in the realms of machine learning, artificial intelligence, and deep learning. With a strong commitment to excellence, he currently contributes his expertise at Detect Technologies, specializing in developing cutting-edge software engineering and machine learning operations products. \n\nOutside of his professional engagements, Bhargav maintains an avid interest in the latest technology trends and products. Through platforms like LinkedIn and Medium, he actively shares his insights on machine learning, deep learning, data science, and MLOps, contributing to the broader tech community in various roles such as speaker, mentor, and judge. He has reached 1000+ students through speaking engagements and training sessions. \n\nBeyond his tech pursuits, Bhargav embraces his love for culinary delights as a devoted foodie with a sweet tooth. Additionally, he finds joy in exploring the world of Anime.",
+      "company": "Detect Technologies",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "",
+      "featured": true,
+      "name": "Bhargav Patel",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "Bhargav is a passionate Jr. Staff AI Engineer dedicated to spreading knowledge and awareness in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/0xbhargavpatel",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@callbhargavp",
+          "name": "Blog"
+        }
+      ],
+      "order": 16,
+      "rockstarSpeakerOrder": 16,
+      "title": "Jr. Staff AI Engineer at Detect Technologies"
     }
   },
   "team": [
