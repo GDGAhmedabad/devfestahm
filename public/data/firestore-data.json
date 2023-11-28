@@ -175,12 +175,12 @@
           "sessions": [
             {
               "items": [
-                "102"
+                "106"
               ]
             },
             {
               "items": [
-                "103"
+                "105"
               ]
             },
             {
@@ -190,11 +190,204 @@
             },
             {
               "items": [
-                "105"
+                "107"
+              ]
+            },
+            {
+              "items": [
+                "103"
               ]
             }
           ],
           "startTime": "11:15"
+        },
+        {
+          "endTime": "12:45",
+          "sessions": [
+            {
+              "items": [
+                "108"
+              ]
+            },
+            {
+              "items": [
+                "159"
+              ]
+            },
+            {
+              "items": [
+                "110"
+              ]
+            },
+            {
+              "items": [
+                "109"
+              ]
+            },
+            {
+              "items": [
+                "111"
+              ]
+            }
+          ],
+          "startTime": "12:00"
+        },
+        {
+          "endTime": "13:30",
+          "sessions": [
+            {
+              "items": [
+                "112"
+              ]
+            },
+            {
+              "items": [
+                "113"
+              ]
+            },
+            {
+              "items": [
+                "115"
+              ]
+            },
+            {
+              "items": [
+                "114"
+              ]
+            },
+            {
+              "items": [
+                "159"
+              ]
+            }
+          ],
+          "startTime": "12:45"
+        },
+        {
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": [
+                "152"
+              ]
+            }
+          ],
+          "startTime": "13:30"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [
+                "116"
+              ]
+            },
+            {
+              "items": [
+                "102"
+              ]
+            },
+            {
+              "items": [
+                "117"
+              ]
+            },
+            {
+              "items": [
+                "159"
+              ]
+            },
+            {
+              "items": [
+                "118"
+              ]
+            }
+          ],
+          "startTime": "14:45"
+        },
+        {
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": [
+                "119"
+              ]
+            },
+            {
+              "items": [
+                "120"
+              ]
+            },
+            {
+              "items": [
+                "122"
+              ]
+            },
+            {
+              "items": [
+                "121"
+              ]
+            },
+            {
+              "items": [
+                "159"
+              ]
+            }
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "17:00",
+          "sessions": [
+            {
+              "items": [
+                "123"
+              ]
+            },
+            {
+              "items": [
+                "159"
+              ]
+            },
+            {
+              "items": [
+                "125"
+              ]
+            },
+            {
+              "items": [
+                "124"
+              ]
+            },
+            {
+              "items": [
+                "126"
+              ]
+            }
+          ],
+          "startTime": "16:15"
+        },
+        {
+          "endTime": "17:15",
+          "sessions": [
+            {
+              "items": [
+                "157"
+              ]
+            }
+          ],
+          "startTime": "17:00"
+        },
+        {
+          "endTime": "18:00",
+          "sessions": [
+            {
+              "items": [
+                "156"
+              ]
+            }
+          ],
+          "startTime": "17:15"
         }
       ],
       "tracks": [
@@ -614,10 +807,7 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
       "presentation": "https://docs.google.com/presentation/d/1wQ9FfINzRmMS4rwQWiJWmL55d-LjOi1W23UwsJE-uoQ/edit?usp=share_link",
-      "speakers": [
-        "dhrumil_shah",
-        "hiren_dave"
-      ],
+      "speakers": [],
       "title": "Conference closing and contest winners announcements"
     },
     "158": {
