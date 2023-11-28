@@ -221,7 +221,7 @@
             },
             {
               "items": [
-                "109"
+                "159"
               ]
             },
             {
@@ -299,7 +299,7 @@
             },
             {
               "items": [
-                "118"
+                "159"
               ]
             }
           ],
@@ -508,7 +508,7 @@
     },
     "108": {
       "complexity": "Intermediate",
-      "description": "High levels things to cover \n1. Purpose and benefits of code review \n- Bonding & learning opportunity for everyone \n- Finding issues/bugs early on \n- Improve the quality of the code \n\n2. Mindset to have \n- Person on the order side is a human \n- Review the code, not the coder \n- Code reviewer also learns a lot from reviewing other's code \n\n3. Best practices ( examples to be added in slide for each of them) \n- Use linting/formatters for things that can be automated - Both in IDEs and on CI pipelines. Protect developer’s time \n- Code style arguments: tabs vs spaces, relative imports vs absolute imports etc \n- Give code examples wherever you can \n- Avoid the terniminology of “You” and instead use “we” \n- Write comments as suggestions or curious questions and not as a command \n- Leave at least one positive comment. \n- Know when to take the discussion offline \n- Add a template for code committer to fill in the PR description including before/after screenshots, steps to run changes locally etc",
+      "description": "Code review is one of the most daunting yet essential part of software development process. In this talk, we’ll go over what should PR author and PR reviewer do respectively to make this process a smooth sail using a empathetic approach.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -517,20 +517,7 @@
       "tags": [
         "Web"
       ],
-      "title": "How to review code effectively with empathy"
-    },
-    "109": {
-      "complexity": "Intermediate",
-      "description": "We all know what drones are, but have you thought about a world where drones can not only communicate to the controller but also to each other? Here in this talk, I will introduce you to the conecpt of drone platforms and how drones can be used to perform complex actions autonomously. This is an emerging topic and a lot of new ideas and new technology will be shared throughout the session.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "avirup_basu"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Internet of Drones"
+      "title": "Effective code reviews with empathy"
     },
     "110": {
       "complexity": "Intermediate",
@@ -547,7 +534,7 @@
     },
     "111": {
       "complexity": "Advanced",
-      "description": "Overview - maintain Hybrid/Multi cloud infrastructures using Anthos, and Istio-based service mesh. Anthos on Google Cloud offers organizations flexibility and scalability in their cloud strategies.",
+      "description": "Delve into the dynamic realm of cloud computing & explore the transformative potential of Hybrid and Multi-Cloud environments. Anthos, Google Cloud's application management platform, stands at forefront of this evolution, enabling seamless deployment and management across on-premises, hybrid, and multi-cloud environments. \n\nPoints will cover: \n -What is a Multi/Hybrid cloud? \n -Why Multi & Hybrid Cloud? \n- Meet Anthos - Thanos of GCP \n- Anthos Offering Config management/Service mesh  & Pricing",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -556,7 +543,7 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Hybrid & Multi Cloud with Anthos"
+      "title": "Unleashing the Power of Hybrid & Multi-Cloud with Anthos"
     },
     "112": {
       "complexity": "Intermediate",
@@ -644,7 +631,6 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        "biswanath_giri",
         "jitendra_gupta"
       ],
       "tags": [
@@ -1002,7 +988,7 @@
       "company": "Decimal Technologies",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Farv.jpeg?alt=media&token=ece460a9-1f56-4352-a163-ce3c837713dc",
-      "country": "Haryana",
+      "country": "Faridabad, Haryana",
       "featured": false,
       "name": "Deepa Chaurasia",
       "photo": "",
@@ -1138,7 +1124,7 @@
       "company": "Intuit",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fintuit.png?alt=media&token=617e63ba-1f1c-4515-a585-62d131043de2",
-      "country": "",
+      "country": "Bengaluru",
       "featured": false,
       "name": "Harshit Jain",
       "photo": "",
@@ -1160,34 +1146,6 @@
       "order": 9,
       "rockstarSpeakerOrder": 9,
       "title": "SDE-3 at Intuit"
-    },
-    "avirup_basu": {
-      "bio": "Avirup Basu is one of the inventors of Swittons (an IoT based product for the pharma industry) and is working as a Technical Lead (IoT) at P360. \n\nHe is the organiser of GDG Siliguri and is also an Intel Software Innovator. He is certified Azure IoT Developer and Intel One API Instructor. \n\nProfessionally he is responsible for developing full stack IoT solutions with his team at P360. \n\nHe speaks on IoT, Computer Vision, Metaverse and other topics related to smart systems. He has also published multiple research papers and holds a patent on Swittons.",
-      "company": "P360",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fp360.png?alt=media&token=3b916baf-ffc6-4fbf-aec4-f9c962accb76",
-      "country": "",
-      "featured": false,
-      "name": "Avirup Basu",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Favirup-basu.jpg?alt=media&token=6d2c9df4-477a-4dcc-a15f-8a60e09e3adb",
-      "pronouns": "he/him",
-      "shortBio": "Avirup Basu is one of the inventors of Swittons (an IoT based product for the pharma industry) and is working...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/avirup171",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/avirup171/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 10,
-      "rockstarSpeakerOrder": 10,
-      "title": "Technical Lead (IoT), P360"
     },
     "vaishnavi_sonawane": {
       "bio": "Hi, I am Vaishnavi. I am a MLOps Engineer at Intuitive.Cloud. As a MLOps Engineer, I help enterprises bridge the data science to production gap and create data-driven value. Tensorflow extended (tfx), Kubeflow, Sagemaker pipelines, Hopsworks, DVC, MLFlow, LlamaIndex  etc. are some of the frameworks I work with on a day-to-day basis. \n\nI am also the lead of Pie & AI (powered by DeepLearning.AI) ~ Ahmedabad & have led a Google Developer Student Clubs during my undergraduate degree. I  believe in upholding the GDSC motto - Learn. Share. Grow. \n\nWhen I am not fighting neural netherlords with my caffienated code, you will find me writing poetry, exploring cinematography or on a foodventure (current favorite? Japanese! Give me a ramen anyday)",
@@ -1419,39 +1377,6 @@
       "order": 17,
       "rockstarSpeakerOrder": 17,
       "title": "Scrum Master, BuddyBoss"
-    },
-    "biswanath_giri": {
-      "bio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience, I am self-motivated & result-oriented with 6+ Years of experience as a Cloud Solution Architect with a proven track record in Solution Design for Cloud technologies in IT Infrastructure functions and Managed Services domain with migration strategies planned from on-prem to the cloud and As a Cloud Architect, I guide customers in their digital transformation journey to the cloud. My primary role is to design solutions that will help customers migrate, operate, deploy and optimize cloud-based Infrastructure, Applications, DevOps, and Databases. I also contribute to knowledge sharing and conducting training. I am also Google Cloud, AWS, Azure, and Terraform Associate Certified.",
-      "company": "Tech Mahindra",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Flti-mindtree.png?alt=media&token=1dcc32d6-a222-4033-9b41-e9b5f45c3d7e",
-      "country": "Delhi NCR",
-      "featured": false,
-      "name": "Biswanath Giri",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fbiswanath_giri.jpeg?alt=media&token=cf391e4f-90a3-47d0-b37c-a2f542c23066",
-      "pronouns": "he/him",
-      "shortBio": "I am working as Senior Google Cloud Architect and I have 15 years of IT industry experience...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/bgiri_gcloud",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/biswanathgirigcloudcertified/",
-          "name": "Linkedin"
-        },
-        {
-          "icon": "website",
-          "link": "https://bgiri-gcloud.medium.com/",
-          "name": "Blog"
-        }
-      ],
-      "order": 18,
-      "rockstarSpeakerOrder": 18,
-      "title": "Working as Senior Google Cloud Architect @TechMahindra"
     },
     "jitendra_gupta": {
       "bio": "Jitendra Gupta is ~11 years experienced IT professional with expertise in information security and cloud computing. As a sought-after speaker, with a proven track record of implementing security best practices in cloud environments, Jitendra is dedicated to empowering fellow IT professionals with actionable takeaways to safeguard their applications, data and infrastructure on Google Cloud.",
@@ -1765,11 +1690,11 @@
       "company": "Incubyte",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fincubyte.png?alt=media&token=c2b46381-e72c-4dd7-a3c3-a763a41373a7",
-      "country": "Ahmedabad, Gujarat",
+      "country": "Pune",
       "featured": false,
       "name": "Sapan Parikh",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fsapan-parikh.jpeg?alt=media&token=3016eab7-6e71-4b96-9670-ec82c60eb510",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fsapan-parikh.jpg?alt=media&token=8ee83569-702b-46b0-982c-626c62b40586",
       "pronouns": "he/him",
       "shortBio": "A tech evangelist and mentor, Sapan has been fuelled by two things in...",
       "socials": [
