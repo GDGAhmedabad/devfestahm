@@ -744,6 +744,46 @@
       ],
       "title": "Volume Snapshot in GKE using CRD"
     },
+    "127": {
+      "complexity": "Introductory & Overview",
+      "description": "Business intelligence is crucial and Google has comeup with LookML and this session ensures that how easy Data visualization is done",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "madhu_vadlamani"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Cloud BI - The Google Looker showcase"
+    },
+    "128": {
+      "complexity": "Intermediate",
+      "description": "During this talk I would like to discuss: \n\nHard core ideas and practices which I had to unlearn from service to propel in a fast tracked environment of a start up \n\n- Product trumps process (adopting outcome driven mindset instead) \n- Trying to get away from concept of time sheet, i.e. take as long as you need to deliver as long as you get paid hourly (instead running tighter feedback cycle and faster delivery of something tangible) \n- Being limited to JD (instead adopting extreme ownership of end result) \n- Not implementing Frugality (instead rethink about how to run budget everything in boot strapped environment) \n\nWhat are the advantages that I brought to an emerging start up from service based organisation \n\n- Scalability \n- Documentation/ Defining Playbook \n- Customer Centricity & Delight \n- Diversity & Inclusion in culture as an advantage",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "tanvi_sau"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "Transforming from Service Based to Product Led Mindset"
+    },
+    "129": {
+      "complexity": "Intermediate",
+      "description": "In this session, I'll unpack scaling MVPs using Flutter. We'll delve into Flutter's architecture, transition to advanced databases, and discuss state management intricacies. Performance optimisation and the importance of continuous monitoring will be highlighted. \n\nOverview of MVP scaling challenges. \nFlutter's architecture: Designed for scalability, ensuring robust apps from the outset. \nTransitioning from basic data storage for MVPs to advanced, scalable databases for larger user demographics. \nAdvanced state management techniques for feature-rich, large-scale apps. \nPerformance: Insights into Flutter's rendering, widget tree dynamics, and optimization areas. \nEmphasis on continuous monitoring with cutting-edge tools for seamless user experience and early issue detection. \nQ&A.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "debasmita_sarkar"
+      ],
+      "tags": [
+        "Mobile",
+        "Flutter"
+      ],
+      "title": "Scalability and Optimization: Transitioning from MVP to Full-Fledged Apps with Flutter"
+    },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -1745,6 +1785,100 @@
       "order": 30,
       "rockstarSpeakerOrder": 30,
       "title": "Getting things done with Craftsmanship mindset | DevOps | Performance"
+    },
+    "madhu_vadlamani": {
+      "bio": "With over 15yrs of experience in Data analytics - researcher / trainer /mentor and a person who is ready with new technologies all the time",
+      "company": "Miracle Software Systems, Inc",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Hyderabad, Telangana",
+      "featured": false,
+      "name": "Madhu Vadlamani",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "With over 15yrs of experience in Data analytics - researcher / trainer /mentor and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/AnalyticsMadhu",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/madhuvad/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@madhuvad",
+          "name": "Blog"
+        }
+      ],
+      "order": 31,
+      "rockstarSpeakerOrder": 31,
+      "title": "Sr Technical Manager - Data Engineering and Analytics"
+    },
+    "tanvi_sau": {
+      "bio": "I am passionate about simplifying complex experiences and drastically reducing time to reach that 'aha' moment for customers. \n\nEnjoy helping cross-functional teams realise and commit to common goals towards sustainable end products/ services by practicing strategic agility and creative problem-solving. \n\nI strongly believe customer-focused solutions (and anything else) can be created with a design thinking and diverse mindset (that comes from advocating DEI).",
+      "company": "Shipmnts",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Tanvi Sau",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am passionate about simplifying complex experiences and drastically reducing time to...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/tanvisau",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tanvisau/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 32,
+      "rockstarSpeakerOrder": 32,
+      "title": "Head of Customer Success, Shipmnts.com"
+    },
+    "debasmita_sarkar": {
+      "bio": "Debasmita works Senior Mobile Developer at Peggy, bringing with her a rich experience of 8 years, predominantly in Mobile App Development. An early adopter of Flutter, she has successfully developed and launched many applications across diverse sectors, with a notable emphasis on FinTech. Beyond her development prowess, Debasmita is keen on sharing knowledge. She has given talks in various platforms such as Flutter Festival, DevFest, and Google I/O Extended. Recognized for her contributions, she was inducted into the Google Developers Expert (GDE) program and continues to craft content that fortifies the Flutter community.",
+      "company": "Peggy",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Bengaluru, Karnataka",
+      "featured": false,
+      "name": "Debasmita Sarkar",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "Debasmita works Senior Mobile Developer at Peggy, bringing with her a rich experience of 8 years, predominantly in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/The__Debo",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/debasmita-sarkar-22296bb2/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@debasmitasarkar.93",
+          "name": "Blog"
+        }
+      ],
+      "order": 33,
+      "rockstarSpeakerOrder": 33,
+      "title": "Flutter Evangelist | Senior Mobile Developer | GDE"
     }
   },
   "team": [
