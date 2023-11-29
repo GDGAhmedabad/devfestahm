@@ -1,7 +1,7 @@
 import { Initialized, Success } from '@abraham/remotedata';
 import { computed, customElement, observe, property } from '@polymer/decorators';
 import '@polymer/iron-icon';
-import { html, PolymerElement } from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer';
 import { RouterLocation } from '@vaadin/router';
 import { Day } from '../models/day';
 import { Filter } from '../models/filter';
@@ -13,7 +13,7 @@ import { fetchUserFeaturedSessions } from '../store/featured-sessions/actions';
 import { initialFeaturedSessionsState } from '../store/featured-sessions/state';
 import { selectFilters } from '../store/filters/selectors';
 import { ReduxMixin } from '../store/mixin';
-import { initialScheduleState, ScheduleState } from '../store/schedule/state';
+import { ScheduleState, initialScheduleState } from '../store/schedule/state';
 import { initialUserState } from '../store/user/state';
 import { UserState } from '../store/user/types';
 import { mySchedule } from '../utils/data';
@@ -67,7 +67,7 @@ export class ScheduleDay extends ReduxMixin(PolymerElement) {
           margin-right: 8px;
         }
 
-        @media (min-width: 812px) {
+        @media (min-width: 1025px) {
           :host {
             margin-left: auto;
             display: block;
@@ -78,7 +78,7 @@ export class ScheduleDay extends ReduxMixin(PolymerElement) {
             display: grid;
             grid-column-gap: 16px;
             grid-row-gap: 32px;
-            grid-template-columns: repeat(var(--tracks-number), 1fr);
+            grid-template-columns: repeat(var(--tracks-number), minmax(0, 1fr));
           }
 
           .start-time {
