@@ -440,7 +440,7 @@
     },
     "103": {
       "complexity": "Intermediate",
-      "description": "Duet AI is set to change the way you work with Google Cloud. It is an available assistant to a variety of roles : Developer, Operator, Data Analyst and more in Google Cloud. It is a new work to work with Google Cloud and is meant to address multiple tasks ranging from learning, onboarding, best practices, application development, analyzing errors and more. \nThe goal of Duet AI is to boost productivity and help the users stay in the flow. \nThis session will demonstrate features of Duet AI (available in Preview at this time) across multiple personas: Developer, Operator and Analyst. It will also demonstrate it across multiple surfaces that it is available (VS Code, Cloud Workstations and Google Cloud Console).",
+      "description": "Duet AI is set to change the way you work with Google Cloud. It is an available assistant to a variety of roles : Developer, Operator, Data Analyst and more in Google Cloud. It is a new way to work with Google Cloud and is meant to address multiple tasks ranging from learning, onboarding, best practices, application development, analyzing errors and more. \nThe goal of Duet AI is to boost productivity and help the users stay in the flow. \nThis session will demonstrate features of Duet AI (available in Preview at this time) across multiple personas: Developer, Operator and Analyst. It will also demonstrate it across multiple surfaces that it is available (VS Code, Cloud Workstations and Google Cloud Console).",
       "language": "English",
       "presentation": "",
       "speakers": [
