@@ -36,7 +36,6 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
 
         .container {
           min-height: 80%;
-          max-width: 60% !important;
         }
 
         paper-progress {
