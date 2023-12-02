@@ -627,7 +627,7 @@
     },
     "118": {
       "complexity": "Intermediate",
-      "description": "Migration phase 1: assess \n\nIn the assessment phase, you gather information about the workloads you want to migrate and their current runtime environment. \n\nMigration assessment tool: \n\n1️⃣StratoZone \n\n2️⃣Migvisor \n\n3️⃣CloudPhysics \n\n➡️Migration phase 2: plan \n\nTo plan for your migration, you need to do the following: \n\nEstablish user and service identities. \nDesign your resource organization. \nDefine groups and roles for resource access. \nDesign your network topology and establish connectivity. \n\nCreate Landing zone \n\n➡️Migration phase 3: deploy \n\nOnce you have established the foundation of your Google Cloud environment, you can proceed with deploying your workloads. You may need to refine your deployment process as you migrate and revisit your environment’s foundation as you become more proficient with the new cloud environment, platforms, services, and tools.",
+      "description": "The session will cover the essentials of Terraform, highlighting its pivotal role in streamlining cloud infrastructure management. Additionally, attendees will be treated to an engaging live demo, showcasing a hands-on deployment of a serverless 3-tier architecture in GCP. \n\nThis demonstration will not only illustrate the practical application of Terraform in real-world scenarios but also provide valuable insights into optimizing cloud resources. Whether you're aiming to enhance your skills or simply curious about the latest in cloud technology, this session promises to be a rich source of knowledge and inspiration.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -636,7 +636,7 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Migration from anywhere to GCP"
+      "title": "Google Cloud & Terraform: Building Efficient Serverless 3-Tier Solutions"
     },
     "119": {
       "complexity": "Intermediate",
