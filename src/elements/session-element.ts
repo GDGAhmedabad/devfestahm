@@ -1,7 +1,7 @@
 import { Success } from '@abraham/remotedata';
 import { computed, customElement, property } from '@polymer/decorators';
 import '@polymer/iron-icon';
-import { html, PolymerElement } from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer';
 import '@power-elements/lazy-image';
 import '../components/text-truncate';
 import { Session } from '../models/session';
@@ -155,6 +155,10 @@ export class SessionElement extends ReduxMixin(PolymerElement) {
           :host {
             border: 1px solid var(--border-light-color);
           }
+        }
+
+        .session-header text-truncate {
+          word-break: break-word;
         }
       </style>
 
