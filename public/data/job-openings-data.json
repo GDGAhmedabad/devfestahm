@@ -231,6 +231,54 @@
           "experience": "-"
         }
       ]
+    },
+    {
+      "id": 7,
+      "companyName": "iTechOps Cloud Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/career",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".NET/Angular Full Stack Developer",
+          "count": 1,
+          "experience": "0.5-2 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Golang Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "Graphics Designer Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "SEO Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "DevOps Intern",
+          "count": 2,
+          "experience": "-"
+        },
+        {
+          "title": "Technical Content Writer Intern",
+          "count": 2,
+          "experience": "-"
+        }
+      ]
     }
   ]
 }
