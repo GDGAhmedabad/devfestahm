@@ -784,6 +784,34 @@
       ],
       "title": "Scalability and Optimization: Transitioning from MVP to Full-Fledged Apps with Flutter"
     },
+    "130": {
+      "complexity": "Introductory & Overview",
+      "description": "Join me for an immersive session on Jetpack Media 3, the groundbreaking platform that revolutionizes media libraries. This talk provides a deep dive and demo, highlighting the extensive capabilities and transformative features of Jetpack Media 3. \n\nKey Highlights: \n\nUnleashing Performance: Experience a significant boost in media playback performance, enabling seamless and immersive user experiences. \n\nStreamlined Media Session Management: Discover how Jetpack Media 3 simplifies the management of media sessions, providing a hassle-free way to control playback. \n\nRock-Solid and Centralised Architecture: Gain insights into the reliable and centralised architecture of Jetpack Media 3, ensuring stability and easy integration.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "prateek_batra"
+      ],
+      "tags": [
+        "Mobile",
+        "Android"
+      ],
+      "title": "Rise of Jetpack Media 3 - Revolutionizing Media Playback on Android"
+    },
+    "131": {
+      "complexity": "Intermediate",
+      "description": "Chatbots are becoming increasingly popular, but they also present a security risk. Sensitive data, such as customer names, addresses, and credit card numbers, can be easily exposed if chatbots are not properly secured. \n\nThe Cloud Data Loss Prevention (DLP) API is a powerful tool that can be used to mask sensitive data in chatbots. The DLP API can detect and redact sensitive data from chatbot transcripts, preventing it from being exposed to unauthorized users. \n\nIn this talk, you will learn how to use the DLP API to secure your chatbot. You will learn how to create DLP templates, configure DLP policies, and use the DLP API to mask sensitive data in chatbot transcripts. \n\nTalk Outline: \n\nIntroduction to chatbots and the security risks they present. \nOverview of the Cloud Data Loss Prevention (DLP) API. \nHow to use the DLP API to mask sensitive data in chatbot transcripts. \nBest practices for securing chatbots.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "janvi_thakkar",
+        "shaily_shah"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Protecting your chatbot from Data Breaches: How to use DLP API to mask sensitive data"
+    },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -1879,6 +1907,95 @@
       "order": 33,
       "rockstarSpeakerOrder": 33,
       "title": "Flutter Evangelist | Senior Mobile Developer | GDE"
+    },
+    "prateek_batra": {
+      "bio": "An experienced Android developer with a passion for creating exceptional user experiences with 4 years of experience \nMy specialisation lies in Android media & streaming with a particular focus on ExoPlayer, and I have written several Medium blogs on the topic. \n\nMy extensive experience includes working on complex Android applications, especially media-intensive applications that require smooth and efficient playback of audio and video content. \n\nAs a speaker, I am passionate about sharing my knowledge and helping other developers learn about the latest trends and best practices in Android development. I have spoken at several small events and meetups and have received positive feedback from attendees for my engaging and informative presentations.",
+      "company": "GojekTech",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "New Delhi",
+      "featured": false,
+      "name": "Prateek Batra",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "An experienced Android developer with a passion for creating exceptional user experiences with...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/its_pra_tick",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@prateekbatra54",
+          "name": "Blog"
+        }
+      ],
+      "order": 34,
+      "rockstarSpeakerOrder": 34,
+      "title": "Product Engineer @GojekTech | Prev @Classplus"
+    },
+    "janvi_thakkar": {
+      "bio": "An accomplished Cloud Engineer with a passion for driving innovation and efficiency in the cloud computing space.I've played a pivotal role in designing and implementing cloud solutions, enabling organizations to fully leverage the potential of cloud technologies. \n\nBeyond my professional expertise, I am an active contributor to the open-source community. I firmly believe in the power of collaboration and knowledge-sharing, and my contributions reflect my commitment to advancing cloud and DevOps practices through open-source projects.Additionally, I am proud to be an AWS Community Builder, actively involved in the AWS community, sharing knowledge, and fostering innovation.",
+      "company": "Intuitive Cloud",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fintuitive.png?alt=media&token=e442489c-250a-40e2-88f8-11a2ec6292a8",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Janvi Thakkar",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "An accomplished Cloud Engineer with a passion for driving innovation and efficiency in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JanviTh110302",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/janvi-thakkar-496514194/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@janvithakkar.583",
+          "name": "Blog"
+        }
+      ],
+      "order": 35,
+      "rockstarSpeakerOrder": 35,
+      "title": "Cloud Engineer @Intuitive Cloud | Google Summer of Code'22 | AWS Community Builder | LFX'22"
+    },
+    "shaily_shah": {
+      "bio": "I am thrilled to introduce myself as a dedicated and accomplished Cloud Engineer with a profound interest in cloud computing and DevOps.My impressive credentials include certifications such as HashiCorp Certified Terraform Associate, Microsoft Certified Azure Fundamentals, AWS Certified Cloud Practitioner (CCP) and Solutions Architect Associate (SAA), as well as being a Google Certified Cloud Digital Leader. With substantial knowledge and experience, I am poised to share valuable insights in the realms of cloud and DevOps.",
+      "company": "Intuitive Cloud",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fintuitive.png?alt=media&token=e442489c-250a-40e2-88f8-11a2ec6292a8",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Shaily Shah",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "she/her",
+      "shortBio": "I am thrilled to introduce myself as a dedicated and accomplished Cloud Engineer with...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shaily-shah-2297911a9",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@shailyshah2002/",
+          "name": "Blog"
+        }
+      ],
+      "order": 36,
+      "rockstarSpeakerOrder": 36,
+      "title": "Cloud Engineer @Intuitive.Cloud"
     }
   },
   "team": [
