@@ -292,6 +292,43 @@
           "experience": "2+ Years"
           }
       ]
+    },
+    {
+      "id": 7,
+      "companyName": "Webmobtech Solution Pvt Ltd.",
+      "location": "Ahmedabad",
+      "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4/view?usp=share_link",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://in.linkedin.com/company/webmob-technologies",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Digital Marketing Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Marketing Trainee",
+          "count": 3,
+          "experience": "Fresher"
+        },
+        {
+          "title": "SEO Trainee",
+          "count": 2,
+          "experience": "Fresher"
+        }
+      ]
     }
   ]
 }
