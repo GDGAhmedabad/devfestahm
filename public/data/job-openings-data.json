@@ -234,6 +234,104 @@
     },
     {
       "id": 5,
+      "companyName": "Ansi ByteCode LLP",
+      "location": "Ahmedabad",
+      "bio": "Ansi ByteCode LLP has developed an exceptional reputation within the Global IT industry. The company was launched in 2014 and since then, it has been a thriving center. We presently utilize Microsoft Technologies and proudly hold the status of a Microsoft Solution Partner for Digital App & Innovation, along with maintaining a Gold Partner legacy of Microsoft in Application Development & Application Integration. We are a dynamic team comprised of dedicated professionals and continue to expand our capabilities and reach.",
+      "companyLogoUrl": "https://ansibytecode.com/wp-content/uploads/2023/10/Logo-abc.png",
+      "companyWebsite": "https://ansibytecode.com/",
+      "companyCareerPage": "https://ansibytecode.keka.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/ansi-bytecode-llp-/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".NET Full Stack Developer",
+          "count": 10,
+          "experience": "3-10 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 3,
+          "experience": "1-4 years"
+        },
+        {
+          "title": "Talent Acquisition Executive",
+          "count": 1,
+          "experience": "0-2 years"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "companyName": "BetterBugs",
+      "location": "Ahmedabad, India",
+      "bio": "BetterBugs is a developer tool that helps QA engineers and developers increase their productivity in logging and debugging bugs, respectively. It also helps improve bug management and time management throughout the software development lifecycle (SDLC), leading to better ROI.",
+      "companyLogoUrl": "https://www.betterbugs.io/images/betterbugs-logo-icon.png",
+      "companyWebsite": "https://www.betterbugs.io",
+      "companyCareerPage": "https://www.linkedin.com/company/betterbugs/jobs",
+      "linkedin": "https://www.linkedin.com/company/betterbugs",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/D4D1FAQFDuMdjI6bc3g/feedshare-document-images_800/1/1700735822078?e=1701907200&v=beta&t=sbQ-RhkEIdCxRhBZy_LRD6Nx5nhlMIUEmVG8KBlEKqs",
+      "openings": [
+        {
+          "title": "Lead Engineer, SaaS",
+          "count": 1,
+          "experience": "4+ Years"
+        },
+        {
+          "title": "Back-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Front-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "SaaS Marketer",
+          "count": 1,
+          "experience": "2+ Years"
+          }
+      ]
+    },
+    {
+      "id": 7,
+      "companyName": "Webmobtech Solution Pvt Ltd.",
+      "location": "Ahmedabad",
+      "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://drive.google.com/file/d/1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4/view?usp=share_link",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://in.linkedin.com/company/webmob-technologies",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Digital Marketing Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Marketing Trainee",
+          "count": 3,
+          "experience": "Fresher"
+        },
+        {
+          "title": "SEO Trainee",
+          "count": 2,
+          "experience": "Fresher"
+        }
+      ]
+    },
+    {
+      "id": 8,
       "companyName": "AppAspect Technologies Pvt. Ltd.",
       "location": "Ahmedabad, India",
       "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
