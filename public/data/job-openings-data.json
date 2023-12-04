@@ -233,6 +233,34 @@
       ]
     },
     {
+      "id": 5,
+      "companyName": "Ansi ByteCode LLP",
+      "location": "Ahmedabad",
+      "bio": "Ansi ByteCode LLP has developed an exceptional reputation within the Global IT industry. The company was launched in 2014 and since then, it has been a thriving center. We presently utilize Microsoft Technologies and proudly hold the status of a Microsoft Solution Partner for Digital App & Innovation, along with maintaining a Gold Partner legacy of Microsoft in Application Development & Application Integration. We are a dynamic team comprised of dedicated professionals and continue to expand our capabilities and reach.",
+      "companyLogoUrl": "https://ansibytecode.com/wp-content/uploads/2023/10/Logo-abc.png",
+      "companyWebsite": "https://ansibytecode.com/",
+      "companyCareerPage": "https://ansibytecode.keka.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/ansi-bytecode-llp-/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".NET Full Stack Developer",
+          "count": 10,
+          "experience": "3-10 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 3,
+          "experience": "1-4 years"
+        },
+        {
+          "title": "Talent Acquisition Executive",
+          "count": 1,
+          "experience": "0-2 years"
+        }
+      ]
+    },
+    {
       "id": 7,
       "companyName": "iTechOps Cloud Pvt Ltd",
       "location": "Ahmedabad",
