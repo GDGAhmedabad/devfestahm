@@ -211,7 +211,7 @@
             },
             {
               "items": [
-                "159"
+                "130"
               ]
             },
             {
@@ -330,7 +330,7 @@
             },
             {
               "items": [
-                "159"
+                "131"
               ]
             }
           ],
@@ -1912,12 +1912,12 @@
       "bio": "An experienced Android developer with a passion for creating exceptional user experiences with 4 years of experience \nMy specialisation lies in Android media & streaming with a particular focus on ExoPlayer, and I have written several Medium blogs on the topic. \n\nMy extensive experience includes working on complex Android applications, especially media-intensive applications that require smooth and efficient playback of audio and video content. \n\nAs a speaker, I am passionate about sharing my knowledge and helping other developers learn about the latest trends and best practices in Android development. I have spoken at several small events and meetups and have received positive feedback from attendees for my engaging and informative presentations.",
       "company": "GojekTech",
       "companyLogo": "",
-      "companyLogoUrl": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fgojek.png?alt=media&token=6f9b784e-0803-4999-a476-8b172abfe3d6",
       "country": "New Delhi",
       "featured": false,
       "name": "Prateek Batra",
       "photo": "",
-      "photoUrl": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fprateek-batra.jpeg?alt=media&token=5670c310-2ff0-4b08-9aab-3d9e5c2547ba",
       "pronouns": "he/him",
       "shortBio": "An experienced Android developer with a passion for creating exceptional user experiences with...",
       "socials": [
@@ -1945,7 +1945,7 @@
       "featured": false,
       "name": "Janvi Thakkar",
       "photo": "",
-      "photoUrl": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fjanvi-thakkar.jpg?alt=media&token=a96da7f1-5880-4575-9fcc-f594842def8d",
       "pronouns": "she/her",
       "shortBio": "An accomplished Cloud Engineer with a passion for driving innovation and efficiency in...",
       "socials": [
@@ -1978,7 +1978,7 @@
       "featured": false,
       "name": "Shaily Shah",
       "photo": "",
-      "photoUrl": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fshaily-shah.jpg?alt=media&token=440b72ec-815b-4f1d-848d-df9fa774e899",
       "pronouns": "she/her",
       "shortBio": "I am thrilled to introduce myself as a dedicated and accomplished Cloud Engineer with...",
       "socials": [
