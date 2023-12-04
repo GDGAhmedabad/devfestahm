@@ -295,6 +295,54 @@
     },
     {
       "id": 7,
+      "companyName": "iTechOps Cloud Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/career",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".NET/Angular Full Stack Developer",
+          "count": 1,
+          "experience": "0.5-2 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Golang Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "Graphics Designer Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "SEO Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "DevOps Intern",
+          "count": 2,
+          "experience": "-"
+        },
+        {
+          "title": "Technical Content Writer Intern",
+          "count": 2,
+          "experience": "-"
+        }
+      ]
+    },
+    {
+      "id": 8,
       "companyName": "Webmobtech Solution Pvt Ltd.",
       "location": "Ahmedabad",
       "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
@@ -331,7 +379,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "companyName": "AppAspect Technologies Pvt. Ltd.",
       "location": "Ahmedabad, India",
       "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
