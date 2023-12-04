@@ -231,6 +231,39 @@
           "experience": "-"
         }
       ]
+    },
+    {
+      "id": 5,
+      "companyName": "AppAspect Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
+      "companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
+      "companyWebsite": "https://www.appaspect.com/",
+      "companyCareerPage": "https://www.appaspect.com/career/",
+      "linkedin": "https://www.linkedin.com/company/appaspect/",
+      "hiringImageUrl": "https://www.appaspect.com/wp-content/uploads/2023/12/hiring-appaspect.jpg",
+      "openings": [
+        {
+          "title": "IOS Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Android Developer",
+          "count": 1,
+          "experience": "6 month to 1 year "
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Business Developer",
+          "count": 1,
+          "experience": "3 to 4 year"
+        }
+      ]
     }
   ]
 }
