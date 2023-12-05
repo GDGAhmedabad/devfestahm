@@ -261,6 +261,39 @@
       ]
     },
     {
+      "id": 6,
+      "companyName": "BetterBugs",
+      "location": "Ahmedabad, India",
+      "bio": "BetterBugs is a developer tool that helps QA engineers and developers increase their productivity in logging and debugging bugs, respectively. It also helps improve bug management and time management throughout the software development lifecycle (SDLC), leading to better ROI.",
+      "companyLogoUrl": "https://www.betterbugs.io/images/betterbugs-logo-icon.png",
+      "companyWebsite": "https://www.betterbugs.io",
+      "companyCareerPage": "https://www.linkedin.com/company/betterbugs/jobs",
+      "linkedin": "https://www.linkedin.com/company/betterbugs",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/D4D1FAQFDuMdjI6bc3g/feedshare-document-images_800/1/1700735822078?e=1701907200&v=beta&t=sbQ-RhkEIdCxRhBZy_LRD6Nx5nhlMIUEmVG8KBlEKqs",
+      "openings": [
+        {
+          "title": "Lead Engineer, SaaS",
+          "count": 1,
+          "experience": "4+ Years"
+        },
+        {
+          "title": "Back-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Front-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "SaaS Marketer",
+          "count": 1,
+          "experience": "2+ Years"
+          }
+      ]
+    },
+    {
       "id": 7,
       "companyName": "iTechOps Cloud Pvt Ltd",
       "location": "Ahmedabad",
