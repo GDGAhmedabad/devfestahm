@@ -343,6 +343,73 @@
           "title": "Laravel + CI Developer",
           "count": 1,
           "experience": "2-4 Years"
+=======
+      "id": 8,
+      "companyName": "Webmobtech Solution Pvt Ltd.",
+      "location": "Ahmedabad",
+      "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://in.linkedin.com/company/webmob-technologies",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Digital Marketing Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Marketing Trainee",
+          "count": 3,
+          "experience": "Fresher"
+        },
+        {
+          "title": "SEO Trainee",
+          "count": 2,
+          "experience": "Fresher"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "AppAspect Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
+      "companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
+      "companyWebsite": "https://www.appaspect.com/",
+      "companyCareerPage": "https://www.appaspect.com/career/",
+      "linkedin": "https://www.linkedin.com/company/appaspect/",
+      "hiringImageUrl": "https://www.appaspect.com/wp-content/uploads/2023/12/hiring-appaspect.jpg",
+      "openings": [
+        {
+          "title": "IOS Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Android Developer",
+          "count": 1,
+          "experience": "6 month to 1 year "
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Business Developer",
+          "count": 1,
+          "experience": "3 to 4 year"
         }
       ]
     }
