@@ -309,41 +309,6 @@
       ]
     },
     {
-      "id": 10,
-      "companyName": "Capermint Technologies Pvt. Ltd.",
-      "location": "Ahmedabad, India",
-      "bio": "Capermint Technologies, we are passionate creators of captivating game experiences. With a global presence and ISO 9001:2015 Certification, we harness cutting-edge technologies to deliver exceptional mobile games. Our skilled team ensures quality solutions, transparency, and a controlled process, making us a trusted leader in the industry.",
-      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX0_LlNHrIeMZFQdZWobUd3NwrwLWyKBLwI50Bz2d&s",
-      "companyWebsite": "https://www.capermint.com/",
-      "companyCareerPage": "https://www.capermint.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": "Game UI Designer",
-          "count": 2,
-          "experience": "2-4 years"
-        },
-        {
-          "title": "iOS Developer",
-          "count": 3,
-          "experience": "0.6-1 Years"
-        },
-        {
-          "title": "Android Developer",
-          "count": 3,
-          "experience": "0.6-1 Years"
-        },
-        {
-          "title": "WordPress Developer",
-          "count": 1,
-          "experience": "1-2 Years"
-        },
-        {
-          "title": "Laravel + CI Developer",
-          "count": 1,
-          "experience": "2-4 Years"
-=======
       "id": 8,
       "companyName": "Webmobtech Solution Pvt Ltd.",
       "location": "Ahmedabad",
@@ -410,6 +375,44 @@
           "title": "Business Developer",
           "count": 1,
           "experience": "3 to 4 year"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "Capermint Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Capermint Technologies, we are passionate creators of captivating game experiences. With a global presence and ISO 9001:2015 Certification, we harness cutting-edge technologies to deliver exceptional mobile games. Our skilled team ensures quality solutions, transparency, and a controlled process, making us a trusted leader in the industry.",
+      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX0_LlNHrIeMZFQdZWobUd3NwrwLWyKBLwI50Bz2d&s",
+      "companyWebsite": "https://www.capermint.com/",
+      "companyCareerPage": "https://www.capermint.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Game UI Designer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 3,
+          "experience": "0.6-1 Years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "0.6-1 Years"
+        },
+        {
+          "title": "WordPress Developer",
+          "count": 1,
+          "experience": "1-2 Years"
+        },
+        {
+          "title": "Laravel + CI Developer",
+          "count": 1,
+          "experience": "2-4 Years"
         }
       ]
     }
