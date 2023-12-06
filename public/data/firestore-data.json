@@ -153,7 +153,7 @@
           "sessions": [
             {
               "items": [
-                "159"
+                "132"
               ]
             }
           ],
@@ -812,6 +812,21 @@
       ],
       "title": "Protecting your chatbot from Data Breaches: How to use DLP API to mask sensitive data"
     },
+    "132": {
+      "complexity": "Intermediate",
+      "description": "This talk will focus on how to prepare yourself to use GenAI in your jobs today. We will discuss a matrix of skills that prepare you to be ready to take on projects using AI, we will also discuss the Google Cloud AI tools and the infrastructure to provide you a high level understanding of the resources. At the end we will share some hands-on labs for you to try on your own and start your GenAI journey.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "priyanka_vergadia",
+        "manoranjan_padhy"
+      ],
+      "tags": [
+        "Keynote",
+        "AI/ML"
+      ],
+      "title": "How to prepare for the world of GenAI"
+    },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -924,7 +939,7 @@
       "company": "Viacom18",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fviacom_18.png?alt=media&token=055ec647-9730-4f4b-b905-2522dd3d9e76",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "featured": true,
       "name": "Adit Lal",
       "photo": "",
@@ -990,7 +1005,7 @@
       "company": "Google",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "featured": true,
       "name": "Jimit Rangras",
       "photo": "",
@@ -1023,7 +1038,7 @@
       "company": "Tata Digital",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftata-digital.png?alt=media&token=f6ce10d6-274e-41d0-bd2a-2723f463c154",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "featured": true,
       "name": "Vivek Yadav",
       "photo": "",
@@ -1625,11 +1640,11 @@
       "title": "ThinkBridge, Senior Data Scientist"
     },
     "aakansha_doshi": {
-      "bio": "Aakansha is an open-source enthusiast, Javascript, and React fan. She is one of the organizers of FOSS United meetups in Bangalore. She is a big foodie, and loves traveling and spending time with her family.",
+      "bio": "Aakansha is an open-source enthusiast, Javascript, and React fan. She is one of the organizers of FOSS United meetups in Bengaluru. She is a big foodie, and loves traveling and spending time with her family.",
       "company": "Excalidraw",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fexcalidraw.png?alt=media&token=591d1e4d-3163-434a-85d0-5265179a6eee",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "featured": false,
       "name": "Aakansha Doshi",
       "photo": "",
@@ -1996,6 +2011,57 @@
       "order": 36,
       "rockstarSpeakerOrder": 36,
       "title": "Cloud Engineer @Intuitive.Cloud"
+    },
+    "priyanka_vergadia": {
+      "bio": "Priyanka Vergadia leads Developer Advocacy at Google and is the author of the #1 best selling book “Visualizing Google Cloud”. She specializes in the breadth of Google Cloud and putting together solutions that span across different cloud tools including Generative AI. You might recognize her from the Google Cloud Tech YouTube channel. She builds highly engaging and uniquely visual content for developers and technical practitioners. She has created more than 500 pieces of content across videos, blogs and tutorials. She is one of the top visual storytellers with 100K+ followers across social media platforms. She marries her artist skills with the technical expertise to create sketches for folks to learn from. She is an author who has combined her technical knowledge with visual storytelling into her book 'Visualizing Google Cloud'. You can also find her video on Cloud concepts on her Youtube channel The Cloud Girl and her website thecloudgirl.dev. Priyanka Vergadia is also a lecturer at University of Pennsylvania where she teaches a Cloud Computing course.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Mountain View, California, United States",
+      "featured": false,
+      "name": "Priyanka Vergadia",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fpriyanka-vergadia.jpg?alt=media&token=5b02c0db-4ce3-4ea8-ad01-c303abad4ac4",
+      "pronouns": "she/her",
+      "shortBio": "Priyanka Vergadia leads Developer Advocacy at Google and is the author of the #1...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pvergadia",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pvergadia/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 37,
+      "rockstarSpeakerOrder": 37,
+      "title": "Head of North America Developer Advocacy"
+    },
+    "manoranjan_padhy": {
+      "bio": "Manoranjan works on the Developer Communities Program in India along with managing the India specific social handle of Google Developers. Before working for Google, Manoranjan used to contribute closely to developer communities and other educational institutions in the western part of India in the process of growth and knowledge sharing. He is passionate about Machine Learning and assisting people build things using it. On the personal side Manoranjan loves travelling to different places and meeting people.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Manoranjan Padhy",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fmanoranjan-padhy.jpg?alt=media&token=08ba7e6c-fbf5-40cb-a939-83d83d0978e4",
+      "pronouns": "he/him",
+      "shortBio": "Manoranjan works on the Developer Communities Program in India along with managing the India...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/_manoranjanp",
+          "name": "Twitter"
+        }
+      ],
+      "order": 38,
+      "rockstarSpeakerOrder": 38,
+      "title": "Developer Program Manager, India"
     }
   },
   "team": [
@@ -3180,7 +3246,7 @@
     "adit_lal": {
       "bio": "Adit is a Senior Android Engineer, currently working as an Individual Consultant. He has been working in the industry for close to about 9 years primarily helping build android mobile products and scaling them up. Some of his hobbies are Stargazing, Travel, and Landscape Photography.",
       "company": "",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "id": "adit_lal",
       "name": "Adit Lal",
       "order": 16,
@@ -3292,7 +3358,7 @@
     "divyanshu_bhargava": {
       "bio": "Divyanshu Bhargava is a Flutter Developer at GoHighLevel. His journey started from Android and took a turn at Flutter. He has 3+ years of experience of building mobile apps. He has done B.Tech in Computer Science and Engineering. He is creator of Android Draw and Chitr application. Being a blogger and open source lover he keen interest in to help developers & students who look forward to growing their careers in the field of Mobile Computing.",
       "company": "GoHighLevel",
-      "country": "Bangalore",
+      "country": "Bengaluru",
       "id": "divyanshu_bhargava",
       "name": "Divyanshu Bhargava",
       "order": 19,
