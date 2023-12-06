@@ -733,7 +733,7 @@
     },
     "126": {
       "complexity": "Intermediate",
-      "description": "This article discusses volume provisioning in Kubernetes, focusing on static and dynamic types, their use cases, volume snapshots, and how to take and restore them. It also discusses operators and CRDs in Kubernetes, highlighting the importance of managing volume effectively. The article also covers volume snapshots and their restoration capabilities.",
+      "description": "This session explores Kubernetes volume provisioning, static and dynamic types, use cases, snapshots, operators, and CRDs, emphasizing effective volume management and their restoration capabilities.",
       "language": "English",
       "presentation": "",
       "speakers": [
