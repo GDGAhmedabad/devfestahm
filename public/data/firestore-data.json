@@ -356,7 +356,7 @@
             },
             {
               "items": [
-                "159"
+                "133"
               ]
             },
             {
@@ -826,6 +826,19 @@
         "AI/ML"
       ],
       "title": "How to prepare for the world of GenAI"
+    },
+    "133": {
+      "complexity": "Intermediate",
+      "description": "Embarking on a startup journey is thrilling, yet fraught with pitfalls. This talk explores key challenges—from market research gaps to funding issues—and offers practical strategies for mitigation. Through real-world examples, attendees will gain insights into fostering adaptability and resilience. The goal is to equip aspiring start-up founders with the knowledge needed to transform obstacles into opportunities for innovation and sustainable growth.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "raza_noorani"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "From Vision To Victory: Tips and Tales"
     },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -2090,6 +2103,34 @@
       "order": 38,
       "rockstarSpeakerOrder": 38,
       "title": "Developer Program Manager, India"
+    },
+    "raza_noorani": {
+      "bio": "At Impero, I've been working with an incredibly bright group of people who are fanatically devoted to solving problems faced by other incredibly bright people so that folks can do more interesting things, efficiently & faster. ",
+      "company": "Impero IT Services Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero.png?alt=media&token=db5203be-af82-4fc6-a7cd-b07bbd322bf2",
+      "country": "",
+      "featured": false,
+      "name": "Raza Noorani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fraza-noorani.jpeg?alt=media&token=70a11ab4-7e18-4845-bcea-23cbb72e1b78",
+      "pronouns": "he/him",
+      "shortBio": "At Impero, I've been working with an incredibly bright group of people who are fanatically...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nooraniraza/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://imperoit.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 39,
+      "rockstarSpeakerOrder": 39,
+      "title": "CEO & Founder"
     }
   },
   "team": [
