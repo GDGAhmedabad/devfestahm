@@ -448,6 +448,39 @@
           "experience": "2-4 Years"
         }
       ]
+    },
+    {
+      "id": 11,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": "Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries, Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo, Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS.",
+      "companyLogoUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/brainvire_vertical_logo.svg",
+      "companyWebsite": "https://www.brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/",
+      "hiringImageUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/current_openings_dec_23.jpg",
+      "openings": [
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "3 to 4 Years"
+        },
+        {
+          "title": "Sr Flutter Developer",
+          "count": 2,
+          "experience": "5 to 8 Years"
+        },
+        {
+          "title": "Sr iOS Developer",
+          "count": 2,
+          "experience": "5 to 8 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "8 to 14 Years"
+        }
+      ]
     }
   ]
 }
