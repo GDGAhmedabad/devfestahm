@@ -968,6 +968,13 @@
       "title": "Senior Android Manager/ Architect"
     },
     "romin_irani": {
+      "badges": [
+        {
+          "description": "Developer Advocate",
+          "link": "https://www.linkedin.com/in/iromin/",
+          "name": "google"
+        }
+      ],
       "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
       "company": "Google Cloud",
       "companyLogo": "",
@@ -1001,6 +1008,13 @@
       "title": "Developer Advocate"
     },
     "jimit_rangras": {
+      "badges": [
+        {
+          "description": "Technical Account Manager",
+          "link": "https://www.linkedin.com/in/jimitrangras/",
+          "name": "google"
+        }
+      ],
       "bio": "Currently Working as a Technical Account Manager at Google supporting Google Cloud's strategic enterprise customers get successful with their cloud transformation journey and accelerate Google Cloud adoption in areas such as Infrastructure Modernization, Application Modernization, FinOps, GenAI, etc. Prior to joining Google I have worked in several Cloud and DevOps roles enabling enterprise customers across the globe to get started with their Cloud and DevOps journey by designing and implementing Cloud Infrastructure Architectures with cloud platforms such as Google Cloud, modernizing applications to containers with tools such as Kubernetes, implement CI/CD for automating the build and release process and configuring observability solutions such as ELK, Grafana and Prometheus for monitoring and reliability.",
       "company": "Google",
       "companyLogo": "",
@@ -2013,6 +2027,13 @@
       "title": "Cloud Engineer @Intuitive.Cloud"
     },
     "priyanka_vergadia": {
+      "badges": [
+        {
+          "description": "Head of North America Developer Advocacy",
+          "link": "https://www.linkedin.com/in/pvergadia/",
+          "name": "google"
+        }
+      ],
       "bio": "Priyanka Vergadia leads Developer Advocacy at Google and is the author of the #1 best selling book “Visualizing Google Cloud”. She specializes in the breadth of Google Cloud and putting together solutions that span across different cloud tools including Generative AI. You might recognize her from the Google Cloud Tech YouTube channel. She builds highly engaging and uniquely visual content for developers and technical practitioners. She has created more than 500 pieces of content across videos, blogs and tutorials. She is one of the top visual storytellers with 100K+ followers across social media platforms. She marries her artist skills with the technical expertise to create sketches for folks to learn from. She is an author who has combined her technical knowledge with visual storytelling into her book 'Visualizing Google Cloud'. You can also find her video on Cloud concepts on her Youtube channel The Cloud Girl and her website thecloudgirl.dev. Priyanka Vergadia is also a lecturer at University of Pennsylvania where she teaches a Cloud Computing course.",
       "company": "Google",
       "companyLogo": "",
@@ -2041,6 +2062,13 @@
       "title": "Head of North America Developer Advocacy"
     },
     "manoranjan_padhy": {
+      "badges": [
+        {
+          "description": "Developer Program Manager, India",
+          "link": "https://twitter.com/_manoranjanp",
+          "name": "google"
+        }
+      ],
       "bio": "Manoranjan works on the Developer Communities Program in India along with managing the India specific social handle of Google Developers. Before working for Google, Manoranjan used to contribute closely to developer communities and other educational institutions in the western part of India in the process of growth and knowledge sharing. He is passionate about Machine Learning and assisting people build things using it. On the personal side Manoranjan loves travelling to different places and meeting people.",
       "company": "Google",
       "companyLogo": "",
