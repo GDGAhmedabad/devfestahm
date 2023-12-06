@@ -290,7 +290,7 @@
           "title": "SaaS Marketer",
           "count": 1,
           "experience": "2+ Years"
-          }
+        }
       ]
     },
     {
@@ -365,6 +365,16 @@
           "title": "Digital Marketing Manager",
           "count": 1,
           "experience": "4-8 years"
+        },
+        {
+          "title": "MERN Developer",
+          "count": 1,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "1-3 years"
         },
         {
           "title": "Marketing Trainee",
