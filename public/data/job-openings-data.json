@@ -259,6 +259,34 @@
           "experience": "0-2 years"
         }
       ]
+    },
+    {
+  "id": 6,
+  "companyName": "Lamatic.ai",
+  "location": "Miami, US",
+  "bio": "Apply to work at world class early stage startups with amazing opportunities to learn and grow with Modern Technologoies",
+  "companyLogoUrl": "https://lamatic.ai/assets/images/image01.png?v=928f75a0",
+  "companyWebsite": "https://lamatic.ai/",
+  "companyCareerPage": "https://amanin.tech/talent-network",
+  "linkedin": "https://www.linkedin.com/company/lamatic",
+  "hiringImageUrl": "https://lamatic.ai/assets/images/image09.gif?v=928f75a0",
+  "openings": [
+    {
+      "title": "Founding Engineers| Full Stack",
+      "count": 2,
+      "experience": "2-3 years"
+    },
+    {
+      "title": "Founding Engineers| LLM",
+      "count": 2,
+      "experience": "2-3 years"
+    },
+    {
+      "title": "Solution Engineers",
+      "count": 2,
+      "experience": "2+ year"
     }
+  ]
+}
   ]
 }
