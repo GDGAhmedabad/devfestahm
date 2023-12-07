@@ -191,7 +191,7 @@ export class BadgePage extends PolymerElement {
           height: 450px;
           border: 1px solid #ccc;
           position: relative;
-          background-image: url('/images/ticket-badge-23.jpeg');
+          background-image: url('/images/ticket-badge-23.png');
           /* Updated background image */
           background-size: cover;
           background-position: center;
@@ -355,7 +355,7 @@ export class BadgePage extends PolymerElement {
     this.canvas = this.shadowRoot?.querySelector('#profile-canvas');
     this.ctx = this.canvas.getContext("2d");
     this.banner.setAttribute('crossOrigin', 'anonymous')
-    this.banner.src = '/images/devfestahm22-badge-frame.jpg';
+    this.banner.src = '/images/devfestahm23-badge-frame.png';
     this.banner.onload = () => {
       this.ctx.imageSmoothingEnabled = false;
       this.draw();
@@ -510,7 +510,7 @@ export class BadgePage extends PolymerElement {
     const backgroundImage = new Image();
     const ticketImage = this.shadowRoot?.querySelector('#ticket-image');
 
-    backgroundImage.src = '/images/ticket-badge-23.jpeg';
+    backgroundImage.src = '/images/ticket-badge-23.png';
     backgroundImage.onload = function () {
       context.drawImage(backgroundImage, 0, 0, canvas.width, canvas.height);
 
