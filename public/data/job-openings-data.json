@@ -259,6 +259,238 @@
           "experience": "0-2 years"
         }
       ]
+    },
+    {
+      "id": 6,
+      "companyName": "BetterBugs",
+      "location": "Ahmedabad, India",
+      "bio": "BetterBugs is a developer tool that helps QA engineers and developers increase their productivity in logging and debugging bugs, respectively. It also helps improve bug management and time management throughout the software development lifecycle (SDLC), leading to better ROI.",
+      "companyLogoUrl": "https://www.betterbugs.io/images/betterbugs-logo-icon.png",
+      "companyWebsite": "https://www.betterbugs.io",
+      "companyCareerPage": "https://www.linkedin.com/company/betterbugs/jobs",
+      "linkedin": "https://www.linkedin.com/company/betterbugs",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/D4D1FAQFDuMdjI6bc3g/feedshare-document-images_800/1/1700735822078?e=1701907200&v=beta&t=sbQ-RhkEIdCxRhBZy_LRD6Nx5nhlMIUEmVG8KBlEKqs",
+      "openings": [
+        {
+          "title": "Lead Engineer, SaaS",
+          "count": 1,
+          "experience": "4+ Years"
+        },
+        {
+          "title": "Back-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Front-end Engineer",
+          "count": 1,
+          "experience": "2+ Years"
+        },
+        {
+          "title": "SaaS Marketer",
+          "count": 1,
+          "experience": "2+ Years"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "companyName": "iTechOps Cloud Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+      "companyWebsite": "https://itechops.com/",
+      "companyCareerPage": "https://itechops.com/career",
+      "linkedin": "https://www.linkedin.com/company/itechops/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": ".NET/Angular Full Stack Developer",
+          "count": 1,
+          "experience": "0.5-2 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Golang Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "Graphics Designer Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "SEO Intern",
+          "count": 1,
+          "experience": "-"
+        },
+        {
+          "title": "DevOps Intern",
+          "count": 2,
+          "experience": "-"
+        },
+        {
+          "title": "Technical Content Writer Intern",
+          "count": 2,
+          "experience": "-"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "companyName": "Webmobtech Solution Pvt Ltd.",
+      "location": "Ahmedabad",
+      "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4",
+      "companyWebsite": "https://webmobtech.com/",
+      "companyCareerPage": "https://webmobtech.com/career/",
+      "linkedin": "https://in.linkedin.com/company/webmob-technologies",
+      "openings": [
+        {
+          "title": "Business Development Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Senior Business Analyst",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "Digital Marketing Manager",
+          "count": 1,
+          "experience": "4-8 years"
+        },
+        {
+          "title": "MERN Developer",
+          "count": 1,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Laravel Developer",
+          "count": 2,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "Marketing Trainee",
+          "count": 3,
+          "experience": "Fresher"
+        },
+        {
+          "title": "SEO Trainee",
+          "count": 2,
+          "experience": "Fresher"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "companyName": "AppAspect Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
+      "companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
+      "companyWebsite": "https://www.appaspect.com/",
+      "companyCareerPage": "https://www.appaspect.com/career/",
+      "linkedin": "https://www.linkedin.com/company/appaspect/",
+      "hiringImageUrl": "https://www.appaspect.com/wp-content/uploads/2023/12/hiring-appaspect.jpg",
+      "openings": [
+        {
+          "title": "IOS Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Android Developer",
+          "count": 1,
+          "experience": "6 month to 1 year "
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 1,
+          "experience": "6 month to 1 year"
+        },
+        {
+          "title": "Business Developer",
+          "count": 1,
+          "experience": "3 to 4 year"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "companyName": "Capermint Technologies Pvt. Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "Capermint Technologies, we are passionate creators of captivating game experiences. With a global presence and ISO 9001:2015 Certification, we harness cutting-edge technologies to deliver exceptional mobile games. Our skilled team ensures quality solutions, transparency, and a controlled process, making us a trusted leader in the industry.",
+      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX0_LlNHrIeMZFQdZWobUd3NwrwLWyKBLwI50Bz2d&s",
+      "companyWebsite": "https://www.capermint.com/",
+      "companyCareerPage": "https://www.capermint.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
+      "hiringImageUrl": "https://i.ibb.co/WnRbDkm/Capermint-Hiring-poster.png",
+      "openings": [
+        {
+          "title": "Game UI Designer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "iOS Developer",
+          "count": 3,
+          "experience": "0.6-1 Years"
+        },
+        {
+          "title": "Android Developer",
+          "count": 3,
+          "experience": "0.6-1 Years"
+        },
+        {
+          "title": "WordPress Developer",
+          "count": 1,
+          "experience": "1-2 Years"
+        },
+        {
+          "title": "Laravel + CI Developer",
+          "count": 1,
+          "experience": "2-4 Years"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "companyName": "Brainvire Infotech",
+      "location": "Ahmedabad, India",
+      "bio": "Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS. Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+      "companyLogoUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/brainvire_vertical_logo.svg",
+      "companyWebsite": "https://www.brainvire.com/",
+      "companyCareerPage": "https://www.brainvire.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/",
+      "hiringImageUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/current_openings_dec_23.jpg",
+      "openings": [
+        {
+          "title": "Flutter Developer",
+          "count": 5,
+          "experience": "3 to 4 Years"
+        },
+        {
+          "title": "Sr Flutter Developer",
+          "count": 5,
+          "experience": "5 to 8 Years"
+        },
+        {
+          "title": "Sr iOS Developer",
+          "count": 5,
+          "experience": "5 to 8 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 1,
+          "experience": "8 to 14 Years"
+        }
+      ]
     }
   ]
 }
