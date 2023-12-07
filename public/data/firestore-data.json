@@ -1032,7 +1032,7 @@
       "company": "Google",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bengaluru",
+      "country": "Chicago, illinois, United States",
       "featured": true,
       "name": "Jimit Rangras",
       "photo": "",
@@ -1820,7 +1820,7 @@
         },
         {
           "icon": "website",
-          "link": "https://akshayvadher.github.io/",
+          "link": "https://www.incubyte.co/",
           "name": "Website"
         }
       ],
