@@ -372,11 +372,22 @@
           "sessions": [
             {
               "items": [
-                "157"
+                "160"
               ]
             }
           ],
           "startTime": "17:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                "157"
+              ]
+            }
+          ],
+          "startTime": "17:15"
         },
         {
           "endTime": "18:00",
@@ -387,7 +398,7 @@
               ]
             }
           ],
-          "startTime": "17:15"
+          "startTime": "17:30"
         }
       ],
       "tracks": [
@@ -880,13 +891,12 @@
       "title": "Afterparty & Networking"
     },
     "157": {
-      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description": "Make sure you won't miss closing ceremony",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
-      "presentation": "https://docs.google.com/presentation/d/1wQ9FfINzRmMS4rwQWiJWmL55d-LjOi1W23UwsJE-uoQ/edit?usp=share_link",
       "speakers": [],
-      "title": "Conference closing and contest winners announcements"
+      "title": "Conference closing"
     },
     "158": {
       "description": "",
@@ -899,7 +909,7 @@
       "title": "TBD"
     },
     "160": {
-      "description": "Networking and Separation Break for different tracks",
+      "description": "Networking and Separation Break for/from different tracks",
       "language": "English",
       "title": "Networking - Separation Break"
     }
