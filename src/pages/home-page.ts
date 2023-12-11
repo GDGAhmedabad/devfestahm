@@ -156,6 +156,10 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             line-height: 1.1;
           }
         }
+
+        .registration-btn-closed {
+          background-color: red !important;
+        }
       </style>
 
       <hero-block
@@ -179,7 +183,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             </paper-button>
 
           <a href="/registration">
-            <paper-button primary>
+            <paper-button primary class="registration-btn-closed">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             [[registration]]
             </paper-button>

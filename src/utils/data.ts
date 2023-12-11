@@ -49,6 +49,7 @@ export {
   title, viewHighlights,
   toBeAnnounce,
   registerNow,
+  registerClosed,
   registration
 } from '../../public/data/resources.json';
 export {
