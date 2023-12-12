@@ -494,6 +494,77 @@
     },
     {
       "id": 12,
+      "companyName": "Amar InfoTech",
+      "location": "Ahmedabad",
+      "bio": "Amar Group of Companies, founded in 2001, now comprises five entities: Amar InfoTech, ExcelPTP, TravelionBE, QTrace, and the latest addition, 'Taapto.' Amar InfoTech, established in 2009 as a division of Amar Technolabs Pvt. Ltd., is a dynamic software development company focused on modern solutions. As a leading IT company, we offer personalized solutions, aiming to transform businesses through enterprise mobility, big data analytics, IoT, AI, and cloud computing. Our team helps enterprises adapt to the competitive landscape and scale according to transformation objectives.",
+      "companyLogoUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/AI-logo-1.png",
+      "companyWebsite": "https://www.amarinfotech.com/",
+      "companyCareerPage": "https://www.amarinfotech.com/career-opportunities.html",
+      "linkedin": "https://www.linkedin.com/company/amar-infotech/mycompany/verification/?viewAsMember=true",
+      "hiringImageUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/Amar-infotech-hiring-multiple-position.png",
+      "openings": [
+        {
+          "title": "Angular Developers",
+          "count": 2,
+          "experience": "1-4 years"
+        },
+        {
+          "title": "PHP/Laravel Developers",
+          "count": 2,
+          "experience": "0.6-5+ years"
+        },
+        {
+          "title": "Web Designer",
+          "count": 1,
+          "experience": "1-3 years"
+        },
+        {
+          "title": "UIUX Designer",
+          "count": 1,
+          "experience": "0.6-1 years"
+        },
+        {
+          "title": "SEO",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "QA",
+          "count": 1,
+          "experience": "0.6-2 years"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "companyName": "Lamatic.ai",
+      "location": "Miami, US",
+      "bio": "Apply to work at world class early stage startups with amazing opportunities to learn and grow with Modern Technologoies",
+      "companyLogoUrl": "https://lamatic.ai/assets/images/image01.png?v=928f75a0",
+      "companyWebsite": "https://lamatic.ai/",
+      "companyCareerPage": "https://amanin.tech/talent-network",
+      "linkedin": "https://www.linkedin.com/company/lamatic",
+      "hiringImageUrl": "https://lamatic.ai/assets/images/image09.gif?v=928f75a0",
+      "openings": [
+        {
+          "title": "Founding Engineers| Full Stack",
+          "count": 2,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Founding Engineers| LLM",
+          "count": 2,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Solution Engineers",
+          "count": 2,
+          "experience": "2+ year"
+        }
+      ]
+    },
+    {
+      "id": 14,
       "companyName": "Incubyte",
       "location": "Remote, India",
       "bio": "Reinventing Application Modernization",

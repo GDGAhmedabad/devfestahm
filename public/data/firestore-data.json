@@ -59,12 +59,6 @@
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 2,
           "logoUrl": "../images/logos/google-developers-group.png",
           "name": "Google Developers Group",
           "url": "https://developers.google.com/programs/community/gdg/"
@@ -77,25 +71,31 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
+          "logoUrl": "../images/logos/dhiwise.png",
+          "name": "DhiWise",
+          "url": "https://www.dhiwise.com/"
         }
       ],
       "order": 1,
-      "title": "Template Partner"
+      "title": "Platinum Sponsors"
     },
     {
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
-          "name": "GDG Cloud Ahmedabad",
-          "url": "https://twitter.com/gdgcloudahm"
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://akashtechnolabs.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/impero.png",
+          "name": "Impero IT Services Pvt Ltd",
+          "url": "https://imperoit.com/"
         }
       ],
       "order": 2,
-      "title": "Partner Communities"
+      "title": "Silver Sponsors"
     },
     {
       "items": [
@@ -108,6 +108,42 @@
       ],
       "order": 3,
       "title": "CFP Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/allevents.png",
+          "name": "AllEvents",
+          "url": "https://allevents.in/"
+        }
+      ],
+      "order": 4,
+      "title": "Ticketing Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164"
+        }
+      ],
+      "order": 5,
+      "title": "Template Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
+          "name": "GDG Cloud Ahmedabad",
+          "url": "https://twitter.com/gdgcloudahm"
+        }
+      ],
+      "order": 6,
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
@@ -138,7 +174,7 @@
           "startTime": "09:30"
         },
         {
-          "endTime": "10:15",
+          "endTime": "10:00",
           "sessions": [
             {
               "items": [
@@ -149,7 +185,7 @@
           "startTime": "09:45"
         },
         {
-          "endTime": "10:45",
+          "endTime": "10:30",
           "sessions": [
             {
               "items": [
@@ -157,7 +193,18 @@
               ]
             }
           ],
-          "startTime": "10:15"
+          "startTime": "10:00"
+        },
+        {
+          "endTime": "11:00",
+          "sessions": [
+            {
+              "items": [
+                "134"
+              ]
+            }
+          ],
+          "startTime": "10:30"
         },
         {
           "endTime": "11:15",
@@ -168,7 +215,7 @@
               ]
             }
           ],
-          "startTime": "10:45"
+          "startTime": "11:00"
         },
         {
           "endTime": "12:00",
@@ -190,12 +237,12 @@
             },
             {
               "items": [
-                "124"
+                "103"
               ]
             },
             {
               "items": [
-                "103"
+                "124"
               ]
             }
           ],
@@ -221,12 +268,12 @@
             },
             {
               "items": [
-                "107"
+                "111"
               ]
             },
             {
               "items": [
-                "111"
+                "107"
               ]
             }
           ],
@@ -252,12 +299,12 @@
             },
             {
               "items": [
-                "128"
+                "127"
               ]
             },
             {
               "items": [
-                "127"
+                "128"
               ]
             }
           ],
@@ -294,12 +341,12 @@
             },
             {
               "items": [
-                "114"
+                "118"
               ]
             },
             {
               "items": [
-                "118"
+                "114"
               ]
             }
           ],
@@ -325,12 +372,12 @@
             },
             {
               "items": [
-                "121"
+                "131"
               ]
             },
             {
               "items": [
-                "131"
+                "121"
               ]
             }
           ],
@@ -356,12 +403,12 @@
             },
             {
               "items": [
-                "133"
+                "126"
               ]
             },
             {
               "items": [
-                "126"
+                "133"
               ]
             }
           ],
@@ -372,11 +419,22 @@
           "sessions": [
             {
               "items": [
-                "157"
+                "160"
               ]
             }
           ],
           "startTime": "17:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                "157"
+              ]
+            }
+          ],
+          "startTime": "17:15"
         },
         {
           "endTime": "18:00",
@@ -387,7 +445,7 @@
               ]
             }
           ],
-          "startTime": "17:15"
+          "startTime": "17:30"
         }
       ],
       "tracks": [
@@ -412,7 +470,7 @@
   "sessions": {
     "101": {
       "complexity": "Intermediate",
-      "description": "Keynote on everything futuristic in Tech this is going to be a hell of a ride with exciting things coming our way in Tech",
+      "description": "- What, Why and Why Not of AI \n- Good, Bad and Ugly of AI \n- What if Your Future \n\n- Gen AI and Infinite Possibilities \n- What not to do with AI \n- What AI should do for Mankind \n\n- Let Me Predict the Future \n- There is life beyond AI",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -829,7 +887,7 @@
     },
     "133": {
       "complexity": "Intermediate",
-      "description": "Embarking on a startup journey is thrilling, yet fraught with pitfalls. This talk explores key challenges—from market research gaps to funding issues—and offers practical strategies for mitigation. Through real-world examples, attendees will gain insights into fostering adaptability and resilience. The goal is to equip aspiring start-up founders with the knowledge needed to transform obstacles into opportunities for innovation and sustainable growth.",
+      "description": "In this session, successful startup case studies will be examined to understand the factors that contributed to their success and set them apart. Valuable lessons will be drawn from these stories, offering attendees practical insights into the journey from idea to success. \n\nCome learn and turn your startup vision to victory 🚀",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -839,6 +897,20 @@
         "Startup"
       ],
       "title": "From Vision To Victory: Tips and Tales"
+    },
+    "134": {
+      "complexity": "Intermediate",
+      "description": "The talk will emphasize the critical need for developers to embrace the rapidly evolving GenAI technologies to stay relevant in the dynamic tech landscape. The talk will highlight strategies for integrating GenAI into existing development workflows, addressing the challenges and opportunities it presents, and fostering a culture of continuous learning and innovation to leverage the full potential of GenAI in the development sector.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "vishal_virani"
+      ],
+      "tags": [
+        "Keynote",
+        "AI/ML"
+      ],
+      "title": "Innovate or Stagnate: Adapting to the GenAI Era in Development"
     },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -880,13 +952,12 @@
       "title": "Afterparty & Networking"
     },
     "157": {
-      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description": "Make sure you won't miss closing ceremony",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
-      "presentation": "https://docs.google.com/presentation/d/1wQ9FfINzRmMS4rwQWiJWmL55d-LjOi1W23UwsJE-uoQ/edit?usp=share_link",
       "speakers": [],
-      "title": "Conference closing and contest winners announcements"
+      "title": "Conference closing"
     },
     "158": {
       "description": "",
@@ -899,7 +970,7 @@
       "title": "TBD"
     },
     "160": {
-      "description": "Networking and Separation Break for different tracks",
+      "description": "Networking and Separation Break for/from different tracks",
       "language": "English",
       "title": "Networking - Separation Break"
     }
@@ -913,7 +984,7 @@
           "name": "gdg"
         }
       ],
-      "bio": "Blockchain | On Demand Apps | SAAS | Product Customization | IoT | Enterprise Apps | Man with Midas Touch | Project Manager | Keynote Speaker | Product Manager | utpalbetai@gmail.com",
+      "bio": "Utpal is a man with Midas touch, creating and repeating history at multiple  organizations when it comes to scaling and growth. With almost two decades of experience, currently he is the Vice President of Sales at SoluLab, a leading Blockchain, AI, & IoT solutions provider. He is also a project manager, product manager, and an exceptional speaker.",
       "company": "SoluLab",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fsolulab-dark.png?alt=media&token=c829492d-d5d7-4bcc-b71d-4ac79efc6edf",
@@ -1032,7 +1103,7 @@
       "company": "Google",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bengaluru",
+      "country": "Chicago, illinois, United States",
       "featured": true,
       "name": "Jimit Rangras",
       "photo": "",
@@ -1820,7 +1891,7 @@
         },
         {
           "icon": "website",
-          "link": "https://akshayvadher.github.io/",
+          "link": "https://www.incubyte.co/",
           "name": "Website"
         }
       ],
@@ -2105,17 +2176,17 @@
       "title": "Developer Program Manager, India"
     },
     "raza_noorani": {
-      "bio": "At Impero, I've been working with an incredibly bright group of people who are fanatically devoted to solving problems faced by other incredibly bright people so that folks can do more interesting things, efficiently & faster. ",
+      "bio": "Known for giving folks the best technical advice in town, Raza is the CEO & founder of Impero IT Services, an Ahmedabad based app development boutique! \nWorking with some incredible group of people at Impero, Raza and his tech squad are on the voyage to create exceptional softwares that help people worldwide do more exciting things efficiently & faster! \nImpero stands honored with the esteemed 'Certificate of Excellence' from the Indian Army. Their apps consistently dominate industry charts, including one adopted by Google. Noteworthy accolades include mentorship from the Melinda & Bill Gates Foundation, a recognition as a Top Startup at the International Web Summit by Werner Vogels, Amazon's CTO. Seven apps developed by Impero have secured funding, and a standout startup app was acquired by Concentrix, a Fortune 500 company. \nImpero has garnered attention in Forbes for delivering exceptional and magnificent solutions, contributing to the success of numerous outstanding ideas. What sets Impero apart is its unique software outsourcing model, boasting a physical presence in Europe, the Americas, Africa, and Asia. \nIn addition to steering Impero with remarkable leadership, Raza is passionate about delivering motivational speeches. Beyond the tech realm, he finds joy in exploring different corners of the world and indulging in diverse culinary experiences.",
       "company": "Impero IT Services Pvt Ltd",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero.png?alt=media&token=db5203be-af82-4fc6-a7cd-b07bbd322bf2",
-      "country": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero_horizontal.png?alt=media&token=7d7e12e1-b9f0-4fd0-966a-5b1aae06a6cf",
+      "country": "Ahmedabad, Gujarat, India",
       "featured": false,
       "name": "Raza Noorani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fraza-noorani.jpeg?alt=media&token=70a11ab4-7e18-4845-bcea-23cbb72e1b78",
       "pronouns": "he/him",
-      "shortBio": "At Impero, I've been working with an incredibly bright group of people who are fanatically...",
+      "shortBio": "Known for giving folks the best technical advice in town, Raza is the CEO & founder...",
       "socials": [
         {
           "icon": "linkedin",
@@ -2131,6 +2202,34 @@
       "order": 39,
       "rockstarSpeakerOrder": 39,
       "title": "CEO & Founder"
+    },
+    "vishal_virani": {
+      "bio": "Vishal, with 11+ years of entrepreneurial expertise, currently shines as the Co-Founder and CEO of DhiWise, a revolutionary procode platform designed to elevate developers' work beyond mundane tasks. His journey in the tech world began with the founding of Coruscate Solutions, where under his leadership, the company expanded its reach across 24 countries in various sectors. \n\nA Computer Engineering graduate, Vishal's experiences have been pivotal in shaping DhiWise, with a focus on streamlining and enhancing developer productivity. Beyond his professional pursuits, Vishal is an avid cook and an enthusiastic traveler, aiming to visit 40 countries before his 40th birthday, reflecting his innovative and adventurous spirit in both technology and his personal life.",
+      "company": "DhiWise",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=cca0999a-a925-4b7d-a29e-5b82c392fd24",
+      "country": "Surat, Gujarat",
+      "featured": false,
+      "name": "Vishal Virani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fvishal-virani.jpeg?alt=media&token=b7a337b9-a1d5-4ce6-b4ed-4b0966216dc2",
+      "pronouns": "he/him",
+      "shortBio": "Vishal, with 11+ years of entrepreneurial expertise, currently shines as the Co-Founder and CEO of DhiWise...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Vishalvirani91",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vishalvirani/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 40,
+      "rockstarSpeakerOrder": 40,
+      "title": "Co-Founder & CEO (Chief Everything Officer)"
     }
   },
   "team": [
@@ -2152,9 +2251,9 @@
               "name": "LinkedIn"
             },
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/pareshmayani",
-              "name": "Facebook"
+              "icon": "website",
+              "link": "https://solguruz.com/",
+              "name": "Website"
             }
           ],
           "order": 0,
@@ -2178,44 +2277,6 @@
           ],
           "order": 1,
           "title": "Co-Organizer"
-        },
-        {
-          "name": "Dhruva Shastri",
-          "photo": "/images/people/dhruva_shashtri_gdd.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri_gdd.jpg?alt=media&token=6a69f838-345d-4c92-a301-6c26c33900f7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dhruvashastri12",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/dhruvashastri12/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
-          "title": "WTM Ambassador"
-        },
-        {
-          "name": "Utpal Betai",
-          "photo": "/images/people/utpal_betai.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/utpalbetai",
-              "name": "Twitter"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/utpal.betai.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 3,
-          "title": "Asst. Organizer"
         },
         {
           "name": "Jaldeep Asodariya",
@@ -2243,8 +2304,46 @@
               "name": "Facebook"
             }
           ],
+          "order": 2,
+          "title": "Co-Organizer"
+        },
+        {
+          "name": "Dhruva Shastri",
+          "photo": "/images/people/dhruva_shashtri_gdd.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhruva_shashtri_gdd.jpg?alt=media&token=6a69f838-345d-4c92-a301-6c26c33900f7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dhruvashastri12",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/dhruvashastri12/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": "WTM Ambassador"
+        },
+        {
+          "name": "Utpal Betai",
+          "photo": "/images/people/utpal_betai.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/utpalbetai",
+              "name": "Twitter"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/utpal.betai.9",
+              "name": "Facebook"
+            }
+          ],
           "order": 4,
-          "title": "Event Organizer"
+          "title": "Asst. Organizer"
         },
         {
           "name": "Hiren Dave",

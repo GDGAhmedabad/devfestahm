@@ -3,7 +3,7 @@ import { PolymerElement, html } from '@polymer/polymer';
 import '../components/hero/simple-hero';
 import '../components/markdown/remote-markdown';
 import '../elements/footer-block';
-import { heroSettings, registerNow, socialNetwork } from '../utils/data';
+import { heroSettings, registerClosed, registerNow, socialNetwork } from '../utils/data';
 import { updateMetadata } from '../utils/metadata';
 
 @customElement('registration-page')
@@ -96,6 +96,9 @@ export class RegistrationPage extends PolymerElement {
           text-align: center;
           margin-top: 50px;
         }
+        .register-btn-closed {
+          background-color: red !important;
+        }
       </style>
 
       <simple-hero page="registration"></simple-hero>
@@ -183,9 +186,9 @@ export class RegistrationPage extends PolymerElement {
           </div>
           <div class="register-btn">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSditnWa_QDLiIpv1Ja-oD96dx6qoAhRpFYE7yveknlbqaMiGg/viewform" target="_blank">
-              <paper-button primary>
+              <paper-button primary class="register-btn-closed">
                 <iron-icon icon="hoverboard:ticket"></iron-icon>
-                [[registerNow]]
+                [[registerClosed]]
               </paper-button>
             </a>
           </div>
@@ -199,6 +202,7 @@ export class RegistrationPage extends PolymerElement {
   private heroSettings = heroSettings.registration;
   private socialNetwork = socialNetwork;
   private registerNow = registerNow;
+  private registerClosed = registerClosed;
 
   override connectedCallback() {
     super.connectedCallback();
