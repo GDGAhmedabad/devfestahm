@@ -30,7 +30,8 @@
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
   "registerNow": "Register Now",
-  "registration": "Registration",
+  "registerClosed": "Registration has been closed. Sorry!",
+  "registration": "Registration Closed",
   "timezoneOffset": "-180",
   "loading": "Loading...",
   "footer": {

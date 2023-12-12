@@ -1,7 +1,7 @@
 import { customElement, property } from '@polymer/decorators';
 import '@polymer/google-map';
 import '@polymer/paper-icon-button';
-import { html, PolymerElement } from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer';
 import { RootState } from '../store';
 import { ReduxMixin } from '../store/mixin';
 import { initialUiState } from '../store/ui/state';
@@ -64,24 +64,11 @@ export class MapBlock extends ReduxMixin(PolymerElement) {
         }
       </style>
 
+
       <template is="dom-if" if="[[viewport.isTabletPlus]]">
-        <google-map
-          id="map"
-          latitude="[[location.mapCenter.latitude]]"
-          longitude="[[location.mapCenter.longitude]]"
-          api-key="[[googleMapApiKey]]"
-          zoom="[[location.pointer.zoom]]"
-          disable-default-ui
-          draggable="false"
-          additional-map-options="[[options]]"
-        >
-          <google-map-marker
-            latitude="[[location.pointer.latitude]]"
-            longitude="[[location.pointer.longitude]]"
-            title="[[location.name]]"
-            icon="images/map-marker.svg"
-          ></google-map-marker>
-        </google-map>
+        <div>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14689.959328614179!2d72.4529069!3d23.0057804!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b283dfe041b%3A0x7dbde6b4b8617b3f!2sThe%20Forum%20-%20Celebration%20%26%20Convention!5e0!3m2!1sen!2sin!4v1702388905596!5m2!1sen!2sin" width="100% !important" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
       </template>
 
       <div class="container" layout vertical end-justified fit$="[[viewport.isTabletPlus]]">
