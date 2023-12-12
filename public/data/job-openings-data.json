@@ -686,6 +686,29 @@
           "experience": "4-8 years experience"
         }
       ]
+    },
+    {
+      "id": 17,
+      "companyName": "Ibase-t India Software Pvt Ltd.",
+      "location": "Ahmedabad - Pune",
+      "bio": "Apply to work at world class early stage startups with amazing opportunities to learn and grow with Modern Technologoies",
+      "companyLogoUrl": "https://lamatic.ai/assets/images/image01.png?v=928f75a0",
+      "companyWebsite": "https://lamatic.ai/",
+      "companyCareerPage": "https://amanin.tech/talent-network",
+      "linkedin": "https://www.linkedin.com/company/lamatic",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Sr. QA Automation Engineers",
+          "count": 5,
+          "experience": "2-8 years"
+        },
+        {
+          "title": "Lead Software Engineer",
+          "count": 3,
+          "experience": "8-10 years"
+        }
+      ]
     }
   ]
 }
