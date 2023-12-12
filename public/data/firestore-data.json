@@ -59,12 +59,6 @@
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 2,
           "logoUrl": "../images/logos/google-developers-group.png",
           "name": "Google Developers Group",
           "url": "https://developers.google.com/programs/community/gdg/"
@@ -77,25 +71,31 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
+          "logoUrl": "../images/logos/dhiwise.png",
+          "name": "DhiWise",
+          "url": "https://www.dhiwise.com/"
         }
       ],
       "order": 1,
-      "title": "Template Partner"
+      "title": "Platinum Sponsors"
     },
     {
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
-          "name": "GDG Cloud Ahmedabad",
-          "url": "https://twitter.com/gdgcloudahm"
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://akashtechnolabs.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/impero.png",
+          "name": "Impero IT Services Pvt Ltd",
+          "url": "https://imperoit.com/"
         }
       ],
       "order": 2,
-      "title": "Partner Communities"
+      "title": "Silver Sponsors"
     },
     {
       "items": [
@@ -108,6 +108,42 @@
       ],
       "order": 3,
       "title": "CFP Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/allevents.png",
+          "name": "AllEvents",
+          "url": "https://allevents.in/"
+        }
+      ],
+      "order": 4,
+      "title": "Ticketing Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164"
+        }
+      ],
+      "order": 5,
+      "title": "Template Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
+          "name": "GDG Cloud Ahmedabad",
+          "url": "https://twitter.com/gdgcloudahm"
+        }
+      ],
+      "order": 6,
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
@@ -434,7 +470,7 @@
   "sessions": {
     "101": {
       "complexity": "Intermediate",
-      "description": "What, Why and Why Not of AI \nGood, Bad and Ugly of AI \nWhat if Your Future \n\nGen AI and Infinite Possibilities \nWhat not to do with AI \nWhat AI should do for Mankind \n\nLet Me Predict the Future \nThere is life beyond AI",
+      "description": "- What, Why and Why Not of AI \n- Good, Bad and Ugly of AI \n- What if Your Future \n\n- Gen AI and Infinite Possibilities \n- What not to do with AI \n- What AI should do for Mankind \n\n- Let Me Predict the Future \n- There is life beyond AI",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -2143,7 +2179,7 @@
       "bio": "Known for giving folks the best technical advice in town, Raza is the CEO & founder of Impero IT Services, an Ahmedabad based app development boutique! \nWorking with some incredible group of people at Impero, Raza and his tech squad are on the voyage to create exceptional softwares that help people worldwide do more exciting things efficiently & faster! \nImpero stands honored with the esteemed 'Certificate of Excellence' from the Indian Army. Their apps consistently dominate industry charts, including one adopted by Google. Noteworthy accolades include mentorship from the Melinda & Bill Gates Foundation, a recognition as a Top Startup at the International Web Summit by Werner Vogels, Amazon's CTO. Seven apps developed by Impero have secured funding, and a standout startup app was acquired by Concentrix, a Fortune 500 company. \nImpero has garnered attention in Forbes for delivering exceptional and magnificent solutions, contributing to the success of numerous outstanding ideas. What sets Impero apart is its unique software outsourcing model, boasting a physical presence in Europe, the Americas, Africa, and Asia. \nIn addition to steering Impero with remarkable leadership, Raza is passionate about delivering motivational speeches. Beyond the tech realm, he finds joy in exploring different corners of the world and indulging in diverse culinary experiences.",
       "company": "Impero IT Services Pvt Ltd",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero.png?alt=media&token=db5203be-af82-4fc6-a7cd-b07bbd322bf2",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero_horizontal.png?alt=media&token=7d7e12e1-b9f0-4fd0-966a-5b1aae06a6cf",
       "country": "Ahmedabad, Gujarat, India",
       "featured": false,
       "name": "Raza Noorani",
