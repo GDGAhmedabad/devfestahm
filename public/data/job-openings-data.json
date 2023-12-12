@@ -491,6 +491,44 @@
           "experience": "8 to 14 Years"
         }
       ]
+    },
+    {
+  "id": 12,
+  "companyName": "DataSlush",
+  "location": "Ahmedabad",
+  "bio": "DataSlush fastest growing Analytics & AI/ML startup in Ahmedabad. We are focused on the research & innovation oriented projects & products.",
+  "companyLogoUrl": "https://storage.googleapis.com/dataslush-images/dataslush-logo.png",
+  "companyWebsite": "https://dataslush.com/",
+  "companyCareerPage": "https://docs.google.com/forms/d/e/1FAIpQLSe15dxG_TfPzP1y-MuPs07h4CKFyGtZOdosZRoIcV9FlcBFkA/viewform",
+  "linkedin": "https://www.linkedin.com/company/gdg-ahmedabad/",
+  "hiringImageUrl": "https://storage.googleapis.com/dataslush-images/DataSlush-Hiring.png",
+  "openings": [
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "experience": "2-5 years"
+    },
+    {
+      "title": "Intern-Data Scientist",
+      "count": 1,
+      "experience": "NA"
+    },
+    {
+      "title": "Intern-Frontend Developer",
+      "count": 1,
+      "experience": "NA"
+    },
+    {
+      "title": "Intern-Analytics Implementation Engineer",
+      "count": 1,
+      "experience": "NA"
     }
+  ]
+}
   ]
 }
