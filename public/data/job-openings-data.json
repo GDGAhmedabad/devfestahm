@@ -1,595 +1,742 @@
 {
-  "jobs": [
-    {
-      "id": 1,
-      "companyName": "SolGuruz LLP",
-      "location": "Ahmedabad, India",
-      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-      "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
-      "companyWebsite": "http://solguruz.com/",
-      "companyCareerPage": "https://solguruz.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/uc?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
-      "openings": [
-        {
-          "title": "Technical Content Writers",
-          "count": 2,
-          "experience": "2 to 5 Years experience"
-        },
-        {
-          "title": "MERN Stack Developers",
-          "count": 2,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "ReactJs Developers",
-          "count": 2,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "Flutter Developers",
-          "count": 1,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "Node Developers",
-          "count": 1,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "QA Engineers",
-          "count": 2,
-          "experience": "2 to 4 Years experience"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "companyName": "HighLevel",
-      "location": "Dallas, Texas",
-      "bio": "HighLevel LLC (www.gohighlevel.com) is a two-tier B2B SaaS Platform focused on Marketing Agencies. We aspire to be a one-stop solution for marketing agencies. We enable agencies to serve their clients with ease using the best cutting-edge tools in the industry. Our clientele includes digital marketing agencies, Ads agencies, SEO agencies, Call center / Sales agencies, and freelancers. We operate across niches like real estate, dental & medical, local businesses, e-commerce, professional services, and field services. Our platform comprises various product areas including CRM, funnel builder, website builder, forms & surveys, WordPress hosting, email marketing, telephony, reviews management, Omni-box communications, social media, invoicing & payments to name a few. We currently service over 15,000 agencies and 400,000 small & medium businesses with a 200+ strong team that works remotely across 15 nations.",
-      "companyLogoUrl": "https://drive.google.com/uc?id=1c_g_V7eRyJyUo0R7Wfsg-uOSsLuAPnh7",
-      "companyWebsite": "https://www.gohighlevel.com/",
-      "companyCareerPage": "https://www.gohighlevel.com/careers?_gl=1*1ex711i*_ga*MTE1NDc5NjI0OC4xNjU0NTE0OTA5*_ga_HSZW8WNR22*MTY3MTUyMDU0Ni4xOC4wLjE2NzE1MjA1NjMuMC4wLjA.",
-      "linkedin": "https://www.linkedin.com/company/highlevel/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": "Lead Engineer, SaaS",
-          "count": 1,
-          "experience": ""
-        },
-        {
-          "title": "Software Development Engineer III (Ad Reporting)",
-          "count": 1,
-          "experience": "3-8 Years"
-        },
-        {
-          "title": "Senior Software Engineer (Payments)",
-          "count": 1,
-          "experience": "5-7 Years"
-        },
-        {
-          "title": "Software Development Engineer (Social Media)",
-          "count": 1,
-          "experience": "3-7 Years"
-        },
-        {
-          "title": "Staff Engineer (Platform)",
-          "count": 1,
-          "experience": "3+ Years"
-        },
-        {
-          "title": "Mobile QA Engineer",
-          "count": 1,
-          "experience": "3-5 Years"
-        },
-        {
-          "title": "Senior Mobile Engineer",
-          "count": 1,
-          "experience": "1+ Years"
-        },
-        {
-          "title": "Software Development Engineer in Test",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "Product Manager (Growth)",
-          "count": 1,
-          "experience": "3+ Years"
-        },
-        {
-          "title": "Product Manager (SaaS, Internal tools & Marketplace)",
-          "count": 1,
-          "experience": ""
-        },
-        {
-          "title": "Product Manager, Lead Generation",
-          "count": 1,
-          "experience": ""
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "companyName": "Vedlogic Solutions Pvt Ltd",
-      "location": "Ahmedabad",
-      "bio": "Vedlogic was founded in 2010 by technocrats who actively strengthen the executive management of Vedlogic today. Vedlogic team comprises of experts in the area of Technology, Business Analysis, Software Development, Project Management, Outsourcing, Finance, Consulting, Quality Standards, Operations, Administration which makes Vedlogic one stop outsourcing solutions provider to clients.",
-      "companyLogoUrl": "https://www.vedlogic.com/wp-content/uploads/2019/03/Vedlogic_logo_color.svg",
-      "companyWebsite": "https://www.vedlogic.com",
-      "companyCareerPage": "https://www.vedlogic.com/careers",
-      "linkedin": "https://www.linkedin.com/company/vedlogic-solutions-pvt.-ltd./about/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": "Golang Developers",
-          "count": 2,
-          "experience": "2-7 years"
-        },
-        {
-          "title": "Python (Django, Postgres)",
-          "count": 2,
-          "experience": "3-8 years"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "companyName": "Trentium Solution Pvt Ltd",
-      "location": "Ahmedabad, India",
-      "bio": "We are a brand strategy & digital design agency that creates culturally significant brands. With more than a decade of experience and knowledge. We collaborate with folks who are equally committed to their craft. Integrity, diligence, and trust are our guiding principles in all that we do.",
-      "companyLogoUrl": "https://www.trentiums.com/front/theme/assets/img/logo/logo.png",
-      "companyWebsite": "https://www.trentiums.com/",
-      "companyCareerPage": "https://www.trentiums.com/career",
-      "linkedin": "https://www.linkedin.com/company/trentium-solution",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": "Sr. Laravel Developer",
-          "count": 1,
-          "experience": "4+ Years"
-        },
-        {
-          "title": "Laravel Developer",
-          "count": 1,
-          "experience": "1+ Years"
-        },
-        {
-          "title": "Flutter Developer",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "Flutter Developer",
-          "count": 1,
-          "experience": "1+ Years"
-        },
-        {
-          "title": "Sr. React Native Developer",
-          "count": 1,
-          "experience": "4+ Years"
-        },
-        {
-          "title": "React Native Developer",
-          "count": 1,
-          "experience": "1+ Years"
-        },
-        {
-          "title": "SEO Executive",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "Content Writer",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "PPC Expert",
-          "count": 1,
-          "experience": "1+ Years"
-        },
-        {
-          "title": "Technical Project Manager",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "Laravel Intern",
-          "count": 5,
-          "experience": "-"
-        },
-        {
-          "title": "ReactJS Intern",
-          "count": 4,
-          "experience": "-"
-        },
-        {
-          "title": "React Native Inter",
-          "count": 4,
-          "experience": "-"
-        },
-        {
-          "title": "Flutter Intern",
-          "count": 5,
-          "experience": "-"
-        },
-        {
-          "title": "SEO Intern",
-          "count": 5,
-          "experience": "-"
-        },
-        {
-          "title": "Content Writer Intern",
-          "count": 2,
-          "experience": "-"
-        },
-        {
-          "title": "Graphics Designer Intern",
-          "count": 2,
-          "experience": "-"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "companyName": "Ansi ByteCode LLP",
-      "location": "Ahmedabad",
-      "bio": "Ansi ByteCode LLP has developed an exceptional reputation within the Global IT industry. The company was launched in 2014 and since then, it has been a thriving center. We presently utilize Microsoft Technologies and proudly hold the status of a Microsoft Solution Partner for Digital App & Innovation, along with maintaining a Gold Partner legacy of Microsoft in Application Development & Application Integration. We are a dynamic team comprised of dedicated professionals and continue to expand our capabilities and reach.",
-      "companyLogoUrl": "https://ansibytecode.com/wp-content/uploads/2023/10/Logo-abc.png",
-      "companyWebsite": "https://ansibytecode.com/",
-      "companyCareerPage": "https://ansibytecode.keka.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/ansi-bytecode-llp-/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": ".NET Full Stack Developer",
-          "count": 10,
-          "experience": "3-10 years"
-        },
-        {
-          "title": "Business Development Executive",
-          "count": 3,
-          "experience": "1-4 years"
-        },
-        {
-          "title": "Talent Acquisition Executive",
-          "count": 1,
-          "experience": "0-2 years"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "companyName": "BetterBugs",
-      "location": "Ahmedabad, India",
-      "bio": "BetterBugs is a developer tool that helps QA engineers and developers increase their productivity in logging and debugging bugs, respectively. It also helps improve bug management and time management throughout the software development lifecycle (SDLC), leading to better ROI.",
-      "companyLogoUrl": "https://www.betterbugs.io/images/betterbugs-logo-icon.png",
-      "companyWebsite": "https://www.betterbugs.io",
-      "companyCareerPage": "https://www.linkedin.com/company/betterbugs/jobs",
-      "linkedin": "https://www.linkedin.com/company/betterbugs",
-      "hiringImageUrl": "https://media.licdn.com/dms/image/D4D1FAQFDuMdjI6bc3g/feedshare-document-images_800/1/1700735822078?e=1701907200&v=beta&t=sbQ-RhkEIdCxRhBZy_LRD6Nx5nhlMIUEmVG8KBlEKqs",
-      "openings": [
-        {
-          "title": "Lead Engineer, SaaS",
-          "count": 1,
-          "experience": "4+ Years"
-        },
-        {
-          "title": "Back-end Engineer",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "Front-end Engineer",
-          "count": 1,
-          "experience": "2+ Years"
-        },
-        {
-          "title": "SaaS Marketer",
-          "count": 1,
-          "experience": "2+ Years"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "companyName": "iTechOps Cloud Pvt Ltd",
-      "location": "Ahmedabad",
-      "bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
-      "companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
-      "companyWebsite": "https://itechops.com/",
-      "companyCareerPage": "https://itechops.com/career",
-      "linkedin": "https://www.linkedin.com/company/itechops/",
-      "hiringImageUrl": "",
-      "openings": [
-        {
-          "title": ".NET/Angular Full Stack Developer",
-          "count": 1,
-          "experience": "0.5-2 years"
-        },
-        {
-          "title": "Business Development Executive",
-          "count": 2,
-          "experience": "1-3 years"
-        },
-        {
-          "title": "Golang Intern",
-          "count": 1,
-          "experience": "-"
-        },
-        {
-          "title": "Graphics Designer Intern",
-          "count": 1,
-          "experience": "-"
-        },
-        {
-          "title": "SEO Intern",
-          "count": 1,
-          "experience": "-"
-        },
-        {
-          "title": "DevOps Intern",
-          "count": 2,
-          "experience": "-"
-        },
-        {
-          "title": "Technical Content Writer Intern",
-          "count": 2,
-          "experience": "-"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "companyName": "Webmobtech Solution Pvt Ltd.",
-      "location": "Ahmedabad",
-      "bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
-      "companyLogoUrl": "https://drive.google.com/uc?id=1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4",
-      "companyWebsite": "https://webmobtech.com/",
-      "companyCareerPage": "https://webmobtech.com/career/",
-      "linkedin": "https://in.linkedin.com/company/webmob-technologies",
-      "openings": [
-        {
-          "title": "Business Development Manager",
-          "count": 1,
-          "experience": "4-8 years"
-        },
-        {
-          "title": "Senior Business Analyst",
-          "count": 1,
-          "experience": "4-8 years"
-        },
-        {
-          "title": "Digital Marketing Manager",
-          "count": 1,
-          "experience": "4-8 years"
-        },
-        {
-          "title": "MERN Developer",
-          "count": 1,
-          "experience": "1-3 years"
-        },
-        {
-          "title": "Laravel Developer",
-          "count": 2,
-          "experience": "1-3 years"
-        },
-        {
-          "title": "Marketing Trainee",
-          "count": 3,
-          "experience": "Fresher"
-        },
-        {
-          "title": "SEO Trainee",
-          "count": 2,
-          "experience": "Fresher"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "companyName": "AppAspect Technologies Pvt. Ltd.",
-      "location": "Ahmedabad, India",
-      "bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
-      "companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
-      "companyWebsite": "https://www.appaspect.com/",
-      "companyCareerPage": "https://www.appaspect.com/career/",
-      "linkedin": "https://www.linkedin.com/company/appaspect/",
-      "hiringImageUrl": "https://www.appaspect.com/wp-content/uploads/2023/12/hiring-appaspect.jpg",
-      "openings": [
-        {
-          "title": "IOS Developer",
-          "count": 1,
-          "experience": "6 month to 1 year"
-        },
-        {
-          "title": "Android Developer",
-          "count": 1,
-          "experience": "6 month to 1 year "
-        },
-        {
-          "title": "Wordpress Developer",
-          "count": 1,
-          "experience": "6 month to 1 year"
-        },
-        {
-          "title": "Business Developer",
-          "count": 1,
-          "experience": "3 to 4 year"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "companyName": "Capermint Technologies Pvt. Ltd.",
-      "location": "Ahmedabad, India",
-      "bio": "Capermint Technologies, we are passionate creators of captivating game experiences. With a global presence and ISO 9001:2015 Certification, we harness cutting-edge technologies to deliver exceptional mobile games. Our skilled team ensures quality solutions, transparency, and a controlled process, making us a trusted leader in the industry.",
-      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX0_LlNHrIeMZFQdZWobUd3NwrwLWyKBLwI50Bz2d&s",
-      "companyWebsite": "https://www.capermint.com/",
-      "companyCareerPage": "https://www.capermint.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
-      "hiringImageUrl": "https://i.ibb.co/WnRbDkm/Capermint-Hiring-poster.png",
-      "openings": [
-        {
-          "title": "Game UI Designer",
-          "count": 2,
-          "experience": "2-4 years"
-        },
-        {
-          "title": "iOS Developer",
-          "count": 3,
-          "experience": "0.6-1 Years"
-        },
-        {
-          "title": "Android Developer",
-          "count": 3,
-          "experience": "0.6-1 Years"
-        },
-        {
-          "title": "WordPress Developer",
-          "count": 1,
-          "experience": "1-2 Years"
-        },
-        {
-          "title": "Laravel + CI Developer",
-          "count": 1,
-          "experience": "2-4 Years"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "companyName": "Brainvire Infotech",
-      "location": "Ahmedabad, India",
-      "bio": "Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS. Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
-      "companyLogoUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/brainvire_vertical_logo.svg",
-      "companyWebsite": "https://www.brainvire.com/",
-      "companyCareerPage": "https://www.brainvire.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/",
-      "hiringImageUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/current_openings_dec_23.jpg",
-      "openings": [
-        {
-          "title": "Flutter Developer",
-          "count": 5,
-          "experience": "3 to 4 Years"
-        },
-        {
-          "title": "Sr Flutter Developer",
-          "count": 5,
-          "experience": "5 to 8 Years"
-        },
-        {
-          "title": "Sr iOS Developer",
-          "count": 5,
-          "experience": "5 to 8 Years"
-        },
-        {
-          "title": "Project Manager",
-          "count": 1,
-          "experience": "8 to 14 Years"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "companyName": "Amar InfoTech",
-      "location": "Ahmedabad",
-      "bio": "Amar Group of Companies, founded in 2001, now comprises five entities: Amar InfoTech, ExcelPTP, TravelionBE, QTrace, and the latest addition, 'Taapto.' Amar InfoTech, established in 2009 as a division of Amar Technolabs Pvt. Ltd., is a dynamic software development company focused on modern solutions. As a leading IT company, we offer personalized solutions, aiming to transform businesses through enterprise mobility, big data analytics, IoT, AI, and cloud computing. Our team helps enterprises adapt to the competitive landscape and scale according to transformation objectives.",
-      "companyLogoUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/AI-logo-1.png",
-      "companyWebsite": "https://www.amarinfotech.com/",
-      "companyCareerPage": "https://www.amarinfotech.com/career-opportunities.html",
-      "linkedin": "https://www.linkedin.com/company/amar-infotech/mycompany/verification/?viewAsMember=true",
-      "hiringImageUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/Amar-infotech-hiring-multiple-position.png",
-      "openings": [
-        {
-          "title": "Angular Developers",
-          "count": 2,
-          "experience": "1-4 years"
-        },
-        {
-          "title": "PHP/Laravel Developers",
-          "count": 2,
-          "experience": "0.6-5+ years"
-        },
-        {
-          "title": "Web Designer",
-          "count": 1,
-          "experience": "1-3 years"
-        },
-        {
-          "title": "UIUX Designer",
-          "count": 1,
-          "experience": "0.6-1 years"
-        },
-        {
-          "title": "SEO",
-          "count": 1,
-          "experience": "1-2 years"
-        },
-        {
-          "title": "QA",
-          "count": 1,
-          "experience": "0.6-2 years"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "companyName": "Lamatic.ai",
-      "location": "Miami, US",
-      "bio": "Apply to work at world class early stage startups with amazing opportunities to learn and grow with Modern Technologoies",
-      "companyLogoUrl": "https://lamatic.ai/assets/images/image01.png?v=928f75a0",
-      "companyWebsite": "https://lamatic.ai/",
-      "companyCareerPage": "https://amanin.tech/talent-network",
-      "linkedin": "https://www.linkedin.com/company/lamatic",
-      "hiringImageUrl": "https://lamatic.ai/assets/images/image09.gif?v=928f75a0",
-      "openings": [
-        {
-          "title": "Founding Engineers| Full Stack",
-          "count": 2,
-          "experience": "2-3 years"
-        },
-        {
-          "title": "Founding Engineers| LLM",
-          "count": 2,
-          "experience": "2-3 years"
-        },
-        {
-          "title": "Solution Engineers",
-          "count": 2,
-          "experience": "2+ year"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "companyName": "Addweb Solution Pvt Ltd",
-      "location": "Ahmedabad",
-      "bio": "AddWeb Solution is a leading IT development, consulting and outsourcing company. We have more than 24 years of experience accompanied by proud alliances with some esteemed IT and digital companies. We have also been involved in individual projects on a global scale. The balance between hyperspecialization of our services, the 360º vision & the knowledge of various sectors and businesses is the key to our service model. The company has been growing consistently due to our excellent solution and on-time deliveries. We are agile and dynamic, which gets transmitted through our work. We are super intended to boost the overall productivity of corporations by ensuring maximum ROI.",
-      "companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
-      "companyWebsite": "https://www.addwebsolution.com/",
-      "companyCareerPage": "https://careers.addwebsolution.com/jobs/Careers",
-      "linkedin": "https://www.linkedin.com/company/addwebsolution/posts/?feedView=all",
-      "hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2023-12/thumb-Addweb_We%20Are%20Hiring%20Poster.png",
-      "openings": [
-        {
-          "title": "Full-stack Developer | TeamLead - React JS",
-          "count": 2,
-          "experience": "3-6 years"
-        },
-        {
-          "title": "React Native Developer",
-          "count": 1,
-          "experience": "2-4 years"
-        },
-        {
-          "title": "Asp.Net Developer",
-          "count": 2,
-          "experience": "2-4 years"
-        }
-      ]
-    }
-  ]
+	"jobs": [
+		{
+			"id": 1,
+			"companyName": "SolGuruz LLP",
+			"location": "Ahmedabad, India",
+			"bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
+			"companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
+			"companyWebsite": "http://solguruz.com/",
+			"companyCareerPage": "https://solguruz.com/careers/",
+			"linkedin": "https://www.linkedin.com/company/solguruz/",
+			"hiringImageUrl": "https://drive.google.com/uc?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
+			"openings": [
+				{
+					"title": "Technical Content Writers",
+					"count": 2,
+					"experience": "2 to 5 Years experience"
+				},
+				{
+					"title": "MERN Stack Developers",
+					"count": 2,
+					"experience": "2 to 4 Years experience"
+				},
+				{
+					"title": "ReactJs Developers",
+					"count": 2,
+					"experience": "2 to 4 Years experience"
+				},
+				{
+					"title": "Flutter Developers",
+					"count": 1,
+					"experience": "2 to 4 Years experience"
+				},
+				{
+					"title": "Node Developers",
+					"count": 1,
+					"experience": "2 to 4 Years experience"
+				},
+				{
+					"title": "QA Engineers",
+					"count": 2,
+					"experience": "2 to 4 Years experience"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"companyName": "HighLevel",
+			"location": "Dallas, Texas",
+			"bio": "HighLevel LLC (www.gohighlevel.com) is a two-tier B2B SaaS Platform focused on Marketing Agencies. We aspire to be a one-stop solution for marketing agencies. We enable agencies to serve their clients with ease using the best cutting-edge tools in the industry. Our clientele includes digital marketing agencies, Ads agencies, SEO agencies, Call center / Sales agencies, and freelancers. We operate across niches like real estate, dental & medical, local businesses, e-commerce, professional services, and field services. Our platform comprises various product areas including CRM, funnel builder, website builder, forms & surveys, WordPress hosting, email marketing, telephony, reviews management, Omni-box communications, social media, invoicing & payments to name a few. We currently service over 15,000 agencies and 400,000 small & medium businesses with a 200+ strong team that works remotely across 15 nations.",
+			"companyLogoUrl": "https://drive.google.com/uc?id=1c_g_V7eRyJyUo0R7Wfsg-uOSsLuAPnh7",
+			"companyWebsite": "https://www.gohighlevel.com/",
+			"companyCareerPage": "https://www.gohighlevel.com/careers?_gl=1*1ex711i*_ga*MTE1NDc5NjI0OC4xNjU0NTE0OTA5*_ga_HSZW8WNR22*MTY3MTUyMDU0Ni4xOC4wLjE2NzE1MjA1NjMuMC4wLjA.",
+			"linkedin": "https://www.linkedin.com/company/highlevel/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "Lead Engineer, SaaS",
+					"count": 1,
+					"experience": ""
+				},
+				{
+					"title": "Software Development Engineer III (Ad Reporting)",
+					"count": 1,
+					"experience": "3-8 Years"
+				},
+				{
+					"title": "Senior Software Engineer (Payments)",
+					"count": 1,
+					"experience": "5-7 Years"
+				},
+				{
+					"title": "Software Development Engineer (Social Media)",
+					"count": 1,
+					"experience": "3-7 Years"
+				},
+				{
+					"title": "Staff Engineer (Platform)",
+					"count": 1,
+					"experience": "3+ Years"
+				},
+				{
+					"title": "Mobile QA Engineer",
+					"count": 1,
+					"experience": "3-5 Years"
+				},
+				{
+					"title": "Senior Mobile Engineer",
+					"count": 1,
+					"experience": "1+ Years"
+				},
+				{
+					"title": "Software Development Engineer in Test",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "Product Manager (Growth)",
+					"count": 1,
+					"experience": "3+ Years"
+				},
+				{
+					"title": "Product Manager (SaaS, Internal tools & Marketplace)",
+					"count": 1,
+					"experience": ""
+				},
+				{
+					"title": "Product Manager, Lead Generation",
+					"count": 1,
+					"experience": ""
+				}
+			]
+		},
+		{
+			"id": 3,
+			"companyName": "Vedlogic Solutions Pvt Ltd",
+			"location": "Ahmedabad",
+			"bio": "Vedlogic was founded in 2010 by technocrats who actively strengthen the executive management of Vedlogic today. Vedlogic team comprises of experts in the area of Technology, Business Analysis, Software Development, Project Management, Outsourcing, Finance, Consulting, Quality Standards, Operations, Administration which makes Vedlogic one stop outsourcing solutions provider to clients.",
+			"companyLogoUrl": "https://www.vedlogic.com/wp-content/uploads/2019/03/Vedlogic_logo_color.svg",
+			"companyWebsite": "https://www.vedlogic.com",
+			"companyCareerPage": "https://www.vedlogic.com/careers",
+			"linkedin": "https://www.linkedin.com/company/vedlogic-solutions-pvt.-ltd./about/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "Golang Developers",
+					"count": 2,
+					"experience": "2-7 years"
+				},
+				{
+					"title": "Python (Django, Postgres)",
+					"count": 2,
+					"experience": "3-8 years"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"companyName": "Trentium Solution Pvt Ltd",
+			"location": "Ahmedabad, India",
+			"bio": "We are a brand strategy & digital design agency that creates culturally significant brands. With more than a decade of experience and knowledge. We collaborate with folks who are equally committed to their craft. Integrity, diligence, and trust are our guiding principles in all that we do.",
+			"companyLogoUrl": "https://www.trentiums.com/front/theme/assets/img/logo/logo.png",
+			"companyWebsite": "https://www.trentiums.com/",
+			"companyCareerPage": "https://www.trentiums.com/career",
+			"linkedin": "https://www.linkedin.com/company/trentium-solution",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "Sr. Laravel Developer",
+					"count": 1,
+					"experience": "4+ Years"
+				},
+				{
+					"title": "Laravel Developer",
+					"count": 1,
+					"experience": "1+ Years"
+				},
+				{
+					"title": "Flutter Developer",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "Flutter Developer",
+					"count": 1,
+					"experience": "1+ Years"
+				},
+				{
+					"title": "Sr. React Native Developer",
+					"count": 1,
+					"experience": "4+ Years"
+				},
+				{
+					"title": "React Native Developer",
+					"count": 1,
+					"experience": "1+ Years"
+				},
+				{
+					"title": "SEO Executive",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "Content Writer",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "PPC Expert",
+					"count": 1,
+					"experience": "1+ Years"
+				},
+				{
+					"title": "Technical Project Manager",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "Laravel Intern",
+					"count": 5,
+					"experience": "-"
+				},
+				{
+					"title": "ReactJS Intern",
+					"count": 4,
+					"experience": "-"
+				},
+				{
+					"title": "React Native Inter",
+					"count": 4,
+					"experience": "-"
+				},
+				{
+					"title": "Flutter Intern",
+					"count": 5,
+					"experience": "-"
+				},
+				{
+					"title": "SEO Intern",
+					"count": 5,
+					"experience": "-"
+				},
+				{
+					"title": "Content Writer Intern",
+					"count": 2,
+					"experience": "-"
+				},
+				{
+					"title": "Graphics Designer Intern",
+					"count": 2,
+					"experience": "-"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"companyName": "Ansi ByteCode LLP",
+			"location": "Ahmedabad",
+			"bio": "Ansi ByteCode LLP has developed an exceptional reputation within the Global IT industry. The company was launched in 2014 and since then, it has been a thriving center. We presently utilize Microsoft Technologies and proudly hold the status of a Microsoft Solution Partner for Digital App & Innovation, along with maintaining a Gold Partner legacy of Microsoft in Application Development & Application Integration. We are a dynamic team comprised of dedicated professionals and continue to expand our capabilities and reach.",
+			"companyLogoUrl": "https://ansibytecode.com/wp-content/uploads/2023/10/Logo-abc.png",
+			"companyWebsite": "https://ansibytecode.com/",
+			"companyCareerPage": "https://ansibytecode.keka.com/careers/",
+			"linkedin": "https://www.linkedin.com/company/ansi-bytecode-llp-/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": ".NET Full Stack Developer",
+					"count": 10,
+					"experience": "3-10 years"
+				},
+				{
+					"title": "Business Development Executive",
+					"count": 3,
+					"experience": "1-4 years"
+				},
+				{
+					"title": "Talent Acquisition Executive",
+					"count": 1,
+					"experience": "0-2 years"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"companyName": "BetterBugs",
+			"location": "Ahmedabad, India",
+			"bio": "BetterBugs is a developer tool that helps QA engineers and developers increase their productivity in logging and debugging bugs, respectively. It also helps improve bug management and time management throughout the software development lifecycle (SDLC), leading to better ROI.",
+			"companyLogoUrl": "https://www.betterbugs.io/images/betterbugs-logo-icon.png",
+			"companyWebsite": "https://www.betterbugs.io",
+			"companyCareerPage": "https://www.linkedin.com/company/betterbugs/jobs",
+			"linkedin": "https://www.linkedin.com/company/betterbugs",
+			"hiringImageUrl": "https://media.licdn.com/dms/image/D4D1FAQFDuMdjI6bc3g/feedshare-document-images_800/1/1700735822078?e=1701907200&v=beta&t=sbQ-RhkEIdCxRhBZy_LRD6Nx5nhlMIUEmVG8KBlEKqs",
+			"openings": [
+				{
+					"title": "Lead Engineer, SaaS",
+					"count": 1,
+					"experience": "4+ Years"
+				},
+				{
+					"title": "Back-end Engineer",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "Front-end Engineer",
+					"count": 1,
+					"experience": "2+ Years"
+				},
+				{
+					"title": "SaaS Marketer",
+					"count": 1,
+					"experience": "2+ Years"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"companyName": "iTechOps Cloud Pvt Ltd",
+			"location": "Ahmedabad",
+			"bio": "iTechOps helps customers to turn creative idea's into digital softwares. iTechOps provides satisfactory, high-quality, cost-effective DevOps and Full Stack Development Consulting services. Join our growing team to learn cutting-edge tools & technologies.",
+			"companyLogoUrl": "https://itechops.com/assets/ilogo_128.jpg",
+			"companyWebsite": "https://itechops.com/",
+			"companyCareerPage": "https://itechops.com/career",
+			"linkedin": "https://www.linkedin.com/company/itechops/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": ".NET/Angular Full Stack Developer",
+					"count": 1,
+					"experience": "0.5-2 years"
+				},
+				{
+					"title": "Business Development Executive",
+					"count": 2,
+					"experience": "1-3 years"
+				},
+				{
+					"title": "Golang Intern",
+					"count": 1,
+					"experience": "-"
+				},
+				{
+					"title": "Graphics Designer Intern",
+					"count": 1,
+					"experience": "-"
+				},
+				{
+					"title": "SEO Intern",
+					"count": 1,
+					"experience": "-"
+				},
+				{
+					"title": "DevOps Intern",
+					"count": 2,
+					"experience": "-"
+				},
+				{
+					"title": "Technical Content Writer Intern",
+					"count": 2,
+					"experience": "-"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"companyName": "Webmobtech Solution Pvt Ltd.",
+			"location": "Ahmedabad",
+			"bio": "We are an India based software development company established in 2010. We work with ‘Eat, Code and Play’ Strategy at WebMobTech.  \n It’s a perfect combination between you and company when the career and your passion come together. \n We’d likely to add people like you if you’re a Graphic Designer with a creative mind, Programming Nerd, Biz Person with Marketing skills, Management Guru or content creator.   \n Be the active part of WebMob Tech team and get to work upon trending technologies. \n Be the problem solver and create a workplace where we can work on something new everyday. \n Here we believe in transparent and open communication and provide a learning environment. You’ll work hard here; however, we’ll balance that with a culture that supports your growth and cares about your well-being.",
+			"companyLogoUrl": "https://drive.google.com/uc?id=1axekNQ9iXybBTIJW44XpqjBH5rPO3hp4",
+			"companyWebsite": "https://webmobtech.com/",
+			"companyCareerPage": "https://webmobtech.com/career/",
+			"linkedin": "https://in.linkedin.com/company/webmob-technologies",
+			"openings": [
+				{
+					"title": "Business Development Manager",
+					"count": 1,
+					"experience": "4-8 years"
+				},
+				{
+					"title": "Senior Business Analyst",
+					"count": 1,
+					"experience": "4-8 years"
+				},
+				{
+					"title": "Digital Marketing Manager",
+					"count": 1,
+					"experience": "4-8 years"
+				},
+				{
+					"title": "MERN Developer",
+					"count": 1,
+					"experience": "1-3 years"
+				},
+				{
+					"title": "Laravel Developer",
+					"count": 2,
+					"experience": "1-3 years"
+				},
+				{
+					"title": "Marketing Trainee",
+					"count": 3,
+					"experience": "Fresher"
+				},
+				{
+					"title": "SEO Trainee",
+					"count": 2,
+					"experience": "Fresher"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"companyName": "AppAspect Technologies Pvt. Ltd.",
+			"location": "Ahmedabad, India",
+			"bio": "AppAspect Technologies Pvt. Ltd. took shape as an essential, and facilitating stop for businesses of any kind, especially those that want to fully utilize the mobile software application technologies. Our results are of consequential values, and reflect upon what best can be achieved through effective software development. One of the core considerations that all our professionals idealize is what can be best presented in any app that would make any user not wanting to dedicate precious space upon their respective mobile devices.",
+			"companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
+			"companyWebsite": "https://www.appaspect.com/",
+			"companyCareerPage": "https://www.appaspect.com/career/",
+			"linkedin": "https://www.linkedin.com/company/appaspect/",
+			"hiringImageUrl": "https://www.appaspect.com/wp-content/uploads/2023/12/hiring-appaspect.jpg",
+			"openings": [
+				{
+					"title": "IOS Developer",
+					"count": 1,
+					"experience": "6 month to 1 year"
+				},
+				{
+					"title": "Android Developer",
+					"count": 1,
+					"experience": "6 month to 1 year "
+				},
+				{
+					"title": "Wordpress Developer",
+					"count": 1,
+					"experience": "6 month to 1 year"
+				},
+				{
+					"title": "Business Developer",
+					"count": 1,
+					"experience": "3 to 4 year"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"companyName": "Capermint Technologies Pvt. Ltd.",
+			"location": "Ahmedabad, India",
+			"bio": "Capermint Technologies, we are passionate creators of captivating game experiences. With a global presence and ISO 9001:2015 Certification, we harness cutting-edge technologies to deliver exceptional mobile games. Our skilled team ensures quality solutions, transparency, and a controlled process, making us a trusted leader in the industry.",
+			"companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX0_LlNHrIeMZFQdZWobUd3NwrwLWyKBLwI50Bz2d&s",
+			"companyWebsite": "https://www.capermint.com/",
+			"companyCareerPage": "https://www.capermint.com/careers/",
+			"linkedin": "https://www.linkedin.com/company/caperminttech/mycompany/",
+			"hiringImageUrl": "https://i.ibb.co/WnRbDkm/Capermint-Hiring-poster.png",
+			"openings": [
+				{
+					"title": "Game UI Designer",
+					"count": 2,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "iOS Developer",
+					"count": 3,
+					"experience": "0.6-1 Years"
+				},
+				{
+					"title": "Android Developer",
+					"count": 3,
+					"experience": "0.6-1 Years"
+				},
+				{
+					"title": "WordPress Developer",
+					"count": 1,
+					"experience": "1-2 Years"
+				},
+				{
+					"title": "Laravel + CI Developer",
+					"count": 1,
+					"experience": "2-4 Years"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"companyName": "Brainvire Infotech",
+			"location": "Ahmedabad, India",
+			"bio": "Brainvire has fueled Fortune 500 companies and startups. Its core expertise resides in Industry 4.0 technologies like Artificial Intelligence, IoT, Machine Learning, Cloud Computing, and Blockchain. Brainvire portfolio includes companies like Walt Disney, Alghanim Industries,  Landmark Group, EagleHills, Times of India, Entrepreneur, Micromo,  Havells, BottleRocket, and FreshDirect. Brainvire deals with open-source frameworks like Node.js, Python, PHP, and many premium Microsoft solutions. With over 11 international locations, 800+ workforce and over 1500+ successful implementations, Brainvire has alliances with industry leaders like Microsoft, Odoo, SAP, Magento, Google, and AWS. Brainvire’s popular products include eUnagi, inKnowledge, AuroCRM, and Control ERP, to name a few. Brainvire is committed to offering time-tested contribution by innovation in the field of Information technology, that helps us create paradigm shifts in the market by building products and services that take the industry towards a better future.",
+			"companyLogoUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/brainvire_vertical_logo.svg",
+			"companyWebsite": "https://www.brainvire.com/",
+			"companyCareerPage": "https://www.brainvire.com/careers/",
+			"linkedin": "https://www.linkedin.com/company/brainvire-infotech-inc/",
+			"hiringImageUrl": "https://d34lq0abg0y8wq.cloudfront.net/brainvire-images/current_openings_dec_23.jpg",
+			"openings": [
+				{
+					"title": "Flutter Developer",
+					"count": 5,
+					"experience": "3 to 4 Years"
+				},
+				{
+					"title": "Sr Flutter Developer",
+					"count": 5,
+					"experience": "5 to 8 Years"
+				},
+				{
+					"title": "Sr iOS Developer",
+					"count": 5,
+					"experience": "5 to 8 Years"
+				},
+				{
+					"title": "Project Manager",
+					"count": 1,
+					"experience": "8 to 14 Years"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"companyName": "Amar InfoTech",
+			"location": "Ahmedabad",
+			"bio": "Amar Group of Companies, founded in 2001, now comprises five entities: Amar InfoTech, ExcelPTP, TravelionBE, QTrace, and the latest addition, 'Taapto.' Amar InfoTech, established in 2009 as a division of Amar Technolabs Pvt. Ltd., is a dynamic software development company focused on modern solutions. As a leading IT company, we offer personalized solutions, aiming to transform businesses through enterprise mobility, big data analytics, IoT, AI, and cloud computing. Our team helps enterprises adapt to the competitive landscape and scale according to transformation objectives.",
+			"companyLogoUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/AI-logo-1.png",
+			"companyWebsite": "https://www.amarinfotech.com/",
+			"companyCareerPage": "https://www.amarinfotech.com/career-opportunities.html",
+			"linkedin": "https://www.linkedin.com/company/amar-infotech/mycompany/verification/?viewAsMember=true",
+			"hiringImageUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/Amar-infotech-hiring-multiple-position.png",
+			"openings": [
+				{
+					"title": "Angular Developers",
+					"count": 2,
+					"experience": "1-4 years"
+				},
+				{
+					"title": "PHP/Laravel Developers",
+					"count": 2,
+					"experience": "0.6-5+ years"
+				},
+				{
+					"title": "Web Designer",
+					"count": 1,
+					"experience": "1-3 years"
+				},
+				{
+					"title": "UIUX Designer",
+					"count": 1,
+					"experience": "0.6-1 years"
+				},
+				{
+					"title": "SEO",
+					"count": 1,
+					"experience": "1-2 years"
+				},
+				{
+					"title": "QA",
+					"count": 1,
+					"experience": "0.6-2 years"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"companyName": "Lamatic.ai",
+			"location": "Miami, US",
+			"bio": "Apply to work at world class early stage startups with amazing opportunities to learn and grow with Modern Technologoies",
+			"companyLogoUrl": "https://lamatic.ai/assets/images/image01.png?v=928f75a0",
+			"companyWebsite": "https://lamatic.ai/",
+			"companyCareerPage": "https://amanin.tech/talent-network",
+			"linkedin": "https://www.linkedin.com/company/lamatic",
+			"hiringImageUrl": "https://lamatic.ai/assets/images/image09.gif?v=928f75a0",
+			"openings": [
+				{
+					"title": "Founding Engineers| Full Stack",
+					"count": 2,
+					"experience": "2-3 years"
+				},
+				{
+					"title": "Founding Engineers| LLM",
+					"count": 2,
+					"experience": "2-3 years"
+				},
+				{
+					"title": "Solution Engineers",
+					"count": 2,
+					"experience": "2+ year"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"companyName": "Incubyte",
+			"location": "Remote, India",
+			"bio": "Reinventing Application Modernization",
+			"companyLogoUrl": "https://assets-global.website-files.com/5ea96576effbba77b11132b4/5f34c4a0e68d1a0ca324c134_Incubyte%20Final%20Logo-01.svg",
+			"companyWebsite": "https://www.incubyte.co/",
+			"companyCareerPage": "https://www.incubyte.co/careers",
+			"linkedin": "https://www.linkedin.com/company/incubyte/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "Software Craftsperson",
+					"count": 1,
+					"experience": "3+ Years"
+				},
+				{
+					"title": "Sr. Software Craftsperson",
+					"count": 1,
+					"experience": "8+ Years"
+				},
+				{
+					"title": "UI/UX Intern",
+					"count": 1,
+					"experience": "0 - 1 Year"
+				},
+				{
+					"title": "Sr. Manual QA",
+					"count": 1,
+					"experience": "3+ Years"
+				},
+				{
+					"title": "Market Research Anlayst",
+					"count": 1,
+					"experience": "Fresher"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"companyName": "DataSlush",
+			"location": "Ahmedabad",
+			"bio": "DataSlush fastest growing Analytics & AI/ML startup in Ahmedabad. We are focused on the research & innovation oriented projects & products.",
+			"companyLogoUrl": "https://storage.googleapis.com/dataslush-images/dataslush-logo.png",
+			"companyWebsite": "https://dataslush.com/",
+			"companyCareerPage": "https://docs.google.com/forms/d/e/1FAIpQLSe15dxG_TfPzP1y-MuPs07h4CKFyGtZOdosZRoIcV9FlcBFkA/viewform",
+			"linkedin": "https://www.linkedin.com/company/gdg-ahmedabad/",
+			"hiringImageUrl": "https://storage.googleapis.com/dataslush-images/DataSlush-Hiring.png",
+			"openings": [
+				{
+					"title": "Data Scientist",
+					"count": 1,
+					"experience": "2-5 years"
+				},
+				{
+					"title": "Data Engineer",
+					"count": 1,
+					"experience": "2-5 years"
+				},
+				{
+					"title": "Intern-Data Scientist",
+					"count": 1,
+					"experience": "NA"
+				},
+				{
+					"title": "Intern-Frontend Developer",
+					"count": 1,
+					"experience": "NA"
+				},
+				{
+					"title": "Intern-Analytics Implementation Engineer",
+					"count": 1,
+					"experience": "NA"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"companyName": "7Span",
+			"location": "Ahmedabad, India",
+			"bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+			"companyLogoUrl": "https://7span-product.b-cdn.net/ab8bef35-8160-4dfc-bdfa-d4eae135ed6e.svg?quality=100",
+			"companyWebsite": "https://7span.com",
+			"companyCareerPage": "https://7span.in/openings",
+			"linkedin": "https://www.linkedin.com/company/7span",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "React Native Developer",
+					"count": 2,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "Flutter Developer",
+					"count": 2,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "Java Developer",
+					"count": 4,
+					"experience": "2-8 years"
+				},
+				{
+					"title": "Business Development Executive (BDE)",
+					"count": 2,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "Business Analyst",
+					"count": 2,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "JavaScript Developer",
+					"count": 2,
+					"experience": "6-8 years"
+				},
+				{
+					"title": ".Net Developer",
+					"count": 2,
+					"experience": "4-8 years experience"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"companyName": "Ibase-t India Software Pvt Ltd",
+			"location": "Ahmedabad - Pune",
+			"bio": "Since 1986, our team has been providing the digital operations tools necessary to drive innovation for the most complex manufacturing environments.Our team’s domain knowledge spans aerospace and defense, electronics, industrial equipment, medical device, nuclear, space and ship building industries.With 30 years of out-of-the-box thinking, iBase-t continues to invest in new technologies and process innovation so that our customers can create the products their dreams are made of.Launched in 2020, Solumina iSeries is the world’s first industrial manufacturing software based on a microservices architecture.",
+			"companyLogoUrl": "https://drive.google.com/uc?id=15MQyV3qOgKHLR8DlxYd2Hs7UQjni2yoe",
+			"companyWebsite": "https://www.ibaset.com/",
+			"companyCareerPage": "https://ibaset.keka.com/careers/",
+			"linkedin": "https://www.linkedin.com/company/ibaset/",
+			"hiringImageUrl": "",
+			"openings": [
+				{
+					"title": "Sr. QA Automation Engineers",
+					"count": 5,
+					"experience": "2-8 Years"
+				},
+				{
+					"title": "Lead Software Engineer",
+					"count": 3,
+					"experience": "8-10 years"
+				}
+			]
+		},
+		{
+			"id": 18,
+			"companyName": "Addweb Solution Pvt Ltd",
+			"location": "Ahmedabad",
+			"bio": "AddWeb Solution is a leading IT development, consulting and outsourcing company. We have more than 24 years of experience accompanied by proud alliances with some esteemed IT and digital companies. We have also been involved in individual projects on a global scale. The balance between hyperspecialization of our services, the 360º vision & the knowledge of various sectors and businesses is the key to our service model. The company has been growing consistently due to our excellent solution and on-time deliveries. We are agile and dynamic, which gets transmitted through our work. We are super intended to boost the overall productivity of corporations by ensuring maximum ROI.",
+			"companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
+			"companyWebsite": "https://www.addwebsolution.com/",
+			"companyCareerPage": "https://careers.addwebsolution.com/jobs/Careers",
+			"linkedin": "https://www.linkedin.com/company/addwebsolution/posts/?feedView=all",
+			"hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2023-12/thumb-Addweb_We%20Are%20Hiring%20Poster.png",
+			"openings": [
+				{
+					"title": "Full-stack Developer | TeamLead - React JS",
+					"count": 2,
+					"experience": "3-6 years"
+				},
+				{
+					"title": "React Native Developer",
+					"count": 1,
+					"experience": "2-4 years"
+				},
+				{
+					"title": "Asp.Net Developer",
+					"count": 2,
+					"experience": "2-4 years"
+				}
+			]
+		}
+	]
 }
