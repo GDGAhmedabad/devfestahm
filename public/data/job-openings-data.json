@@ -562,6 +562,34 @@
           "experience": "2+ year"
         }
       ]
+    },
+    {
+      "id": 14,
+      "companyName": "Addweb Solution Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "AddWeb Solution is a leading IT development, consulting and outsourcing company. We have more than 24 years of experience accompanied by proud alliances with some esteemed IT and digital companies. We have also been involved in individual projects on a global scale. The balance between hyperspecialization of our services, the 360º vision & the knowledge of various sectors and businesses is the key to our service model. The company has been growing consistently due to our excellent solution and on-time deliveries. We are agile and dynamic, which gets transmitted through our work. We are super intended to boost the overall productivity of corporations by ensuring maximum ROI.",
+      "companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
+      "companyWebsite": "https://www.addwebsolution.com/",
+      "companyCareerPage": "https://careers.addwebsolution.com/jobs/Careers",
+      "linkedin": "https://www.linkedin.com/company/addwebsolution/posts/?feedView=all",
+      "hiringImageUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/we-are-hiring-postcard-design-template-9d69ace4777878ef63cd65ffcdda1af3_screen.jpg",
+      "openings": [
+        {
+          "title": "Full-stack Developer | TeamLead - React JS",
+          "count": 2,
+          "experience": "3-6 years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 1,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Asp.Net Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        }
+      ]
     }
   ]
 }
