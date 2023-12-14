@@ -2655,6 +2655,25 @@
           ],
           "order": 9,
           "title": ""
+        },
+        {
+          "name": "Pratik Butani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fpratik-butani.jpeg?alt=media&token=6c38943a-44cd-445d-b86b-93c2caac0ccc",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pratik13butani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pratikbutani/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": ""
         }
       ],
       "order": 2,
