@@ -2881,6 +2881,34 @@
           ],
           "order": 4,
           "title": ""
+        },
+        {
+          "name": "Hemank Kukadiya",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fhemank-kukadiya.jpeg?alt=media&token=f28edf23-d7e2-41b5-a9c4-b59cb71c6c02",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/hemank-kukadiya-021427187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Saurabh Darji",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fsaurabh-darji.jpg?alt=media&token=f4426190-9c96-4f50-884b-e3b9aec0652c",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
+          "title": ""
         }
       ],
       "order": 6,
