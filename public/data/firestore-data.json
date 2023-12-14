@@ -2409,30 +2409,6 @@
           ],
           "order": 0,
           "title": "Designer"
-        },
-        {
-          "name": "Dixita Ganatra",
-          "photo": "/images/people/others/dixita_ganatra.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdixita_ganatra.jpg?alt=media&token=6a7edde5-be2f-45b9-83c3-b6c8d249edb5",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dixita0607",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/dixita0607",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://dribbble.com/dixita0607",
-              "name": "Dribbble"
-            }
-          ],
-          "order": 1,
-          "title": "Designer"
         }
       ],
       "order": 1,
