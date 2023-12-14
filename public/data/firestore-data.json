@@ -948,7 +948,10 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": [
+        "paresh_mayani",
+        "jaldeep_asodariya"
+      ],
       "title": "GDG DevFest Ahmedabad 2023 Opening"
     },
     "156": {
@@ -962,7 +965,10 @@
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
-      "speakers": [],
+      "speakers": [
+        "dhrumil_shah",
+        "hiren_dave"
+      ],
       "title": "Conference closing"
     },
     "158": {
@@ -2236,6 +2242,161 @@
       "order": 40,
       "rockstarSpeakerOrder": 40,
       "title": "Co-Founder & CEO (Chief Everything Officer)"
+    },
+    "paresh_mayani": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon of the software industry for the 15+ years. - Worked with 20+ startups and mentored them. He is the founder / Organiser of Google Developers Group Ahmedabad. He is holding 120,000 reputation points over Stack Overflow. Known for community contribution, writing blogs, delivering talks across India and International, Mentoring and Working with Startups.",
+      "company": "SolGuruz",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Paresh Mayani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fparesh-mayani.jpg?alt=media&token=b350023f-f9cb-41ab-972a-8b0e401cf1a2",
+      "pronouns": "he/him",
+      "shortBio": "Paresh is a Co-Founder / CEO at SolGuruz, who has been exploring the horizon ...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pareshmayani",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pareshmayani/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://solguruz.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 41,
+      "rockstarSpeakerOrder": 41,
+      "title": "Technopreneur | Start-up Mentor | Technical Consultant | Community Organiser @ GDG Ahmedabad | Co-Founder / CEO"
+    },
+    "jaldeep_asodariya": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Jaldeep Asodariya is a seasoned Senior Mobile Engineer at HighLevel with a proven track record of developing cutting-edge Android and Flutter applications, earning high client satisfaction. He also serves as a Co-Organizer of the Google Developer Group (GDG) in Ahmedabad. \n\nJaldeep's passion lies in IoT and Android Things, with a strong proficiency in Google Assistant application development and NodeJS. Jaldeep is a versatile and skilled professional in the tech industry.",
+      "company": "HighLevel",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fhighlevel.png?alt=media&token=f0a9efd9-4f7e-477a-be48-0e78f44a1b99",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Jaldeep Asodariya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fjaldeep_asodariya.jpeg?alt=media&token=cf69e231-c96e-4321-adf4-09ed8e9f16d4",
+      "pronouns": "he/him",
+      "shortBio": "Jaldeep Asodariya is a seasoned Senior Mobile Engineer at HighLevel with a proven track...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/JaldeepAsodariy",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaldeepasodariya/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jaldeepasodariya",
+          "name": "Github"
+        }
+      ],
+      "order": 42,
+      "rockstarSpeakerOrder": 42,
+      "title": "SDE |||"
+    },
+    "dhrumil_shah": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/dhuma1981",
+          "name": "gde"
+        }
+      ],
+      "bio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG Ahmedabad, Startup Mentor, Speaker, Industry Advisory Board Member",
+      "company": "TATA Digital",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Ftata-digital.webp?alt=media&token=c7958870-6e81-4e4b-b91c-17a4f91af9f2",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
+      "pronouns": "he/him",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dhuma1981",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
+        }
+      ],
+      "order": 43,
+      "rockstarSpeakerOrder": 43,
+      "title": "Lead Architect"
+    },
+    "hiren_dave": {
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel Live Ahmedabad, Auth0 Ambassador",
+      "company": "iBASEt India Software Pvt. Ltd.",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fibaset-india-software-pvt-ltd.jpeg?alt=media&token=84cd93b8-69a5-4632-9f43-bfc5bb0eac87",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Hiren Dave",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+      "pronouns": "he/him",
+      "shortBio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hjdave",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/davehiren",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://hirendave.com/",
+          "name": "Website"
+        }
+      ],
+      "order": 44,
+      "rockstarSpeakerOrder": 44,
+      "title": "Senior Tech Lead"
     }
   },
   "team": [
