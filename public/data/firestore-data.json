@@ -2713,6 +2713,26 @@
       ],
       "order": 3,
       "title": "Web Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Dadiya Nidhi",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fnidhi-dadiya.jpeg?alt=media&token=087ebdc0-d8ea-4cc8-98e3-2321e95d825f",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nidhi-dadiya-b1955b64/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        }
+      ],
+      "order": 4,
+      "title": "Content Team"
     }
   ],
   "tickets": [
