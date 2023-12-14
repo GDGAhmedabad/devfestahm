@@ -2910,6 +2910,11 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/hemank-kukadiya-021427187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/hemank_iz_here",
+              "name": "Instagram"
             }
           ],
           "order": 5,
@@ -2932,6 +2937,278 @@
       ],
       "order": 6,
       "title": "Media Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Lakshyadip Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Flakhyadip-patel.jpeg?alt=media&token=55392138-2cb0-46d0-b4c0-8aecf5aa056b",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/laxdip-patel/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Darshan Gupta",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdarshan-gupta.jpeg?alt=media&token=a9a8d3ce-f8b9-4a01-85a5-1bb50890c310",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/darshanguptatech",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Sohel Shaikh",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fsohel-shaikh.jpg?alt=media&token=bf979282-99b4-402b-b189-0865dad5bb84",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/thesohelshaikh",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Vidhi Suthar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fvidhi-suthar.jpeg?alt=media&token=e3f936be-4a32-4be3-aeb2-3a3aa5823374",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vidhi-suthar-99b328209/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Parth Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fparth-patel.JPG?alt=media&token=20a104de-28a3-450a-9d2a-6e751a39e8dc",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/parth-patel-80357a259",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Shah Hiloni Manir",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fshah-hiloni.jpg?alt=media&token=2aec1a1a-253f-4109-aa59-8238c87a233a",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/hiloni-shah-624609169",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Tirth Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Ftirth-patel.JPG?alt=media&token=6d96631a-5e93-4532-b771-2c934d8194c8",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://linkedIn.com/in/tirth-patel",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
+          "title": ""
+        },
+        {
+          "name": "Vahid Sumra",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fvahid-sumra.jpeg?alt=media&token=d7aeff2c-1d43-4d3a-b64e-996cfa6ea9a3",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/vahid-sumra-41675a52",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 7,
+          "title": ""
+        },
+        {
+          "name": "Vedant Pandya",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fvedant-pandya.jpg?alt=media&token=8f363886-4565-45c9-87f2-38b67f3953d2",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vedant-pandya-662122135/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 8,
+          "title": ""
+        },
+        {
+          "name": "Mala Ruparel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fmala-ruparel.jpg?alt=media&token=c5b3ee83-7017-40d6-8b51-8763db817fc3",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "www.linkedin.com/in/mala-ruparel-aa682772",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 9,
+          "title": ""
+        },
+        {
+          "name": "Mahakrishan Lohar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fmahakrishan-lohar.JPG?alt=media&token=72f113d1-1a6f-4d35-adf5-84e4a2038c64",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/mahakrishan21",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": ""
+        },
+        {
+          "name": "Jigar vyas",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fjigar_vyas.jpg?alt=media&token=b340ba9d-2d7f-4e0a-869a-0ce3c1872548",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jigarvyass",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 11,
+          "title": ""
+        },
+        {
+          "name": "Vishwakarma Ketan Shyamsundar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fketan-vishwakarma.jpg?alt=media&token=ae71b5de-297f-4ed5-bfef-53269d2eac68",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/kdevigner/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 12,
+          "title": ""
+        },
+        {
+          "name": "Chirag Gohil",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fchirag-gohil.jpeg?alt=media&token=84db26e0-590b-4a28-b1c5-b66cf0ad5597",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/chirag-gohil-95a66155/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 13,
+          "title": ""
+        },
+        {
+          "name": "Bhakti Dhiraj Rathod",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fbhakti-rathod.jpeg?alt=media&token=d3da2725-8e40-4c9b-bd26-41a9b81264e2",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/bhakti-rathod/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 14,
+          "title": ""
+        },
+        {
+          "name": "Khushbu Thakker ",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 15,
+          "title": ""
+        },
+        {
+          "name": "Nikhil Butani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fnikhil-butani.jpeg?alt=media&token=1100f81f-7ecc-42e0-9787-03630c726edd",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nikhilbutani",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 16,
+          "title": ""
+        },
+        {
+          "name": "Romil Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fromil-patel.png?alt=media&token=3ff14948-de77-488b-8239-31db5c9d5a6b",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/romilpatel1998?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 17,
+          "title": ""
+        },
+        {
+          "name": "Darpan Ketan Amre",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdarpan-amre.jpeg?alt=media&token=6702d39c-e1f9-4109-838e-389d948fe58d",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 18,
+          "title": ""
+        }
+      ],
+      "order": 7,
+      "title": "Crew"
     }
   ],
   "tickets": [
