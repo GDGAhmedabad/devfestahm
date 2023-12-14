@@ -562,6 +562,181 @@
           "experience": "2+ year"
         }
       ]
+    },
+    {
+      "id": 14,
+      "companyName": "Incubyte",
+      "location": "Remote, India",
+      "bio": "Reinventing Application Modernization",
+      "companyLogoUrl": "https://assets-global.website-files.com/5ea96576effbba77b11132b4/5f34c71b8da2e4690ac6b26c_Favicon%20256x256.png",
+      "companyWebsite": "https://www.incubyte.co/",
+      "companyCareerPage": "https://www.incubyte.co/careers",
+      "linkedin": "https://www.linkedin.com/company/incubyte/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Software Craftsperson",
+          "count": 1,
+          "experience": "3+ Years"
+        },
+        {
+          "title": "Sr. Software Craftsperson",
+          "count": 1,
+          "experience": "8+ Years"
+        },
+        {
+          "title": "UI/UX Intern",
+          "count": 1,
+          "experience": "0 - 1 Year"
+        },
+        {
+          "title": "Sr. Manual QA",
+          "count": 1,
+          "experience": "3+ Years"
+        },
+        {
+          "title": "Market Research Anlayst",
+          "count": 1,
+          "experience": "Fresher"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "companyName": "DataSlush",
+      "location": "Ahmedabad",
+      "bio": "DataSlush fastest growing Analytics & AI/ML startup in Ahmedabad. We are focused on the research & innovation oriented projects & products.",
+      "companyLogoUrl": "https://storage.googleapis.com/dataslush-images/DataSlush-logo-high-res.png",
+      "companyWebsite": "https://dataslush.com/",
+      "companyCareerPage": "https://docs.google.com/forms/d/e/1FAIpQLSe15dxG_TfPzP1y-MuPs07h4CKFyGtZOdosZRoIcV9FlcBFkA/viewform",
+      "linkedin": "https://www.linkedin.com/company/dataslush/",
+      "hiringImageUrl": "https://storage.googleapis.com/dataslush-images/DataSlush-Hiring.png",
+      "openings": [
+        {
+          "title": "Data Scientist",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Data Engineer",
+          "count": 1,
+          "experience": "2-5 years"
+        },
+        {
+          "title": "Intern-Data Scientist",
+          "count": 1,
+          "experience": "NA"
+        },
+        {
+          "title": "Intern-Frontend Developer",
+          "count": 1,
+          "experience": "NA"
+        },
+        {
+          "title": "Intern-Analytics Implementation Engineer",
+          "count": 1,
+          "experience": "NA"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "companyName": "7Span",
+      "location": "Ahmedabad, India",
+      "bio": "We are a passionate team of designers, developers & innovators, who can visualize and develop breathtaking graphics, websites and apps for your business.",
+      "companyLogoUrl": "https://products.7span.in/assets/4013c47b-d0b4-455c-b9da-78a754dd6a66",
+      "companyWebsite": "https://7span.com",
+      "companyCareerPage": "https://7span.in/openings",
+      "linkedin": "https://www.linkedin.com/company/7span",
+      "hiringImageUrl": "https://media.discordapp.net/attachments/1005044299894898719/1184497600297173012/Hiring_Poat_01.jpg?ex=658c305a&is=6579bb5a&hm=e5fb323cc9f23a8c7211c1155e276f75b6f4ddef3e2e2011f2af686728d2ced5&=&format=webp&width=1082&height=1082",
+      "openings": [
+        {
+          "title": "React Native Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Java Developer",
+          "count": 4,
+          "experience": "2-8 years"
+        },
+        {
+          "title": "Business Development Executive (BDE)",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 2,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "JavaScript Developer",
+          "count": 2,
+          "experience": "6-8 years"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "4-8 years experience"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "companyName": "Ibase-t India Software Pvt Ltd",
+      "location": "Ahmedabad - Pune",
+      "bio": "Since 1986, our team has been providing the digital operations tools necessary to drive innovation for the most complex manufacturing environments.Our team’s domain knowledge spans aerospace and defense, electronics, industrial equipment, medical device, nuclear, space and ship building industries.With 30 years of out-of-the-box thinking, iBase-t continues to invest in new technologies and process innovation so that our customers can create the products their dreams are made of.Launched in 2020, Solumina iSeries is the world’s first industrial manufacturing software based on a microservices architecture.",
+      "companyLogoUrl": "https://drive.google.com/uc?id=15MQyV3qOgKHLR8DlxYd2Hs7UQjni2yoe",
+      "companyWebsite": "https://www.ibaset.com/",
+      "companyCareerPage": "https://ibaset.keka.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/ibaset/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Sr. QA Automation Engineers",
+          "count": 5,
+          "experience": "2-8 Years"
+        },
+        {
+          "title": "Lead Software Engineer",
+          "count": 3,
+          "experience": "8-10 years"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "companyName": "Addweb Solution Pvt Ltd",
+      "location": "Ahmedabad",
+      "bio": "AddWeb Solution is a leading IT development, consulting and outsourcing company. We have more than 24 years of experience accompanied by proud alliances with some esteemed IT and digital companies. We have also been involved in individual projects on a global scale. The balance between hyperspecialization of our services, the 360º vision & the knowledge of various sectors and businesses is the key to our service model. The company has been growing consistently due to our excellent solution and on-time deliveries. We are agile and dynamic, which gets transmitted through our work. We are super intended to boost the overall productivity of corporations by ensuring maximum ROI.",
+      "companyLogoUrl": "https://www.addwebsolution.com/themes/custom/addweb/addweb-logo-web.png",
+      "companyWebsite": "https://www.addwebsolution.com/",
+      "companyCareerPage": "https://careers.addwebsolution.com/jobs/Careers",
+      "linkedin": "https://www.linkedin.com/company/addwebsolution/posts/?feedView=all",
+      "hiringImageUrl": "https://www.addwebsolution.com/sites/default/files/2023-12/thumb-Addweb_We%20Are%20Hiring%20Poster.png",
+      "openings": [
+        {
+          "title": "Full-stack Developer | TeamLead - React JS",
+          "count": 2,
+          "experience": "3-6 years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 1,
+          "experience": "2-4 years"
+        },
+        {
+          "title": "Asp.Net Developer",
+          "count": 2,
+          "experience": "2-4 years"
+        }
+      ]
     }
   ]
 }
