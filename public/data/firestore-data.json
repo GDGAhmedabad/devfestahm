@@ -2809,6 +2809,82 @@
       ],
       "order": 5,
       "title": "Event Anchor Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Meet Panchal",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fmeet-panchal.jpeg?alt=media&token=d9f2733f-c8f2-4c83-a96e-4d80c9df0122",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/imeetpanchal",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "JAY BHATIA",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fjay-bhatia.jpeg?alt=media&token=0b3c97bc-5d51-4662-848e-3b27f289c2d1",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Deep Suthar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdeep-suthar.jpg?alt=media&token=c3d0c1cd-c2ce-4974-b642-9d21fb7fe175",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/deep-suthar-b38047124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Mihir Sharma",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fmihir-sharma.jpeg?alt=media&token=d3b84003-3bab-48e1-9f3e-e04e56a4949a",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/mihir-sharma-122b321a5",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Dev Solanki",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdev-solanki.jpeg?alt=media&token=d2bbe8b6-e6f4-42b2-9b32-95b382a4cc23",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/dev-solanki-3abb422a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        }
+      ],
+      "order": 6,
+      "title": "Media Team"
     }
   ],
   "tickets": [
