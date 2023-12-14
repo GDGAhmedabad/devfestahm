@@ -1734,6 +1734,11 @@
       "shortBio": "Harsh is a B.Tech graduate in Information Technology, with more than 3 years of data scientist experience...",
       "socials": [
         {
+          "icon": "twitter",
+          "link": "https://twitter.com/hgoyal194",
+          "name": "Twitter"
+        },
+        {
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/hgoyal194/",
           "name": "Linkedin"
