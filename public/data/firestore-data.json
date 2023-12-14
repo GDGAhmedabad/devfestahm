@@ -2733,6 +2733,82 @@
       ],
       "order": 4,
       "title": "Content Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Margi Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fmargi-shah.jpg?alt=media&token=63a6e063-d4cf-49ef-b110-8a8207878a60",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/margi212",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Dhiral chaudhary",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdhiral-chaudhary.jpg?alt=media&token=375733d5-67bb-4bd9-bbf4-a3c0f31053f5",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/dhiral-chaudhary",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Vashishth Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fvashishth-patel.jpeg?alt=media&token=004fb16a-6762-4a17-af19-a5a5c08a1922",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/0xvashishth/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Shravya K.",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fshravya-k.jpg?alt=media&token=c2ebce18-d0ac-44d5-8b1f-cfd8b056ef08",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/shravya-rao/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Kinjal Rathod",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkinjal-rathod.jpg?alt=media&token=7d04dedc-ab76-41de-884d-4fa43075820b",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/kinjalrathod76",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        }
+      ],
+      "order": 5,
+      "title": "Event Anchor Team"
     }
   ],
   "tickets": [
