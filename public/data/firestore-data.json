@@ -98,6 +98,18 @@
           "logoUrl": "../images/logos/lamatic.png",
           "name": "Lamatic.ai",
           "url": "https://lamatic.ai/"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/peerfives.png",
+          "name": "Peer Fives",
+          "url": "https://peerfives.com/"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/cricheroes.png",
+          "name": "CricHeroes",
+          "url": "https://cricheroes.in/"
         }
       ],
       "order": 2,
@@ -3347,7 +3359,7 @@
         {
           "name": "Romil Patel",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fromil-patel.png?alt=media&token=3ff14948-de77-488b-8239-31db5c9d5a6b",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fromil-patel.png?alt=media&token=fff3ca5c-e1e0-4699-8dd4-2a990880d12a",
           "socials": [
             {
               "icon": "linkedin",
