@@ -3111,6 +3111,20 @@
           ],
           "order": 6,
           "title": ""
+        },
+        {
+          "name": "Harshil Devani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fharshil-devani.jpg?alt=media&token=f15b4158-d951-4748-969c-6c8a216b47cf",
+          "socials": [
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/hd._.photography_",
+              "name": "Instagram"
+            }
+          ],
+          "order": 7,
+          "title": ""
         }
       ],
       "order": 6,
