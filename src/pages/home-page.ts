@@ -32,7 +32,8 @@ import {
   registration,
   showForkMeBlockForProjectIds,
   title,
-  viewHighlights
+  viewHighlights,
+  viewPhotos
 } from '../utils/data';
 import '../utils/icons';
 import { INCLUDE_SITE_TITLE, updateMetadata } from '../utils/metadata';
@@ -177,26 +178,32 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             <div class="info-item">[[heroSettings.description]]</div>
           </div>
           <div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button on-click="playVideo" primary invert>
+            <!--
+            <paper-button on-click="playVideo" primary invert>
               <iron-icon icon="hoverboard:play"></iron-icon>
               [[viewHighlights]]
             </paper-button>
 
-          <a href="/registration">
+            <a href="/registration">
             <paper-button primary class="registration-btn-closed">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             [[registration]]
             </paper-button>
-          </a>
+            </a>
 
-          <!-- <paper-button class="watch-video" on-click="playVideo">
+            <paper-button class="watch-video" on-click="playVideo">
               <iron-icon icon="hoverboard:movie"></iron-icon>
               [[viewHighlights]]
             </paper-button>
             <paper-button on-click="scrollToTickets" primary invert>
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               [[buyTicket]]
-            </paper-button> -->
+            </paper-button>
+            -->
+            <paper-button on-click="scrollToGallery" primary invert>
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              [[viewPhotos]]
+            </paper-button>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
@@ -269,7 +276,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <about-block></about-block>
       <speakers-block></speakers-block>
       <!-- <tickets-block id="tickets-block"></tickets-block> -->
-      <gallery-block></gallery-block>
+      <gallery-block  id="gallery-block"></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
       <job-openings-block></job-openings-block>
@@ -284,6 +291,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private siteTitle = title;
   private dates = dates;
   private viewHighlights = viewHighlights;
+  private viewPhotos = viewPhotos;
   private buyTicket = buyTicket;
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
@@ -304,6 +312,15 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
   private scrollToTickets() {
     const element = this.$['tickets-block'];
+    if (element) {
+      scrollToElement(element);
+    } else {
+      store.dispatch(queueSnackbar('Error scrolling to section.'));
+    }
+  }
+
+  private scrollToGallery() {
+    const element = this.$['gallery-block'];
     if (element) {
       scrollToElement(element);
     } else {
