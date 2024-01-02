@@ -46,7 +46,7 @@ export {
   team,
   ticketsBlock,
   timezoneOffset,
-  title, viewHighlights,
+  title, viewHighlights, viewPhotos,
   toBeAnnounce,
   registerNow,
   registerClosed,
