@@ -19,14 +19,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_02739.JPG?alt=media&token=1c0dfba8-fa7a-4a04-95bb-668d80be12e9",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4397.JPG?alt=media&token=37da75e9-8528-4af9-a33c-22627ba96649",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A5786.JPG?alt=media&token=2d14bdca-c7a5-4a37-8b39-ebb67d3c6a4d",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4628.JPG?alt=media&token=7c294708-bb62-4810-a387-b931cdf63c97",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A4338.JPG?alt=media&token=e9b3370c-7254-4b49-80b0-75f9545e1a57",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_03261.JPG?alt=media&token=5c6a7e0e-4eb0-4ddc-b696-0027d378889f",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-1E8A5884.JPG?alt=media&token=363e8b5c-1ee9-4c2b-be11-6e35f51b5d77",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2022%2Fdevfestahm22-HD_03447.JPG?alt=media&token=a9f8e1ad-4edc-4217-9564-4e562f1dc8d1"
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03218.JPG?alt=media&token=38387ce5-f073-4340-bd53-327753f29e31",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03029.JPG?alt=media&token=f1d9db70-4856-4330-996d-624781edc6ef",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd02956.jpg?alt=media&token=da9be54c-62ec-459e-9f10-d12be6cd2a6a",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03463.JPG?alt=media&token=8882516e-ea77-4d2c-8dc1-b55525c2b28e",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03462.jpg?alt=media&token=82ad5166-b296-4b2d-9263-64302855c546",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04208.JPG?alt=media&token=a6b7431c-e34c-423b-bac8-d6d02602d7fe",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04225.JPG?alt=media&token=d62f1a85-5bd5-40f0-9257-71ab60606b15",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04300.JPG?alt=media&token=156fa0b3-28b8-46b1-b128-ec1e6e3ad2fb"
   ],
   "config": {
     "notifications": {
@@ -498,7 +498,7 @@
         "Keynote"
       ],
       "title": "Focus on Future Keynote",
-      "videoId": ""
+      "videoId": "O2x0zrByRhY"
     },
     "102": {
       "complexity": "Introductory & Overview",
@@ -512,7 +512,8 @@
         "Mobile",
         "Android"
       ],
-      "title": "Elevating Cross-Platform Excellence: Compose Unleashed with Kotlin Multiplatform"
+      "title": "Elevating Cross-Platform Excellence: Compose Unleashed with Kotlin Multiplatform",
+      "videoId": "nP1KF-b74sU"
     },
     "103": {
       "complexity": "Intermediate",
@@ -525,7 +526,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Duet AI : Your assistant in Google Cloud"
+      "title": "Duet AI : Your assistant in Google Cloud",
+      "videoId": "yHk_sjtyd9c"
     },
     "104": {
       "complexity": "Intermediate",
@@ -538,7 +540,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Creating GenAI Powered Search and Conversational Experiences with Vertex AI"
+      "title": "Creating GenAI Powered Search and Conversational Experiences with Vertex AI",
+      "videoId": "oaQ8XW1ctes"
     },
     "105": {
       "complexity": "Intermediate",
@@ -552,7 +555,8 @@
         "Mobile",
         "Flutter"
       ],
-      "title": "How to scale Flutter Web?"
+      "title": "How to scale Flutter Web?",
+      "videoId": "X6wmcfeVJnQ"
     },
     "106": {
       "complexity": "Intermediate",
@@ -566,7 +570,8 @@
       "tags": [
         "Web"
       ],
-      "title": "Angular 17 Unveiled: A Deep Dive Into Latest Advancements"
+      "title": "Angular 17 Unveiled: A Deep Dive Into Latest Advancements",
+      "videoId": "igfNQr3HUIo"
     },
     "107": {
       "complexity": "Intermediate",
@@ -580,7 +585,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "Unraveling the world of Payments"
+      "title": "Unraveling the world of Payments",
+      "videoId": "ZMoZ_0SRQAQ"
     },
     "108": {
       "complexity": "Intermediate",
@@ -593,7 +599,8 @@
       "tags": [
         "Web"
       ],
-      "title": "Effective code reviews with empathy"
+      "title": "Effective code reviews with empathy",
+      "videoId": "mZnt0ziJpM8"
     },
     "110": {
       "complexity": "Intermediate",
@@ -606,7 +613,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "ALL THINGS ML... Literally"
+      "title": "ALL THINGS ML... Literally",
+      "videoId": "OB6M9JGUW-c"
     },
     "111": {
       "complexity": "Advanced",
@@ -619,7 +627,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Unleashing the Power of Hybrid & Multi-Cloud with Anthos"
+      "title": "Unleashing the Power of Hybrid & Multi-Cloud with Anthos",
+      "videoId": "OXWpEnkNG40"
     },
     "112": {
       "complexity": "Intermediate",
@@ -632,7 +641,8 @@
       "tags": [
         "Web"
       ],
-      "title": "The evolution of JavaScript bundlers"
+      "title": "The evolution of JavaScript bundlers",
+      "videoId": "1Amt5U9-BPw"
     },
     "113": {
       "complexity": "Advanced",
@@ -646,7 +656,8 @@
         "Mobile",
         "Flutter"
       ],
-      "title": "Mastering Flutter App Navigation: A Deep Dive into Auto Route and Navigator 2.0"
+      "title": "Mastering Flutter App Navigation: A Deep Dive into Auto Route and Navigator 2.0",
+      "videoId": "VfK9pgrOaIM"
     },
     "114": {
       "complexity": "Intermediate",
@@ -659,7 +670,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "Why Startups Fail & Darker side of Entrepreneurship"
+      "title": "Why Startups Fail & Darker side of Entrepreneurship",
+      "videoId": "uV-JbuGqZrM"
     },
     "115": {
       "complexity": "Intermediate",
@@ -672,7 +684,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Ingest, Analyze, Validate, Train, Test, Deploy: TFX's Journey Towards Transforming Business with ML"
+      "title": "Ingest, Analyze, Validate, Train, Test, Deploy: TFX's Journey Towards Transforming Business with ML",
+      "videoId": "1OIlxcyP0Qg"
     },
     "116": {
       "complexity": "Intermediate",
@@ -686,7 +699,8 @@
       "tags": [
         "Web"
       ],
-      "title": "Migrating AngularJS (1.x) enterprise applications to Angular 12"
+      "title": "Migrating AngularJS (1.x) enterprise applications to Angular 12",
+      "videoId": "ONL2Wy4Mo2E"
     },
     "117": {
       "complexity": "Intermediate",
@@ -699,7 +713,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Level Up Your Prompts: Taking Generative AI Results to the Next Level"
+      "title": "Level Up Your Prompts: Taking Generative AI Results to the Next Level",
+      "videoId": "hTOlDHDduQs"
     },
     "118": {
       "complexity": "Intermediate",
@@ -712,7 +727,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Google Cloud & Terraform: Building Efficient Serverless 3-Tier Solutions"
+      "title": "Google Cloud & Terraform: Building Efficient Serverless 3-Tier Solutions",
+      "videoId": "r3d5tMaXv6E"
     },
     "119": {
       "complexity": "Intermediate",
@@ -726,7 +742,8 @@
       "tags": [
         "Web"
       ],
-      "title": "Angular elements at the rescue!"
+      "title": "Angular elements at the rescue!",
+      "videoId": "B4prD1c9qtY"
     },
     "120": {
       "complexity": "Advanced",
@@ -740,7 +757,8 @@
         "Mobile",
         "Android"
       ],
-      "title": "Architectural Patterns for Large-Scale Jetpack Compose Apps"
+      "title": "Architectural Patterns for Large-Scale Jetpack Compose Apps",
+      "videoId": "vbexKaU9XPA"
     },
     "121": {
       "complexity": "Intermediate",
@@ -753,7 +771,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "How to create, timeline, launch and price a GenAI product MVP without making a hole in your pocket"
+      "title": "How to create, timeline, launch and price a GenAI product MVP without making a hole in your pocket",
+      "videoId": "g7gebNjK7Xk"
     },
     "122": {
       "complexity": "Intermediate",
@@ -766,7 +785,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Leveraging the Power of Large Language Models (LLMs)"
+      "title": "Leveraging the Power of Large Language Models (LLMs)",
+      "videoId": "2U_IskEG6rA"
     },
     "123": {
       "complexity": "Intermediate",
@@ -779,7 +799,8 @@
       "tags": [
         "Web"
       ],
-      "title": "Building Text Containers in Canvas"
+      "title": "Building Text Containers in Canvas",
+      "videoId": "Zh5IGhSPY4Q"
     },
     "124": {
       "complexity": "Intermediate",
@@ -792,7 +813,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "Innovate or Evaporate: Elevating Start-up Success in the Age of Emerging Technologies"
+      "title": "Innovate or Evaporate: Elevating Start-up Success in the Age of Emerging Technologies",
+      "videoId": "z210BAsLaLE"
     },
     "125": {
       "complexity": "Introductory & Overview",
@@ -805,7 +827,8 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Preserving Buddha wisdom through LLM"
+      "title": "Preserving Buddha wisdom through LLM",
+      "videoId": "Hmjkcq2MlQk"
     },
     "126": {
       "complexity": "Intermediate",
@@ -818,7 +841,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Volume Snapshot in GKE using CRD"
+      "title": "Volume Snapshot in GKE using CRD",
+      "videoId": "8IQVNzKw-Ik"
     },
     "127": {
       "complexity": "Introductory & Overview",
@@ -831,7 +855,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Cloud BI - The Google Looker showcase"
+      "title": "Cloud BI - The Google Looker showcase",
+      "videoId": "xbUrB6n58sA"
     },
     "128": {
       "complexity": "Intermediate",
@@ -844,7 +869,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "Transforming from Service Based to Product Led Mindset"
+      "title": "Transforming from Service Based to Product Led Mindset",
+      "videoId": "G3BX5hrGNhM"
     },
     "129": {
       "complexity": "Intermediate",
@@ -858,7 +884,8 @@
         "Mobile",
         "Flutter"
       ],
-      "title": "Scalability and Optimization: Transitioning from MVP to Full-Fledged Apps with Flutter"
+      "title": "Scalability and Optimization: Transitioning from MVP to Full-Fledged Apps with Flutter",
+      "videoId": "xquwvonRAGc"
     },
     "130": {
       "complexity": "Introductory & Overview",
@@ -872,7 +899,8 @@
         "Mobile",
         "Android"
       ],
-      "title": "Rise of Jetpack Media 3 - Revolutionizing Media Playback on Android"
+      "title": "Rise of Jetpack Media 3 - Revolutionizing Media Playback on Android",
+      "videoId": "jKcK9oISLAI"
     },
     "131": {
       "complexity": "Intermediate",
@@ -886,7 +914,8 @@
       "tags": [
         "Cloud"
       ],
-      "title": "Protecting your chatbot from Data Breaches: How to use DLP API to mask sensitive data"
+      "title": "Protecting your chatbot from Data Breaches: How to use DLP API to mask sensitive data",
+      "videoId": "CSf7847EgOI"
     },
     "132": {
       "complexity": "Intermediate",
@@ -901,7 +930,8 @@
         "Keynote",
         "AI/ML"
       ],
-      "title": "How to prepare for the world of GenAI"
+      "title": "How to prepare for the world of GenAI",
+      "videoId": "O2x0zrByRhY"
     },
     "133": {
       "complexity": "Intermediate",
@@ -914,7 +944,8 @@
       "tags": [
         "Startup"
       ],
-      "title": "From Vision To Victory: Tips and Tales"
+      "title": "From Vision To Victory: Tips and Tales",
+      "videoId": "ACFd8uC2r0k"
     },
     "134": {
       "complexity": "Intermediate",
@@ -928,7 +959,8 @@
         "Keynote",
         "AI/ML"
       ],
-      "title": "Innovate or Stagnate: Adapting to the GenAI Era in Development"
+      "title": "Innovate or Stagnate: Adapting to the GenAI Era in Development",
+      "videoId": "O2x0zrByRhY"
     },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -964,7 +996,8 @@
         "paresh_mayani",
         "jaldeep_asodariya"
       ],
-      "title": "GDG DevFest Ahmedabad 2023 Opening"
+      "title": "GDG DevFest Ahmedabad 2023 Opening",
+      "videoId": "rlEyrGrowFs"
     },
     "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",

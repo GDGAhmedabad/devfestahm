@@ -24,11 +24,6 @@
       "label": "Home"
     },
     {
-      "route": "registration",
-      "permalink": "/registration",
-      "label": "Registration"
-    },
-    {
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
@@ -64,7 +59,7 @@
       "description": "Join the community, Explore Opportunities!",
       "background": {
         "color": "#419CF6",
-        "image": "/images/backgrounds/home.jpeg"
+        "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
     },
