@@ -77,30 +77,6 @@
           "logoUrl": "../images/logos/akashsir.png",
           "name": "Akash Technolabs",
           "url": "https://akashsir.com/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/impero.png",
-          "name": "Impero IT Services Pvt Ltd",
-          "url": "https://imperoit.com/"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/lamatic.png",
-          "name": "Lamatic.ai",
-          "url": "https://lamatic.ai/"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/peerfives.png",
-          "name": "Peer Fives",
-          "url": "https://peerfives.com/"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/cricheroes.png",
-          "name": "CricHeroes",
-          "url": "https://cricheroes.in/"
         }
       ],
       "order": 2,
