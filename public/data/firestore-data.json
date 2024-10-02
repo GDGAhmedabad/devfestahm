@@ -3457,6 +3457,12 @@
   "videos": [
     {
       "speakers": "",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fhighlights%2Fdevfestahm23.jpg?alt=media&token=baaff1ec-d895-4b93-9b2f-3ed9e2cdd32a",
+      "title": "#DevFestAhm - GDG Ahmedabad DevFest 2023   Highlights",
+      "youtubeId": "OVoRoOPvnuY"
+    },
+    {
+      "speakers": "",
       "thumbnail": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fhighlights%2Fdevfestahm22.jpg?alt=media&token=89c5b7f8-8e6e-401d-b99f-79d8b91051aa",
       "title": "#DevFestAhm - GDG Ahmedabad DevFest 2022   Highlights",
       "youtubeId": "InT3W2cfx34"
