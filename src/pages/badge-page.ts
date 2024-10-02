@@ -224,7 +224,7 @@ export class BadgePage extends PolymerElement {
         <div class="input-panel">
           <p>
             Now that you are here, how about personalising your profile? Upload an image and generate a
-            personalised badge with the GDG DevFest Ahmedabad 2023 frame. Also share your image using
+            personalised badge with the GDG DevFest Ahmedabad 2024 frame. Also share your image using
             <a href="https://twitter.com/search?q=%23DevFestAhm&src=typeahead_click&f=live" target="_blank">
               #DevFestAhm
             </a>
