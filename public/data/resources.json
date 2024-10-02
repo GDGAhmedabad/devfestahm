@@ -152,11 +152,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "25+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "5"
+        "number": "4"
       }
     }
   },
