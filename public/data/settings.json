@@ -24,11 +24,6 @@
       "label": "Home"
     },
     {
-      "route": "registration",
-      "permalink": "/registration",
-      "label": "Registration"
-    },
-    {
       "route": "speakers",
       "permalink": "/speakers",
       "label": "Speakers"
