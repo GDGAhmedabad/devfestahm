@@ -2511,6 +2511,30 @@
           "title": "Asst. Organizer"
         },
         {
+          "name": "Hiren Dave",
+          "photo": "/images/people/hiren_dave.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/hjdave",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/davehiren",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://hirendave.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 4,
+          "title": "Event Organizer"
+        },
+        {
           "name": "Khushbu Thakker",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
@@ -2521,7 +2545,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 4,
+          "order": 5,
           "title": "WTM Ambassador"
         }
       ],
