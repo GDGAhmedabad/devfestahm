@@ -62,30 +62,6 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/dhiwise.png",
-          "name": "DhiWise",
-          "url": "https://www.dhiwise.com/"
-        }
-      ],
-      "order": 1,
-      "title": "Platinum Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/akashsir.png",
-          "name": "Akash Technolabs",
-          "url": "https://akashsir.com/"
-        }
-      ],
-      "order": 2,
-      "title": "Silver Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/sessionize.png",
           "name": "Sessionize",
           "url": "https://sessionize.com/"
@@ -98,18 +74,6 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/allevents.png",
-          "name": "AllEvents",
-          "url": "https://allevents.in/"
-        }
-      ],
-      "order": 4,
-      "title": "Ticketing Partner"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/gdg-lviv.svg",
           "name": "GDG Lviv",
           "url": "https://plus.google.com/102444623953913144164"
@@ -117,18 +81,6 @@
       ],
       "order": 5,
       "title": "Template Partner"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
-          "name": "GDG Cloud Ahmedabad",
-          "url": "https://twitter.com/gdgcloudahm"
-        }
-      ],
-      "order": 6,
-      "title": "Partner Communities"
     }
   ],
   "schedule": {
