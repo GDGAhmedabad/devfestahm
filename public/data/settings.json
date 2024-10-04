@@ -167,20 +167,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "The Forum - Celebration & Convention",
+    "name": "Shree Shakti Convention Centre",
     "city": "Ahmedabad",
     "short": "Ahmedabad, Gujarat",
-    "address": "The Forum - Celebration & Convention, Near Club O7, Off SP Ring Road, Club O7 Rd, Shela, Gujarat 380058",
+    "address": "Shree Shakti Convention Centre, Sardar Patel Ring Rd, Near Vaishnodevi Circle, Beside KD Hospital, Ahmedabad, Khodiyar, Gujarat 382421",
     "pointer": {
-      "latitude": 23.0057804,
-      "longitude": 72.4529069,
+      "latitude": 23.1356071,
+      "longitude": 72.5365338,
       "zoom": 18
     },
     "mapCenter": {
-      "latitude": 23.006,
-      "longitude": 72.453
+      "latitude": 23.135,
+      "longitude": 72.536
     },
-    "description": "The Forum - Celebration & Convention"
+    "description": "Shree Shakti Convention Centre"
   },
   "socialNetwork": {
     "follow": [

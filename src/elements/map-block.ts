@@ -67,7 +67,7 @@ export class MapBlock extends ReduxMixin(PolymerElement) {
 
       <template is="dom-if" if="[[viewport.isTabletPlus]]">
         <div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14689.959328614179!2d72.4529069!3d23.0057804!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b283dfe041b%3A0x7dbde6b4b8617b3f!2sThe%20Forum%20-%20Celebration%20%26%20Convention!5e0!3m2!1sen!2sin!4v1702388905596!5m2!1sen!2sin" width="100% !important" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3668.9471462807765!2d72.5391087!3d23.135607099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8305eb738af9%3A0x78b2026d688c9da1!2sShree%20Shakti%20Convention%20Centre!5e0!3m2!1sen!2sin!4v1728030100703!5m2!1sen!2sin" width="100% !important" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> ⁠
         </div>
       </template>
 
