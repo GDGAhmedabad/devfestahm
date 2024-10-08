@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Ahmedabad Season 2023",
+  "title": "GDG DevFest Ahmedabad Season 2024",
   "description": "Join the community, Explore Opportunities!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "17th December, 2023",
+  "dates": "24th November, 2024",
   "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
@@ -105,13 +105,8 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Announcing DevFestAhm 2023",
-          "url": "/blog/posts/devfestahm23-announced/",
-          "newTab": false
-        },
-        {
-          "name": "Call for Speakers",
-          "url": "/blog/posts/c4p/",
+          "name": "Announcing DevFestAhm 2024",
+          "url": "/blog/posts/devfestahm24-announced/",
           "newTab": false
         }
       ]
@@ -133,18 +128,18 @@
       "featuredSessions": {
         "description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLCrXLkoWFdirF2hz4iX-hl415kCUO_aia"
+        "link": "https://www.youtube.com/watch?v=FI-rUeSAcV4&list=PLCrXLkoWFdirxNaHZeM-8YQHqxkC4_Vrl"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ahmedabad', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2022",
-        "youtubeId": "InT3W2cfx34"
+        "label": "See how it was in 2023",
+        "youtubeId": "OVoRoOPvnuY"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "1000+"
+        "number": "1500+"
       },
       "days": {
         "label": "Days",
@@ -152,11 +147,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "25+"
+        "number": "30+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "5"
+        "number": "4"
       }
     }
   },
@@ -215,7 +210,7 @@
       "label": "View all",
       "link": "/previous-speakers"
     },
-    "previousDevFestYear": 2022
+    "previousDevFestYear": 2023
   },
   "galleryBlock": {
     "title": "#devfestahm23 highlights",

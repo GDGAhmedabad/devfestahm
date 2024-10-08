@@ -21,7 +21,7 @@ import { selectFilterGroups } from '../store/sessions/selectors';
 import { initialSessionsState, SessionsState } from '../store/sessions/state';
 import { fetchSpeakers } from '../store/speakers/actions';
 import { initialSpeakersState, SpeakersState } from '../store/speakers/state';
-import { contentLoaders, heroSettings } from '../utils/data';
+import { contentLoaders, heroSettings, toBeAnnounce } from '../utils/data';
 import { updateMetadata } from '../utils/metadata';
 
 @customElement('schedule-page')
@@ -63,14 +63,16 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <p class="hero-description">[[heroSettings.description]]</p>
+        <!-- <p class="hero-description">[[heroSettings.description]]</p> -->
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
         
-        <sticky-element slot="bottom">
+        <!-- <sticky-element slot="bottom">
           <header-bottom-toolbar location="[[location]]"></header-bottom-toolbar>
-        </sticky-element>
+        </sticky-element> -->
       </hero-block>
 
-      <paper-progress indeterminate hidden$="[[!pending]]"></paper-progress>
+      <!-- <paper-progress indeterminate hidden$="[[!pending]]"></paper-progress>
 
       <filter-menu
         filter-groups="[[filterGroups]]"
@@ -97,12 +99,13 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
         </content-loader>
 
         <slot></slot>
-      </div>
+      </div> -->
       
       <footer-block></footer-block>
     `;
   }
 
+  private tbd = toBeAnnounce;
   private heroSettings = heroSettings.schedule;
   private contentLoaders = contentLoaders.schedule;
 
