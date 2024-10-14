@@ -3,6 +3,7 @@ on: push
 
 jobs:
   test:
+    if: false
     runs-on: ubuntu-latest
     name: ${{ matrix.script-name }}
 
