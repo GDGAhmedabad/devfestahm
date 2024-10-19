@@ -29,8 +29,7 @@ export {
   offlineMessage,
   partnersBlock,
   previousSpeakersBlock,
-  refresh,
-  schedule,
+  refresh, registerClosed, registerNow, registration, schedule,
   serviceWorkerAvailable,
   serviceWorkerError,
   serviceWorkerInstalled,
@@ -41,16 +40,11 @@ export {
   signOut,
   speakerDetails,
   speakers,
-  speakersBlock,
-  subscribeBlock, subscribeNote,
+  speakersBlock, submitCFP, subscribeBlock, subscribeNote,
   team,
   ticketsBlock,
   timezoneOffset,
-  title, viewHighlights, viewPhotos,
-  toBeAnnounce,
-  registerNow,
-  registerClosed,
-  registration
+  title, toBeAnnounce, viewHighlights, viewPhotos
 } from '../../public/data/resources.json';
 export {
   contentLoaders,

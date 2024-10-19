@@ -31,6 +31,7 @@ import {
   location,
   registration,
   showForkMeBlockForProjectIds,
+  submitCFP,
   title,
   viewHighlights,
   viewPhotos
@@ -178,12 +179,11 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             <div class="info-item">[[heroSettings.description]]</div>
           </div>
           <div class="action-buttons" layout horizontal center-justified wrap>
-            <!--
             <paper-button on-click="playVideo" primary invert>
               <iron-icon icon="hoverboard:play"></iron-icon>
               [[viewHighlights]]
             </paper-button>
-
+            <!--
             <a href="/registration">
             <paper-button primary class="registration-btn-closed">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
@@ -204,6 +204,12 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               [[viewPhotos]]
             </paper-button>
+             <a href="/blog/c4p">
+              <paper-button primary>
+              <iron-icon icon="hoverboard:registration"></iron-icon>
+              [[submitCFP]]
+              </paper-button>
+            </a>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
@@ -274,7 +280,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <fork-me-block></fork-me-block>
       </template>
       <about-block></about-block>
-      <speakers-block></speakers-block>
+      <!-- <speakers-block></speakers-block> -->
       <!-- <tickets-block id="tickets-block"></tickets-block> -->
       <gallery-block  id="gallery-block"></gallery-block>
       <about-organizer-block></about-organizer-block>
@@ -296,6 +302,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
   private registration = registration;
+  private submitCFP = submitCFP;
 
   @query('#hero')
   hero!: HeroBlock;
