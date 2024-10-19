@@ -31,6 +31,7 @@ import {
   location,
   registration,
   showForkMeBlockForProjectIds,
+  submitCFP,
   title,
   viewHighlights,
   viewPhotos
@@ -203,6 +204,12 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               [[viewPhotos]]
             </paper-button>
+             <a href="/blog/c4p">
+              <paper-button primary>
+              <iron-icon icon="hoverboard:registration"></iron-icon>
+              [[submitCFP]]
+              </paper-button>
+            </a>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
@@ -295,6 +302,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
   private registration = registration;
+  private submitCFP = submitCFP;
 
   @query('#hero')
   hero!: HeroBlock;

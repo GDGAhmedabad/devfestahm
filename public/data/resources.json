@@ -19,6 +19,7 @@
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "viewPhotos": "View Photos",
+  "submitCFP": "Submit a Proposal",
   "offlineMessage": "You can still work offline.",
   "serviceWorkerInstalled": "App is now installed and available offline.",
   "serviceWorkerAvailable": "A new version of this app is available.",
@@ -107,6 +108,11 @@
         {
           "name": "Announcing DevFestAhm 2024",
           "url": "/blog/posts/devfestahm24-announced/",
+          "newTab": false
+        },
+        {
+          "name": "Call for Speakers",
+          "url": "/blog/posts/c4p/",
           "newTab": false
         }
       ]
