@@ -71,6 +71,30 @@
       "items": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/dhiwise.png",
+          "name": "DhiWise",
+          "url": "https://www.dhiwise.com/"
+        }
+      ],
+      "order": 1,
+      "title": "Platinum Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/solguruz.png",
+          "name": "SolGuruz",
+          "url": "https://solguruz.com/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
           "logoUrl": "../images/logos/sessionize.png",
           "name": "Sessionize",
           "url": "https://sessionize.com/"
