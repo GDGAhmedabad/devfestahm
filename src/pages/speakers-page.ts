@@ -207,8 +207,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
       ></content-loader>
       <div class="container">
         <template is="dom-repeat" items="[[speakersToRender]]" as="speaker">
-          <!-- <a class="speaker card" href$="[[speakerUrl(speaker.id)]]"> -->
-          <a class="speaker card"> // Remove href attribute to disable card click
+          <a class="speaker card" href$="[[speakerUrl(speaker.id)]]">
             <div relative>
               <lazy-image
                 class="photo"
