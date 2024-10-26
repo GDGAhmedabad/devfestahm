@@ -1,0 +1,37 @@
+{
+  "talents": [
+    {
+      "id": 1,
+      "fullName": "",
+      "location": "Ahmedabad, India",
+      "bio": "",
+      "email": "",
+      "phone": "",
+      "imageUrl": "",
+      "website": "",
+      "skills": "",
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "X/Twitter"
+        }
+      ]
+    }
+  ]
+}

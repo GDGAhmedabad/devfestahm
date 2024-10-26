@@ -44,6 +44,11 @@
       "label": "Job Opportunities"
     },
     {
+      "route": "meet-the-talent",
+      "permalink": "/meet-the-talent",
+      "label": "Meet The Talent"
+    },
+    {
       "route": "badge",
       "permalink": "/badge",
       "label": "Badge"
@@ -142,6 +147,15 @@
     "jobOpenings": {
       "title": "Job Opportunities from the companies",
       "metaDescription": "Job Opportunities from the companies",
+      "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "meetTheTalent": {
+      "title": "Meet the Talent",
+      "metaDescription": "Meet the Talent",
       "description": "We are currently passing through the panic time, in between the news of lay-off and recession are being spread over social medias, and so our this initiative is to “Connect Dots” of the community, by connecting Talents (who are always in search of the right opportunity) and the Companies (who are always looking for the bright talents).",
       "background": {
         "color": "#FFF"

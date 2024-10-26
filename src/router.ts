@@ -198,6 +198,18 @@ const ROUTES: Route[] = [
     },
   },
   {
+    path: '/meet-the-talent',
+    children: [
+      {
+        path: '',
+        component: 'meet-the-talent-page',
+        action: async () => {
+          await import('./pages/meet-the-talent-page.js');
+        },
+      }
+    ],
+  },
+  {
     path: '(.*)',
     component: 'not-found-page',
     action: async () => {
