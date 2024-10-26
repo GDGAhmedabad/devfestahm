@@ -33,7 +33,8 @@
     "start:emulators": "firebase emulators:start",
     "start:functions": "npm --prefix functions start",
     "start:rollup": "mkdir -p dist && rollup --config rollup.config.ts --configPlugin typescript --watch",
-    "test": "jest"
+    "test": "jest",
+    "update:previousSpeakers": "node ./scripts/updatePreviousSpeakers.js"
   },
   "dependencies": {
     "@abraham/remotedata": "1.0.0",
