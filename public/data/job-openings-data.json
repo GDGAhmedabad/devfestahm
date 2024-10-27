@@ -5,11 +5,11 @@
       "companyName": "SolGuruz LLP",
       "location": "Ahmedabad, India",
       "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-      "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
       "companyWebsite": "http://solguruz.com/",
       "companyCareerPage": "https://solguruz.com/careers/",
       "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/uc?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
+      "hiringImageUrl": "https://drive.google.com/thumbnail?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
       "openings": [
         {
           "title": "Technical Content Writers",
@@ -40,6 +40,99 @@
           "title": "QA Engineers",
           "count": 2,
           "experience": "2 to 4 Years experience"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "companyName": "Simform Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "Simform is a tech company with a mission to help successful companies extend their tech capacity. Founded in October 2010, we have helped organizations ranging from Startups that went public, to Fortune 500 companies, and WHO backed NGOs. Simform helps companies become innovation leaders by delivering software teams on demand. We help you - choose the right technologies to invest in, decide on the best architecture and processes to follow, and oversee the successful delivery of their software projects.",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1V_zqYb_HPWohsaMx-genHFUmFz-7BLr_",
+      "companyWebsite": "https://www.simform.com/",
+      "companyCareerPage": "https://www.simform.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/simform/",
+      "hiringImageUrl": "https://drive.google.com/thumbnail?id=1CSP4-3WMYd8nINNWZZluoD_IaWnMRAaI&sz=w500",
+      "openings": [
+        {
+          "title": "Sr. Data Engineer - AWS/Azure",
+          "count": 2,
+          "experience": "4-7 years experience"
+        },
+        {
+          "title": "Sr. Data Analyst",
+          "count": 2,
+          "experience": "5-8 years experience"
+        },
+        {
+          "title": "Sr. ASP.net Developer",
+          "count": 2,
+          "experience": "3-6 years experience"
+        },
+        {
+          "title": "Sr. Java Developer",
+          "count": 2,
+          "experience": "4-7 years experience"
+        },
+        {
+          "title": "Node Developer",
+          "count": 2,
+          "experience": "2-6 years experience"
+        },
+        {
+          "title": "Mid/Sr. AI Engineer",
+          "count": 2,
+          "experience": "3-8 years experience"
+        },
+        {
+          "title": "Sr. Python Developer",
+          "count": 2,
+          "experience": "4-7 years experience"
+        },
+        {
+          "title": "Sr. PHP Developer",
+          "count": 2,
+          "experience": "3-7 years experience"
+        },
+        {
+          "title": "Sr./Lead MERN",
+          "count": 2,
+          "experience": "3-8 years experience"
+        },
+        {
+          "title": "Sr. ReactJs Developer",
+          "count": 2,
+          "experience": "4-6 years experience"
+        },
+        {
+          "title": "Solution Architect",
+          "count": 2,
+          "experience": "7-12 years experience"
+        },
+        {
+          "title": "Solution Consultant",
+          "count": 2,
+          "experience": "3-5 years experience"
+        },
+        {
+          "title": "Technical Project Manager",
+          "count": 2,
+          "experience": "7-10 years experience"
+        },
+        {
+          "title": "Sr. UI/UX Designer",
+          "count": 2,
+          "experience": "5-9 years experience"
+        },
+        {
+          "title": "Database Engineer",
+          "count": 2,
+          "experience": "2-3 years experience"
+        },
+        {
+          "title": "Data Architect",
+          "count": 2,
+          "experience": "5-10 years experience"
         }
       ]
     }
