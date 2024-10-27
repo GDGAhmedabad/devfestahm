@@ -10,12 +10,13 @@ window.addEventListener('vaadin-router-location-changed', (event) => {
   // url ends in a slash and pathname starts with a slash
   const canonicalLink = `${url}${event.detail.location.pathname.slice(1)}`;
   const link = document.querySelector('link[rel="canonical"]');
+  const routeName = event?.detail?.location?.route?.component || ''
   if (link) {
     link.setAttribute('href', canonicalLink);
   } else {
     console.error('Missing canonical link tag');
   }
-  logPageView();
+  logPageView(routeName);
 });
 
 export const selectRouteName = (pathname: string): string => {
