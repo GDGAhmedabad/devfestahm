@@ -2,33 +2,33 @@
   "talents": [
     {
       "id": 1,
-      "fullName": "",
+      "fullName": "John Deo",
       "location": "Ahmedabad, India",
-      "bio": "",
-      "email": "",
-      "phone": "",
-      "imageUrl": "",
-      "website": "",
-      "skills": "",
+      "bio": "Experienced software developer skilled in AWS, API integration, payment gateways (Stripe), Angular 10+, AngularJs, TypeScript, Vue.js, and JavaScript.",
+      "email": "youremail@domain.com",
+      "phone": "+91-9876543210",
+      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+      "website": "https://xyz.com",
+      "skills": ["Angular", "Android"],
       "links": [
         {
           "icon": "website",
-          "link": "",
+          "link": "https://xyz.com",
           "name": "Portfolio"
         },
         {
           "icon": "github",
-          "link": "",
+          "link": "https://github.com/johndeo",
           "name": "Github"
         },
         {
           "icon": "linkedin",
-          "link": "",
+          "link": "https://www.linkedin.com/in/johndeo",
           "name": "LinkedIn"
         },
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://x.com/johndeo",
           "name": "X/Twitter"
         }
       ]

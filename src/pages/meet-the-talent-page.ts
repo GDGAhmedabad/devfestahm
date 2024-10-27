@@ -28,13 +28,13 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
           padding: 24px 16px;
           max-width: var(--max-container-width);
         }
-        .speaker {
+        .talent {
           padding: 32px 24px;
           background: var(--primary-background-color);
           text-align: center;
           transition: box-shadow var(--animation);
         }
-        .speaker:hover {
+        .talent:hover {
           box-shadow: var(--box-shadow);
         }
         .photo {
@@ -76,31 +76,8 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
           }
           color: var(--secondary-text-color);
         }
-        .team-block {
-          display: grid;
-          grid-template-columns: 1fr;
-          grid-gap: 24px;
-          margin-bottom: 32px;
-        }
-        .member {
-          padding: 16px 0;
-          min-width: 300px;
-        }
-        .member-details {
-          color: var(--primary-text-color);
-          margin-left: 16px;
-        }
-        .opening-title {
-          margin: 20px 0;
-        }
         @media (min-width: 640px) {
-          .member {
-            padding: 32px 0;
-          }
           .meet-the-talent-container {
-            grid-template-columns: repeat(2, 1fr);
-          }
-          .team-block {
             grid-template-columns: repeat(2, 1fr);
           }
         }
@@ -108,15 +85,9 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
           .meet-the-talent-container {
             grid-template-columns: repeat(3, 1fr);
           }
-          .team-block {
-            grid-template-columns: repeat(3, 1fr);
-          }
         }
         @media (min-width: 1024px) {
           .meet-the-talent-container {
-            grid-template-columns: repeat(4, 1fr);
-          }
-          .team-block {
             grid-template-columns: repeat(4, 1fr);
           }
         }
@@ -127,6 +98,13 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
           flex-direction: column;
           max-width: var(--max-container-width);
           padding: 24px 16px;
+        }
+
+        .action {
+          margin-right: 16px;
+          color: var(--secondary-text-color);
+          cursor: pointer;
+          user-select: none;
         }
       </style>
 
@@ -139,17 +117,17 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
       <div class="page-description">
         <p> [[heroSettings.description]] </p>
         <p>
-          <strong>Add your company's job opportunities</strong><br>
+          <strong>Add your profile</strong><br>
           Follow steps mentioned over the Github repository
-          <a href="https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies" target="_blank">
-            https://github.com/GDGAhmedabad/devfestahm#list-job-opportunities-of-the-companies
+          <a href="https://github.com/GDGAhmedabad/devfestahm#list-your-profile-for-meet-the-talent" target="_blank">
+            https://github.com/GDGAhmedabad/devfestahm#list-your-profile-for-meet-the-talent
           </a>
         </p>
         <p> <strong>Disclaimer:</strong> [[meetTheTalent.disclaimer]] </p>
       </div>
       <div class="meet-the-talent-container">
         <template is="dom-repeat" items="[[talents]]" as="talent">
-          <a class="speaker card" href$="[[jobUrl(talent.id)]]">
+          <a class="talent card" href$="[[jobUrl(talent.id)]]">
             <template is="dom-if" if="[[talent.imageUrl]]">
               <lazy-image
                 class="photo"
@@ -160,9 +138,19 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
             <div class="description">
               <h2 class="name">[[talent.fullName]]</h2>
               <div class="origin">[[talent.location]]</div>
-              <text-truncate lines="5">
+              <text-truncate lines="4">
                 <div class="bio">[[talent.bio]]</div>
               </text-truncate>
+            </div>
+            <div class="contacts" layout horizontal center-justified>
+              <template is="dom-repeat" items="[[talent.links]]" as="social">
+                <a class="action" href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                  <paper-icon-button
+                    class="social-icon"
+                    icon="hoverboard:{{social.icon}}"
+                  ></paper-icon-button>
+                </a>
+              </template>
             </div>
           </a>
         </template>
