@@ -60,6 +60,58 @@ Please follow the given steps for listing out your company's job opportunities.
   ]
 }
 ```
+## List your profile for Meet The Talent
+In a time of economic uncertainty, with widespread news of layoffs and a tightening job market, our 'Meet the Talent' feature is designed to create connections within the community. Here, we spotlight talented professionals actively seeking opportunities, giving companies access to a diverse pool of potential hires. This initiative is our way of 'connecting the dots' between companies on the lookout for skilled talent and candidates eager to make their mark.
+
+We welcome candidates from the community to share your profile.
+
+Disclaimer: "Meet the Talent" is a community-driven platform connecting job seekers with potential employers. We do not verify the information provided; candidates and companies are responsible for their own due diligence and any agreements made.
+
+**How you can submit your profile for Meet The Talent**
+Please follow the given steps for listing out your profile.
+
+1. Fork the repository
+2. Create a JSON object in the format given below
+3. Add your Job openings JSON object [here](/public/data/meet-the-talent-data.json)
+3. Update the `id` (i.e. last element id + 1)
+4. Raise a PR for `develop` branch
+5. Our contributors will review, merge and deploy!
+
+```json
+{
+  "id": 1,
+  "fullName": "John Deo",
+  "location": "Ahmedabad, India",
+  "bio": "Experienced software developer skilled in AWS, API integration, payment gateways (Stripe), Angular 10+, AngularJs, TypeScript, Vue.js, and JavaScript.",
+  "email": "youremail@domain.com",
+  "phone": "+91-9876543210",
+  "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+  "website": "https://xyz.com",
+  "skills": ["Angular", "Android"],
+  "links": [
+    {
+      "icon": "website",
+      "link": "https://xyz.com",
+      "name": "Portfolio"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/johndeo",
+      "name": "Github"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/johndeo",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://x.com/johndeo",
+      "name": "X/Twitter"
+    }
+  ]
+}
+```
 
 ## Features
 
