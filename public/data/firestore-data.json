@@ -83,12 +83,24 @@
       "items": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/flutterflow.png",
+          "name": "FlutterFlow",
+          "url": "https://www.flutterflow.io/"
+        }
+      ],
+      "order": 2,
+      "title": "Gold Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
           "logoUrl": "../images/logos/solguruz.png",
           "name": "SolGuruz",
           "url": "https://solguruz.com/"
         }
       ],
-      "order": 2,
+      "order": 3,
       "title": "Silver Sponsors"
     },
     {
@@ -100,7 +112,7 @@
           "url": "https://sessionize.com/"
         }
       ],
-      "order": 3,
+      "order": 4,
       "title": "CFP Partners"
     },
     {
