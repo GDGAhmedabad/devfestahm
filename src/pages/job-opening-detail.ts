@@ -11,7 +11,7 @@ import { ReduxMixin } from '../store/mixin';
 import { heroSettings, jobs } from '../utils/data';
 import { updateImageMetadata } from '../utils/metadata';
 
-@customElement('job-opening-page')
+@customElement('job-opening-detail')
 export class JobOpeningPage extends ReduxMixin(PolymerElement) {
 
   static get template() {

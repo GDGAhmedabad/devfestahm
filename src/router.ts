@@ -177,9 +177,9 @@ const ROUTES: Route[] = [
       },
       {
         path: '/:id',
-        component: 'job-opening-page',
+        component: 'job-opening-detail',
         action: async () => {
-          await import('./pages/job-opening-page.js');
+          await import('./pages/job-opening-detail.js');
         },
       },
     ],
