@@ -176,6 +176,6 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
 
 
   private jobUrl(id: string) {
-    return router.urlForName('job-opening-page', { id });
+    return router.urlForName('job-opening-detail', { id });
   }
 }
