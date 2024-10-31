@@ -104,6 +104,12 @@
           "logoUrl": "../images/logos/solguruz.png",
           "name": "SolGuruz",
           "url": "https://solguruz.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/impero.png",
+          "name": "Impero IT Services Pvt Ltd",
+          "url": "https://imperoit.com/"
         }
       ],
       "order": 3,
