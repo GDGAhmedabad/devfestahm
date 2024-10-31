@@ -83,12 +83,42 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/solguruz.png",
-          "name": "SolGuruz",
-          "url": "https://solguruz.com/"
+          "logoUrl": "../images/logos/flutterflow.png",
+          "name": "FlutterFlow",
+          "url": "https://www.flutterflow.io/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/iqm-logo.png",
+          "name": "IQM",
+          "url": "https://iqm.com/"
         }
       ],
       "order": 2,
+      "title": "Gold Sponsors"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/solguruz.png",
+          "name": "SolGuruz",
+          "url": "https://solguruz.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/impero.png",
+          "name": "Impero IT Services Pvt Ltd",
+          "url": "https://imperoit.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://www.akashtechnolabs.com/"
+        }
+      ],
+      "order": 3,
       "title": "Silver Sponsors"
     },
     {
@@ -100,7 +130,7 @@
           "url": "https://sessionize.com/"
         }
       ],
-      "order": 3,
+      "order": 4,
       "title": "CFP Partners"
     },
     {
@@ -741,6 +771,46 @@
       "order": 6,
       "rockstarSpeakerOrder": 6,
       "title": "Co-Founder & CEO (Chief Everything Officer)"
+    },
+    "ayush_shekhar": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/ayush",
+          "name": "gde"
+        }
+      ],
+      "bio": "Ayush is a solutions architect, a community contributor, and a writer. He can go on and on about startups, products, and the amazing impact that stories and good storytellers have on people.",
+      "company": "FlutterFlow",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fflutterflow.png?alt=media&token=39f343a1-77ec-4e1b-8354-b1e2fee76875",
+      "country": "Mumbai, Maharashtra",
+      "featured": true,
+      "name": "Ayush Shekhar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fayush_shekhar.png?alt=media&token=344b5771-7bfd-4c63-87e9-945ffc0e0d97",
+      "pronouns": "he/him",
+      "shortBio": "Ayush is a solutions architect, a community contributor, and a writer. He...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ayushshekhar17",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ayushshekhar/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/ayushshekhar221/",
+          "name": "Instagram"
+        }
+      ],
+      "order": 7,
+      "rockstarSpeakerOrder": 7,
+      "title": "Solutions Architect @ FlutterFlow | GDE - Flutter & Dart"
     }
   },
   "team": [
