@@ -110,6 +110,12 @@
           "logoUrl": "../images/logos/impero.png",
           "name": "Impero IT Services Pvt Ltd",
           "url": "https://imperoit.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/akash-technolabs.png",
+          "name": "Akash Technolabs",
+          "url": "https://www.akashtechnolabs.com/"
         }
       ],
       "order": 3,
