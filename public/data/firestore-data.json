@@ -86,6 +86,12 @@
           "logoUrl": "../images/logos/flutterflow.png",
           "name": "FlutterFlow",
           "url": "https://www.flutterflow.io/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/iqm-logo.png",
+          "name": "IQM",
+          "url": "https://iqm.com/"
         }
       ],
       "order": 2,
