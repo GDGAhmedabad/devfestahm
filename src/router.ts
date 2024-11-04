@@ -206,7 +206,14 @@ const ROUTES: Route[] = [
         action: async () => {
           await import('./pages/meet-the-talent-page.js');
         },
-      }
+      },
+      {
+        path: '/:id',
+        component: 'meet-the-talent-detail',
+        action: async () => {
+          await import('./pages/meet-the-talent-detail.js');
+        },
+      },
     ],
   },
   {

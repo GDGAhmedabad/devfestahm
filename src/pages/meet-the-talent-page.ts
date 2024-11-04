@@ -127,7 +127,7 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
       </div>
       <div class="meet-the-talent-container">
         <template is="dom-repeat" items="[[talents]]" as="talent">
-          <a class="talent card" href$="[[jobUrl(talent.id)]]">
+          <a class="talent card" href$="[[talentUrl(talent.id)]]">
             <template is="dom-if" if="[[talent.imageUrl]]">
               <lazy-image
                 class="photo"
@@ -165,7 +165,7 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
   private meetTheTalent = meetTheTalent;
 
 
-  private jobUrl(id: string) {
-    return router.urlForName('job-opening-page', { id });
+  private talentUrl(id: string) {
+    return router.urlForName('meet-the-talent-detail', { id });
   }
 }
