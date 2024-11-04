@@ -29,6 +29,7 @@ import {
   description,
   heroSettings,
   location,
+  registerNow,
   registration,
   showForkMeBlockForProjectIds,
   submitCFP,
@@ -183,6 +184,13 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:play"></iron-icon>
               [[viewHighlights]]
             </paper-button>
+            <a href="/registration">
+            <paper-button primary>
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              [[registerNow]]
+            </paper-button>
+            </a>
+
             <!--
             <a href="/registration">
             <paper-button primary class="registration-btn-closed">
@@ -190,7 +198,6 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             [[registration]]
             </paper-button>
             </a>
-
             <paper-button class="watch-video" on-click="playVideo">
               <iron-icon icon="hoverboard:movie"></iron-icon>
               [[viewHighlights]]
@@ -301,6 +308,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   private buyTicket = buyTicket;
   private heroSettings = heroSettings.home;
   private aboutBlock = aboutBlock;
+  private registerNow = registerNow;
   private registration = registration;
   private submitCFP = submitCFP;
 
