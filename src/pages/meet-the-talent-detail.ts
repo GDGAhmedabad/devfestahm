@@ -114,6 +114,7 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
                 </div>
               </template>
             </div>
+          </div>
         </div>
       </div>
 
