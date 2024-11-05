@@ -10,7 +10,7 @@ import { router } from '../router';
 import { ReduxMixin } from '../store/mixin';
 import { heroSettings, talents } from '../utils/data';
 import { updateImageMetadata } from '../utils/metadata';
-
+import { getBadgeColor } from '../utils/styles';
 @customElement('meet-the-talent-detail')
 export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
   static get template() {
@@ -43,10 +43,8 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
           line-height: 1;
         }
         .skill-block {
-          display: grid;
-          grid-template-columns: 1fr;
-          grid-gap: 24px;
-          margin-bottom: 32px;
+          display: flex;
+          grid-gap: 10px;
         }
         .talent-details {
           color: var(--primary-text-color);
@@ -55,20 +53,12 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
         .skill-title {
           margin-top: 30px;
         }
-        @media (min-width: 640px) {
-          .skill-block {
-            grid-template-columns: repeat(2, 1fr);
-          }
-        }
-        @media (min-width: 812px) {
-          .skill-block {
-            grid-template-columns: repeat(3, 1fr);
-          }
-        }
-        @media (min-width: 1024px) {
-          .skill-block {
-            grid-template-columns: repeat(4, 1fr);
-          }
+
+        .skill {
+          color: white;
+          padding: 2px 8px;
+          border-radius: 50vh;
+          font-size: 0.8em;
         }
       </style>
 
@@ -106,10 +96,9 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
           <div class="talent-details" layout vertical center-justified start>
             <p>[[talentDetails.bio]]</p>
             <div></div>
-            <h2 class="skill-title">Skills</small></h2>
             <div class="skill-block">
               <template is="dom-repeat" items="[[talentDetails.skills]]" as="skill">
-                <div class="skill">
+                <div class="skill" style$="background-color: [[getBadgeColor(skill)]]; color: white">
                   <span>[[skill]]</span><br>
                 </div>
               </template>
@@ -144,5 +133,9 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
         });
       }
     }
+  }
+
+  private getBadgeColor(value: string) {
+    return getBadgeColor(value);
   }
 }
