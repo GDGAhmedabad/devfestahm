@@ -10,7 +10,6 @@ import { router } from '../router';
 import { ReduxMixin } from '../store/mixin';
 import { heroSettings, talents } from '../utils/data';
 import { updateImageMetadata } from '../utils/metadata';
-import { getBadgeColor } from '../utils/styles';
 @customElement('meet-the-talent-detail')
 export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
   static get template() {
@@ -55,6 +54,7 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
         }
 
         .skill {
+          background-color: var(--default-primary-color);
           color: white;
           padding: 2px 8px;
           border-radius: 50vh;
@@ -98,7 +98,7 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
             <div></div>
             <div class="skill-block">
               <template is="dom-repeat" items="[[talentDetails.skills]]" as="skill">
-                <div class="skill" style$="background-color: [[getBadgeColor(skill)]]; color: white">
+                <div class="skill">
                   <span>[[skill]]</span><br>
                 </div>
               </template>
@@ -133,9 +133,5 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
         });
       }
     }
-  }
-
-  private getBadgeColor(value: string) {
-    return getBadgeColor(value);
   }
 }
