@@ -31,6 +31,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Yash Parikh",
+      "location": "Vadodara, India",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Deep Learning Enthusiast | Transforming Data into Insights | MVVVM | Kotlin | Jetpack Compose | Flutter | Dart",
+      "email": "yashyp@gmail.com",
+      "phone": "+91-8780415854",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
+      "website": "",
+      "skills": ["Android", "Flutter", "Gen AI", "Python Automation"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Yash23",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yashparikh23/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yashcz",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
