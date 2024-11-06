@@ -185,10 +185,10 @@ export class RegistrationPage extends PolymerElement {
             </div>
           </div>
           <div class="register-btn">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSditnWa_QDLiIpv1Ja-oD96dx6qoAhRpFYE7yveknlbqaMiGg/viewform" target="_blank">
-              <paper-button primary class="register-btn-closed">
+            <a href="https://forms.gle/77ipPmFTfeARoQNW8" target="_blank">
+              <paper-button primary>
                 <iron-icon icon="hoverboard:ticket"></iron-icon>
-                [[registerClosed]]
+                [[registerNow]]
               </paper-button>
             </a>
           </div>
