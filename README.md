@@ -26,13 +26,11 @@ Please follow the given steps for listing out your company's job opportunities.
 1. Fork the repository
 2. Create a JSON object in the format given below
 3. Add your Job openings JSON object [here](/public/data/job-openings-data.json)
-3. Update the `id` (i.e. last element id + 1)
 4. Raise a PR for `develop` branch
 5. Our contributors will review, merge and deploy!
 
 ```json
 {
-  "id": 1,
   "companyName": "GDG Ahmedabad",
   "location": "Ahmedabad",
   "bio": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
