@@ -17,7 +17,7 @@ jobs:
       - name: Create temp serviceAccount.json
         run: echo "{}" > serviceAccount.json
       - run: npm ci
-      - run: npm run build-develop
+      - run: npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'

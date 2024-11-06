@@ -9,7 +9,6 @@
   },
   "scripts": {
     "build": "npm run clean && NODE_ENV=production rollup --config rollup.config.ts --configPlugin typescript",
-    "build-develop": "npx firebase use devfestahm-develop && npm run clean && NODE_ENV=production rollup --config rollup.config.ts --configPlugin typescript",
     "clean": "rm -rf dist",
     "deploy": "npm run build && NODE_ENV=production firebase deploy",
     "firestore:copy": "ts-node-script ./scripts/firestore-copy",
