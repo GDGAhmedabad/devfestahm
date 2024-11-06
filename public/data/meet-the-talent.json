@@ -1,33 +1,129 @@
 {
   "talents": [
     {
-      "fullName": "John Deo",
+      "fullName": "Pranay Patel",
       "location": "Ahmedabad, India",
-      "bio": "Experienced software developer skilled in AWS, API integration, payment gateways (Stripe), Angular 10+, AngularJs, TypeScript, Vue.js, and JavaScript.",
-      "email": "youremail@domain.com",
-      "phone": "+91-9876543210",
-      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2023/discover/badge.svg",
-      "website": "https://xyz.com",
-      "skills": ["Angular", "Android"],
+      "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
+      "email": "iampranaypatel@domain.com",
+      "phone": "+91-7990139255",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75_400x400.jpg",
+      "website": "https://pranaypatel.netlify.app/",
+      "skills": ["Android","Kotlin","Flutter","KotlinMultiPlatform","Mentoring","AWS"],
       "links": [
         {
           "icon": "website",
-          "link": "https://xyz.com",
+          "link": "https://pranaypatel.netlify.app/",
           "name": "Portfolio"
         },
         {
           "icon": "github",
-          "link": "https://github.com/johndeo",
+          "link": "https://github.com/pranaypatel512",
           "name": "Github"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/johndeo",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
           "name": "LinkedIn"
         },
         {
           "icon": "twitter",
-          "link": "https://x.com/johndeo",
+          "link": "https://x.com/pranaypatel_",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Yash Parikh",
+      "location": "Vadodara, India",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Deep Learning Enthusiast | Transforming Data into Insights | MVVVM | Kotlin | Jetpack Compose | Flutter | Dart",
+      "email": "yashyp@gmail.com",
+      "phone": "+91-8780415854",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
+      "website": "",
+      "skills": ["Android", "Flutter", "Gen AI", "Python Automation"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Yash23",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yashparikh23/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yashcz",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Himanshu Dudhat",
+      "location": "Ahmedabad, India",
+      "bio": "Mobile App Developer | 12+ yr. Exp.| Android | Flutter | Building app for ~5 million users",
+      "email": "himanshu.dudhat@gmail.com",
+      "phone": "+91-9723925030",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
+      "website": "",
+      "skills": ["Android","Kotlin","Flutter"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/HimanshuDudhat",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/himanshududhat",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/HimanshuDudhat",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Pratik Bharad",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Software Engineer with over 4+ years of experience in mobile development, specializing in Android and Flutter.",
+      "email": "pratikbharad99@gmail.com",
+      "phone": "+91-7984268169",
+      "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
+      "website": "https://pratik-bharad.webflow.io/",
+      "skills": ["Android","Kotlin","Flutter"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://pratik-bharad.webflow.io/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pratikPSB",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "http://www.linkedin.com/in/pratik-bharad",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/bharad_pratik",
           "name": "X/Twitter"
         }
       ]
