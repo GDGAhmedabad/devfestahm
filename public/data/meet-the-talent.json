@@ -31,6 +31,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Himanshu Dudhat",
+      "location": "Ahmedabad, India",
+      "bio": "Mobile App Developer | 12+ yr. Exp.| Android | Flutter | Building app for ~5 million users",
+      "email": "himanshu.dudhat@gmail.com",
+      "phone": "+91-9723925030",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
+      "website": "",
+      "skills": ["Android","Kotlin","Flutter"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/HimanshuDudhat",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/himanshududhat",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/HimanshuDudhat",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
