@@ -16,6 +16,7 @@ jobs:
           node-version: 20
       - name: Create temp serviceAccount.json
         run: echo "{}" > serviceAccount.json
+      - run: npx firebase use devfestahm-develop
       - run: npm ci
       - run: npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
