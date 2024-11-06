@@ -121,9 +121,9 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
   }
 
   @observe('talent.id')
-  onTalentId(talentId: string) {
+  onTalentId(talentId: number) {
     if (talentId) {
-      this.talentDetails = talents.find((talent) => talent.id.toString() === talentId);
+      this.talentDetails = talents[talentId];
       if (!this.talentDetails) {
         router.render('/404');
       } else {

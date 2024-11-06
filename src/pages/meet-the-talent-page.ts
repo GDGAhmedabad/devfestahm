@@ -119,15 +119,17 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
         <p>
           <strong>Add your profile</strong><br>
           Follow steps mentioned over the Github repository
-          <a href="https://github.com/GDGAhmedabad/devfestahm#list-your-profile-for-meet-the-talent" target="_blank">
-            https://github.com/GDGAhmedabad/devfestahm#list-your-profile-for-meet-the-talent
+          <a
+            href="https://github.com/GDGAhmedabad/devfestahm?tab=readme-ov-file#list-your-profile-for-meet-the-talent"
+            target="_blank">
+            https://github.com/GDGAhmedabad/devfestahm?tab=readme-ov-file#list-your-profile-for-meet-the-talent
           </a>
         </p>
         <p> <strong>Disclaimer:</strong> [[meetTheTalent.disclaimer]] </p>
       </div>
       <div class="meet-the-talent-container">
-        <template is="dom-repeat" items="[[talents]]" as="talent">
-          <a class="talent card" href$="[[talentUrl(talent.id)]]">
+        <template is="dom-repeat" items="[[talents]]" as="talent" index-as="index">
+          <a class="talent card" href$="[[talentUrl(index)]]">
             <template is="dom-if" if="[[talent.imageUrl]]">
               <lazy-image
                 class="photo"
@@ -165,7 +167,7 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
   private meetTheTalent = meetTheTalent;
 
 
-  private talentUrl(id: string) {
-    return router.urlForName('meet-the-talent-detail', { id });
+  private talentUrl(index: string) {
+    return router.urlForName('meet-the-talent-detail', { id: index });
   }
 }

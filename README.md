@@ -79,7 +79,6 @@ Please follow the given steps for listing out your profile.
 
 ```json
 {
-  "id": 1,
   "fullName": "John Deo",
   "location": "Ahmedabad, India",
   "bio": "Experienced software developer skilled in AWS, API integration, payment gateways (Stripe), Angular 10+, AngularJs, TypeScript, Vue.js, and JavaScript.",
