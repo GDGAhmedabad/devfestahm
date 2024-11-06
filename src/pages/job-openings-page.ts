@@ -148,8 +148,8 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
         <p> <strong>Disclaimer:</strong> [[jobOpenings.disclaimer]] </p>
       </div>
       <div class="job-openings-container">
-        <template is="dom-repeat" items="[[jobs]]" as="job">
-          <a class="speaker card" href$="[[jobUrl(job.id)]]">
+        <template is="dom-repeat" items="[[jobs]]" as="job" index-as="index">
+          <a class="speaker card" href$="[[jobUrl(index)]]">
             <lazy-image
               class="photo"
               src="[[job.companyLogoUrl]]"
@@ -175,7 +175,7 @@ export class JobOpeningsPage extends ReduxMixin(PolymerElement) {
   private jobOpenings = jobOpenings;
 
 
-  private jobUrl(id: string) {
-    return router.urlForName('job-opening-detail', { id });
+  private jobUrl(index: string) {
+    return router.urlForName('job-opening-detail', { id: index });
   }
 }
