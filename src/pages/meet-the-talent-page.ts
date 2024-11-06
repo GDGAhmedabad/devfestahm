@@ -146,12 +146,14 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
             </div>
             <div class="contacts" layout horizontal center-justified>
               <template is="dom-repeat" items="[[talent.links]]" as="social">
-                <a class="action" href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                  <paper-icon-button
-                    class="social-icon"
-                    icon="hoverboard:{{social.icon}}"
-                  ></paper-icon-button>
-                </a>
+                <template is="dom-if" if="[[social.link]]">
+                  <a class="action" href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                    <paper-icon-button
+                      class="social-icon"
+                      icon="hoverboard:{{social.icon}}"
+                    ></paper-icon-button>
+                  </a>
+                </template>
               </template>
             </div>
           </a>

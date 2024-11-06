@@ -77,14 +77,16 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
               [[talentDetails.fullName]]
             </h2>
             <div class="subtitle">[[talentDetails.location]]</div>
-            <div class="contacts" layout horizontal center-justified>
+            <div class="contacts" layout horizontal>
               <template is="dom-repeat" items="[[talentDetails.links]]" as="social">
-                <a class="action" href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                  <paper-icon-button
-                    class="social-icon"
-                    icon="hoverboard:{{social.icon}}"
-                  ></paper-icon-button>
-                </a>
+                <template is="dom-if" if="[[social.link]]">
+                  <a class="action" href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                    <paper-icon-button
+                      class="social-icon"
+                      icon="hoverboard:{{social.icon}}"
+                    ></paper-icon-button>
+                  </a>
+                </template>
               </template>
             </div>
           </div>
