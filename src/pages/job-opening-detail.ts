@@ -157,9 +157,9 @@ export class JobOpeningDetailPage extends ReduxMixin(PolymerElement) {
   }
 
   @observe('compnay.id')
-  onCompanyId(companyId: string) {
-    if (companyId) {
-      this.companyDetails = jobs.find((job) => job.id.toString() === companyId);
+  onCompanyId(index: number) {
+    if (index) {
+      this.companyDetails = jobs[index];
       if (!this.companyDetails) {
         router.render('/404');
       } else {
