@@ -1,33 +1,33 @@
 {
   "talents": [
     {
-      "fullName": "John Deo",
+      "fullName": "Pranay Patel",
       "location": "Ahmedabad, India",
-      "bio": "Experienced software developer skilled in AWS, API integration, payment gateways (Stripe), Angular 10+, AngularJs, TypeScript, Vue.js, and JavaScript.",
-      "email": "youremail@domain.com",
-      "phone": "+91-9876543210",
-      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2023/discover/badge.svg",
-      "website": "https://xyz.com",
-      "skills": ["Angular", "Android"],
+      "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
+      "email": "iampranaypatel@domain.com",
+      "phone": "+91-7990139255",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75_400x400.jpg",
+      "website": "https://pranaypatel.netlify.app/",
+      "skills": ["Android","Kotlin","Flutter","KotlinMultiPlatform","Mentoring","AWS"],
       "links": [
         {
           "icon": "website",
-          "link": "https://xyz.com",
+          "link": "https://pranaypatel.netlify.app/",
           "name": "Portfolio"
         },
         {
           "icon": "github",
-          "link": "https://github.com/johndeo",
+          "link": "https://github.com/pranaypatel512",
           "name": "Github"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/johndeo",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
           "name": "LinkedIn"
         },
         {
           "icon": "twitter",
-          "link": "https://x.com/johndeo",
+          "link": "https://x.com/pranaypatel_",
           "name": "X/Twitter"
         }
       ]
