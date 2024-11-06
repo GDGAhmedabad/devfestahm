@@ -31,6 +31,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Pratik Bharad",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Software Engineer with over 4+ years of experience in mobile development, specializing in Android and Flutter.",
+      "email": "pratikbharad99@gmail.com",
+      "phone": "+91-7984268169",
+      "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
+      "website": "https://pratik-bharad.webflow.io/",
+      "skills": ["Android","Kotlin","Flutter"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://pratik-bharad.webflow.io/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pratikPSB",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "http://www.linkedin.com/in/pratik-bharad",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/bharad_pratik",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
