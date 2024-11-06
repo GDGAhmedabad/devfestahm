@@ -72,7 +72,7 @@ Please follow the given steps for listing out your profile.
 
 1. Fork the repository
 2. Create a JSON object in the format given below
-3. Add your Job openings JSON object [here](/public/data/meet-the-talent-data.json)
+3. Add your Job openings JSON object [here](/public/data/meet-the-talent.json)
 4. Raise a PR for `develop` branch
 5. Our contributors will review, merge and deploy!
 
