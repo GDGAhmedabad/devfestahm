@@ -2,6 +2,9 @@ export {
   jobs
 } from '../../public/data/job-openings-data.json';
 export {
+  talents
+} from '../../public/data/meet-the-talent.json';
+export {
   aboutBlock,
   aboutOrganizerBlock,
   addToHomeScreen,
@@ -23,8 +26,7 @@ export {
   footerRelBlock,
   galleryBlock, image, jobOpenings, latestPostsBlock,
   loading,
-  mapBlock,
-  mySchedule,
+  mapBlock, meetTheTalent, mySchedule,
   notifications,
   offlineMessage,
   partnersBlock,

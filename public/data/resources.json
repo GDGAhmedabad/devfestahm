@@ -256,6 +256,15 @@
       "link": "/job-openings"
     }
   },
+  "meetTheTalent": {
+    "title": "Meet The Talent",
+    "description": "In a time of economic uncertainty, with widespread news of layoffs and a tightening job market, our 'Meet the Talent' feature is designed to create connections within the community. Here, we spotlight talented professionals actively seeking opportunities, giving companies access to a diverse pool of potential hires. This initiative is our way of 'connecting the dots' between companies on the lookout for skilled talent and candidates eager to make their mark.",
+    "disclaimer": "\"Meet the Talent\" is a community-driven platform connecting job seekers with potential employers. We do not verify the information provided; candidates and companies are responsible for their own due diligence and any agreements made.",
+    "callToAction": {
+      "label": "Apply Now",
+      "link": "/job-openings"
+    }
+  },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Gujarat audience to boost development of IT."
   },
