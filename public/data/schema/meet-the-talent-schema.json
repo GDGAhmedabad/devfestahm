@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "talents": {
+      "type": "array",
+      "items": 
+        {
+          "type": "object",
+          "properties": {
+            "fullName": {
+              "type": "string"
+            },
+            "location": {
+              "type": "string"
+            },
+            "bio": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "phone": {
+              "type": "string"
+            },
+            "imageUrl": {
+              "type": "string"
+            },
+            "website": {
+              "type": "string"
+            },
+            "skills": {
+              "type": "array",
+              "items": 
+                {
+                  "type": "string"
+                }
+            },
+            "links": {
+              "type": "array",
+              "items": 
+                {
+                  "type": "object",
+                  "properties": {
+                    "icon": {
+                      "type": "string"
+                    },
+                    "link": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "icon",
+                    "link",
+                    "name"
+                  ]
+                }
+              
+            }
+          },
+          "required": [
+            "fullName",
+            "location",
+            "bio",
+            "email",
+            "phone",
+            "imageUrl",
+            "website",
+            "skills",
+            "links"
+          ]
+        }
+      
+    }
+  },
+  "required": [
+    "talents"
+  ]
+}
