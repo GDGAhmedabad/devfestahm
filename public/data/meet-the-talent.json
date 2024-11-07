@@ -127,6 +127,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Niraj Chauhan",
+      "location": "Vadodara, India",
+      "bio": "Technical Project Manager | 10+ years of experience in the Software Industry working from Software development to Program/Portfolio Management.",
+      "email": "niraj1750@gmail.com",
+      "phone": "+91-8460060106",
+      "imageUrl": "https://nhchauhan.dev/assets/images/profile.png",
+      "website": "https://nhchauhan.dev/",
+      "skills": ["Project Management", "Scrum Master", "Product Owner", "Program Management"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://nhchauhan.dev/",
+          "name": "Blog"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/niraj-chauhan",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/nirj",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
