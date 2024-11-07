@@ -197,6 +197,53 @@
           "experience": "5+ Years"
         }
       ]
+    },
+    {
+      "companyName": "D3V Technology Solutions",
+      "location": "Hyderabad, India (Remote)",
+      "bio": "D3V is a cloud engineering firm and a specialized Google Cloud Partner, delivering enterprise value to startups and SMBs since 2011. We are always on the lookout for the best and brightest minds. If you are passionate about technology and innovation, our team could be the perfect fit for you.       At D3V, we embrace individuals who embody our core values of integrity, commitment, passion, teamwork, and customer success. We seek professionals who take pride in ownership, possess impeccable soft skills, demonstrate critical thinking, and have sound decision-making abilities.        Interested in joining us? Reach out at careers@d3vtech.com!",
+      "companyLogoUrl": "https://storage.googleapis.com/d3v-public-storage/D3V_logo.png",
+      "companyWebsite": "https://www.d3vtech.com/",
+      "companyCareerPage": "https://www.d3vtech.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/d3vtech",
+      "hiringImageUrl": "https://storage.googleapis.com/d3v-public-storage/d3v-employee-testimonials.png",
+      "openings": [
+        {
+          "title": "DevOps Engineer",
+          "count": 2,
+          "experience": "0 to 2 Years"
+        },
+        {
+          "title": "AI/ML Engineer",
+          "count": 2,
+          "experience": "0 to 2 Years"
+        },
+        {
+          "title": "Frontend Developer",
+          "count": 2,
+          "experience": "0 to 5 Years"
+        },
+        {
+          "title": "Backend Developer",
+          "count": 1,
+          "experience": "0 to 3 Years"
+        },
+        {
+          "title": "FullStack Developer",
+          "count": 1,
+          "experience": "0 to 3 Years"
+        },
+        {
+          "title": "Wordpress Developer",
+          "count": 1,
+          "experience": "0 to 5 Years"
+        },
+        {
+          "title": "PHP / Laravel Developer",
+          "count": 1,
+          "experience": "0 to 2 Years"
+        }
+      ]
     }
   ]
 }
