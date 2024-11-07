@@ -97,6 +97,42 @@
       ]
     },
     {
+  "fullName": "Rajveer Rathod",
+  "location": "Kalol, Panchmahals, India",
+  "bio": "As a Machine Learning Research Engineer with hands-on experience in AI-driven solutions, I have led teams in developing innovative applications across IoT, AI, and cloud platforms. I specialize in creating solutions that leverage AI for enhanced automation, efficiency, and user engagement. My work spans developing IoT applications, contributing to open-source machine learning repositories, and conducting impactful research in areas like high-energy physics using ML.",
+  "email": "rajveer.rathod1301@gmail.com",
+  "phone": "+91-9265732511",
+  "imageUrl": "",
+  "website": "https://rajveer43.github.io/rajveer-rathod/",
+  "skills": [
+    "Machine Learning", "IoT", "React.js", "Django", "GPT Models", "AWS", "GCP", "Python", "LangChain", "Transformers", 
+    "Torch-Geometric", "NLP", "Data Visualization", "PowerBI"
+  ],
+  "links": [
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/rajveer-rathod/",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/rajveer43/",
+      "name": "GitHub"
+    },
+    {
+      "icon": "medium",
+      "link": "https://medium.com/@rajveer.rathod1301",
+      "name": "Medium"
+    },
+    {
+      "icon": "huggingface",
+      "link": "https://huggingface.co/rajveer43",
+      "name": "Hugging Face"
+    }
+  ]
+}
+
+    {
       "fullName": "Pratik Bharad",
       "location": "Ahmedabad, India",
       "bio": "Experienced Software Engineer with over 4+ years of experience in mobile development, specializing in Android and Flutter.",
