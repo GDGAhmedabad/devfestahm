@@ -127,6 +127,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Hitesh Patel",
+      "location": "Ahmedabad, India",
+      "bio": "With over 13 years of experience in the tech industry, I am currently serving as the Technical Delivery Head at Recruitment Smart, a leader in AI-powered recruitment solutions. I oversee three critical departments: Cloud & Infrastructure, Chatbot Development, and Robotic Process Automation (RPA). In this capacity, I have successfully led customer onboarding on cloud platforms, ensuring robust and secure architecture, and developed innovative chatbot solutions to enhance candidate experiences through pre-screening, career exploration, and interview scheduling. Additionally, I have implemented RPA for job boards, streamlining processes and boosting productivity. My expertise in these domains has consistently delivered improved efficiency, cost savings, and high customer satisfaction. I am deeply passionate about leveraging my technological expertise to drive innovation and growth. Let's connect and explore new possibilities together!",
+      "email": "hitesh24by365@gmail.com",
+      "phone": "+91-8460481672",
+      "imageUrl": "https://i.ibb.co/Mp3vYDZ/1670940846890.jpg",
+      "website": "https://botsnmore.com/",
+      "skills": ["Cloud Infrastructure", "Web Development", "Chatbot Development", "Chrome Extension", "Node.js", "Python"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://botsnmore.com",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/hitesh24by365",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hitesh24365",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/hitesh24by365",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
