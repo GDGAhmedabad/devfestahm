@@ -246,6 +246,48 @@
       ]
     },
     {
+      "companyName": "Recruitment Smart",
+      "location": "Ahmedabad, India",
+      "bio": "Recruitment Smart is a simple & AI powered Talent Intelligence platform. It helps in streamlining and automating the talent supply chain and makes sure that the hiring is devoid of any underlying biases like gender, racial or otherwise. It rationalises the time & cost to hire while using machine learning to match CVs and job specifications at blinding speed and with stunning accuracy. We are among the top Recruiting Automation products across the world with more than 100 corporate clients. You can visit our Website or LinkedIn Page to know more details about our organisation & our product.",
+      "companyLogoUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/rs_logo.png",
+      "companyWebsite": "https://recruitmentsmart.com/",
+      "companyCareerPage": "https://recruitmentsmart.com/career/",
+      "linkedin": "https://www.linkedin.com/company/recruitment-smart/",
+      "hiringImageUrl": "https://rspublicimages.s3.ap-south-1.amazonaws.com/rs_banner.png",
+      "openings": [
+        {
+          "title": "Sr. Data Scientist",
+          "count": 1,
+          "experience": "4+ yrs of Experience"
+        },
+        {
+          "title": "Azure Chatbot Developer",
+          "count": 1,
+          "experience": "3+ yrs of experience"
+        },
+        {
+          "title": "Customer Success Manager",
+          "count": 2,
+          "experience": "4+ yrs of experience"
+        },
+        {
+          "title": "DevOps Engineer",
+          "count": 1,
+          "experience": "4+ yrs of experience "
+        },
+        {
+          "title": "VP Technologies",
+          "count": 1,
+          "experience": "10+ Yrs of experience"
+        },
+        {
+          "title": "Full Stack Developer",
+          "count": 2,
+          "experience": "4+ Yrs of experience"
+        }
+      ]
+    },
+    {
       "companyName": "Codezeros Technology",
       "location": "Ahmedabad, India",
       "bio": "We are here to welcome you with an open arms! Looking for a community of bockchain beleivers? Join us and let's make a difference.",
@@ -278,6 +320,7 @@
         {
           "title": "Search Engine Optimization Executive(SEO)",
           "experience": "0-2 Years"
+        }
       ]
     }
   ]
