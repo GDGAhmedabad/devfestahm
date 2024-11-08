@@ -244,6 +244,41 @@
           "experience": "0 to 2 Years"
         }
       ]
+    },
+    {
+      "companyName": "Codezeros Technology",
+      "location": "Ahmedabad, India",
+      "bio": "We are here to welcome you with an open arms! Looking for a community of bockchain beleivers? Join us and let's make a difference.",
+      "companyLogoUrl": "https://logopond.com/avatar/301580/Logo.jpeg",
+      "companyWebsite": "https://www.codezeros.com/",
+      "companyCareerPage": "https://www.codezeros.com/careers",
+      "linkedin": "https://www.linkedin.com/company/codezeros/",
+      "hiringImageUrl": "http://surl.li/jcogcj",
+      "openings": [
+        {
+          "title": "System Admin",
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Senior Blockchain Developer",
+          "experience": "3+ Years"
+        },
+        {
+          "title": "Mern Stack Developer",
+          "experience": "5+ Years"
+        },
+        {
+          "title": "Rust Developer",
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Content Writer",
+          "experience": "2+ Years"
+        },
+        {
+          "title": "Search Engine Optimization Executive(SEO)",
+          "experience": "0-2 Years"
+      ]
     }
   ]
 }
