@@ -129,6 +129,33 @@
       ]
     },
     {
+      "fullName": "Jaydip Umaretiya",
+      "location": "Surat, India",
+      "bio": "Experienced and dedicated Android developer with 9 years of expertise in building high-quality native applications for mobile and TV, including digital signage solutions. Proficient in Kotlin, Java, and native libraries, with a strong focus on leveraging Jetpack Compose for modern, responsive UI design across devices, including Android TV. Adept in project oversight and team coordination, consistently achieving outstanding outcomes and exceeding client expectations. Demonstrated success in handling intricate projects, guiding teams, and delivering applications that cater to diverse user requirements. Seeking a dynamic role where I can apply my skills to deliver innovative Android solutions and build long-term partnerships.",
+      "email": "jaynumaretiya@gmail.com",
+      "phone": "+91-9510086772",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D35AQHoea_C-yWYRA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730890182647?e=1731567600&v=beta&t=WNORy1dE-Avt_xHBiCVgOdFoVCu6eAO1Yt1Q9MxsrQ8",
+      "website": "",
+      "skills": ["Android","Kotlin","Jetpack Compose","Android TV Development","KotlinMultiPlatform"],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/jaydipumaretiya",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaydipumaretiya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/jaydipumaretiya",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
       "fullName": "Niraj Chauhan",
       "location": "Vadodara, India",
       "bio": "Technical Project Manager | 10+ years of experience in the Software Industry working from Software development to Program/Portfolio Management.",
