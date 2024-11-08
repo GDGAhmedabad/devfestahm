@@ -987,25 +987,6 @@
     {
       "members": [
         {
-          "name": "Ravi Rupareliya",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1hBh2ATSBhncgr4fw1Hzc5nRHGk5Iul-X/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/ravi_rupareliya?t=xdqzityIN5CtbDH5WWQ2wA&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
-        {
           "name": "Abhishek Jani",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani_22.jpg?alt=media&token=30d23a29-f263-4691-b9da-7d83050cfeed",
@@ -1021,26 +1002,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Umesh Ganpa",
-          "photo": "",
-          "photoUrl": "https://www.canva.com/design/DAGU12iE-qU/Mt8zmxHpkQ-2bELk_BtgXg/view?utm_content=DAGU12iE-qU&utm_campaign=designshare&utm_medium=link&utm_source=editor",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "x.com/umesh_ganpa",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/umesh-ganpa",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
+          "order": 0,
           "title": ""
         },
         {
@@ -1056,6 +1018,44 @@
             {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/deardhruv/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Jignesh Thanki ",
+          "photo": "",
+          "photoUrl": "https://ibb.co/pw778js",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://www.twitter.com/jigsthanki1987",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jignesh-thanki",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "PRANAY PATEL",
+          "photo": "",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/pranaypatel_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pranaypatel512/",
               "name": "LinkedIn"
             }
           ],
@@ -1082,18 +1082,18 @@
           "title": ""
         },
         {
-          "name": "Jignesh Thanki ",
+          "name": "Ravi Rupareliya",
           "photo": "",
-          "photoUrl": "https://ibb.co/pw778js",
+          "photoUrl": "https://drive.google.com/file/d/1hBh2ATSBhncgr4fw1Hzc5nRHGk5Iul-X/view?usp=drivesdk",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://www.twitter.com/jigsthanki1987",
+              "link": "https://x.com/ravi_rupareliya?t=xdqzityIN5CtbDH5WWQ2wA&s=09",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jignesh-thanki",
+              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815",
               "name": "LinkedIn"
             }
           ],
@@ -1101,18 +1101,18 @@
           "title": ""
         },
         {
-          "name": "PRANAY PATEL",
+          "name": "Umesh Ganpa",
           "photo": "",
-          "photoUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75.jpg",
+          "photoUrl": "https://www.canva.com/design/DAGU12iE-qU/Mt8zmxHpkQ-2bELk_BtgXg/view?utm_content=DAGU12iE-qU&utm_campaign=designshare&utm_medium=link&utm_source=editor",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/pranaypatel_",
+              "link": "x.com/umesh_ganpa",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pranaypatel512/",
+              "link": "https://www.linkedin.com/in/umesh-ganpa",
               "name": "LinkedIn"
             }
           ],
@@ -1151,18 +1151,18 @@
     {
       "members": [
         {
-          "name": "JAY BHATIA",
+          "name": "Bhavik Dudhat",
           "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1ohzOewy8PlyDdHDU9nXt7EIbnBY8ADqL/view?usp=drivesdk",
+          "photoUrl": "https://drive.google.com/file/d/1goTF7Hbs476ch45DCfL1e-Dydn-bO8JO/view?usp=sharing",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://NA",
+              "link": "https://x.com/bhavikdudhat",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "www.linkedin.com/in/dudhatbhavik",
               "name": "LinkedIn"
             }
           ],
@@ -1189,25 +1189,6 @@
           "title": ""
         },
         {
-          "name": "Swapneel Hareshbhai Solanki",
-          "photo": "",
-          "photoUrl": "https://photos.app.goo.gl/oQDY7N2EFxowffHi9",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/SolankiSwa74375",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/solanki-swapneel-2bbb0a203/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
-          "title": ""
-        },
-        {
           "name": "Dev Suthar ",
           "photo": "",
           "photoUrl": "https://drive.google.com/file/d/1jtLdNp8lar2g5CdvY2IKPOT6r7F-Y_zW/view?usp=drivesdk",
@@ -1223,102 +1204,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 3,
-          "title": ""
-        },
-        {
-          "name": "Yash Nandha ",
-          "photo": "",
-          "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9qQad9NG-ZXe6T-xBoT9qQ1sZ9dhsGv_Jw&s",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Yashnandha06",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/yashnandha",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
-          "title": ""
-        },
-        {
-          "name": "Rajat Patel",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1oxryHfm-o8p1mxgRjY_3x_jBZkbmtHf9/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Rvpatel11101999",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/rajat-patel-701a7915a",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 5,
-          "title": ""
-        },
-        {
-          "name": "mistry ankit ",
-          "photo": "",
-          "photoUrl": "https://pbs.twimg.com/profile_images/1713202778330578944/IM71zI6x_400x400.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/ankitmistry_?t=rK46cXgjSQLf_gzkFhF-JA&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/ankitmistryy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 6,
-          "title": ""
-        },
-        {
-          "name": "Shail Shah",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1IwqzSKnMQ_B_OZPjp02ZPCK1LthLG9oe/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Shailshah10117?t=z1W4GWR_WwoeSYL3QePBCw&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/shail-shah-95550a225/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 7,
-          "title": ""
-        },
-        {
-          "name": "Krunal Virugama",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1Hmvo9LBh6UYg9eqrDtNRvG4JILjHwdGJ/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/virugamacoder",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/virugamacoder",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 8,
+          "order": 2,
           "title": ""
         },
         {
@@ -1337,26 +1223,40 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 9,
+          "order": 3,
           "title": ""
         },
         {
-          "name": "Bhavik Dudhat",
+          "name": "JAY BHATIA",
           "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1goTF7Hbs476ch45DCfL1e-Dydn-bO8JO/view?usp=sharing",
+          "photoUrl": "https://drive.google.com/file/d/1ohzOewy8PlyDdHDU9nXt7EIbnBY8ADqL/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Krunal Virugama",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1Hmvo9LBh6UYg9eqrDtNRvG4JILjHwdGJ/view?usp=drivesdk",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/bhavikdudhat",
+              "link": "https://x.com/virugamacoder",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "www.linkedin.com/in/dudhatbhavik",
+              "link": "https://www.linkedin.com/in/virugamacoder",
               "name": "LinkedIn"
             }
           ],
-          "order": 10,
+          "order": 5,
           "title": ""
         },
         {
@@ -1375,7 +1275,26 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 11,
+          "order": 6,
+          "title": ""
+        },
+        {
+          "name": "mistry ankit ",
+          "photo": "",
+          "photoUrl": "https://pbs.twimg.com/profile_images/1713202778330578944/IM71zI6x_400x400.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/ankitmistry_?t=rK46cXgjSQLf_gzkFhF-JA&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/ankitmistryy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 7,
           "title": ""
         },
         {
@@ -1394,15 +1313,110 @@
               "name": "LinkedIn"
             }
           ],
+          "order": 8,
+          "title": ""
+        },
+        {
+          "name": "Rajat Patel",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1oxryHfm-o8p1mxgRjY_3x_jBZkbmtHf9/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Rvpatel11101999",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/rajat-patel-701a7915a",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 9,
+          "title": ""
+        },
+        {
+          "name": "Shail Shah",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1IwqzSKnMQ_B_OZPjp02ZPCK1LthLG9oe/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Shailshah10117?t=z1W4GWR_WwoeSYL3QePBCw&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/shail-shah-95550a225/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": ""
+        },
+        {
+          "name": "Swapneel Hareshbhai Solanki",
+          "photo": "",
+          "photoUrl": "https://photos.app.goo.gl/oQDY7N2EFxowffHi9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/SolankiSwa74375",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/solanki-swapneel-2bbb0a203/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 11,
+          "title": ""
+        },
+        {
+          "name": "Yash Nandha ",
+          "photo": "",
+          "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9qQad9NG-ZXe6T-xBoT9qQ1sZ9dhsGv_Jw&s",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Yashnandha06",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/yashnandha",
+              "name": "LinkedIn"
+            }
+          ],
           "order": 12,
           "title": ""
         }
       ],
-      "order": 6,
+      "order": 4,
       "title": "Insta Media Team"
     },
     {
       "members": [
+        {
+          "name": "Bhakti Rathod",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1gllEHVGd9licNNjv_P-D7C4dFOqaSSDH/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/BhaktiRathod106",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/bhakti-rathod/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
         {
           "name": "Darshan Gupta",
           "photo": "",
@@ -1419,7 +1433,97 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 0,
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Deepak Rodge ",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1MFjkt7cAMiSDkZLZp9diP8Foj2l8NPGM/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/deepakrodge2?t=j4WMzfu0Mem6d53Yvd6b1A&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/deepak-rodge-25711324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Hardeek Bhatia",
+          "photo": "",
+          "photoUrl": "https://photos.app.goo.gl/NFoUAkYqMLakNoQZ6",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/hardeek-bhatia-6667221b2",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Harsh Langaliya",
+          "photo": "",
+          "photoUrl": "https://images.app.goo.gl/E3QHmxUYT8n4yoZs7",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Harsh_6045",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/harshlangaliya/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        },
+        {
+          "name": "Harsh Parekh",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1ugmZJKpD2kGTGgA97NV_9VtVs4qvTXc8/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/hap_404",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/hap404/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Jigar vyas",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1D-5mZ9mQ6ialaQb5r3Jyj9JXh_4fe_i3/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/jigarvyasidea",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jigarvyass/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
           "title": ""
         },
         {
@@ -1435,120 +1539,6 @@
             {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/laxdip-patel/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Shah Hiloni Manir",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/13Ongb32dvlMyjNo4XwMCMR9ra1gYxTse/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": " https://x.com/hilonishah5?t=GIoacvTeg-CE8PMgOo3Frw&s=08",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": " https://www.linkedin.com/in/hiloni-shah-624609169",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
-          "title": ""
-        },
-        {
-          "name": "Hardeek Bhatia",
-          "photo": "",
-          "photoUrl": "https://photos.app.goo.gl/NFoUAkYqMLakNoQZ6",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "NA.com",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://in.linkedin.com/in/hardeek-bhatia-6667221b2",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 3,
-          "title": ""
-        },
-        {
-          "name": "Vidhi Suthar",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/13RMkoK9lPdiE9PV6fD6mZLoBU9shBlIf/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/VidhiSuthar32?t=ysqoQ3FhW_il366n9K83-Q&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/sutharvidhi32?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
-          "title": ""
-        },
-        {
-          "name": "Vishal Nai",
-          "photo": "",
-          "photoUrl": "https://ibb.co/RYvyDf1",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/vishalnai56?s=21",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vishal-nai-3640a5118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 5,
-          "title": ""
-        },
-        {
-          "name": "Nikhil Butani ",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1qat4WqGcwHwWIlKDSxQVVawlOVXhm2d8/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/butani_nikhil",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nikhilbutani/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 6,
-          "title": ""
-        },
-        {
-          "name": "Bhakti Rathod",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1gllEHVGd9licNNjv_P-D7C4dFOqaSSDH/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/BhaktiRathod106",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/bhakti-rathod/",
               "name": "LinkedIn"
             }
           ],
@@ -1575,60 +1565,17 @@
           "title": ""
         },
         {
-          "name": "Virengiri Goswami ",
+          "name": "Mala Ruparel ",
           "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1sY4NEizdqnakz7Zf3UjXTfK8Q1NU5dvd/view?usp=drivesdk",
+          "photoUrl": "https://drive.google.com/file/d/1wz_UuQhK8ZksjugrwE4KwuPyFYgHhsN-/view?usp=drivesdk",
           "socials": [
             {
-              "icon": "twitter",
-              "link": "https://x.com/virengiri03",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/virengiri-goswami",
+              "link": "https://www.linkedin.com/in/malah-ruparel-aa682772",
               "name": "LinkedIn"
             }
           ],
           "order": 9,
-          "title": ""
-        },
-        {
-          "name": "Harsh Langaliya",
-          "photo": "",
-          "photoUrl": "https://images.app.goo.gl/E3QHmxUYT8n4yoZs7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Harsh_6045",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/harshlangaliya/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 10,
-          "title": ""
-        },
-        {
-          "name": "Vimarsh Tiwari ",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/drive/folders/1G_FGinirZW0AfqFWiXmbR8p9eB_Gwr0d",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/_vicharvimarsh?t=ZOyYZbJwHPDVm-cgAWVH9w&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vimarsh2013/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 11,
           "title": ""
         },
         {
@@ -1647,235 +1594,26 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 12,
+          "order": 10,
           "title": ""
         },
         {
-          "name": "Romil Patel ",
+          "name": "Nikhil Butani ",
           "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1_rtyfheJFaU_A4D_3pitcNiu9Jb45bmP/view?usp=drivesdk",
+          "photoUrl": "https://drive.google.com/file/d/1qat4WqGcwHwWIlKDSxQVVawlOVXhm2d8/view?usp=drivesdk",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/Romilpatel1988",
+              "link": "https://x.com/butani_nikhil",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/romilpatel1998",
+              "link": "https://www.linkedin.com/in/nikhilbutani/",
               "name": "LinkedIn"
             }
           ],
-          "order": 13,
-          "title": ""
-        },
-        {
-          "name": "Sanghvi Dhaval Maheshbhai ",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1NdAaXI49QzbJR7eqG1gUcSsfD2dlPTfV/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/sanghvi_dhaval7?t=Xssu7RpQO615dwKRvb9tyA&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/sanghvi-dhaval-916370121",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 14,
-          "title": ""
-        },
-        {
-          "name": "Sanket Kalekar",
-          "photo": "",
-          "photoUrl": "https://avatars.githubusercontent.com/u/136423428?v=4",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/ooye_sanket",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://linkedin.com/in/sanketkalekar/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 15,
-          "title": ""
-        },
-        {
-          "name": "Tank Keval Upendrabhai",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1vJ7iwufkBlC333iRX6sksKv0KONBfFR4/view?usp=drive_link",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/keval648874?t=SHyxCA1r6oEhQVyEWFx9hg&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/keval-tank-05244b1b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 16,
-          "title": ""
-        },
-        {
-          "name": "Harsh Parekh",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1ugmZJKpD2kGTGgA97NV_9VtVs4qvTXc8/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/hap_404",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/hap404/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 17,
-          "title": ""
-        },
-        {
-          "name": "Sagar Patel",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/15yZGXATe1mr9RIoavXJLxh78__VUHo0J/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/sagar13patel",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/sagar-patel-4494b0146/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 18,
-          "title": ""
-        },
-        {
-          "name": "Jigar vyas",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1D-5mZ9mQ6ialaQb5r3Jyj9JXh_4fe_i3/view?usp=sharing",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/jigarvyasidea",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jigarvyass/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 19,
-          "title": ""
-        },
-        {
-          "name": "Ronak Doshi",
-          "photo": "",
-          "photoUrl": "https://www.ronakdoshi.in/avatar.png",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/rnkdsh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/rnkdsh",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 20,
-          "title": ""
-        },
-        {
-          "name": "Stavan Mehta",
-          "photo": "",
-          "photoUrl": "https://ibb.co/vhM8bd9",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/StavanMehta17",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/stavanmehta17/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 21,
-          "title": ""
-        },
-        {
-          "name": "Deepak Rodge ",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1MFjkt7cAMiSDkZLZp9diP8Foj2l8NPGM/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/deepakrodge2?t=j4WMzfu0Mem6d53Yvd6b1A&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/deepak-rodge-25711324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 22,
-          "title": ""
-        },
-        {
-          "name": "Pratik Nandani",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1McIfgQmo9RxWRvL7RW_RHxYkfBxagLx_/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/_pratiknandani_",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pratiknandani",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 23,
-          "title": ""
-        },
-        {
-          "name": "Mala Ruparel ",
-          "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1wz_UuQhK8ZksjugrwE4KwuPyFYgHhsN-/view?usp=drivesdk",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://www.linkedin.com/in/malah-ruparel-aa682772",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/malah-ruparel-aa682772",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 24,
+          "order": 11,
           "title": ""
         },
         {
@@ -1894,7 +1632,178 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 25,
+          "order": 12,
+          "title": ""
+        },
+        {
+          "name": "Pratik Nandani",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1McIfgQmo9RxWRvL7RW_RHxYkfBxagLx_/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/_pratiknandani_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pratiknandani",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 13,
+          "title": ""
+        },
+        {
+          "name": "Romil Patel ",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1_rtyfheJFaU_A4D_3pitcNiu9Jb45bmP/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Romilpatel1988",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/romilpatel1998",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 14,
+          "title": ""
+        },
+        {
+          "name": "Ronak Doshi",
+          "photo": "",
+          "photoUrl": "https://www.ronakdoshi.in/avatar.png",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/rnkdsh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/rnkdsh",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 15,
+          "title": ""
+        },
+        {
+          "name": "Sagar Patel",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/15yZGXATe1mr9RIoavXJLxh78__VUHo0J/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/sagar13patel",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/sagar-patel-4494b0146/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 16,
+          "title": ""
+        },
+        {
+          "name": "Sanghvi Dhaval Maheshbhai ",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1NdAaXI49QzbJR7eqG1gUcSsfD2dlPTfV/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/sanghvi_dhaval7?t=Xssu7RpQO615dwKRvb9tyA&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/sanghvi-dhaval-916370121",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 17,
+          "title": ""
+        },
+        {
+          "name": "Sanket Kalekar",
+          "photo": "",
+          "photoUrl": "https://avatars.githubusercontent.com/u/136423428?v=4",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/ooye_sanket",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/sanketkalekar/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 18,
+          "title": ""
+        },
+        {
+          "name": "Shah Hiloni Manir",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/13Ongb32dvlMyjNo4XwMCMR9ra1gYxTse/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": " https://x.com/hilonishah5?t=GIoacvTeg-CE8PMgOo3Frw&s=08",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": " https://www.linkedin.com/in/hiloni-shah-624609169",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 19,
+          "title": ""
+        },
+        {
+          "name": "Stavan Mehta",
+          "photo": "",
+          "photoUrl": "https://ibb.co/vhM8bd9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/StavanMehta17",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/stavanmehta17/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 20,
+          "title": ""
+        },
+        {
+          "name": "Tank Keval Upendrabhai",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1vJ7iwufkBlC333iRX6sksKv0KONBfFR4/view?usp=drive_link",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/keval648874?t=SHyxCA1r6oEhQVyEWFx9hg&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/keval-tank-05244b1b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 21,
           "title": ""
         },
         {
@@ -1913,12 +1822,88 @@
               "name": "LinkedIn"
             }
           ],
+          "order": 22,
+          "title": ""
+        },
+        {
+          "name": "Vidhi Suthar",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/13RMkoK9lPdiE9PV6fD6mZLoBU9shBlIf/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/VidhiSuthar32?t=ysqoQ3FhW_il366n9K83-Q&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/sutharvidhi32?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 23,
+          "title": ""
+        },
+        {
+          "name": "Vimarsh Tiwari ",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/drive/folders/1G_FGinirZW0AfqFWiXmbR8p9eB_Gwr0d",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/_vicharvimarsh?t=ZOyYZbJwHPDVm-cgAWVH9w&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vimarsh2013/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 24,
+          "title": ""
+        },
+        {
+          "name": "Virengiri Goswami ",
+          "photo": "",
+          "photoUrl": "https://drive.google.com/file/d/1sY4NEizdqnakz7Zf3UjXTfK8Q1NU5dvd/view?usp=drivesdk",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/virengiri03",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/virengiri-goswami",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 25,
+          "title": ""
+        },
+        {
+          "name": "Vishal Nai",
+          "photo": "",
+          "photoUrl": "https://ibb.co/RYvyDf1",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/vishalnai56?s=21",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vishal-nai-3640a5118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            }
+          ],
           "order": 26,
           "title": ""
         }
       ],
       "title": "Speaker Buddy",
-      "order": 6
+      "order": 5
     },
     {
       "members": [
@@ -1942,22 +1927,45 @@
           "title": ""
         },
         {
+          "name": "Karan Pal",
+          "photo": "",
+          "photoUrl": "https://asset.cloudinary.com/dz4v51sym/9a16def2b9da4e1f365657b3de332032",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
           "name": "Margi Shah",
           "photo": "",
           "photoUrl": "https://www.linkedin.com/in/margi212",
           "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://www.linkedin.com/in/margi212",
-              "name": "Twitter"
-            },
             {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/margi212",
               "name": "LinkedIn"
             }
           ],
-          "order": 1,
+          "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Mira Patel",
+          "photo": "",
+          "photoUrl": "www.linkedin.com/in/mira-patel-76086a267",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "www.linkedin.com/in/mira-patel-76086a267",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
           "title": ""
         },
         {
@@ -1976,50 +1984,12 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 2,
-          "title": ""
-        },
-        {
-          "name": "Karan Pal",
-          "photo": "",
-          "photoUrl": "https://asset.cloudinary.com/dz4v51sym/9a16def2b9da4e1f365657b3de332032",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 3,
-          "title": ""
-        },
-        {
-          "name": "Mira Patel",
-          "photo": "",
-          "photoUrl": "www.linkedin.com/in/mira-patel-76086a267",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "www.linkedin.com/in/mira-patel-76086a267",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "www.linkedin.com/in/mira-patel-76086a267",
-              "name": "LinkedIn"
-            }
-          ],
           "order": 4,
           "title": ""
         }
       ],
       "title": "Content/Event Anchor",
-      "order": 7
+      "order": 6
     },
     {
       "members": [
@@ -2048,11 +2018,6 @@
           "photoUrl": "https://drive.google.com/file/d/1LpJ6bMD3O0hVSavRj85R8CuDEdKFgaAo/view?usp=drivesdk",
           "socials": [
             {
-              "icon": "twitter",
-              "link": "N/A",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/darshanparmar7",
               "name": "LinkedIn"
@@ -2063,7 +2028,7 @@
         }
       ],
       "title": "Registration/Swags",
-      "order": 8
+      "order": 7
     }
   ],
   "tickets": [
