@@ -295,6 +295,43 @@
           "name": "Youtube"
         }
       ]
+    },
+    {
+      "fullName": "Bharat Solanki",
+      "location": "Ahmedabad, India",
+      "bio": "I am a Fullstack Developer with over 7 years of experience in the IT industry, currently excelling as a Team Lead. With expertise in ATS integrations, I have successfully implemented solutions for platforms such as SAP, Bullhorn, Greenhouse, and Taleo. My technical proficiency extends to job board integrations, having seamlessly connected systems with leading boards like Dice, Monster, and CareerBuilder. Driven by a passion for building efficient, scalable applications, I leverage a robust understanding of both backend and frontend technologies to deliver impactful results.",
+      "email": "bharat.mali4245@gmail.com",
+      "phone": "+91-9510346012",
+      "imageUrl": "https://i.ibb.co/yyGNbG5/1533348772424-1.jpg",
+      "website": "",
+      "skills": [
+        "Php",
+        "javascript",
+        "NodeJS",
+        "ReactJS",
+        "ExpressJS",
+        "Mysql",
+        "MongoDB",
+        "html",
+        "css"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/bharat4245",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://github.com/bharat4245",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mali__bharat",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
