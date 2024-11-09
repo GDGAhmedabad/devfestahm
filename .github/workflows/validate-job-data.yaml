@@ -1,0 +1,34 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "develop" branch
+  pull_request:
+    branches: ["develop"]
+    paths:
+      - 'public/data/job-openings-data.json'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+    contents: read
+    pull-requests: write # enable write permissions for pull request comments
+
+jobs:
+  json-yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v3.2.1 # replace with the latest version
+        with:
+          comment: "true" # enable comment mode
+          json_schema: public/data/schema/job-openings-schema.json
+          files: |
+            public/data/job-openings-data.json
+          use_gitignore: false
+          ajv_strict_mode: false
