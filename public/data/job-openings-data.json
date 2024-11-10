@@ -322,6 +322,42 @@
           "experience": "0-2 Years"
         }
       ]
+    },
+    {
+      "companyName": "YesbhautikX",
+      "location": "Remote",
+      "bio": "Transforming ideas into thriving brands. Building SaaS Products, currently working on FlavorGPT.",
+      "companyLogoUrl": "https://github.com/yesbhautik/yesbhautik/blob/main/media/1024%20White%20YesbhautikX%20Full%20BG.png?raw=true",
+      "companyWebsite": "https://yesbhautikx.co.in/",
+      "companyCareerPage": "https://yesbhautikx.co.in/career/",
+      "linkedin": "https://www.linkedin.com/company/yesbhautikx/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Full Stack Developer Intern",
+          "experience": "1-2+ Years"
+        },
+        {
+          "title": "Blockchain Developer Intern (Solana +1)",
+          "experience": "1-2+ Years"
+        },
+        {
+          "title": "Sales & Marketing Intern",
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Business Development Associate Intern",
+          "experience": "1+ Years"
+        },
+        {
+          "title": "Content Creator",
+          "experience": "1+ Years / Social Reach"
+        },
+        {
+          "title": "Full Stack with AI Intern",
+          "experience": "1+ Years"
+        }
+      ]
     }
   ]
 }
