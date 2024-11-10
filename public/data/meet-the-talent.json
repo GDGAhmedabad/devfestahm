@@ -367,6 +367,38 @@
           "name": "Hugging Face"
         }
       ]
+    },
+    {
+      "fullName": "Bhautik Bavadiya",
+      "location": "Ahmedabad, India",
+      "bio": "Building FlavorGPT & Trust Network | Technologist • IT Professional (6Y+ experience) | Founder @ YesbhautikX | Business Development @ Straw Hat Labs",
+      "email": "hi@yesbhautik.co.in",
+      "phone": "+91-6353586391",
+      "imageUrl": "https://github.com/yesbhautik/yesbhautik/blob/ce20de170527773303b56ec79ff25f420c7c3de7/PP1-yellow.jpg?raw=true",
+      "website": "https://yesbhautik.co.in",
+      "skills": ["Business Development", "Cloud", "Full Stack Development", "Go", "R&D"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://links.yesbhautik.co.in",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yesbhautik",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yesbhautik",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yesbhautik",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
