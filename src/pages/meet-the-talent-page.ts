@@ -137,6 +137,12 @@ export class MeetTheTalentPage extends ReduxMixin(PolymerElement) {
                 alt="[[talent.fullName]]"
               ></lazy-image>
             </template>
+            <template is="dom-if" if="[[!talent.imageUrl]]">
+              <lazy-image
+                class="photo"
+                src="/images/user-placeholder.png"
+              ></lazy-image>
+            </template>
             <div class="description">
               <h2 class="name">[[talent.fullName]]</h2>
               <div class="origin">[[talent.location]]</div>
