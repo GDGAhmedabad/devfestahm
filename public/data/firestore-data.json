@@ -116,6 +116,12 @@
           "logoUrl": "../images/logos/akash-technolabs.png",
           "name": "Akash Technolabs",
           "url": "https://www.akashtechnolabs.com/"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/cirrops.png",
+          "name": "CirrOps",
+          "url": "https://cirrops.in/"
         }
       ],
       "order": 3,
@@ -137,13 +143,13 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://gdg.community.dev/gdg-lviv/"
+          "logoUrl": "../images/logos/allevents.png",
+          "name": "AllEvents",
+          "url": "https://allevents.in/"
         }
       ],
       "order": 5,
-      "title": "Template Partner"
+      "title": "Ticketing Partner"
     }
   ],
   "schedule": {

@@ -8,7 +8,14 @@
       "phone": "+91-7990139255",
       "imageUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75_400x400.jpg",
       "website": "https://pranaypatel.netlify.app/",
-      "skills": ["Android","Kotlin","Flutter","KotlinMultiPlatform","Mentoring","AWS"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter",
+        "KotlinMultiPlatform",
+        "Mentoring",
+        "AWS"
+      ],
       "links": [
         {
           "icon": "website",
@@ -72,7 +79,7 @@
       "phone": "+91-9723925030",
       "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
       "website": "",
-      "skills": ["Android","Kotlin","Flutter"],
+      "skills": ["Android", "Kotlin", "Flutter"],
       "links": [
         {
           "icon": "website",
@@ -104,7 +111,7 @@
       "phone": "+91-7984268169",
       "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
       "website": "https://pratik-bharad.webflow.io/",
-      "skills": ["Android","Kotlin","Flutter"],
+      "skills": ["Android", "Kotlin", "Flutter"],
       "links": [
         {
           "icon": "website",
@@ -136,7 +143,13 @@
       "phone": "+91-9510086772",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D4D35AQHoea_C-yWYRA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730890182647?e=1731567600&v=beta&t=WNORy1dE-Avt_xHBiCVgOdFoVCu6eAO1Yt1Q9MxsrQ8",
       "website": "",
-      "skills": ["Android","Kotlin","Jetpack Compose","Android TV Development","KotlinMultiPlatform"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Jetpack Compose",
+        "Android TV Development",
+        "KotlinMultiPlatform"
+      ],
       "links": [
         {
           "icon": "github",
@@ -163,7 +176,12 @@
       "phone": "+91-8460060106",
       "imageUrl": "https://nhchauhan.dev/assets/images/profile.png",
       "website": "https://nhchauhan.dev/",
-      "skills": ["Project Management", "Scrum Master", "Product Owner", "Program Management"],
+      "skills": [
+        "Project Management",
+        "Scrum Master",
+        "Product Owner",
+        "Program Management"
+      ],
       "links": [
         {
           "icon": "website",
@@ -195,7 +213,14 @@
       "phone": "+91-8460481672",
       "imageUrl": "https://i.ibb.co/Mp3vYDZ/1670940846890.jpg",
       "website": "https://botsnmore.com/",
-      "skills": ["Cloud Infrastructure", "Web Development", "Chatbot Development", "Chrome Extension", "Node.js", "Python"],
+      "skills": [
+        "Cloud Infrastructure",
+        "Web Development",
+        "Chatbot Development",
+        "Chrome Extension",
+        "Node.js",
+        "Python"
+      ],
       "links": [
         {
           "icon": "website",
@@ -215,6 +240,162 @@
         {
           "icon": "twitter",
           "link": "https://x.com/hitesh24by365",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Savan Patel",
+      "location": "Ahmedabad, India",
+      "bio": "Sr. Software Engineer (MERN) | 5+ YOE | Experience with US Based startups in HealthCare, B2B SaaS and AI focused domains.",
+      "email": "savan.gatesaniya@gmail.com",
+      "phone": "+91-8155089510",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1O8iD0fXFQV7-iqjKtwwpfmf-cbIJZn7f",
+      "website": "https://savanpatell.netlify.app/",
+      "skills": [
+        "NodeJS",
+        "ReactJS",
+        "AWS",
+        "Kafka",
+        "RabbitMQ",
+        "Redis",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "LLM",
+        "NestJS",
+        "NextJS",
+        "TailwindCSS",
+        "Kubernetes"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://savanpatell.netlify.app/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/psavan1655",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/savanpatell/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/patelsavan6595",
+          "name": "X/Twitter"
+        },
+        {
+          "icon": "youtube",
+          "link": "https://www.youtube.com/@SRPPixels",
+          "name": "Youtube"
+        }
+      ]
+    },
+    {
+      "fullName": "Bharat Solanki",
+      "location": "Ahmedabad, India",
+      "bio": "I am a Fullstack Developer with over 7 years of experience in the IT industry, currently excelling as a Team Lead. With expertise in ATS integrations, I have successfully implemented solutions for platforms such as SAP, Bullhorn, Greenhouse, and Taleo. My technical proficiency extends to job board integrations, having seamlessly connected systems with leading boards like Dice, Monster, and CareerBuilder. Driven by a passion for building efficient, scalable applications, I leverage a robust understanding of both backend and frontend technologies to deliver impactful results.",
+      "email": "bharat.mali4245@gmail.com",
+      "phone": "+91-9510346012",
+      "imageUrl": "https://i.ibb.co/yyGNbG5/1533348772424-1.jpg",
+      "website": "",
+      "skills": [
+        "Php",
+        "javascript",
+        "NodeJS",
+        "ReactJS",
+        "ExpressJS",
+        "Mysql",
+        "MongoDB",
+        "html",
+        "css"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/bharat4245",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://github.com/bharat4245",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mali__bharat",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Rajveer Rathod",
+      "location": "Kalol, Panchmahals, India",
+      "bio": "As a Machine Learning Research Engineer with hands-on experience in AI-driven solutions, I have led teams in developing innovative applications across IoT, AI, and cloud platforms. I specialize in creating solutions that leverage AI for enhanced automation, efficiency, and user engagement. My work spans developing IoT applications, contributing to open-source machine learning repositories, and conducting impactful research in areas like high-energy physics using ML.",
+      "email": "rajveer.rathod1301@gmail.com",
+      "phone": "+91-9265732511",
+      "imageUrl": "",
+      "website": "https://rajveer43.github.io/rajveer-rathod/",
+      "skills": [
+        "Machine Learning", "IoT", "React.js", "Django", "GPT Models", "AWS", "GCP", "Python", "LangChain", "Transformers", 
+        "Torch-Geometric", "NLP", "Data Visualization", "PowerBI"
+      ],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rajveer-rathod/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/rajveer43/",
+          "name": "GitHub"
+        },
+        {
+          "icon": "medium",
+          "link": "https://medium.com/@rajveer.rathod1301",
+          "name": "Medium"
+        },
+        {
+          "icon": "huggingface",
+          "link": "https://huggingface.co/rajveer43",
+          "name": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "fullName": "Bhautik Bavadiya",
+      "location": "Ahmedabad, India",
+      "bio": "Building FlavorGPT & Trust Network | Technologist • IT Professional (6Y+ experience) | Founder @ YesbhautikX | Business Development @ Straw Hat Labs",
+      "email": "hi@yesbhautik.co.in",
+      "phone": "+91-6353586391",
+      "imageUrl": "https://github.com/yesbhautik/yesbhautik/blob/ce20de170527773303b56ec79ff25f420c7c3de7/PP1-yellow.jpg?raw=true",
+      "website": "https://yesbhautik.co.in",
+      "skills": ["Business Development", "Cloud", "Full Stack Development", "Go", "R&D"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://links.yesbhautik.co.in",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yesbhautik",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yesbhautik",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yesbhautik",
           "name": "X/Twitter"
         }
       ]
