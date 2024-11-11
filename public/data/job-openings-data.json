@@ -322,6 +322,43 @@
           "experience": "0-2 Years"
         }
       ]
+    },
+    {
+      "companyName": "Essence Solusoft",
+      "location": "Ahmedabad, India",
+      "bio": "Essence Solusoft is looking for some of the talented individuals, who have interest in solving real-world business problems and challenges through web-based solutions. Being a leading web app development company with development center in India, USA, we are developing web-based app solutions for enterprises, startups and businesses.",
+      "companyLogoUrl": "https://drive.usercontent.google.com/download?id=1-5LbF-xYq9McOiCpFBy8lIz6-kwpsIPx",
+      "companyWebsite": "https://essencesolusoft.com/",
+      "companyCareerPage": "https://essencesolusoft.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/essencesolusoft/",
+      "hiringImageUrl": "https://drive.usercontent.google.com/download?id=16LpHo4KwL_zGCwSHFyfxDmU3_Up26HSF",
+      "openings": [
+        {
+          "title": "Full Stack Ruby on Rails Developer",
+          "count": 5,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Digital Marketing Executive",
+          "count": 2,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Business Development Executive (BDE)",
+          "count": 2,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Fresher Software Engineers",
+          "count": 5,
+          "experience": "0-6 months"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "2+ Years"
+        }
+      ]
     }
   ]
 }
