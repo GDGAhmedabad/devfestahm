@@ -334,6 +334,38 @@
       ]
     },
     {
+      "fullName": "Mayur Gohel",
+      "location": "Vadodara, India",
+      "bio": "Crafting smart, seamless mobile apps with Flutter, powered by AI & ML for the next-gen user experience | MVVM | Swift | Swift UI | Flutter | Dart",
+      "email": "mgohel2017@gmail.com",
+      "phone": "+91 9016125654",
+      "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
+      "website": "https://techconnectors.community/profile/mayurgohel",
+      "skills": ["iOS", "Flutter", "Android", "AI/ML"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://techconnectors.community/profile/mayurgohel",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/mggohel",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/gohelmayur",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mayurgohel89",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
       "fullName": "Rajveer Rathod",
       "location": "Kalol, Panchmahals, India",
       "bio": "As a Machine Learning Research Engineer with hands-on experience in AI-driven solutions, I have led teams in developing innovative applications across IoT, AI, and cloud platforms. I specialize in creating solutions that leverage AI for enhanced automation, efficiency, and user engagement. My work spans developing IoT applications, contributing to open-source machine learning repositories, and conducting impactful research in areas like high-energy physics using ML.",
