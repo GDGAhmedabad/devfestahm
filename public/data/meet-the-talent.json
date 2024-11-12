@@ -399,6 +399,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Mayur Gohel",
+      "location": "Vadodara, India",
+      "bio": "Crafting smart, seamless mobile apps with Flutter, powered by AI & ML for the next-gen user experience | MVVM | Swift | Swift UI | Flutter | Dart",
+      "email": "mgohel2017@gmail.com",
+      "phone": "+91 9016125654",
+      "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
+      "website": "https://techconnectors.community/profile/mayurgohel",
+      "skills": ["iOS", "Flutter", "Android", "AI/ML"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://techconnectors.community/profile/mayurgohel",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/mggohel",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/gohelmayur",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mayurgohel89",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
