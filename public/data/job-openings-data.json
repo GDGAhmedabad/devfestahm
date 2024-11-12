@@ -406,6 +406,28 @@
       "experience": "Freshers"
     }
   ]
-}
+    },
+    {
+      "companyName": "Skylark Drones",
+      "location": "Bangalore, India",
+      "bio": "We Innovate & integrate drone solutions and services into scalable real-world applications that benefit enterprises and the community at large while making sure authenticity and clarity are central to making decisions that save time, money and lives. Throughout the lifecycle of any largescale projects and assets in sectors such as roads and highways, powerlines, pipelines, mines and even agriculture we use drone based solutions to enable three primary stages: Planning, construction and maintenance. Mail us: careers@skylarkdrones.com",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1DBZF7eiuVSIFEsF75edfoDsQl3gNdi4v",
+      "companyWebsite": "https://www.skylarkdrones.com",
+      "companyCareerPage": "https://wellfound.com/company/skylark-drones/jobs",
+      "linkedin": "https://www.linkedin.com/company/skylark-drones/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Senior Web Developer",
+          "count": 1,
+          "experience": "2+ years"
+        },
+        {
+          "title": "QA Lead",
+          "count": 1,
+          "experience": "2+ years"
+        }
+      ]
+    }
   ]
 }
