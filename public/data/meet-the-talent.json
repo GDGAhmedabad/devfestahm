@@ -399,6 +399,33 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Sanket Modi",
+      "location": "Ahmedabad, India",
+      "bio": "I am Sanket Modi, with a total 13+ years of experience including 4+ years experience in management in the software development world with product development organizations. I am looking for an opportunity in an Engineering Management role.",
+      "email": "74.sanket@gmail.com",
+      "phone": "+91-8128102815",
+      "imageUrl": "https://avatars.githubusercontent.com/u/12370385?v=4",
+      "website": "",
+      "skills": ["engineering management", "sdet management", "people management", "OKR", "resource planning", "release planning"],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sankethmodi",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sankethm7",
+          "name": "Github"
+        },   
+        {
+          "icon": "resume",
+          "link": "https://drive.google.com/file/d/1fbM7aNG-mwteD8OZ_tQMlA7AmsSiBbLk/view",
+          "name": "Resume"
+        }
+      ]
     }
   ]
 }
