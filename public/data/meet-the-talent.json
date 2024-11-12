@@ -47,7 +47,12 @@
       "phone": "+91-8780415854",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
       "website": "",
-      "skills": ["Android", "Flutter", "Gen AI", "Python Automation"],
+      "skills": [
+        "Android",
+        "Flutter",
+        "Gen AI",
+        "Python Automation"
+      ],
       "links": [
         {
           "icon": "website",
@@ -79,7 +84,11 @@
       "phone": "+91-9723925030",
       "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
       "website": "",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -111,7 +120,11 @@
       "phone": "+91-7984268169",
       "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
       "website": "https://pratik-bharad.webflow.io/",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -342,8 +355,20 @@
       "imageUrl": "",
       "website": "https://rajveer43.github.io/rajveer-rathod/",
       "skills": [
-        "Machine Learning", "IoT", "React.js", "Django", "GPT Models", "AWS", "GCP", "Python", "LangChain", "Transformers", 
-        "Torch-Geometric", "NLP", "Data Visualization", "PowerBI"
+        "Machine Learning",
+        "IoT",
+        "React.js",
+        "Django",
+        "GPT Models",
+        "AWS",
+        "GCP",
+        "Python",
+        "LangChain",
+        "Transformers",
+        "Torch-Geometric",
+        "NLP",
+        "Data Visualization",
+        "PowerBI"
       ],
       "links": [
         {
@@ -376,7 +401,13 @@
       "phone": "+91-6353586391",
       "imageUrl": "https://github.com/yesbhautik/yesbhautik/blob/ce20de170527773303b56ec79ff25f420c7c3de7/PP1-yellow.jpg?raw=true",
       "website": "https://yesbhautik.co.in",
-      "skills": ["Business Development", "Cloud", "Full Stack Development", "Go", "R&D"],
+      "skills": [
+        "Business Development",
+        "Cloud",
+        "Full Stack Development",
+        "Go",
+        "R&D"
+      ],
       "links": [
         {
           "icon": "website",
@@ -397,6 +428,39 @@
           "icon": "twitter",
           "link": "https://x.com/yesbhautik",
           "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Divya Dave",
+      "location": "Ahmedabad, India",
+      "bio": "With 4 years of experience, I bring a thoughtful approach to development, asking the right questions to create impactful, user-focused mobile applications that prioritize seamless experiences.",
+      "email": "divyadave1205@gmail.com",
+      "phone": "+91-9601808779",
+      "imageUrl": "https://github.com/user-attachments/assets/5d5fa3f9-4f58-4fa5-a10d-80e4d2ab94a1",
+      "website": "https://divyadave.framer.ai/",
+      "skills": [
+        "Flutter",
+        "IoT",
+        "Web apps",
+        "Agile Methodologies",
+        "Cross platform apps"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://divyadave.framer.ai/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/divyadave1205",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/divya-dave-09b099234/",
+          "name": "LinkedIn"
         }
       ]
     }
