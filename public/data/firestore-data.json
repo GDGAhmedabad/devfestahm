@@ -987,28 +987,81 @@
     {
       "members": [
         {
-          "name": "Abhishek Jani",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani_22.jpg?alt=media&token=30d23a29-f263-4691-b9da-7d83050cfeed",
+          "name": "Amit Panchal",
+          "photo": "/images/people/others/amit_panchal.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Famit_panchal.jpeg?alt=media&token=8a445e5d-f9a6-4812-b55c-31b85a1f6667",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/abhi_jani?s=21",
+              "link": "https://twitter.com/AmitHPanchal",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/abhijani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://www.linkedin.com/in/amithpanchal/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.amitpanchal.com/",
+              "name": "Website"
             }
           ],
           "order": 0,
           "title": ""
         },
         {
+          "name": "Jignesh Thanki",
+          "photo": "/images/people/others/jignesh_thanki_22.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki_22.jpeg?alt=media&token=f0131177-971c-41cf-b870-0cef3067238f",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JigsThanki1987",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jigneshthanki1987/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://jigsthanki1987.wordpress.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Manthan Ladva",
+          "photo": "/images/people/others/manthan_ladva_22.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fmanthan_ladva_22.jpg?alt=media&token=9b8f0673-0941-4cfb-8a68-ca7f81f8f074",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/manthan_ladva",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/manthan-ladva-506a04116/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/manthan-ladva",
+              "name": "Github"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        },
+        {
           "name": "Dhruv Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdhruv_patel.png?alt=media&token=b3510ee2-fcfa-47b0-9a12-47cfc7ad69a3",
+          "photo": "/images/people/others/dhruv_patel_22.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhruv_patel_22.jpeg?alt=media&token=2529a050-ca08-4dfb-8140-40f809810268",
           "socials": [
             {
               "icon": "twitter",
@@ -1019,63 +1072,40 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/deardhruv/",
               "name": "LinkedIn"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Jignesh Thanki ",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki_22.jpeg?alt=media&token=f0131177-971c-41cf-b870-0cef3067238f",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://www.twitter.com/jigsthanki1987",
-              "name": "Twitter"
             },
             {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jignesh-thanki",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
-          "title": ""
-        },
-        {
-          "name": "PRANAY PATEL",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpranay_patel_22.jpg?alt=media&token=d319ced6-d197-4010-8d91-a63ef78438c1",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/pranaypatel_",
-              "name": "Twitter"
+              "icon": "github",
+              "link": "https://github.com/DearDhruv",
+              "name": "Github"
             },
             {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pranaypatel512/",
-              "name": "LinkedIn"
+              "icon": "website",
+              "link": "http://deardhruv.com/",
+              "name": "Website"
             }
           ],
           "order": 3,
           "title": ""
         },
         {
-          "name": "Pratik Butani ",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fpratik_butani.jpg?alt=media&token=fc06573d-495e-4e59-8afe-d9616bf6e7dc",
+          "name": "Abhishek Jani",
+          "photo": "/images/people/others/abhishek_jani.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fabhishek_jani_22.jpg?alt=media&token=30d23a29-f263-4691-b9da-7d83050cfeed",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/pratik13butani",
+              "link": "https://twitter.com/Abhi_Jani",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://linkedin.com/in/pratikbutani",
+              "link": "https://www.linkedin.com/in/abhijani/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://about.me/abhijani",
+              "name": "Website"
             }
           ],
           "order": 4,
@@ -1083,21 +1113,98 @@
         },
         {
           "name": "Ravi Rupareliya",
-          "photo": "",
+          "photo": "/images/people/others/ravi_rupareliya_22.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fravi_rupareliya_22.jpg?alt=media&token=3a0b0846-427e-4b03-84d0-03cebef3b27b",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/ravi_rupareliya?t=xdqzityIN5CtbDH5WWQ2wA&s=09",
+              "link": "https://twitter.com/ravi_rupareliya",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815",
+              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ravirupareliya",
+              "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "http://ravirupareliya.com/",
+              "name": "Website"
             }
           ],
           "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Pranay Patel",
+          "photo": "/images/people/others/pranay_patel_22.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpranay_patel_22.jpg?alt=media&token=d319ced6-d197-4010-8d91-a63ef78438c1",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pranaypatel_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pranaypatel512/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://medium.com/@pranaypatel",
+              "name": "Blog"
+            }
+          ],
+          "order": 6,
+          "title": ""
+        },
+        {
+          "name": "Vatsal Gajjar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal-gajjar.jpg?alt=media&token=9ece86fc-4f26-4e9d-82c4-83a4802f34ee",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/gajjarvatsall",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gajjarvatsall",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://gajjarvatsall.github.io/my-portfolio/#home",
+              "name": "Blog"
+            }
+          ],
+          "order": 7,
+          "title": ""
+        },
+        {
+          "name": "Pratik Butani",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fpratik-butani.jpeg?alt=media&token=6c38943a-44cd-445d-b86b-93c2caac0ccc",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pratik13butani",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pratikbutani/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 8,
           "title": ""
         },
         {
@@ -1116,7 +1223,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 6,
+          "order": 9,
           "title": ""
         }
       ],
@@ -1128,17 +1235,22 @@
         {
           "name": "Deep Govani",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdeep_govani.png?alt=media&token=2083ac45-d41d-4601-8508-302493f53ca2",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdeep-govani.jpg?alt=media&token=f9168f20-d86c-42d0-a0bd-97c6a7e5bed4",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/djgovani",
+              "link": "https://twitter.com/djgovani",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/djgovani",
+              "link": "https://www.linkedin.com/in/djgovani/",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/djgovani",
+              "name": "Github"
             }
           ],
           "order": 0,
@@ -1151,18 +1263,71 @@
     {
       "members": [
         {
-          "name": "Bhavik Dudhat",
+          "name": "Harshil Devani",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fbhavik_dudhat.jpeg?alt=media&token=a55e193b-524c-477f-af56-2d9f79cc7cdf",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fharshil-devani.jpg?alt=media&token=f15b4158-d951-4748-969c-6c8a216b47cf",
+          "socials": [
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/hd._.photography_",
+              "name": "Instagram"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Hemank Kukadiya",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fhemank-kukadiya.jpeg?alt=media&token=f28edf23-d7e2-41b5-a9c4-b59cb71c6c02",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/hemank-kukadiya-021427187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/hemank_iz_here",
+              "name": "Instagram"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Saurabh Darji",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fsaurabh-darji.jpg?alt=media&token=f4426190-9c96-4f50-884b-e3b9aec0652c",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": ""
+        }
+      ],
+      "order": 4,
+      "title": "Media Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Bhavin mukeshbhai vala",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fbhavin_mukeshbhai.jpg?alt=media&token=690e6a0f-380f-4f5f-937b-824b3a6596ab",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/bhavikdudhat",
+              "link": "https://x.com/bhavinvala18?t=O-34542xy40gYJut7-UXow&s=09",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "www.linkedin.com/in/dudhatbhavik",
+              "link": "https://www.linkedin.com/in/bhavin-vala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
               "name": "LinkedIn"
             }
           ],
@@ -1170,18 +1335,52 @@
           "title": ""
         },
         {
-          "name": "Deep Suthar",
+          "name": "Darshan Parmar",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdeep_suthar.jpg?alt=media&token=2d4173d7-6e6b-44e8-b547-b087a7d2bfe1",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdarshan_parmar.jpg?alt=media&token=736ffef9-0d3b-4e11-b772-38cae71cd8f3",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/darshanparmar7",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        }
+      ],
+      "title": "Registration and Swags Team",
+      "order": 5
+    },
+    {
+      "members": [
+        {
+          "name": "Darpan Ketan Amre",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdarpan-amre.jpeg?alt=media&token=6702d39c-e1f9-4109-838e-389d948fe58d",
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://x.com/deepsuthar028",
+              "link": "https://twitter.com/AmreDarpan",
               "name": "Twitter"
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/deepsuthar028",
+              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Karan Pal",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fkaran_pal.jpg?alt=media&token=4467b789-2803-4da2-892d-74d384a6a516",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
               "name": "LinkedIn"
             }
           ],
@@ -1189,18 +1388,13 @@
           "title": ""
         },
         {
-          "name": "Dev Suthar",
+          "name": "Margi Shah",
           "photo": "",
-          "photoUrl": "https://drive.google.com/file/d/1jtLdNp8lar2g5CdvY2IKPOT6r7F-Y_zW/view?usp=drivesdk",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmargi_shah.jpg?alt=media&token=b6978484-ab4c-4226-889a-56965eb8ed57",
           "socials": [
             {
-              "icon": "twitter",
-              "link": "https://x.com/iam_devsuthar?s=09",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/dev1106",
+              "link": "https://www.linkedin.com/in/margi212",
               "name": "LinkedIn"
             }
           ],
@@ -1208,18 +1402,13 @@
           "title": ""
         },
         {
-          "name": "Harsh Trivedi",
+          "name": "Mira Patel",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fharsh_trivedi.jpg?alt=media&token=81cfea62-7fd4-4337-9d13-0229e3b925ca",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmira_patel.jpg?alt=media&token=d10f1409-8504-43b6-8ed0-c1c807f939c6",
           "socials": [
             {
-              "icon": "twitter",
-              "link": "https://x.com/iamharshtrivedi",
-              "name": "Twitter"
-            },
-            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/iamharshtrivedi",
+              "link": "www.linkedin.com/in/mira-patel-76086a267",
               "name": "LinkedIn"
             }
           ],
@@ -1227,174 +1416,27 @@
           "title": ""
         },
         {
-          "name": "JAY BHATIA",
+          "name": "Vashishth Patel",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fjay_bhatia.png?alt=media&token=e84d209f-c9e9-4b1d-ad2c-01b2cb193374",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fvashishth_patel.jpg?alt=media&token=27ec0681-f602-4f9a-b2ca-8411f1b642a8",
           "socials": [
             {
+              "icon": "twitter",
+              "link": "https://x.com/0xvashishth/",
+              "name": "Twitter"
+            },
+            {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://linkedin.com/in/0xvashishth/",
               "name": "LinkedIn"
             }
           ],
           "order": 4,
           "title": ""
-        },
-        {
-          "name": "Krunal Virugama",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fkrunal_virugama.png?alt=media&token=f72580ff-da04-4496-8374-16ddaec3e638",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/virugamacoder",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/virugamacoder",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 5,
-          "title": ""
-        },
-        {
-          "name": "Mihir Sharma",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmihir_sharma.png?alt=media&token=747a4fd3-17d4-403e-932a-0a3bc15ab971",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/IamMihir21",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/mihir910/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 6,
-          "title": ""
-        },
-        {
-          "name": "Mistry Ankit",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fankit_mistry.jpg?alt=media&token=c10cfa6f-f14a-465d-b688-09363ccdc352",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/ankitmistry_?t=rK46cXgjSQLf_gzkFhF-JA&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/ankitmistryy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 7,
-          "title": ""
-        },
-        {
-          "name": "Nishit Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fnishit_patel.jpg?alt=media&token=68b323ae-99fe-4821-97ef-2cc902d19e38",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Nishit1006",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nishit-patel-a033832a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 8,
-          "title": ""
-        },
-        {
-          "name": "Rajat Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Frajat_patel.jpg?alt=media&token=2c5ff8b9-6568-41f9-8263-67b0fd538630",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Rvpatel11101999",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/rajat-patel-701a7915a",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 9,
-          "title": ""
-        },
-        {
-          "name": "Shail Shah",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fshail_shah.jpg?alt=media&token=4a2d2945-f3bf-466e-a25d-c863f413f41c",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Shailshah10117?t=z1W4GWR_WwoeSYL3QePBCw&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/shail-shah-95550a225/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 10,
-          "title": ""
-        },
-        {
-          "name": "Swapneel Hareshbhai Solanki",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fswapneel_solanki.jpg?alt=media&token=a996ac98-4767-4773-9755-e58e8dbab4d2",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/SolankiSwa74375",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/solanki-swapneel-2bbb0a203/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 11,
-          "title": ""
-        },
-        {
-          "name": "Yash Nandha ",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fyash_nandha.jpeg?alt=media&token=2f7cd3d5-ba8b-490e-bd3c-b65f9ab0a447",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Yashnandha06",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/yashnandha",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 12,
-          "title": ""
         }
       ],
-      "order": 4,
-      "title": "Insta Media Team"
+      "title": "Content Writer Team",
+      "order": 6
     },
     {
       "members": [
@@ -1903,131 +1945,6 @@
         }
       ],
       "title": "Speaker Buddy",
-      "order": 5
-    },
-    {
-      "members": [
-        {
-          "name": "Darpan Ketan Amre",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdarpan-amre.jpeg?alt=media&token=6702d39c-e1f9-4109-838e-389d948fe58d",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/AmreDarpan",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
-        {
-          "name": "Karan Pal",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fkaran_pal.jpg?alt=media&token=4467b789-2803-4da2-892d-74d384a6a516",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Margi Shah",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmargi_shah.jpg?alt=media&token=b6978484-ab4c-4226-889a-56965eb8ed57",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/margi212",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
-          "title": ""
-        },
-        {
-          "name": "Mira Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmira_patel.jpg?alt=media&token=d10f1409-8504-43b6-8ed0-c1c807f939c6",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "www.linkedin.com/in/mira-patel-76086a267",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 3,
-          "title": ""
-        },
-        {
-          "name": "Vashishth Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fvashishth_patel.jpg?alt=media&token=27ec0681-f602-4f9a-b2ca-8411f1b642a8",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/0xvashishth/",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://linkedin.com/in/0xvashishth/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
-          "title": ""
-        }
-      ],
-      "title": "Content/Event Anchor",
-      "order": 6
-    },
-    {
-      "members": [
-        {
-          "name": "Bhavin mukeshbhai vala",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fbhavin_mukeshbhai.jpg?alt=media&token=690e6a0f-380f-4f5f-937b-824b3a6596ab",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/bhavinvala18?t=O-34542xy40gYJut7-UXow&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/bhavin-vala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
-        {
-          "name": "Darshan Parmar",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdarshan_parmar.jpg?alt=media&token=736ffef9-0d3b-4e11-b772-38cae71cd8f3",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/darshanparmar7",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 1,
-          "title": ""
-        }
-      ],
-      "title": "Registration/Swags",
       "order": 7
     }
   ],
