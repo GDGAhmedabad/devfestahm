@@ -359,6 +359,53 @@
           "experience": "2+ Years"
         }
       ]
+    },
+    {
+  "companyName": "Ashapura Softech Pvt. Ltd.",
+  "location": "Ahmedabad",
+  "bio": "Ashapura Softech is a leading enterprise solutions provider based in Wilmington, Delaware, USA. Founded in 2012 by two experienced technocrats, the company was established with a vision to create a comprehensive firm that supports ambitious individuals and offers innovative IT solutions. With over 10 years of experience in software development and IT consultancy, the founders are committed to delivering top-quality IT solutions that drive success for clients in a highly competitive market.",
+  "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNPHmL7kyYSvm3p2IEc9WZtFfyI2Fj5XRMw&s",
+  "companyWebsite": "https://ashapurasoftech.com/",
+  "companyCareerPage": "https://ashapurasoftech.com/career/",
+  "linkedin": "https://in.linkedin.com/company/ashapura-softech-inc",
+  "hiringImageUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEUsPxnqTh3Vg/feedshare-shrink_800/feedshare-shrink_800/0/1731302891835?e=2147483647&v=beta&t=GKiTT8h1FvNQcR-BJUN5OeyCsBqwI50lnWfFw3Er-L0",
+  "openings": [
+    {
+      "title": "PHP Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+    {
+      "title": "Zoho Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+    {
+      "title": "ASP.NET Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Graphic Designer",
+      "count": 1,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Quality Analyst",
+      "count": 1,
+      "experience": "Freshers"
+    },
+    {
+      "title": "Digital Marketing Executive",
+      "count": 1,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Business Development Executive",
+      "count": 2,
+      "experience": "Freshers"
     }
+  ]
+}
   ]
 }
