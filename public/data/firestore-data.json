@@ -413,7 +413,7 @@
     },
     "103": {
       "complexity": "Intermediate",
-      "description": "The talk will emphasize the critical need for developers to embrace the rapidly evolving GenAI technologies to stay relevant in the dynamic tech landscape. The talk will highlight strategies for integrating GenAI into existing development workflows, addressing the challenges and opportunities it presents, and fostering a culture of continuous learning and innovation to leverage the full potential of GenAI in the development sector.",
+      "description": "Step into the agentic economy, where AI agents redefine the development process, boosting efficiency, enabling smarter workflows, and unlocking new levels of productivity - highlighted by a live demo of DhiWise 3.0.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -423,7 +423,7 @@
         "Keynote",
         "AI/ML"
       ],
-      "title": "Innovate or Stagnate: Adapting to the GenAI Era in Development",
+      "title": "The Agentic Economy: Transforming Development with AI-driven Efficiency and Accuracy",
       "videoId": ""
     },
     "104": {
