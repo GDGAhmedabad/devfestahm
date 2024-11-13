@@ -502,6 +502,11 @@
       "skills": ["Java", "Springboot", "AWS", "Kafka", "Docker", "Microservices"],
       "links": [
         {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
           "icon": "github",
           "link": "https://github.com/RushiMThakker",
           "name": "Github"
@@ -510,6 +515,11 @@
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/rushithakker",
           "name": "LinkedIn"
+        },   
+        {
+          "icon": "resume",
+          "link": "https://drive.google.com/file/d/1hN-CZHHTeeSYUFqwqYjejh6P-NP8kVWb/view?usp=drive_link",
+          "name": "Resume"
         }
       ]
     }
