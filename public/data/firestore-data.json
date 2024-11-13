@@ -194,7 +194,7 @@
           "endTime": "10:30",
           "sessions": [
             {
-              "items": []
+              "items": ["159"]
             }
           ],
           "startTime": "10:00"
@@ -203,7 +203,7 @@
           "endTime": "11:00",
           "sessions": [
             {
-              "items": []
+              "items": ["103"]
             }
           ],
           "startTime": "10:30"
@@ -212,7 +212,7 @@
           "endTime": "11:15",
           "sessions": [
             {
-              "items": []
+              "items": ["160"]
             }
           ],
           "startTime": "11:00"
@@ -221,19 +221,16 @@
           "endTime": "12:00",
           "sessions": [
             {
-              "items": []
+              "items": ["102"]
             },
             {
-              "items": []
+              "items": ["110"]
             },
             {
-              "items": []
+              "items": ["104"]
             },
             {
-              "items": []
-            },
-            {
-              "items": []
+              "items": ["114"]
             }
           ],
           "startTime": "11:15"
@@ -242,19 +239,16 @@
           "endTime": "12:45",
           "sessions": [
             {
-              "items": []
+              "items": ["121"]
             },
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
+              "items": ["106"]
             },
             {
-              "items": []
-            },
-            {
-              "items": []
+              "items": ["112"]
             }
           ],
           "startTime": "12:00"
@@ -263,19 +257,19 @@
           "endTime": "13:30",
           "sessions": [
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
+              "items": ["108"]
             },
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
+              "items": ["118"]
             },
             {
-              "items": []
+              "items": ["159"]
             }
           ],
           "startTime": "12:45"
@@ -284,7 +278,7 @@
           "endTime": "14:45",
           "sessions": [
             {
-              "items": []
+              "items": ["152"]
             }
           ],
           "startTime": "13:30"
@@ -293,19 +287,19 @@
           "endTime": "15:30",
           "sessions": [
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
+              "items": ["109"]
             },
             {
-              "items": []
+              "items": ["105"]
             },
             {
-              "items": []
+              "items": ["115"]
             },
             {
-              "items": []
+              "items": ["159"]
             }
           ],
           "startTime": "14:45"
@@ -314,19 +308,16 @@
           "endTime": "16:15",
           "sessions": [
             {
-              "items": []
+              "items": ["120"]
             },
             {
-              "items": []
+              "items": ["111"]
             },
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
-            },
-            {
-              "items": []
+              "items": ["116"]
             }
           ],
           "startTime": "15:30"
@@ -335,19 +326,16 @@
           "endTime": "17:00",
           "sessions": [
             {
-              "items": []
+              "items": ["119"]
             },
             {
-              "items": []
+              "items": ["107"]
             },
             {
-              "items": []
+              "items": ["159"]
             },
             {
-              "items": []
-            },
-            {
-              "items": []
+              "items": ["113"]
             }
           ],
           "startTime": "16:15"
@@ -357,22 +345,11 @@
           "sessions": [
             {
               "items": [
-                "160"
-              ]
-            }
-          ],
-          "startTime": "17:00"
-        },
-        {
-          "endTime": "17:30",
-          "sessions": [
-            {
-              "items": [
                 "157"
               ]
             }
           ],
-          "startTime": "17:15"
+          "startTime": "17:00"
         },
         {
           "endTime": "18:00",
@@ -383,7 +360,7 @@
               ]
             }
           ],
-          "startTime": "17:30"
+          "startTime": "17:15"
         }
       ],
       "tracks": [
@@ -737,7 +714,7 @@
       "title": "Morning coffee"
     },
     "155": {
-      "description": "Official start of the conference. Greetings from the Paresh Mayani and Jaldeep Asodariya",
+      "description": "Official start of the conference. Greetings from the Paresh Mayani and Dhrumil Shah",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
