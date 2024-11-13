@@ -221,16 +221,16 @@
           "endTime": "12:00",
           "sessions": [
             {
-              "items": ["102"]
-            },
-            {
-              "items": ["110"]
-            },
-            {
               "items": ["104"]
             },
             {
+              "items": ["102"]
+            },
+            {
               "items": ["114"]
+            },
+            {
+              "items": ["110"]
             }
           ],
           "startTime": "11:15"
@@ -239,16 +239,16 @@
           "endTime": "12:45",
           "sessions": [
             {
-              "items": ["121"]
-            },
-            {
-              "items": ["159"]
-            },
-            {
               "items": ["106"]
             },
             {
+              "items": ["121"]
+            },
+            {
               "items": ["112"]
+            },
+            {
+              "items": ["159"]
             }
           ],
           "startTime": "12:00"
@@ -260,16 +260,13 @@
               "items": ["159"]
             },
             {
-              "items": ["108"]
-            },
-            {
               "items": ["159"]
             },
             {
               "items": ["118"]
             },
             {
-              "items": ["159"]
+              "items": ["108"]
             }
           ],
           "startTime": "12:45"
@@ -287,19 +284,16 @@
           "endTime": "15:30",
           "sessions": [
             {
-              "items": ["159"]
-            },
-            {
-              "items": ["109"]
-            },
-            {
               "items": ["105"]
+            },
+            {
+              "items": ["159"]
             },
             {
               "items": ["115"]
             },
             {
-              "items": ["159"]
+              "items": ["109"]
             }
           ],
           "startTime": "14:45"
@@ -308,16 +302,16 @@
           "endTime": "16:15",
           "sessions": [
             {
-              "items": ["120"]
-            },
-            {
-              "items": ["111"]
-            },
-            {
               "items": ["159"]
             },
             {
+              "items": ["120"]
+            },
+            {
               "items": ["116"]
+            },
+            {
+              "items": ["111"]
             }
           ],
           "startTime": "15:30"
@@ -326,16 +320,16 @@
           "endTime": "17:00",
           "sessions": [
             {
-              "items": ["119"]
-            },
-            {
-              "items": ["107"]
-            },
-            {
               "items": ["159"]
             },
             {
+              "items": ["119"]
+            },
+            {
               "items": ["113"]
+            },
+            {
+              "items": ["107"]
             }
           ],
           "startTime": "16:15"
@@ -406,6 +400,7 @@
         "romin_irani"
       ],
       "tags": [
+        "Web",
         "AI/ML"
       ],
       "title": "Chrome Built-in AI : Powerful AI features directly in your browser",
@@ -723,8 +718,7 @@
         "paresh_mayani",
         "dhrumil_shah"
       ],
-      "title": "GDG DevFest Ahmedabad 2024 Opening",
-      "videoId": "rlEyrGrowFs"
+      "title": "GDG DevFest Ahmedabad 2024 Opening"
     },
     "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",
