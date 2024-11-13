@@ -431,6 +431,39 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Divya Dave",
+      "location": "Ahmedabad, India",
+      "bio": "With 4 years of experience, I bring a thoughtful approach to development, asking the right questions to create impactful, user-focused mobile applications that prioritize seamless experiences.",
+      "email": "divyadave1205@gmail.com",
+      "phone": "+91-9601808779",
+      "imageUrl": "https://github.com/user-attachments/assets/4d7073bb-1517-4d8f-9ec5-990009a983f7",
+      "website": "https://divyadave.framer.ai/",
+      "skills": [
+        "Flutter",
+        "IoT",
+        "Web apps",
+        "Agile Methodologies",
+        "Cross platform apps"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://divyadave.framer.ai/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/divyadave1205",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/divya-dave-09b099234/",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
