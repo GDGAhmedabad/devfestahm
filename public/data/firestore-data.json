@@ -1231,6 +1231,13 @@
       "title": "Android Developer @ Novumlogic"
     },
     "pawan_kumar":{
+      "badges": [
+        {
+          "description": "Dart, Flutter, Firebase - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/pawan",
+          "name": "gde"
+        }
+      ],
       "bio": "Pawan Kumar is a Lead Engineer at Frontier and an Advocate for technology. With over 8 years of experience in mobile application development, he has honed his skills in a variety of technologies. He is highly recognized in the developer community and has been awarded as a Google Developer Expert for his expertise in Flutter and Firebase. Pawan has been able to establish a strong social media presence with over 125K subscribers on YouTube, 60K followers on LinkedIn, and 35K followers on Twitter. His contributions to open-source software have earned him a considerable following with over 10K followers on Github. With his vast experience and strong influence, Pawan is a highly valued asset to the technology community.",
       "company": "0xpolygon",
       "companyLogo": "",
