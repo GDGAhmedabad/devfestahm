@@ -322,6 +322,112 @@
           "experience": "0-2 Years"
         }
       ]
+    },
+    {
+      "companyName": "Essence Solusoft",
+      "location": "Ahmedabad, India",
+      "bio": "Essence Solusoft is looking for some of the talented individuals, who have interest in solving real-world business problems and challenges through web-based solutions. Being a leading web app development company with development center in India, USA, we are developing web-based app solutions for enterprises, startups and businesses.",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1-5LbF-xYq9McOiCpFBy8lIz6-kwpsIPx",
+      "companyWebsite": "https://essencesolusoft.com/",
+      "companyCareerPage": "https://essencesolusoft.com/careers/",
+      "linkedin": "https://www.linkedin.com/company/essencesolusoft/",
+      "hiringImageUrl": "https://drive.google.com/thumbnail?id=16LpHo4KwL_zGCwSHFyfxDmU3_Up26HSF",
+      "openings": [
+        {
+          "title": "Full Stack Ruby on Rails Developer",
+          "count": 5,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Digital Marketing Executive",
+          "count": 2,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Business Development Executive (BDE)",
+          "count": 2,
+          "experience": "1-5 Years"
+        },
+        {
+          "title": "Fresher Software Engineers",
+          "count": 5,
+          "experience": "0-6 months"
+        },
+        {
+          "title": "Technical Content Writer",
+          "count": 1,
+          "experience": "2+ Years"
+        }
+      ]
+    },
+    {
+  "companyName": "Ashapura Softech Pvt. Ltd.",
+  "location": "Ahmedabad",
+  "bio": "Ashapura Softech is a leading enterprise solutions provider based in Wilmington, Delaware, USA. Founded in 2012 by two experienced technocrats, the company was established with a vision to create a comprehensive firm that supports ambitious individuals and offers innovative IT solutions. With over 10 years of experience in software development and IT consultancy, the founders are committed to delivering top-quality IT solutions that drive success for clients in a highly competitive market.",
+  "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNPHmL7kyYSvm3p2IEc9WZtFfyI2Fj5XRMw&s",
+  "companyWebsite": "https://ashapurasoftech.com/",
+  "companyCareerPage": "https://ashapurasoftech.com/career/",
+  "linkedin": "https://in.linkedin.com/company/ashapura-softech-inc",
+  "hiringImageUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEUsPxnqTh3Vg/feedshare-shrink_800/feedshare-shrink_800/0/1731302891835?e=2147483647&v=beta&t=GKiTT8h1FvNQcR-BJUN5OeyCsBqwI50lnWfFw3Er-L0",
+  "openings": [
+    {
+      "title": "PHP Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+    {
+      "title": "Zoho Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+    {
+      "title": "ASP.NET Developers",
+      "count": 2,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Graphic Designer",
+      "count": 1,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Quality Analyst",
+      "count": 1,
+      "experience": "Freshers"
+    },
+    {
+      "title": "Digital Marketing Executive",
+      "count": 1,
+      "experience": "Freshers"
+    },
+        {
+      "title": "Business Development Executive",
+      "count": 2,
+      "experience": "Freshers"
+    }
+  ]
+    },
+    {
+      "companyName": "Skylark Drones",
+      "location": "Bangalore, India",
+      "bio": "We Innovate & integrate drone solutions and services into scalable real-world applications that benefit enterprises and the community at large while making sure authenticity and clarity are central to making decisions that save time, money and lives. Throughout the lifecycle of any largescale projects and assets in sectors such as roads and highways, powerlines, pipelines, mines and even agriculture we use drone based solutions to enable three primary stages: Planning, construction and maintenance. Mail us: careers@skylarkdrones.com",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1DBZF7eiuVSIFEsF75edfoDsQl3gNdi4v",
+      "companyWebsite": "https://www.skylarkdrones.com",
+      "companyCareerPage": "https://wellfound.com/company/skylark-drones/jobs",
+      "linkedin": "https://www.linkedin.com/company/skylark-drones/",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Senior Web Developer",
+          "count": 1,
+          "experience": "2+ years"
+        },
+        {
+          "title": "QA Lead",
+          "count": 1,
+          "experience": "2+ years"
+        }
+      ]
     }
   ]
 }

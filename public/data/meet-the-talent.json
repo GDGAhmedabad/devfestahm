@@ -399,6 +399,98 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Mayur Gohel",
+      "location": "Vadodara, India",
+      "bio": "Crafting smart, seamless mobile apps with Flutter, powered by AI & ML for the next-gen user experience | MVVM | Swift | Swift UI | Flutter | Dart",
+      "email": "mgohel2017@gmail.com",
+      "phone": "+91 9016125654",
+      "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
+      "website": "https://techconnectors.community/profile/mayurgohel",
+      "skills": ["iOS", "Flutter", "Android", "AI/ML"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://techconnectors.community/profile/mayurgohel",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/mggohel",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/gohelmayur",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mayurgohel89",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Divya Dave",
+      "location": "Ahmedabad, India",
+      "bio": "With 4 years of experience, I bring a thoughtful approach to development, asking the right questions to create impactful, user-focused mobile applications that prioritize seamless experiences.",
+      "email": "divyadave1205@gmail.com",
+      "phone": "+91-9601808779",
+      "imageUrl": "https://github.com/user-attachments/assets/4d7073bb-1517-4d8f-9ec5-990009a983f7",
+      "website": "https://divyadave.framer.ai/",
+      "skills": [
+        "Flutter",
+        "IoT",
+        "Web apps",
+        "Agile Methodologies",
+        "Cross platform apps"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://divyadave.framer.ai/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/divyadave1205",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/divya-dave-09b099234/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "fullName": "Sanket Modi",
+      "location": "Ahmedabad, India",
+      "bio": "I am Sanket Modi, with a total 13+ years of experience including 4+ years experience in management in the software development world with product development organizations. I am looking for an opportunity in an Engineering Management role.",
+      "email": "74.sanket@gmail.com",
+      "phone": "+91-8128102815",
+      "imageUrl": "https://avatars.githubusercontent.com/u/12370385?v=4",
+      "website": "",
+      "skills": ["engineering management", "sdet management", "people management", "OKR", "resource planning", "release planning"],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sankethmodi",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sankethm7",
+          "name": "Github"
+        },   
+        {
+          "icon": "resume",
+          "link": "https://drive.google.com/file/d/1fbM7aNG-mwteD8OZ_tQMlA7AmsSiBbLk/view",
+          "name": "Resume"
+        }
+      ]
     }
   ]
 }
