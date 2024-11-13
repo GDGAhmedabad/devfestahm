@@ -491,6 +491,53 @@
           "name": "Resume"
         }
       ]
+    },
+    {
+      "fullName": "Dhaval Rupapara",
+      "location": "Ahmedabad, India",
+      "bio": Android Developer | 10+ yr. Exp.| Expertise in E-commerce and Fintech apps. Solid experience in building apps and SDK from scratch using latest technologies, design and creativity. A keen eye for a great design & UX. Analytical and detail-oriented approach for app development.",
+      "email": "dhaval.r.11@gmail.com",
+      "phone": "+91-9033172898",
+      "imageUrl": "https://drive.google.com/file/d/17zdRZayfFc_gSXfbYIfscVbZjkXvbIMp/preview",
+      "website": "",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Material design",
+        "Dependency injection",
+        "Coroutines",
+        "Flow",
+        "LiveData",
+        "Retrofit",
+        "Glide",
+        "SQLite",
+        "Room",
+        "Push notifications",
+        "Analytics",
+        "Deep links",
+        "RxJava",
+        "RxAndroid"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://drive.google.com/file/d/1QeHi9-gEg0Sh9XYr_Ad3PvT2bhnPuj5F/view?usp=drive_link",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/dhavalrupapara14",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dhavalrupapara",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
