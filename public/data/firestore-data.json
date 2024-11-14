@@ -92,6 +92,12 @@
           "logoUrl": "../images/logos/iqm-logo.png",
           "name": "IQM",
           "url": "https://iqm.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/betterbug.png",
+          "name": "BetterBug",
+          "url": "https://www.betterbugs.io/"
         }
       ],
       "order": 2,
