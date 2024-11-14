@@ -491,6 +491,38 @@
           "name": "Resume"
         }
       ]
+    },
+    {
+      "fullName": "Rushi Thakker",
+      "location": "Vadodara, India",
+      "bio": "Senior Software Engineer with 8 years of experience having expertise in multiple languages and frameworks. Looking for role of Senior Java Backend Engineer. Currently working with Springboot, AWS, Kafka, Docker and other technologies",
+      "email": "rushimthakker@gmail.com",
+      "phone": "+91-9327838201",
+      "imageUrl": "https://photos.app.goo.gl/R5pdpFFChcDvypsC9",
+      "website": "",
+      "skills": ["Java", "Springboot", "AWS", "Kafka", "Docker", "Microservices"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/RushiMThakker",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rushithakker",
+          "name": "LinkedIn"
+        },   
+        {
+          "icon": "resume",
+          "link": "https://drive.google.com/file/d/1hN-CZHHTeeSYUFqwqYjejh6P-NP8kVWb/view?usp=drive_link",
+          "name": "Resume"
+        }
+      ]
     }
   ]
 }
