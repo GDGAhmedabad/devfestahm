@@ -248,7 +248,7 @@
               "items": ["112"]
             },
             {
-              "items": ["159"]
+              "items": ["126"]
             }
           ],
           "startTime": "12:00"
@@ -257,10 +257,10 @@
           "endTime": "13:30",
           "sessions": [
             {
-              "items": ["159"]
+              "items": ["122"]
             },
             {
-              "items": ["159"]
+              "items": ["127"]
             },
             {
               "items": ["118"]
@@ -287,7 +287,7 @@
               "items": ["105"]
             },
             {
-              "items": ["159"]
+              "items": ["123"]
             },
             {
               "items": ["115"]
@@ -302,7 +302,7 @@
           "endTime": "16:15",
           "sessions": [
             {
-              "items": ["159"]
+              "items": ["124"]
             },
             {
               "items": ["120"]
@@ -320,7 +320,7 @@
           "endTime": "17:00",
           "sessions": [
             {
-              "items": ["159"]
+              "items": ["125"]
             },
             {
               "items": ["119"]
@@ -630,7 +630,7 @@
     },
     "118": {
       "complexity": "Intermediate",
-      "description": "In this talk, we'll explore the power of open source contributions in today's tech world. We'll dive into: \n\nWhy Open Source Matters: Learn why open source is a game-changer in the tech landscape and how it can benefit you. \n\nThis session explores how open-source participation is driving innovation in web and app development, empowering developers to build better products while fostering collaboration and community. Attendees will learn how contributing to open-source projects not only strengthens individual skill sets but also creates a thriving, sustainable ecosystem. \n\nBy the end of this session, you'll understand how open-source contributions can lead to more robust, innovative solutions, and how you can be a key player in building a collaborative future for web and app development.",
+      "description": "In this session, we’ll explore how startups can harness the potential of open-source tools and communities to fuel rapid growth, drive innovation, and cut costs. You’ll learn about the benefits of building with open source, practical strategies for integrating open-source solutions, and real-world examples of startups that have scaled effectively through open-source adoption. Whether you're a founder or developer, this talk will provide actionable insights and resources to help you unlock the power of open source in your startup journey.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -639,7 +639,7 @@
       "tags": [
         "Startup"
       ],
-      "title": "Empowering Web and App Development Through Open Source: Building a Strong Collaborative Ecosystem",
+      "title": "Leveraging Open Source for Startup Growth",
       "videoId": ""
     },
     "119": {
@@ -682,6 +682,95 @@
         "Web"
       ],
       "title": "LLMs and SLMs Everywhere",
+      "videoId": ""
+    },
+    "122": {
+      "complexity": "Advanced",
+      "description": "In today's complex web landscape, building high-performance frontend applications requires a deep understanding of system design principles and architectural patterns. This comprehensive session explores advanced concepts in frontend system design, focusing on creating scalable, efficient, and maintainable web applications. \n\nKey Takeaways: \n\n• System Design Foundation\n• Understand architectural patterns\n•Performance Deep Dive \n\nWho Should Attend: \n\n• Frontend engineers looking to advance their system design skills \n• Software architects focusing on frontend architecture \n• Developers working on large-scale web applications \n• Technical leads responsible for making architectural decisions",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "nishith_rajyaguru"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Unlocking Frontend System Design: A Performance-First Architecture",
+      "videoId": ""
+    },
+    "123": {
+      "complexity": "Intermediate",
+      "description": "Despite Javascript's phenomenal interpretation capabilities, computationally expensive functions, or low-powered hardware can really affect your app's performance. Such computations freeze our apps' one and only thread, frustrating our users with a sluggish UI. \n\nIn this talk, I will dive deep into how Web Workers can absolutely supercharge your apps with true multithreading capabilities. We'll see how Web Workers allow you to offload heavy tasks to background threads, freeing up your main thread to make your applications responsive and smooth. \n\nKey Takeaways from the Talk: \n- Understanding the single-threaded nature of Javascript web apps and performance implications, with real-world scenarios \n- Fundamentals of Web Workers and how can you integrate them seamlessly into your apps \n- Best Practices of using Web Workers and how to avoid common pitfalls \n\nDon't let the performance bottleneck hold you back from delivering smooth and seamless web apps!",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "nida_shaikh"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Off the Main Thread: How Web Workers Transform Web Performance",
+      "videoId": ""
+    },
+    "124": {
+      "complexity": "Intermediate",
+      "description": "In this talk, I will be talking about how to build personalized travel experiences with autonomous agents. I will use Vertex AI models (Gemini) and 3rd party tools to build end-to-end travel agents which not only plan your itenaries but book flights and hotels as per client's preferences. \n\nI will demonstrate how the reasoning engine from VertexAI enables AI Agents to build and manage at scale. \n\nThis prototype would help to attendees to think about Agents in different approaches.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "chetan_hirapara"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Redefine the travel experience with autonomous agents",
+      "videoId": ""
+    },
+    "125": {
+      "complexity": "Intermediate",
+      "description": "We will dive into the following topics: \n\nExtending Vocabulary: Learn how to use the SentencePiece Tokenizer to expand the original vocabulary of a language model, enabling it to incorporate new tokens specific to Indic languages. \n\nPre-Training Techniques: Explore the process of running Pre-Training with the newly extended tokenizer, focusing on how Continuous Pre-training differs from traditional methods, and how it helps the model understand these tokens better. \n\nInstruction Fine-Tuning: Discover how Instruction Fine-Tuning is applied post-Pre-Training to enable the model to perform new tasks tailored to user requirements. \n\nBenchmarking and Evaluation: We will discuss various techniques to benchmark and evaluate the performance of the language models. \n\nChallenges and Future Directions: We will share the challenges we encountered during our experiments as well. \n\nOur experiments have been conducted with a specific focus on enhancing Gujarati language support in Google's Gemma family.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "dixit_trivedi",
+        "khyat_anjaria"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Enhancing Gemma with Vernacular Language Support",
+      "videoId": ""
+    },
+    "126": {
+      "complexity": "Intermediate",
+      "description": "Join Yash Adulkar and Prashant Dalai as they reveal how Localization, Remote Config, and Vertex AI can transform Flutter apps into intelligent, user-centered experiences. Yash will discuss how Localization adapts apps to users' language and culture, enhancing accessibility, while Remote Config enables real-time control over app behavior for personalized content and A/B testing. Prashant will then demonstrate how Vertex AI empowers apps with custom ML models, delivering personalized recommendations and dynamic content. Learn to create adaptable, engaging applications with these essential tools!",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "yash_adulkar",
+        "prashant_dalai"
+      ],
+      "tags": [
+        "Mobile",
+        "Android",
+        "Flutter"
+      ],
+      "title": "Localization, Remote Config and Vertex AI with Flutter",
+      "videoId": ""
+    },
+    "127": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_shah",
+        "akash_shukla"
+      ],
+      "tags": [
+        "AI/ML"
+      ],
+      "title": "Talk on Beckn Protocol",
       "videoId": ""
     },
     "151": {
@@ -1058,7 +1147,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fiqm.png?alt=media&token=bc6ac407-7630-453d-ace3-a6a39c936e9c",
       "country": "Ahmedabad, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Pooja Ranjan",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpooja_ranjan.jpg?alt=media&token=ab6d5180-a14c-45f4-883e-45d645dfbaf3",
@@ -1086,7 +1175,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Faimletc.png?alt=media&token=974cf153-f923-4427-9704-426fc123f57a",
       "country": "Udaipur",
-      "featured": true,
+      "featured": false,
       "name": "Nikhilesh Tayal",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnikhilesh_tayal.jpg?alt=media&token=dde1c927-837c-4711-8343-748d6c16b98f",
@@ -1113,8 +1202,8 @@
       "company": "IBM",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fibm.png?alt=media&token=48c03605-bc61-4df6-b395-f2e4d23a74f8",
-      "country": "Udaipur",
-      "featured": true,
+      "country": "Gandhinagar",
+      "featured": false,
       "name": "Drijesh Patel",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdrijesh_ppatel.jpg?alt=media&token=a64e717b-0541-4e55-8713-f2dbe071c26c",
@@ -1123,12 +1212,12 @@
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/losesaga",
+          "link": "https://twitter.com/Drijesh",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nikhileshtayal/",
+          "link": "https://www.linkedin.com/in/drijesh//",
           "name": "LinkedIn"
         }
       ],
@@ -1142,7 +1231,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero_horizontal.png?alt=media&token=7d7e12e1-b9f0-4fd0-966a-5b1aae06a6cf",
       "country": "Ahmedabad, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Raza Noorani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fraza-noorani.jpeg?alt=media&token=70a11ab4-7e18-4845-bcea-23cbb72e1b78",
@@ -1170,7 +1259,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
       "country": "Vadodara, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Priya Sindkar",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpriya_sindkar.jpg?alt=media&token=66b43a1a-ba4d-4ec8-adde-82f7df012173",
@@ -1203,7 +1292,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
       "country": "Vadodara, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Dhananjay Navlani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdhananjay_navlani.jpg?alt=media&token=127f07c2-7372-4e00-a644-13d883994f35",
@@ -1236,7 +1325,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2F0xpolygon.png?alt=media&token=c5cc123e-6c90-4fa3-b13c-d330c044f73a",
       "country": "Faridabad",
-      "featured": true,
+      "featured": false,
       "name": "Pawan Kumar",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpawan_kumar.JPG?alt=media&token=850df770-b658-4769-8257-f84596b08d92",
@@ -1264,7 +1353,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
       "country": "Vadodara, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Rohan Shah",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frohan_shah.png?alt=media&token=b54d4fdb-3056-42b0-9cbb-9b672db39eb8",
@@ -1292,7 +1381,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fnarad_io.png?alt=media&token=16893314-7bcb-44c2-8232-b239f83f6ab4",
       "country": "Surat, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Manoj Adwani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fmanoj_adwani.jpg?alt=media&token=1cff3d02-4227-4197-80ee-ed333b509d12",
@@ -1320,7 +1409,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fproduct_elements.png?alt=media&token=7bd1d33a-5494-4ff2-ab86-39e5d0aab4fe",
       "country": "Ahmedabad, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Rajul Shah",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frajul_shah.png?alt=media&token=8be6203b-e906-48e3-808e-bef031b98849",
@@ -1348,7 +1437,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fmissive_digital.png?alt=media&token=b272144e-08a6-4173-9ff5-f73bec22d804",
       "country": "Ahmedabad, Gujarat",
-      "featured": true,
+      "featured": false,
       "name": "Himani Kankaria",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fhimani_kankaria.jpg?alt=media&token=1ccd28c3-7a16-4b79-9b59-76d3dc364f87",
@@ -1376,7 +1465,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftej-solopro.png?alt=media&token=75cd5038-9490-4c0c-b015-988bb898da08",
       "country": "Ahmedabad",
-      "featured": true,
+      "featured": false,
       "name": "Jaydip Parikh",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fjaydip_parikh.jpg?alt=media&token=34a694e8-9be1-45cf-8440-8bfcecb54026",
@@ -1409,7 +1498,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fshipmnts.png?alt=media&token=804de28b-f932-4a07-bae4-6a32c385cb22",
       "country": "Ahmedabad",
-      "featured": true,
+      "featured": false,
       "name": "Shubham Pachori",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fshubham_pachori.jpg?alt=media&token=3d7ecddb-cd56-470d-aa04-07f23859f589",
@@ -1435,9 +1524,9 @@
       "bio": "I am a Frontend Developer, Open Source Enthusiast, and a dedicated community builder. As the Founding Organizer and Program Lead Manager of Social Winter Of Code (SWOC), I played a pivotal role in strategizing, operating, and achieving the organization's objectives. Through my leadership, SWOC has become a vital platform for nurturing future tech talent and promoting open-source practices. \n\nAs an Associate Software Engineer at Coditas, I delved deep into Frontend Development with React.js, honing my skills in SASS, Clean Coding, Routes, Hooks, and Redux. This experience has empowered me to combine modern JavaScript frameworks with open-source principles, a theme I frequently explore in my talks. \n\nI have shared my insights on these topics at various prestigious events, including Google Devfest and multiple Google Developer Student Clubs, emphasizing the importance of building a sustainable tech open-source ecosystem.",
       "company": "Social Winter of Code",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsocial_winter_of_code.png?alt=media&token=e7cd348f-d401-4a31-8c0a-488daf30f167",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsocial_winter_of_code.png?alt=media&token=81f99579-14e9-45a7-a0a8-1f8f81922d04",
       "country": "Pune",
-      "featured": true,
+      "featured": false,
       "name": "Abhishek Mankuskar",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fabhishek_mankuskar.jpg?alt=media&token=10cbcc15-7010-4e72-992f-f7e3b8ad5d79",
@@ -1470,7 +1559,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsada.png?alt=media&token=e1fde95e-82f1-4ca4-821b-3716ff4b5284",
       "country": "Yerevan, Armenia",
-      "featured": true,
+      "featured": false,
       "name": "Rohan Singh",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frohan_singh.jpg?alt=media&token=d14ed189-b96b-4782-9365-6cede10c9aeb",
@@ -1496,9 +1585,9 @@
       "bio": "An Artistic Engineer, Product Designer! Advocating Business to Users & Users to Business by designing easy, appealing, accessible software!",
       "company": "smartShift Technologies",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsmartshift.png?alt=media&token=3f3a46a5-8409-49bd-951e-da6bd4f85ad4",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsmartshift.png?alt=media&token=f839289b-fdb8-46dd-aae9-083d2a1263d2",
       "country": "Bangalore",
-      "featured": true,
+      "featured": false,
       "name": "Poonam Jha",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpoonam_jha.jpg?alt=media&token=c25c220f-ac46-4e90-bee9-38bec9643e73",
@@ -1526,7 +1615,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fcoditas.png?alt=media&token=e4799c8a-17b2-4e53-a033-f7a719924f64",
       "country": "Pune",
-      "featured": true,
+      "featured": false,
       "name": "Varun Srinivas",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fvarun_srinivas.jpg?alt=media&token=9e0cc0a8-8251-46b0-a9a1-68eeb39e8ce6",
@@ -1547,6 +1636,258 @@
       "order": 24,
       "rockstarSpeakerOrder": 24,
       "title": "Partner and Director of Technology at Coditas"
+    },
+    "nishith_rajyaguru":{
+      "bio": "Nishith Rajyaguru is a visionary technopreneur, passionate about harnessing cutting-edge technologies to craft impactful solutions for real-world challenges. With over a decade of experience driving innovation and operational excellence at leading product-based tech companies, he blends deep technical expertise with a commitment to solving pressing issues.\nAs the founder of TechnoFuzn Products Private Limited, he is dedicated to developing scalable, future-ready solutions that foster long-term, technology-driven transformations.\nRenowned for his bold and innovative approach to problem-solving, Nishith is reshaping the tech landscape with fresh ideas and forward-thinking solutions. Guided by a clear vision to create a more equitable, sustainable, and connected world through technology, he is dedicated to making a meaningful impact and leaving a lasting legacy in the tech industry.",
+      "company": "TechnoFuzn Products Pvt. Ltd.",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Ftechnofuzn.jpeg?alt=media&token=8252cce3-5bea-4e7c-a991-d329980f4b66",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Nishith Rajyaguru",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnishith_rajyaguru.jpg?alt=media&token=717e2dea-1cdf-4591-83eb-8218f1ca4823",
+      "pronouns": "he/him",
+      "shortBio": "Nishith Rajyaguru is a visionary technopreneur, passionate about harnessing cutting-edge technologies to craft",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/nishith_guides",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nishith-rajyaguru",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 25,
+      "rockstarSpeakerOrder": 25,
+      "title": "Founder & CEO at TechnoFuzn Products Pvt. Ltd."
+    },
+    "nida_shaikh":{
+      "bio": "Hi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for elegant and scalable solutions. I dive head-first into everything web and my goal is to make development a little bit easier for us all devs. When I'm not coding, I love to read, journal, explore new places, make specialty coffee and pet my cats.",
+      "company": "Contentstack",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fcontentstack.png?alt=media&token=851a6a50-1488-499a-bae6-348652245716",
+      "country": "Mumbai",
+      "featured": false,
+      "name": "Nida Shaikh",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnida_shaikh.jpg?alt=media&token=1dc277d6-544c-4048-ac45-1872654d14b5",
+      "pronouns": "she/her",
+      "shortBio": "Hi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/NidaZiesha",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nidashaikh54/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 26,
+      "rockstarSpeakerOrder": 26,
+      "title": "Software Engineer @Contentstack"
+    },
+    "dixit_trivedi":{
+      "bio": "Dixit Trivedi has been working as a Machine Learning Engineer at Rootle.ai for the past 3 years, based in Ahmedabad. His expertise lies in the HRTech sector, where he has successfully tackled various challenges in the Natural Language Processing domain during his tenure.",
+      "company": "Rootle.ai",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Frootle.png?alt=media&token=3f22cf23-6c4b-46dd-aceb-946aa8566662",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Dixit Trivedi",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdixit_trivedi.jpg?alt=media&token=691c6e39-3675-465d-80b9-0030da24874b",
+      "pronouns": "he/him",
+      "shortBio": "Dixit Trivedi has been working as a Machine Learning Engineer at Rootle.ai for the past 3 years, based in Ahmedabad",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/TrivediDixit1",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dixit-trivedi/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 27,
+      "rockstarSpeakerOrder": 27,
+      "title": "ML engineer @Rootle.ai"
+    },
+    "khyat_anjaria":{
+      "bio": "Khyat Anjaria has been immersed in the machine learning and AI field for the past 5 years, with extensive experience in the telecommunications and HRTech sectors. He is deeply passionate about exploring and researching new topics, with a focus on solving complex problems in the Natural Language Processing (NLP) domain. Currently, Khyat is working as a Machine Learning Engineer at Rootle.ai in Ahmedabad, where he has been making significant contributions over the past 2 years.",
+      "company": "Rootle.ai",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Frootle.png?alt=media&token=3f22cf23-6c4b-46dd-aceb-946aa8566662",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Khyat Anjaria",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fkhyat_anjaria.jpg?alt=media&token=a0dd9484-1df4-4a4e-94e5-889a6904c955",
+      "pronouns": "he/him",
+      "shortBio": "Khyat Anjaria has been immersed in the machine learning and AI field for the past 5 years, with extensive experience in the telecommunications and",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/anjaria_khyat",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/khyat-anjaria-939693148/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 28,
+      "rockstarSpeakerOrder": 28,
+      "title": "ML engineer @Rootle.ai"
+    },
+    "chetan_hirapara":{
+      "bio": "I am a seasoned speaker in AI. I have delivered 20+ Technical Sessions at community events and universities.",
+      "company": "Teradata",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fteradata.png?alt=media&token=20e9cff4-82bf-4c45-86d6-44cd1a92f547",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Chetan Hirapara",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fchetan_hirapara.jpg?alt=media&token=5928689c-1b8d-4ca8-8d12-6c763f8a47c4",
+      "pronouns": "he/him",
+      "shortBio": "I am a seasoned speaker in AI. I have delivered 20+ Technical Sessions at community events and universities.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/chetanraj002",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/chetan-hirapara-90344345/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 29,
+      "rockstarSpeakerOrder": 29,
+      "title": "Lead Data Scientist at Teradata"
+    },
+    "yash_adulkar":{
+      "bio": "Yash Adulkar. I am a developer at ICICI Prudential AMC Pvt Ltd. I am also an organizer at Flutter Mumbai, Founder and Organizer at Flutter India. \nHe has done Bachelor of Engineering in Information Technology. He has an excellent command over developing applications, organizing events, workshops, mentoring developers, students and startups that have made him a good trainer as well as an avid speaker in his domain",
+      "company": "ICICI Prudential AMC Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Ficici.png?alt=media&token=c0be9377-b99e-4a85-b80a-af725dcb61d6",
+      "country": "Mumbai, Maharashtra",
+      "featured": false,
+      "name": "Yash Adulkar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fyash_adulkar.jpg?alt=media&token=023659db-83c0-43af-a33a-e1a19e1aa28a",
+      "pronouns": "he/him",
+      "shortBio": "Yash Adulkar. I am a developer at EaseyourLife. I am also an organizer at Flutter Mumbai, Founder...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/imyashadulkar",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yashadulkar/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 30,
+      "rockstarSpeakerOrder": 30,
+      "title": "Developer at EaseYourLife"
+    },
+    "prashant_dalai":{
+      "bio": "I am flutter developer in bangalore based company. Apart from that i am contributing as community guy taken session in flutter mumbai, Ahmedabad and baroda so far.",
+      "company": "Direction Software LLP",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fdirection_software.png?alt=media&token=d5542495-49a0-41b4-9a37-8e6dae2d8496",
+      "country": "Thane",
+      "featured": false,
+      "name": "Prashant Dalai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fprashant_r_dalai.jpg?alt=media&token=aed307ba-4f43-48bc-bcff-966f8f1ea719",
+      "pronouns": "he/him",
+      "shortBio": "I am flutter developer in bangalore based company. Apart from that i am contributing...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/prashantrdalai",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/prashantrdalai/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 31,
+      "rockstarSpeakerOrder": 31,
+      "title": "Direction Software LLP, SDE"
+    },
+    "harsh_shah":{
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": false,
+      "name": "Harsh Shah",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 32,
+      "rockstarSpeakerOrder": 32,
+      "title": ""
+    },
+    "akash_shukla":{
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "",
+      "featured": false,
+      "name": "Akash Shukla",
+      "photo": "",
+      "photoUrl": "",
+      "pronouns": "he/him",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 33,
+      "rockstarSpeakerOrder": 33,
+      "title": ""
     }
   },
   "team": [
