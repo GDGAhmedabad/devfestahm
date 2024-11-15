@@ -92,6 +92,12 @@
           "logoUrl": "../images/logos/iqm-logo.png",
           "name": "IQM",
           "url": "https://iqm.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/betterbug.png",
+          "name": "BetterBug",
+          "url": "https://www.betterbugs.io/"
         }
       ],
       "order": 2,
@@ -760,7 +766,7 @@
     },
     "127": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "In this session, we'll explore how Beckn (the Protocol behind ONDC, Namma Yatri, UEI & many more), as an open digital transaction protocol, is reshaping the landscape of decentralized digital ecosystems. This talk will cover Beckn's architecture, real-world use cases, and the pivotal role of AI in building adaptive, responsive, and intelligent digital interactions. Attendees will gain insights into leveraging Beckn to create scalable, AI-driven solutions that contribute to an inclusive digital economy and facilitate a frictionless exchange of goods, services, and ideas online.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -770,7 +776,7 @@
       "tags": [
         "AI/ML"
       ],
-      "title": "Talk on Beckn Protocol",
+      "title": "Beckn Unveiled: Architecting the Internet's Next Frontier with AI",
       "videoId": ""
     },
     "151": {
@@ -1841,60 +1847,60 @@
       "title": "Direction Software LLP, SDE"
     },
     "harsh_shah":{
-      "bio": "",
-      "company": "",
+      "bio": "Harsh Shah is a self-taught developer and the CTO at Pedals Up. With a passion for technology and a curiosity that knows no bounds, he has mastered various programming languages, including C, C++, HTML, CSS, JavaScript, Python, and SQL. Harsh's expertise spans a wide range of projects, from cybersecurity to website development. He has actively contributed to open-source initiatives, participated in Google Summer of Code, and interned with an IIT Bombay startup. Harsh is known for his community-building efforts, including co-founding Cyboinesct and organizing events for GDG Cloud Ahmedabad and Pydata Ahmedabad. An experienced speaker, mentor, and judge in hackathons, he has delivered over 40 talks on topics like Web3/Blockchain, ReactJS, and Python frameworks. In the past four years, Harsh has specialized in the Web3/AI & ML space, collaborating with over 30 startups to help bring their products to life.",
+      "company": "Pedals Up",
       "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fpedalsup.jpeg?alt=media&token=ba4bea13-375c-4c24-bc34-52273eaf784b",
+      "country": "Ahmedabad, Gujarat",
       "featured": false,
       "name": "Harsh Shah",
       "photo": "",
-      "photoUrl": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_shah.jpg?alt=media&token=563f33f6-31e9-403b-9d9c-592dd072e6c6",
       "pronouns": "he/him",
-      "shortBio": "",
+      "shortBio": "Harsh Shah is a self-taught developer and the CTO at Pedals Up. With a passion for technology and...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://twitter.com/harshcrop",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "",
+          "link": "https://www.linkedin.com/in/harshcrop/",
           "name": "LinkedIn"
         }
       ],
       "order": 32,
       "rockstarSpeakerOrder": 32,
-      "title": ""
+      "title": "Volunteer Beckn"
     },
     "akash_shukla":{
-      "bio": "",
-      "company": "",
+      "bio": "Akash has been a part of global communities, startups, upskilling, and innovation initiatives. He has seen his programs' impact on 300,000+ people across 18+ countries. \n\nCurrently, he is employed as a Business Mentor for Google for Startups Accelerator, Europe, and a Contributor to the Beckn Protocol, on which ONDC and Namma Yatri are based.",
+      "company": "Beckn Protocol",
       "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fbeckn.png?alt=media&token=e3ab7642-7bb9-4e20-a728-8eb85b592bda",
+      "country": "Ahmedabad, Gujarat",
       "featured": false,
       "name": "Akash Shukla",
       "photo": "",
-      "photoUrl": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fakash_shukla.png?alt=media&token=f11e7c2a-a672-46eb-a936-168d373ef12e",
       "pronouns": "he/him",
-      "shortBio": "",
+      "shortBio": "Akash has been a part of global communities, startups, upskilling, and innovation initiatives...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "",
+          "link": "https://x.com/akashshuklaji",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "",
+          "link": "https://www.linkedin.com/in/akashshkl/",
           "name": "LinkedIn"
         }
       ],
       "order": 33,
       "rockstarSpeakerOrder": 33,
-      "title": ""
+      "title": "Contributor, Beckn Protocol | Mentor, Google for Startups Accelerator (EU & Africa))"
     }
   },
   "team": [
@@ -2492,7 +2498,7 @@
           "socials": [
             {
               "icon": "linkedin",
-              "link": "www.linkedin.com/in/mira-patel-76086a267",
+              "link": "https://www.linkedin.com/in/mira-patel-76086a267",
               "name": "LinkedIn"
             }
           ],
