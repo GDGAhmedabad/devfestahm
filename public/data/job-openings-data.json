@@ -428,6 +428,23 @@
           "experience": "2+ years"
         }
       ]
+    },
+    {
+      "companyName": "Multipl Fintech Solutions Pvt. Ltd.",
+      "location": "Bengaluru, India",
+      "bio": "About Multipl:\n\nMultipl is India’s first Spendvesting platform, enabling users to plan and invest for their lifestyle spends. Through commission-free, SEBI-registered mutual fund investments, users earn returns while getting access to brand discounts for planned expenses like travel, shopping, and gadgets.\n\nMultipl offers:\n- Personalized investment plans aligned with user goals and market conditions.\n- Dual benefits: mutual fund returns and exclusive brand discounts.",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1vChZIP8covpMAhYGCsy0Q8v-1pPDUStG",
+      "companyWebsite": "https://multipl.in",
+      "companyCareerPage": "https://linkedin.com/company/multiplapp/jobs",
+      "linkedin": "https://linkedin.com/company/multiplapp",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Senior Backend Engineer - Go Lang",
+          "count": 2,
+          "experience": "3 to 6 Years experience"
+        }
+      ]
     }
   ]
 }
