@@ -67,14 +67,14 @@ export class MeetTheTalentDetail extends ReduxMixin(PolymerElement) {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="dialog-container header-content" layout horizontal center>
-          <template is="dom-if" if="[[talent.imageUrl]]">
+          <template is="dom-if" if="[[talentDetails.imageUrl]]">
             <lazy-image
               class="photo"
               src="[[talentDetails.imageUrl]]"
               alt="[[talentDetails.fullName]]">
             </lazy-image>
           </template>
-          <template is="dom-if" if="[[!talent.imageUrl]]">
+          <template is="dom-if" if="[[!talentDetails.imageUrl]]">
             <lazy-image
               class="photo"
               src="/images/user-placeholder.png"
