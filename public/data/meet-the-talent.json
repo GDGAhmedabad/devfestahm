@@ -570,6 +570,52 @@
           "name": "LinkedIn"
         }
       ]
+    },
+    {
+      "fullName": "Jaypalsinh Barad",
+      "location": "Ahmedabad, India",
+      "bio": "I thrive in the developer community, soaking up knowledge and collaborating on projects. This thirst for exploration propelled me into the world of professional Android development, where I've spent the past 3.5+ years weaving my technical prowess into engaging apps. along with android development I gain skill in Ktor Server, AWS Cloud, Kotlin/Compose Multi-platform, MacOS, iOS Swift UI development.",
+      "email": "jdbarad@gmail.com",
+      "phone": "+91-9510564953",
+      "imageUrl": "https://jdbarad.me/images/happy-bearded-young-man.jpg",
+      "website": "https://jdbarad.me",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Material design",
+        "Dependency injection",
+        "KMP",
+        "CMP",
+        "Kotlin Multi-platform",
+        "Ktor",
+        "Docker",
+        "PostgreSQl"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://jdbarad.me",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jdbarad",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jdbarad",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/jdbarad1010",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
