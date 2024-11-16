@@ -47,7 +47,12 @@
       "phone": "+91-8780415854",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
       "website": "",
-      "skills": ["Android", "Flutter", "Gen AI", "Python Automation"],
+      "skills": [
+        "Android",
+        "Flutter",
+        "Gen AI",
+        "Python Automation"
+      ],
       "links": [
         {
           "icon": "website",
@@ -79,7 +84,11 @@
       "phone": "+91-9723925030",
       "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
       "website": "",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -111,7 +120,11 @@
       "phone": "+91-7984268169",
       "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
       "website": "https://pratik-bharad.webflow.io/",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -347,8 +360,20 @@
       "imageUrl": "",
       "website": "https://rajveer43.github.io/rajveer-rathod/",
       "skills": [
-        "Machine Learning", "IoT", "React.js", "Django", "GPT Models", "AWS", "GCP", "Python", "LangChain", "Transformers", 
-        "Torch-Geometric", "NLP", "Data Visualization", "PowerBI"
+        "Machine Learning",
+        "IoT",
+        "React.js",
+        "Django",
+        "GPT Models",
+        "AWS",
+        "GCP",
+        "Python",
+        "LangChain",
+        "Transformers",
+        "Torch-Geometric",
+        "NLP",
+        "Data Visualization",
+        "PowerBI"
       ],
       "links": [
         {
@@ -381,7 +406,13 @@
       "phone": "+91-6353586391",
       "imageUrl": "https://github.com/yesbhautik/yesbhautik/blob/ce20de170527773303b56ec79ff25f420c7c3de7/PP1-yellow.jpg?raw=true",
       "website": "https://yesbhautik.co.in",
-      "skills": ["Business Development", "Cloud", "Full Stack Development", "Go", "R&D"],
+      "skills": [
+        "Business Development",
+        "Cloud",
+        "Full Stack Development",
+        "Go",
+        "R&D"
+      ],
       "links": [
         {
           "icon": "website",
@@ -413,7 +444,12 @@
       "phone": "+91 9016125654",
       "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
       "website": "https://techconnectors.community/profile/mayurgohel",
-      "skills": ["iOS", "Flutter", "Android", "AI/ML"],
+      "skills": [
+        "iOS",
+        "Flutter",
+        "Android",
+        "AI/ML"
+      ],
       "links": [
         {
           "icon": "website",
@@ -478,7 +514,14 @@
       "phone": "+91-8128102815",
       "imageUrl": "https://avatars.githubusercontent.com/u/12370385?v=4",
       "website": "",
-      "skills": ["engineering management", "sdet management", "people management", "OKR", "resource planning", "release planning"],
+      "skills": [
+        "engineering management",
+        "sdet management",
+        "people management",
+        "OKR",
+        "resource planning",
+        "release planning"
+      ],
       "links": [
         {
           "icon": "linkedin",
@@ -489,7 +532,7 @@
           "icon": "github",
           "link": "https://github.com/sankethm7",
           "name": "Github"
-        },   
+        },
         {
           "icon": "resume",
           "link": "https://drive.google.com/file/d/1fbM7aNG-mwteD8OZ_tQMlA7AmsSiBbLk/view",
@@ -505,7 +548,14 @@
       "phone": "+91-9327838201",
       "imageUrl": "https://ibb.co/nkH4TKF",
       "website": "",
-      "skills": ["Java", "Springboot", "AWS", "Kafka", "Docker", "Microservices"],
+      "skills": [
+        "Java",
+        "Springboot",
+        "AWS",
+        "Kafka",
+        "Docker",
+        "Microservices"
+      ],
       "links": [
         {
           "icon": "website",
@@ -521,7 +571,7 @@
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/rushithakker",
           "name": "LinkedIn"
-        },   
+        },
         {
           "icon": "resume",
           "link": "https://drive.google.com/file/d/1hN-CZHHTeeSYUFqwqYjejh6P-NP8kVWb/view?usp=drive_link",
@@ -618,6 +668,44 @@
         {
           "icon": "twitter",
           "link": "https://x.com/jdbarad1010",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Shubham Sareliya",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced software developer skilled in Python, JS, TS, MERN Stack, PostgreSQL, API integration. Familiar with AWS & Cloud.",
+      "email": "sareliashubham9999@gmail.com",
+      "phone": "+91-7203088629",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEebX9fZ0f9aA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715333126558?e=1736985600&v=beta&t=LDcM0zKoDGX3vrLmhOK1Ws10mvJamMulCsbuZ0zl85U",
+      "website": "https://www.linkedin.com/in/shubham-sareliya/",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "PostgreSQL",
+        "API Integration",
+        "AWS"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/s-shubham-22",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shubham-sareliya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/ShubhamSareliya",
           "name": "X/Twitter"
         }
       ]

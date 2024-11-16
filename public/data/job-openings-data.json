@@ -361,51 +361,51 @@
       ]
     },
     {
-  "companyName": "Ashapura Softech Pvt. Ltd.",
-  "location": "Ahmedabad",
-  "bio": "Ashapura Softech is a leading enterprise solutions provider based in Wilmington, Delaware, USA. Founded in 2012 by two experienced technocrats, the company was established with a vision to create a comprehensive firm that supports ambitious individuals and offers innovative IT solutions. With over 10 years of experience in software development and IT consultancy, the founders are committed to delivering top-quality IT solutions that drive success for clients in a highly competitive market.",
-  "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNPHmL7kyYSvm3p2IEc9WZtFfyI2Fj5XRMw&s",
-  "companyWebsite": "https://ashapurasoftech.com/",
-  "companyCareerPage": "https://ashapurasoftech.com/career/",
-  "linkedin": "https://in.linkedin.com/company/ashapura-softech-inc",
-  "hiringImageUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEUsPxnqTh3Vg/feedshare-shrink_800/feedshare-shrink_800/0/1731302891835?e=2147483647&v=beta&t=GKiTT8h1FvNQcR-BJUN5OeyCsBqwI50lnWfFw3Er-L0",
-  "openings": [
-    {
-      "title": "PHP Developers",
-      "count": 2,
-      "experience": "Freshers"
-    },
-    {
-      "title": "Zoho Developers",
-      "count": 2,
-      "experience": "Freshers"
-    },
-    {
-      "title": "ASP.NET Developers",
-      "count": 2,
-      "experience": "Freshers"
-    },
+      "companyName": "Ashapura Softech Pvt. Ltd.",
+      "location": "Ahmedabad",
+      "bio": "Ashapura Softech is a leading enterprise solutions provider based in Wilmington, Delaware, USA. Founded in 2012 by two experienced technocrats, the company was established with a vision to create a comprehensive firm that supports ambitious individuals and offers innovative IT solutions. With over 10 years of experience in software development and IT consultancy, the founders are committed to delivering top-quality IT solutions that drive success for clients in a highly competitive market.",
+      "companyLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNPHmL7kyYSvm3p2IEc9WZtFfyI2Fj5XRMw&s",
+      "companyWebsite": "https://ashapurasoftech.com/",
+      "companyCareerPage": "https://ashapurasoftech.com/career/",
+      "linkedin": "https://in.linkedin.com/company/ashapura-softech-inc",
+      "hiringImageUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEUsPxnqTh3Vg/feedshare-shrink_800/feedshare-shrink_800/0/1731302891835?e=2147483647&v=beta&t=GKiTT8h1FvNQcR-BJUN5OeyCsBqwI50lnWfFw3Er-L0",
+      "openings": [
         {
-      "title": "Graphic Designer",
-      "count": 1,
-      "experience": "Freshers"
-    },
+          "title": "PHP Developers",
+          "count": 2,
+          "experience": "Freshers"
+        },
         {
-      "title": "Quality Analyst",
-      "count": 1,
-      "experience": "Freshers"
-    },
-    {
-      "title": "Digital Marketing Executive",
-      "count": 1,
-      "experience": "Freshers"
-    },
+          "title": "Zoho Developers",
+          "count": 2,
+          "experience": "Freshers"
+        },
         {
-      "title": "Business Development Executive",
-      "count": 2,
-      "experience": "Freshers"
-    }
-  ]
+          "title": "ASP.NET Developers",
+          "count": 2,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Graphic Designer",
+          "count": 1,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Quality Analyst",
+          "count": 1,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Digital Marketing Executive",
+          "count": 1,
+          "experience": "Freshers"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 2,
+          "experience": "Freshers"
+        }
+      ]
     },
     {
       "companyName": "Skylark Drones",
@@ -443,6 +443,90 @@
           "title": "Senior Backend Engineer - Go Lang",
           "count": 2,
           "experience": "3 to 6 Years experience"
+        }
+      ]
+    },
+    {
+      "companyName": "Crest Data",
+      "location": "Ahmedabad",
+      "bio": "We develop and operationalize exceptional products, solutions and Ecosystems for Enterprise.",
+      "companyLogoUrl": "https://images.squarespace-cdn.com/content/v1/65e76fb59ac8851284f606e6/39e2876c-eb52-4a57-b6cd-4344438629c8/gradient_logo.png",
+      "companyWebsite": "https://www.crestdata.ai/",
+      "companyCareerPage": "https://www.crestdata.ai/careers",
+      "linkedin": "https://www.linkedin.com/company/crest-data",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "Technical Lead - React.js",
+          "experience": "5+ years"
+        },
+        {
+          "title": "Senior Technical Lead - Python",
+          "experience": "10+ years"
+        },
+        {
+          "title": "Senior Software Engineer - Fullstack",
+          "experience": "4+ year"
+        },
+        {
+          "title": "Senior Software Engineer - Python",
+          "experience": "2+ year"
+        },
+        {
+          "title": "Senior Software Engineer - React.js",
+          "experience": "3+ year"
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "experience": "3+ year"
+        },
+        {
+          "title": "Technical Lead - Python",
+          "experience": "5+ year"
+        },
+        {
+          "title": "Technical Lead - Core Java",
+          "experience": "5+ year"
+        },
+        {
+          "title": "Senior Software Engineer - Go Lang",
+          "experience": "4+ year"
+        },
+        {
+          "title": "Technical Lead - AI/ML",
+          "experience": "4+ year"
+        },
+        {
+          "title": "Senior Software Engineer - Go Lang",
+          "experience": "4+ year (Total), 2+ year (Go Lang)"
+        },
+        {
+          "title": "Technical Lead - AI/ML",
+          "experience": "5+ year"
+        },
+        {
+          "title": "DevOps Architect",
+          "experience": "6+ year"
+        },
+        {
+          "title": "Senior Financial Analyst",
+          "experience": "3-5 year (Accounting/Finance)"
+        },
+        {
+          "title": "Marketing Manager",
+          "experience": "5+ year"
+        },
+        {
+          "title": "Marketing Manager",
+          "experience": "5+ year"
+        },
+        {
+          "title": "PMO Analyst",
+          "experience": "2-6 year"
+        },
+        {
+          "title": "Senior HR Executive",
+          "experience": "4+ year"
         }
       ]
     }
