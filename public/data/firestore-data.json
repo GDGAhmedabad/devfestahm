@@ -2027,6 +2027,12 @@
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
           "socials": [
             {
+              "icon": "twitter",
+              "link": "https://x.com/KhushbuThakker",
+              "name": "Twitter"
+            },
+            
+            {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
               "name": "LinkedIn"
@@ -2304,7 +2310,7 @@
           "socials": [
             {
               "icon": "twitter",
-              "link": "x.com/umesh_ganpa",
+              "link": "https://x.com/umesh_ganpa",
               "name": "Twitter"
             },
             {
@@ -2314,6 +2320,30 @@
             }
           ],
           "order": 9,
+          "title": ""
+        },
+        {
+          "name": "Harendrasingh Rajput",
+          "photo": "/images/people/others/harendrasingh_rajput.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharendrasingh_rajput.jpeg?alt=media&token=c544d4c9-e775-47d3-ab3d-92f5a9dc1b76",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/harendrasingh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/harendrasingh/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.harendrasinghrajput.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 1,
           "title": ""
         }
       ],
