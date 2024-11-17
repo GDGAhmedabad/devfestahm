@@ -709,6 +709,45 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Vikalp Gandha",
+      "location": "Ahmedabad, India",
+      "bio": "Software developer with 2+ years of experiance skilled in Node.js, React.js, Next.js, Rust, Go, TypeScript, and JavaScript.",
+      "email": "contact@vikalpg.in",
+      "phone": "+91-8000863064",
+      "imageUrl": "https://www.vikalpg.in/images/me.jpg",
+      "website": "https://vikalpg.in",
+      "skills": [
+        "Node.js",
+        "ExpressJS",
+        "React.js",
+        "MongoDB",
+        "NextJS",
+        "TypeScript",
+        "Go",
+        "Rust",
+        "Azure",
+        "AWS",
+        "Docker"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://vikalpg.in",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/kakkarot9712",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vikalpgandha",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
