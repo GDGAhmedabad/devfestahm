@@ -531,41 +531,41 @@
       ]
     },
     {
-        "companyName": "Anglara Digital Solutions",
-        "location": "Ahmedabad, India",
-        "bio": "At Anglara Digital Solutions, we turn ideas into reality while building careers that thrive. With 6+ years of delivering exceptional digital solutions, we’re a team that values innovation, growth, and fun. Ready to grow with us? Let’s create amazing things together!",
-        "companyLogoUrl": "https://anglara.com/wp-content/uploads/2022/10/main-logo.svg",
-        "companyWebsite": "https://anglara.com/",
-        "companyCareerPage": "https://anglara.com/career/",
-        "linkedin": "https://www.linkedin.com/company/anglaradigitalsolutions/",
-        "hiringImageUrl": "https://drive.google.com/file/d/1aNDd2EIQkYBO2Lrem7a8IIju5ktDtR82/view?usp=sharing",
-        "openings": [
-          {
-            "title": "Business Development Executive",
-            "count": 1,
-            "experience": "2 to 3 Years experience"
-          },
-          {
-            "title": "Wordpress developers",
-            "count": 1,
-            "experience": "2 to 3 Years experience"
-          },
-          {
-            "title": "MERN Stack Developers",
-            "count": 2,
-            "experience": "2 to 3 Years experience"
-          },
-          {
-            "title": "UI UX designers",
-            "count": 1,
-            "experience": "2 to 3 Years experience"
-          },
-          {
-            "title": "QA Interns",
-            "count": 2,
-            "experience": "NA"
-          }
-        ]
-      }
+      "companyName": "Anglara Digital Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "At Anglara Digital Solutions, we turn ideas into reality while building careers that thrive. With 6+ years of delivering exceptional digital solutions, we’re a team that values innovation, growth, and fun. Ready to grow with us? Let’s create amazing things together!",
+      "companyLogoUrl": "https://anglara.com/wp-content/uploads/2022/10/main-logo.svg",
+      "companyWebsite": "https://anglara.com/",
+      "companyCareerPage": "https://anglara.com/career/",
+      "linkedin": "https://www.linkedin.com/company/anglaradigitalsolutions/",
+      "hiringImageUrl": "https://drive.google.com/file/d/1aNDd2EIQkYBO2Lrem7a8IIju5ktDtR82/view?usp=sharing",
+      "openings": [
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "Wordpress developers",
+          "count": 1,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "MERN Stack Developers",
+          "count": 2,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "UI UX designers",
+          "count": 1,
+          "experience": "2 to 3 Years experience"
+        },
+        {
+          "title": "QA Interns",
+          "count": 2,
+          "experience": "NA"
+        }
+      ]
+    }
   ]
 }
