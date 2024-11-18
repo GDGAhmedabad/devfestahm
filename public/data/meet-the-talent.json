@@ -47,7 +47,12 @@
       "phone": "+91-8780415854",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
       "website": "",
-      "skills": ["Android", "Flutter", "Gen AI", "Python Automation"],
+      "skills": [
+        "Android",
+        "Flutter",
+        "Gen AI",
+        "Python Automation"
+      ],
       "links": [
         {
           "icon": "website",
@@ -79,7 +84,11 @@
       "phone": "+91-9723925030",
       "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
       "website": "",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -111,7 +120,11 @@
       "phone": "+91-7984268169",
       "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
       "website": "https://pratik-bharad.webflow.io/",
-      "skills": ["Android", "Kotlin", "Flutter"],
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
       "links": [
         {
           "icon": "website",
@@ -431,7 +444,12 @@
       "phone": "+91 9016125654",
       "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
       "website": "https://techconnectors.community/profile/mayurgohel",
-      "skills": ["iOS", "Flutter", "Android", "AI/ML"],
+      "skills": [
+        "iOS",
+        "Flutter",
+        "Android",
+        "AI/ML"
+      ],
       "links": [
         {
           "icon": "website",
