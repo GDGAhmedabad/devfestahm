@@ -2798,25 +2798,6 @@
           "title": ""
         },
         {
-          "name": "Pratik Nandani",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fpratik_nandani.jpg?alt=media&token=5657ba00-0122-4841-8c50-d61125a284c1",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/_pratiknandani_",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pratiknandani",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 13,
-          "title": ""
-        },
-        {
           "name": "Romil Patel",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fromil_patel.jpg?alt=media&token=4f8307c5-734e-468c-8765-9902e26819a7",
@@ -2833,25 +2814,6 @@
             }
           ],
           "order": 14,
-          "title": ""
-        },
-        {
-          "name": "Ronak Doshi",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fronak_doshi.jpg?alt=media&token=bb2aac8b-e0f6-4661-9520-2af278096390",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/rnkdsh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/rnkdsh",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 15,
           "title": ""
         },
         {
@@ -2928,25 +2890,6 @@
             }
           ],
           "order": 19,
-          "title": ""
-        },
-        {
-          "name": "Stavan Mehta",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fstavan_mehta.jpg?alt=media&token=8014f115-48e0-4e70-937a-78e16a517359",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/StavanMehta17",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/stavanmehta17/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 20,
           "title": ""
         },
         {

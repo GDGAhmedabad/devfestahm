@@ -711,6 +711,39 @@
       ]
     },
     {
+      "fullName": "Nikul Sagadhara",
+      "location": "Ahmedabad, India",
+      "bio": "I am a Front-End Developer skilled in React.js, JavaScript, Next.js, TypeScript, and Tailwind CSS, focused on creating responsive, interactive, and visually appealing web applications.",
+      "email": "nikulsagadhara@gmail.com",
+      "phone": "+91-7878501027",
+      "imageUrl": "https://cdn3.f-cdn.com/ppic/229252055/logo/32580439/7m4GY/CROPPED_profile_logo_LinkedIn_32580439.jpg",
+      "website": "https://xyz.com",
+      "skills": [
+        "React.js",
+        "JavaScript",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://nikul-sagadhara.netlify.app",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/nikul-sagadhara",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nikul-sagadhara",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
       "fullName": "Vikalp Gandha",
       "location": "Ahmedabad, India",
       "bio": "Software developer with 2+ years of experiance skilled in Node.js, React.js, Next.js, Rust, Go, TypeScript, and JavaScript.",
