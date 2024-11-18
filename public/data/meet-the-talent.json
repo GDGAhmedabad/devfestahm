@@ -781,6 +781,61 @@
           "name": "LinkedIn"
         }
       ]
+    },
+        {
+      "fullName": "Anand Shrivastava  ",
+      "location": "Ahmedabad, India",
+      "bio": "AI ML Engineer | LLM enthusiast | AI Agent brewing | Transforming Data into Insights | Pushing boundries with carefully crafted LLMs",
+      "email": "anandshrivastava04+gdgahm@gmail.com",
+      "phone": "+91-9737687883",
+      "imageUrl": "https://avatars.githubusercontent.com/u/25666718?v=4",
+      "website": "",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Gen AI",
+        "LLM",
+        "Data Analyst",
+        "Data Engineer",
+        "Django",
+        "Flask",
+        "Fast API",
+        "REST API",
+        "SQL",
+        "MySQL",
+        "NoSQL",
+        "Postgres",
+        "DevOps",
+        "Software engineer",
+        "System design engineer",
+        "prototype builder",
+        "Streamlit",
+        "Selenium",
+        "Automation tester"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Anand195",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/Anand1895",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/AnandJ9737",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
