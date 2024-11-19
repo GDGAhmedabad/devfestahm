@@ -825,7 +825,6 @@
       "email": "anandshrivastava04+gdgahm@gmail.com",
       "phone": "+91-9737687883",
       "imageUrl": "https://avatars.githubusercontent.com/u/25666718?v=4",
-      "website": "",
       "skills": [
         "Python",
         "Machine Learning",
@@ -852,11 +851,6 @@
         "Automation tester"
       ],
       "links": [
-        {
-          "icon": "website",
-          "link": "",
-          "name": "Portfolio"
-        },
         {
           "icon": "github",
           "link": "https://github.com/Anand195",
