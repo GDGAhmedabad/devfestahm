@@ -185,7 +185,7 @@ export class RegistrationPage extends PolymerElement {
             </div>
           </div>
           <div class="register-btn">
-            <a href="https://forms.gle/77ipPmFTfeARoQNW8" target="_blank">
+            <a href="https://forms.gle/LcVNPBDxKRwHo6PH7" target="_blank">
               <paper-button primary>
                 <iron-icon icon="hoverboard:ticket"></iron-icon>
                 [[registerNow]]
