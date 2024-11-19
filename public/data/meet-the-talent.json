@@ -781,6 +781,45 @@
           "name": "LinkedIn"
         }
       ]
+    },
+    {
+      "fullName": "Yug Raval",
+      "location": "Ahmedabad, India",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Web | Transforming Data into Insights | React | Django",
+      "email": "yugsraval@gmail.com",
+      "phone": "+91-8128148877",
+      "imageUrl": "https://drive.google.com/file/d/1n7sLRJDFGv6nYwQ6jP4OgyIPhFjmJLlW/view?usp=sharing",
+      "website": "",
+      "skills": [
+        "JavaScript",
+        "Machine Learning",
+        "Gen AI",
+        "AI/ML",
+        "ReactJS",
+        "Python Automation"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yug-raval",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yug-raval-6111a9171/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yug8877",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
