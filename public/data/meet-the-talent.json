@@ -1,6 +1,43 @@
 {
   "talents": [
     {
+      "fullName": "Abdeali Ravat",
+      "location": "Ahmedabad, India",
+      "bio": "Application Developer with over 2 years in mobile development,\nspecializing in Flutter. Passionate about building\ncomplex projects, and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Flutter.",
+      "email": "rawatabdeali22@gmail.com",
+      "phone": "+91-9537642681",
+      "imageUrl": "https://drive.google.com/file/d/1c5nHelHD6eAVpiQGkscGLZDtowufREew/view?usp=sharing",
+      "website": "https://drive.google.com/drive/folders/1DyhIUM4fcezxw4ZzfWmDkBiI_L9bnpBw?usp=sharing",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Git/GitHub"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://drive.google.com/drive/folders/1DyhIUM4fcezxw4ZzfWmDkBiI_L9bnpBw?usp=sharing",
+          "name": "Resume"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/AbdealiRavat/",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/abdeali-ravat/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/Abdeali51",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
       "fullName": "Pranay Patel",
       "location": "Ahmedabad, India",
       "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
