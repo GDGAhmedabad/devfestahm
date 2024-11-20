@@ -128,6 +128,12 @@
           "logoUrl": "../images/logos/cirrops.png",
           "name": "CirrOps",
           "url": "https://cirrops.in/"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/prydan-logo.svg",
+          "name": "Prydan",
+          "url": "https://www.prydan.com/"
         }
       ],
       "order": 3,
