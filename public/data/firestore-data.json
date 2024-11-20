@@ -261,6 +261,9 @@
             },
             {
               "items": ["126"]
+            },
+            {
+              "items": ["128"]
             }
           ],
           "startTime": "12:00"
@@ -279,6 +282,9 @@
             },
             {
               "items": ["108"]
+            },
+            {
+              "items": ["129"]
             }
           ],
           "startTime": "12:45"
@@ -306,6 +312,9 @@
             },
             {
               "items": ["109"]
+            },
+            {
+              "items": ["130"]
             }
           ],
           "startTime": "14:45"
@@ -818,6 +827,34 @@
         "Startup"
       ],
       "title": "The Art of Scaling up",
+      "videoId": ""
+    },
+    "129": {
+      "complexity": "Intermediate",
+      "description": "Breaking Boundaries: Empowering Women to Lead the Future of Tech is an inspiring roundtable discussion designed to address the unique challenges and opportunities for women in today's tech landscape. We'll explore how women can navigate rapid market changes, harness the potential of AI, and step into leadership roles that drive innovation. This conversation will also cover insights on building resilience, taking calculated risks, and embracing entrepreneurship to launch successful startups. Join us as we discuss strategies for overcoming barriers, competing in a dynamic market, and paving the way for women to lead the future of tech",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "khushbu_thakker"
+      ],
+      "tags": [
+        "WTM"
+      ],
+      "title": "Breaking Boundaries: Empowering Women to Lead the Future of Tech",
+      "videoId": ""
+    },
+    "130": {
+      "complexity": "Intermediate",
+      "description": "oin us for an exclusive CxO meetup as we deep-dive into DhiWise - an enterprise-grade platform where agentic AI transforms software development by thinking, planning, and creating like your best team members \n\nExperience the complete AI-First Automation Platform that: \n* ⁠Functions as your specialized AI employee mastering every role \n*Combines strategic thinking, analyst precision, and developer expertise \n* Delivers quality-first results with zero verbal dependencies \n* Accelerates your entire journey from concept to code",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "vishal_virani"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "CxO Meet: Deep dive into AI-powered Business SDLC automation with DhiWise",
       "videoId": ""
     },
     "151": {
@@ -1970,6 +2007,41 @@
       "order": 32,
       "rockstarSpeakerOrder": 32,
       "title": "Director - Business Consulting"
+    },
+    "khushbu_thakker":{
+      "badges": [
+        {
+          "description": "Google Developers Group Ahmedabad",
+          "link": "https://www.meetup.com/GDG-Ahmedabad/",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience, currently working at Hyperlink InfoSystem. She actively manages the Women Techmakers Ahmedabad chapter and has been selected as a Women Techmakers Ambassador. Khushbu loves building innovative solutions, exploring the latest in technology, and inspiring the tech community through mentorship and knowledge sharing.",
+      "company": "Hyperlink Infosystem pvt.ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Khushbu Thakker",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
+      "pronouns": "she/her",
+      "shortBio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/KhushbuThakker",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 33,
+      "rockstarSpeakerOrder": 33,
+      "title": "Senior Flutter & Android Developer"
     }
   },
   "team": [
@@ -2103,7 +2175,7 @@
 
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b/",
               "name": "LinkedIn"
             }
           ],
