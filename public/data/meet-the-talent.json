@@ -949,6 +949,44 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Vatsal Gamit",
+      "location": "Bengluru, India",
+      "bio": "Experienced software engineer skilled in Python",
+      "email": "v.s.gamit999@gmail.com",
+      "phone": "+91-9879768477",
+      "imageUrl": "https://vatsalgamit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvats.5ee472f4.png&w=384&q=75",
+      "website": "https://vatsalgamit.com",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "LLMs",
+        "JavaScript"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://vatsalgamit.com",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/vatsalgamit",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vatsalgamit",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/Vatsal_Gamit",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
