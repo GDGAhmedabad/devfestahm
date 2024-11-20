@@ -783,6 +783,79 @@
       ]
     },
     {
+      "fullName": "Dipak Pawar",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Web developer skilled in React, API integration, Nextjs and JavaScript.",
+      "email": "itsdipakpawar4206@gmail.com",
+      "phone": "+91-8600405446",
+      "imageUrl": "https://avatars.githubusercontent.com/u/96649241?v=4",
+      "website": "https://itsdipaks.github.io/",
+      "skills": [
+        "React",
+        "NextJs",
+        "Javascript",
+        "Typescript",
+        "mongodb",
+        "express",
+        "NodeJS",
+        "Firebase"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://itsdipaks.github.io/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/itsDipaks",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dipak-pawar-550776221/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "fullName": "Sohan Ram",
+      "location": "Ahmedabad, India",
+      "bio": "4+ Experienced software developer skilled API integration, Angular 8+, TypeScript, React.js, and JavaScript.",
+      "email": "officialsohanpaliyal@gmail.com",
+      "phone": "+91-8112252116",
+      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+      "website": "",
+      "skills": [
+        "Angular",
+        "React",
+        "Typescript",
+        "Javascript"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sohanpaliyal",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sohanpaliyal",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/sohanpaliyal",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
       "fullName": "Yug Raval",
       "location": "Ahmedabad, India",
       "bio": "AI Engineer Specializing in Machine Learning Solutions | Web | Transforming Data into Insights | React | Django",
