@@ -311,22 +311,43 @@
           "startTime": "14:45"
         },
         {
-          "endTime": "16:15",
+          "endTime": "15:55",
           "sessions": [
             {
+              "extend": 2,
               "items": ["124"]
             },
             {
+              "extend": 2,
               "items": ["120"]
             },
             {
               "items": ["116"]
             },
             {
+              "extend": 2,
               "items": ["111"]
             }
           ],
           "startTime": "15:30"
+        },
+        {
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": ["113"]
+            },
+            {
+              "items": []
+            }
+          ],
+          "startTime": "15:55"
         },
         {
           "endTime": "17:00",
@@ -338,7 +359,7 @@
               "items": ["119"]
             },
             {
-              "items": ["113"]
+              "items": ["117"]
             },
             {
               "items": ["107"]
