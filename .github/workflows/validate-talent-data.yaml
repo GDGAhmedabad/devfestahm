@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
 
 permissions:
-    contents: read
+    contents: write
     pull-requests: write # enable write permissions for pull request comments
 
 jobs:
@@ -21,6 +21,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          # This part is also where you can pass other options, for example:
+          prettier_options: --write public/data/meet-the-talent.json
 
       - name: json-yaml-validate
         id: json-yaml-validate
