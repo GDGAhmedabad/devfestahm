@@ -566,6 +566,58 @@
           "experience": "NA"
         }
       ]
+    },
+    {
+      "companyName": "AppAspect Technologies Pvt. Ltd.",
+      "location": "Ahmedabad",
+      "bio": "At AppAspect, a leading mobile app and web development company in the USA, we specialize in transforming your ideas into revenue-generating reality. Our top-notch technical expertise has brought to life various applications, from Interactive Social Shopping Apps and Game Apps to Education Apps, Lifestyle Apps, B2B e-commerce apps, on-demand travel apps, and beyond. Committed to comprehensive digital solutions, we also excel in crafting dynamic and visually appealing websites that seamlessly align with your business goals, ensuring a robust online presence for your brand.",
+      "companyLogoUrl": "https://www.appaspect.com/wp-content/uploads/2022/01/Logo-with-R.svg",
+      "companyWebsite": "https://www.appaspect.com/",
+      "companyCareerPage": "https://www.appaspect.com/career/",
+      "linkedin": "https://www.linkedin.com/company/appaspect/",
+      "hiringImageUrl": "https://www.appaspect.com/images/Hiring.png",
+      "openings": [
+        {
+          "title": "iOS Developers",
+          "count": 2,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "Android Developers",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "Flutter Developers",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "React Native Developers",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "WordPress Developers",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "Laravel Developers",
+          "count": 1,
+          "experience": "1-2 years"
+        },
+        {
+          "title": "UI UX Designers",
+          "count": 1,
+          "experience": "0.5-1 year"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2-3 years"
+        }
+      ]
     }
   ]
 }
