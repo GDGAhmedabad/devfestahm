@@ -779,6 +779,20 @@
       "title": "Beckn Unveiled: Architecting the Internet's Next Frontier with AI",
       "videoId": ""
     },
+    "128": {
+      "complexity": "Intermediate",
+      "description": "With over 20 years of experience in technology consulting and business transformation, Karan Chugh is a recognised expert in helping startups, SMEs, and enterprises scale effectively. Having guided businesses across diverse industries—including FinTech, AgriTech, aviation, and government organisations—Karan blends strategic insights with hands-on expertise to unlock growth opportunities. \nIn his session, \"The Art of Scaling Up,\" Karan will share proven strategies for navigating the complexities of growth. His talk is packed with actionable insights tailored for today's fast-evolving business landscape. \n\nWhether you're a startup founder, a technology enthusiast, or a seasoned executive, this session promises to inspire and equip you with the tools to transform challenges into milestones on your scaling journey. \n\nJoin Karan and discover the art of scaling up with clarity, confidence, and creativity!",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "karan_chugh"
+      ],
+      "tags": [
+        "Startup"
+      ],
+      "title": "The Art of Scaling up",
+      "videoId": ""
+    },
     "151": {
       "description": "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon": "registration",
@@ -1901,6 +1915,34 @@
       "order": 33,
       "rockstarSpeakerOrder": 33,
       "title": "Contributor, Beckn Protocol | Mentor, Google for Startups Accelerator (EU & Africa))"
+    },
+    "karan_chugh":{
+      "bio": "With over 20 years in tech consulting, I've been helping Aussie businesses—from startups and SMEs to big enterprises—sort out their operations and scale up with ease. I'm all about building genuine relationships and cutting through the tech jargon to find what works, whether it's old-school Microsoft solutions, open-source tech, or the latest in mobile apps, cloud computing, and enterprise mobility to now AI and how it is truly going to disrupt a lot around the tech space \n\nI've had the chance to roll up my sleeves and help services based as well as product companies make their mark in Australia, Singapore, Dubai, US, Europe and beyond, driving 10x growth with a no-nonsense, strategic approach. My experience spans everything from guiding Oracle-acquired enterprises and US Largest aircraft manufacturers to working with FinTech and AgriTech innovators, Universities, World's Top cricketers, Worlds Top Golfers, and even government outfits in Dubai.",
+      "company": "VT Digital Pty Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fvt_digital.png?alt=media&token=711f0a76-94ff-46c4-bcda-d4e6f6bcd7bb",
+      "country": "Sydney / Ahmedabad",
+      "featured": false,
+      "name": "Karan Chugh",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fkaran_chugh.jpg?alt=media&token=282ae01a-3ce1-4f77-9d52-4fc35c8ebd27",
+      "pronouns": "he/him",
+      "shortBio": "With over 20 years in tech consulting, I've been helping Aussie businesses—from startups and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/karan_chugh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/chughkaran/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 32,
+      "rockstarSpeakerOrder": 32,
+      "title": "Director - Business Consulting"
     }
   },
   "team": [
