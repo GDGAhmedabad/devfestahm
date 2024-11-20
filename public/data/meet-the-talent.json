@@ -819,6 +819,138 @@
       ]
     },
     {
+      "fullName": "Sohan Ram",
+      "location": "Ahmedabad, India",
+      "bio": "4+ Experienced software developer skilled API integration, Angular 8+, TypeScript, React.js, and JavaScript.",
+      "email": "officialsohanpaliyal@gmail.com",
+      "phone": "+91-8112252116",
+      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+      "website": "",
+      "skills": [
+        "Angular",
+        "React",
+        "Typescript",
+        "Javascript"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sohanpaliyal",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sohanpaliyal",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/sohanpaliyal",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Yug Raval",
+      "location": "Ahmedabad, India",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Web | Transforming Data into Insights | React | Django",
+      "email": "yugsraval@gmail.com",
+      "phone": "+91-8128148877",
+      "imageUrl": "https://drive.google.com/file/d/1n7sLRJDFGv6nYwQ6jP4OgyIPhFjmJLlW/view?usp=sharing",
+      "website": "",
+      "skills": [
+        "JavaScript",
+        "Machine Learning",
+        "Gen AI",
+        "AI/ML",
+        "ReactJS",
+        "Python Automation"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yug-raval",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yug-raval-6111a9171/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yug8877",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Anand Shrivastava",
+      "location": "Ahmedabad, India",
+      "bio": "Pushing boundries with carefully crafted LLMs AI and ML based solution | 3+ years of enperience in AI world with experties in | AI ML Engineer | LLM enthusiast | AI Agent brewing | Transforming Data into Insights",
+      "email": "anandshrivastava04@gmail.com",
+      "phone": "+91-9737687883",
+      "imageUrl": "https://avatars.githubusercontent.com/u/25666718?v=4",
+      "website": "",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Gen AI",
+        "LLM",
+        "Prompt Engineer",
+        "Data Analyst",
+        "Data Engineer",
+        "Django",
+        "Flask",
+        "Fast API",
+        "REST API",
+        "SQL",
+        "MySQL",
+        "NoSQL",
+        "Postgres",
+        "DevOps",
+        "Software engineer",
+        "System design engineer",
+        "prototype builder",
+        "Streamlit",
+        "Selenium",
+        "Automation tester"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Anand195",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/Anand1895/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/AnandJ9737",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
       "fullName": "Vatsal Gamit",
       "location": "Bengluru, India",
       "bio": "Experienced software engineer skilled in Python",
@@ -826,7 +958,13 @@
       "phone": "+91-9879768477",
       "imageUrl": "https://vatsalgamit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvats.5ee472f4.png&w=384&q=75",
       "website": "https://vatsalgamit.com",
-      "skills": ["Python", "FastAPI","Django","LLMs","JavaScript"],
+      "skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "LLMs",
+        "JavaScript"
+      ],
       "links": [
         {
           "icon": "website",
