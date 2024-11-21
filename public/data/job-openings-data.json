@@ -618,6 +618,43 @@
           "experience": "2-3 years"
         }
       ]
+    },
+    {
+      "companyName": "Codemech Solutions",
+      "location": "Ahmedabad, India",
+      "bio": "We are dedicated to providing innovative solutions that ensure efficient and cost-effective outcomes by utilizing our diverse range of technologies and researching the latest alternatives available. We are seeking talented software engineers who possess a strong understanding of how web applications function and are capable of exceeding project requirements. Additionally, candidates should have excellent core programming skills and be knowledgeable in their specialized fields.",
+      "companyLogoUrl": "https://static.codemechsolutions.com/assets/images/favicon/apple-icon.png",
+      "companyWebsite": "https://www.codemechsolutions.com/",
+      "companyCareerPage": "https://www.codemechsolutions.com/career/",
+      "linkedin": "https://www.linkedin.com/company/codemechsolutions",
+      "hiringImageUrl": "https://static.codemechsolutions.com/assets/images/steps-hiring.webp",
+      "openings": [
+        {
+          "title": "Angular Developer",
+          "count": 1,
+          "experience": "0 to 10 years"
+        },
+        {
+          "title": "Java Developer",
+          "count": 1,
+          "experience": "0 to 10 years"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "0 to 5 years"
+        },
+        {
+          "title": "Flutter Developer",
+          "count": 1,
+          "experience": "2 to 5 years"
+        },
+        {
+          "title": "Content Writer",
+          "count": 1,
+          "experience": "2 to 5 years"
+        }
+      ]
     }
   ]
 }
