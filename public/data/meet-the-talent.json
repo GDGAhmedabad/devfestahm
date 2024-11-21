@@ -1024,6 +1024,33 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+  "fullName": "Dinesh Songra",
+  "location": "Ahmedabad, India",
+  "bio": "Mobile App Developer | 8+ year exp | Java | Kotlin |MVVM | Solid experience in building apps and SDK from scratch using latest technologies, design and creativity.",
+  "email": "sonagradinesh07@gmail.com",
+  "phone": "+91-9714190616",
+  "imageUrl": "https://i.ibb.co/qsVM4Bs/Imported-Photo-751268387-333743-2.jpg",
+  "website": "-",
+  "skills": ["Android", "Kotlin","MVVM", "Java", "Coroutines", "Material Design","Coroutines", "LiveData", "Flow"],
+  "links": [
+    {
+      "icon": "stackoverflow",
+      "link": "https://stackoverflow.com/users/7271027/dinesh",
+      "name": "StackOverFlow"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/DineshSonagra",
+      "name": "Github"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/dinesh-sonagra-747181a3/",
+      "name": "LinkedIn"
     }
+  ]
+}
   ]
 }
