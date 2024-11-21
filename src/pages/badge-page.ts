@@ -191,7 +191,7 @@ export class BadgePage extends PolymerElement {
           height: 450px;
           border: 1px solid #ccc;
           position: relative;
-          background-image: url('/images/ticket-badge-23.png');
+          background-image: url('/images/badge-ticket.png');
           /* Updated background image */
           background-size: cover;
           background-position: center;
@@ -218,11 +218,11 @@ export class BadgePage extends PolymerElement {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <h2 class="name">[[tbd.unveilSoon]]</h2>
-        <p class="hero-description">[[tbd.announcedSoon]]</p>
+        <!-- <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p> -->
       </hero-block>
 
-      <!-- <div class="container" layout vertical justified wrap center>
+      <div class="container" layout vertical justified wrap center>
         <div class="input-panel">
           <p>
             Now that you are here, how about personalising your profile? Upload an image and generate a
@@ -326,7 +326,7 @@ export class BadgePage extends PolymerElement {
 
           <mwc-button slot="primaryAction" on-click="cropImage">Done</mwc-button>
         </mwc-dialog>
-      </div> -->
+      </div>
 
       <footer-block></footer-block>
     `;
@@ -357,7 +357,7 @@ export class BadgePage extends PolymerElement {
     this.canvas = this.shadowRoot?.querySelector('#profile-canvas');
     this.ctx = this.canvas.getContext("2d");
     this.banner.setAttribute('crossOrigin', 'anonymous')
-    this.banner.src = '/images/devfestahm23-badge-frame.png';
+    this.banner.src = '/images/badge-profile.png';
     this.banner.onload = () => {
       this.ctx.imageSmoothingEnabled = false;
       this.draw();
@@ -493,7 +493,7 @@ export class BadgePage extends PolymerElement {
   download = () => {
     const a = document.createElement("a");
     const url = this.canvas.toDataURL("image/png;base64");
-    a.download = "devfestahm23-profile-badge.png";
+    a.download = "devfestahm-profile-badge.png";
     a.href = url;
     a.click();
   };
@@ -512,7 +512,7 @@ export class BadgePage extends PolymerElement {
     const backgroundImage = new Image();
     const ticketImage = this.shadowRoot?.querySelector('#ticket-image');
 
-    backgroundImage.src = '/images/ticket-badge-23.png';
+    backgroundImage.src = '/images/badge-ticket.png';
     backgroundImage.onload = function () {
       context.drawImage(backgroundImage, 0, 0, canvas.width, canvas.height);
 
@@ -550,7 +550,7 @@ export class BadgePage extends PolymerElement {
 
       const link = document.createElement('a');
       link.href = canvas.toDataURL('image/png');
-      link.download = 'devfestahm23-ticket-badge.png';
+      link.download = 'devfestahm-ticket-badge.png';
       link.click();
     };
   }
