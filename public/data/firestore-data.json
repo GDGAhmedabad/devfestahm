@@ -2763,6 +2763,20 @@
     {
       "members": [
         {
+          "name": "Dadiya Nidhi",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fnidhi-dadiya.jpeg?alt=media&token=087ebdc0-d8ea-4cc8-98e3-2321e95d825f",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nidhi-dadiya-b1955b64/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
           "name": "Darpan Ketan Amre",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fdarpan-amre.jpeg?alt=media&token=6702d39c-e1f9-4109-838e-389d948fe58d",
@@ -2778,7 +2792,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 0,
+          "order": 1,
           "title": ""
         },
         {
@@ -2792,7 +2806,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 1,
+          "order": 2,
           "title": ""
         },
         {
@@ -2806,7 +2820,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 2,
+          "order": 3,
           "title": ""
         },
         {
@@ -2820,7 +2834,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 3,
+          "order": 4,
           "title": ""
         },
         {
@@ -2839,7 +2853,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 4,
+          "order": 5,
           "title": ""
         }
       ],
