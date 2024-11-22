@@ -1117,22 +1117,22 @@
       "links": [
         {
           "icon": "website",
-          "link": "https://xyz.com",
+          "link": "https://vishvam.dev",
           "name": "Portfolio"
         },
         {
           "icon": "github",
-          "link": "https://github.com/johndeo",
+          "link": "https://github.com/0xvish",
           "name": "Github"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/johndeo",
+          "link": "https://www.linkedin.com/in/vishvam-moliya",
           "name": "LinkedIn"
         },
         {
           "icon": "twitter",
-          "link": "https://x.com/johndeo",
+          "link": "https://x.com/0xvish",
           "name": "X/Twitter"
         }
       ]
