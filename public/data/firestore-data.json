@@ -203,13 +203,22 @@
           "startTime": "09:45"
         },
         {
-          "endTime": "10:30",
+          "endTime": "10:15",
           "sessions": [
             {
-              "items": ["159"]
+              "items": ["131"]
             }
           ],
           "startTime": "10:00"
+        },
+        {
+          "endTime": "10:30",
+          "sessions": [
+            {
+              "items": ["132"]
+            }
+          ],
+          "startTime": "10:15"
         },
         {
           "endTime": "11:00",
