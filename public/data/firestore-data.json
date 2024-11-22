@@ -847,7 +847,8 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        "khushbu_thakker"
+        "khushbu_thakker",
+        "srishti_tibrewal"
       ],
       "tags": [
         "WTM"
@@ -2107,7 +2108,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
       "country": "Bangalore",
-      "featured": false,
+      "featured": true,
       "name": "Harsh Dattani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_dattani.jpg?alt=media&token=840dc7b6-3fd7-49ba-bf1e-82ffed2078dc",
@@ -2163,6 +2164,41 @@
       "order": 37,
       "rockstarSpeakerOrder": 37,
       "title": "Program Coordinator @ Google"
+    },
+    "srishti_tibrewal":{
+      "badges": [
+        {
+          "description": "Program Manager",
+          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
+          "name": "google"
+        }
+      ],
+      "bio": "",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": false,
+      "name": "Srishti Tibrewal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fsrishti_tibrewal.jpg?alt=media&token=93beb508-6456-402e-9dee-da13cbfba0d8",
+      "pronouns": "he/him",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/SrishtiTibrewal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 38,
+      "rockstarSpeakerOrder": 38,
+      "title": "Developer Community Manager, Google for Developers"
     }
   },
   "team": [
