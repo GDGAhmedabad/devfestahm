@@ -1104,6 +1104,45 @@
           "name": "X/Twitter"
         }
       ]
+    },{
+      "fullName": "Devendra Kumar",
+      "location": "Gandhinagar, India",
+      "bio": "Java FullStack Developer | 2 YOE | Experienced in e-Governance Projects in India, Focusing on Defence and ERP-based GIS Initiatives.",
+      "email": "devendra.nishad.9847@gmail.com",
+      "phone": "+91-7000761551",
+      "imageUrl": "https://drive.google.com/file/d/1Hyn1U6YB6LBYnjPB3CV-P4qlKORSw9Ln/view",
+      "website": "-",
+      "skills": [
+        "SpringBoot",
+        "Java",
+        "Postgres",
+        "GIS",
+        "AWS",
+        "Spring MVC",
+        "Google Cloud"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://drive.google.com/file/d/1Hu41re2BvYsLuk6n8LUic84gNwvLRr_F/view",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Devplay9847",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/d3v18/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/DevolverD18",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
