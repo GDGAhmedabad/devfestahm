@@ -243,6 +243,9 @@
             },
             {
               "items": ["110"]
+            },
+            {
+              "items": ["133"]
             }
           ],
           "startTime": "11:15"
@@ -884,6 +887,16 @@
         "Startup"
       ],
       "title": "Road to GDE",
+      "videoId": ""
+    },
+    "133": {
+      "complexity": "Intermediate",
+      "description": "Office hours for Tech Expo Gujarat",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [],
+      "title": "Tech Expo Gujarat",
       "videoId": ""
     },
     "151": {
