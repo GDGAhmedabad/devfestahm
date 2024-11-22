@@ -2579,6 +2579,11 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/jay-bhatia-121471a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/jaybhatia.55?igsh=dW1veXY0aWNpOHJ0",
+              "name": "Instagram"
             }
           ],
           "order": 3,
@@ -2691,7 +2696,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "www.linkedin.com/in/dudhatbhavik",
+              "link": "https://www.linkedin.com/in/dudhatbhavik",
               "name": "LinkedIn"
             }
           ],
