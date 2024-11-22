@@ -203,7 +203,7 @@
           "startTime": "09:45"
         },
         {
-          "endTime": "10:15",
+          "endTime": "10:20",
           "sessions": [
             {
               "items": ["131"]
@@ -218,7 +218,7 @@
               "items": ["132"]
             }
           ],
-          "startTime": "10:15"
+          "startTime": "10:20"
         },
         {
           "endTime": "11:00",
@@ -894,7 +894,7 @@
         "rajat_bhatia"
       ],
       "tags": [
-        "Startup"
+        "Keynote"
       ],
       "title": "Road to GDE",
       "videoId": ""
