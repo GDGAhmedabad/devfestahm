@@ -8,37 +8,27 @@
       "companyWebsite": "http://solguruz.com/",
       "companyCareerPage": "https://solguruz.com/careers/",
       "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/thumbnail?id=1qB9uG4ksgpjyAirgpPaJHKdHZzjU4D5n",
+      "hiringImageUrl": "https://drive.google.com/thumbnail?id=18uaRcp6QGQZW1GEn0lUl9pYrU9cnwRTV&sz=w500",
       "openings": [
         {
-          "title": "Technical Content Writers",
-          "count": 2,
-          "experience": "2 to 5 Years experience"
-        },
-        {
-          "title": "MERN Stack Developers",
-          "count": 2,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "ReactJs Developers",
-          "count": 2,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "Flutter Developers",
+          "title": "Sr. Business Development Executive",
           "count": 1,
-          "experience": "2 to 4 Years experience"
+          "experience": "3+ years Experience"
         },
         {
-          "title": "Node Developers",
-          "count": 1,
-          "experience": "2 to 4 Years experience"
-        },
-        {
-          "title": "QA Engineers",
+          "title": "Senior Flutter Developer",
           "count": 2,
-          "experience": "2 to 4 Years experience"
+          "experience": "3+ years Experience"
+        },
+        {
+          "title": "Motion Graphics Designer",
+          "count": 1,
+          "experience": "0 to 1 year Exp"
+        },
+        {
+          "title": "Business Analyst",
+          "count": 1,
+          "experience": "3+ years Experience"
         }
       ]
     },
