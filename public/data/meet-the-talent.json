@@ -187,6 +187,35 @@
       ]
     },
     {
+      "fullName": "Suraj Joshi",
+      "location": "Udaipur, Rajasthan",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Deep Learning Enthusiast | Transforming Data into Insights | MVVVM | Kotlin | Jetpack Compose | Flutter | Dart",
+      "email": "surajrljoshi@gmail.com",
+      "phone": "+91-9251590990",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFTczeMHMEr_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725884786835?e=1737590400&v=beta&t=bkkKAsaLXJX9vrg7RYeEP0YRnyHs222K_85GVpNOVho",
+      "website": "",
+      "skills": [
+        "Javascript",
+        "Node JS",
+        "Angular",
+        "Laravel",
+        "JQuery",
+        "AWS",
+        "SQL",
+        "Project Management",
+        "CRM Tools",
+        "Team Lead",
+        "Server Developments"
+      ],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/suraj-joshi-829817146/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
       "fullName": "Niraj Chauhan",
       "location": "Vadodara, India",
       "bio": "Technical Project Manager | 10+ years of experience in the Software Industry working from Software development to Program/Portfolio Management.",
