@@ -1104,6 +1104,38 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Vishvam Moliya",
+      "location": "Ahmedabad, India",
+      "bio": "CTO @Bytease | Software Developer | Tech Enthusiast | Blockchain, AI-ML, Open-source, Cyber-Security, TechOps Enthusiast",
+      "email": "vishvammoliya@gmail.com",
+      "phone": "+91-9429559419",
+      "imageUrl": "https://utfs.io/f/uEwtUhBKoyp4EteakQySLYJWf0moQEtexMvdG8a4O3rpC9zu",
+      "website": "https://vishvam.dev",
+      "skills": ["React", "NextJS", "Web3", "TypeScript", "Solidity", "Blockchain", "AI/ML", "Cyber-Security"],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://vishvam.dev",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/0xvish",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vishvam-moliya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/0xvish",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
