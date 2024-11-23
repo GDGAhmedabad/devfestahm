@@ -1113,7 +1113,16 @@
       "phone": "+91-9429559419",
       "imageUrl": "https://utfs.io/f/uEwtUhBKoyp4EteakQySLYJWf0moQEtexMvdG8a4O3rpC9zu",
       "website": "https://vishvam.dev",
-      "skills": ["React", "NextJS", "Web3", "TypeScript", "Solidity", "Blockchain", "AI/ML", "Cyber-Security"],
+      "skills": [
+        "React",
+        "NextJS",
+        "Web3",
+        "TypeScript",
+        "Solidity",
+        "Blockchain",
+        "AI/ML",
+        "Cyber-Security"
+      ],
       "links": [
         {
           "icon": "website",
