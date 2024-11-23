@@ -1176,6 +1176,47 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Dhruvrajsinh Zala",
+      "location": "Ahmedabad, India",
+      "bio": "I am a web developer with over 2 years of experience in creating dynamic and user-friendly web applications. My expertise spans both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Next.js, and Node.js. I am also passionate about artificial intelligence and have experience integrating AI solutions, particularly through the OpenAI API, to enhance user interactions with features like chatbots and automated content generation. As an AI enthusiast, I'm constantly exploring new ways to merge web development with cutting-edge technologies, aiming to create innovative and efficient solutions.",
+      "email": "dnzala2414@gmail.com",
+      "phone": "+91-7874343088",
+      "imageUrl": "https://drive.google.com/file/d/1UhTuFWHJagVngKvMBit-oNzrNBg9GnZ3/view?usp=drive_link",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Node.js",
+        "Next.js",
+        "OpenAi",
+        "React.js",
+        "MySQL"
+      ],
+      "website": "https://dhruvrajsinh-zala.vercel.app/",
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://dhruvrajsinh-zala.vercel.app/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Dhruvrajsinh131/",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dhruvrajsinh-zala-368113214/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/dhruvrajz29",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
