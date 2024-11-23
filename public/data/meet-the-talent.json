@@ -1226,6 +1226,47 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Herin Soni",
+      "location": "Ahmedabad, India",
+      "bio": "Full-stack developer specializing in Python & it's frameworks like Django,Djangorest,Flask, etc. with a focus on web development and Data Structures and Algorithms (DSA). Passionate about building scalable applications and solving algorithmic challenges.",
+      "email": "herinsoni3737@gmail.com",
+      "phone": "+91-8849737015",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGerLDoxSUq2Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721207120564?e=1737590400&v=beta&t=SlXS383ao4-B6Zd6rNzRN61pAY4JzYzlIUeBBGYNQxM",
+      "website": "https://github.com/herin7",
+      "skills": [
+        "C++",
+        "Python",
+        "JavaScript",
+        "Django REST Framework",
+        "Building APIs",
+        "Docker",
+        "Google Cloud"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/herin7",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/herinsoni",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "portfolio",
+          "link": "https://github.com/herin7",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "hackerrank",
+          "link": "https://www.hackerrank.com/herinsoni3737",
+          "name": "Hackerrank"
+        }
+      ]
     }
   ]
+  
 }
