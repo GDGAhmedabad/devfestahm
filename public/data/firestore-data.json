@@ -203,13 +203,22 @@
           "startTime": "09:45"
         },
         {
-          "endTime": "10:30",
+          "endTime": "10:20",
           "sessions": [
             {
-              "items": ["159"]
+              "items": ["131"]
             }
           ],
           "startTime": "10:00"
+        },
+        {
+          "endTime": "10:30",
+          "sessions": [
+            {
+              "items": ["132"]
+            }
+          ],
+          "startTime": "10:20"
         },
         {
           "endTime": "11:00",
@@ -243,6 +252,9 @@
             },
             {
               "items": ["110"]
+            },
+            {
+              "items": ["133"]
             }
           ],
           "startTime": "11:15"
@@ -450,7 +462,7 @@
     },
     "103": {
       "complexity": "Intermediate",
-      "description": "Step into the agentic economy, where AI agents redefine the development process, boosting efficiency, enabling smarter workflows, and unlocking new levels of productivity - highlighted by a live demo of DhiWise 3.0.",
+      "description": "Step into the AI-powered development world, where intelligent agents redefine the development process, boosting efficiency, enabling smarter workflows, and unlocking new levels of productivity—highlighted by a live demo of DhiWise 3.0.",
       "language": "English",
       "presentation": "",
       "speakers": [
@@ -460,7 +472,7 @@
         "Keynote",
         "AI/ML"
       ],
-      "title": "The AI Catalyst: Transforming SDLC with Agent-driven Efficiency and Accuracy",
+      "title": "The AI Catalyst -  Transforming SDLC with Agent-driven Efficiency and Accuracy",
       "videoId": ""
     },
     "104": {
@@ -835,7 +847,8 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        "khushbu_thakker"
+        "khushbu_thakker",
+        "srishti_tibrewal"
       ],
       "tags": [
         "WTM"
@@ -855,6 +868,45 @@
         "Startup"
       ],
       "title": "CxO Meet: Deep dive into AI-powered Business SDLC automation with DhiWise",
+      "videoId": ""
+    },
+    "131": {
+      "complexity": "Intermediate",
+      "description": "This session explores how Google AI can help you transform your ideas into impactful solutions. \n\nWe'll cover a range of tools and techniques, from ideation and research with Google Gemini, to development and prototyping with Colab and AI Studio, to deployment and scaling with Vertex AI and Cloud Functions. \n\nLearn how to leverage these powerful resources to accelerate your AI journey and create solutions that make a real-world difference.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "harsh_dattani"
+      ],
+      "tags": [
+        "Keynote",
+        "AI/ML"
+      ],
+      "title": "From Ideas to Impact using Google AI tools",
+      "videoId": ""
+    },
+    "132": {
+      "complexity": "Introductory & Overview",
+      "description": "This program aims to support female developers who are actively working on Google products, already have technical skills to join the Google Developer Experts community. \nThe program will provide the candidates with basic knowledge about the Experts program, product-specific speaking engagements and opportunities (mentorships, training) and development in technical skills.",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "rajat_bhatia"
+      ],
+      "tags": [
+        "Keynote"
+      ],
+      "title": "Road to GDE",
+      "videoId": ""
+    },
+    "133": {
+      "complexity": "Intermediate",
+      "description": "Office hours for Tech Expo Gujarat",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [],
+      "title": "Tech Expo Gujarat",
       "videoId": ""
     },
     "151": {
@@ -2004,8 +2056,8 @@
           "name": "LinkedIn"
         }
       ],
-      "order": 32,
-      "rockstarSpeakerOrder": 32,
+      "order": 34,
+      "rockstarSpeakerOrder": 34,
       "title": "Director - Business Consulting"
     },
     "khushbu_thakker":{
@@ -2039,9 +2091,114 @@
           "name": "LinkedIn"
         }
       ],
-      "order": 33,
-      "rockstarSpeakerOrder": 33,
+      "order": 35,
+      "rockstarSpeakerOrder": 35,
       "title": "Senior Flutter & Android Developer"
+    },
+    "harsh_dattani":{
+      "badges": [
+        {
+          "description": "Program Manager",
+          "link": "https://www.linkedin.com/in/harshdattani/",
+          "name": "google"
+        }
+      ],
+      "bio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom of a Yoda.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Harsh Dattani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_dattani.jpg?alt=media&token=840dc7b6-3fd7-49ba-bf1e-82ffed2078dc",
+      "pronouns": "he/him",
+      "shortBio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dattaniharsh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshdattani/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 36,
+      "rockstarSpeakerOrder": 36,
+      "title": "Program Manager | Developer Relations @ Google"
+    },
+    "rajat_bhatia":{
+      "badges": [
+        {
+          "description": "Program Coordinator",
+          "link": "https://www.linkedin.com/in/harshdattani/",
+          "name": "google"
+        }
+      ],
+      "bio": "I run the Accelerator and Experts programs at Google.I have completed my MBA from IIM Visakhapatnam and B.Tech. from VIT, Vellore.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": false,
+      "name": "Rajat Bhatia",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frajat_bhatia.jpg?alt=media&token=4f795b5f-ae9f-4d24-89de-02921091da1a",
+      "pronouns": "he/him",
+      "shortBio": "I run the Accelerator and Experts programs at Google.I have completed my MBA from...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/rajatbhatia24",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rajatbhatia24/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 37,
+      "rockstarSpeakerOrder": 37,
+      "title": "Program Coordinator @ Google"
+    },
+    "srishti_tibrewal":{
+      "badges": [
+        {
+          "description": "Program Manager",
+          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
+          "name": "google"
+        }
+      ],
+      "bio": "",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": false,
+      "name": "Srishti Tibrewal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fsrishti_tibrewal.jpg?alt=media&token=93beb508-6456-402e-9dee-da13cbfba0d8",
+      "pronouns": "he/him",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/SrishtiTibrewal",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 38,
+      "rockstarSpeakerOrder": 38,
+      "title": "Developer Community Manager, Google for Developers"
     }
   },
   "team": [
