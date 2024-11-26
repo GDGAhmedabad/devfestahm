@@ -1221,7 +1221,7 @@
       "bio": "I am a web developer with over 2 years of experience in creating dynamic and user-friendly web applications. My expertise spans both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Next.js, and Node.js. I am also passionate about artificial intelligence and have experience integrating AI solutions, particularly through the OpenAI API, to enhance user interactions with features like chatbots and automated content generation. As an AI enthusiast, I'm constantly exploring new ways to merge web development with cutting-edge technologies, aiming to create innovative and efficient solutions.",
       "email": "dnzala2414@gmail.com",
       "phone": "+91-7874343088",
-      "imageUrl": "https://drive.google.com/file/d/1UhTuFWHJagVngKvMBit-oNzrNBg9GnZ3/view?usp=drive_link",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFr9_KvfTVUEA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1663613069012?e=1737590400&v=beta&t=2DQVNJtbX3KEAsjvMpIi01-NOh0kfZx70IL9Q83JL1w",
       "skills": [
         "HTML",
         "JavaScript",
@@ -1255,6 +1255,46 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Herin Soni",
+      "location": "Ahmedabad, India",
+      "bio": "Full-stack developer specializing in Python & it's frameworks like Django,Djangorest,Flask, etc. with a focus on web development and Data Structures and Algorithms (DSA). Passionate about building scalable applications and solving algorithmic challenges.",
+      "email": "herinsoni3737@gmail.com",
+      "phone": "+91-8849737015",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGerLDoxSUq2Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721207120564?e=1737590400&v=beta&t=SlXS383ao4-B6Zd6rNzRN61pAY4JzYzlIUeBBGYNQxM",
+      "website": "https://github.com/herin7",
+      "skills": [
+        "C++",
+        "Python",
+        "JavaScript",
+        "Django REST Framework",
+        "Building APIs",
+        "Docker",
+        "Google Cloud"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/herin7",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/herinsoni",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "portfolio",
+          "link": "https://github.com/herin7",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "hackerrank",
+          "link": "https://www.hackerrank.com/herinsoni3737",
+          "name": "Hackerrank"
+        }
+      ]
     }
   ]
-}
+
