@@ -437,6 +437,44 @@
       ]
     },
     {
+      "fullName": "Tulsi Virani",
+      "location": "Ahmedabad, India",
+      "bio": "With 4+ years of experience, I am dedicated to crafting innovative mobile applications that deliver exceptional user experiences. I focus on understanding user needs, solving challenges with precision, and building solutions that are both functional and impactful.",
+      "email": "viranitulsi153@gmail.com",
+      "phone": "+91-9624186387",
+      "imageUrl": "https://github.com/iamtvirani/iamtvirani/blob/main/iamtvirani.jpg",
+      "skills": [
+        "Flutter",
+        "IOS",
+        "Web apps",
+        "Agile Methodologies",
+        "Cross platform apps",
+        "Kotlin",
+        "Shift",
+        "Firebase",
+        "Google Cloud",
+        "MongoDB",
+        "Nodejs"
+      ],
+      "links": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/Viranitulsi07?t=-ZbXSIODX6Alh47kd_khtg&s=09",
+          "name": "X/Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/iamtvirani",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/virani-tulsi-7547vp",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
       "fullName": "Mayur Gohel",
       "location": "Vadodara, India",
       "bio": "Crafting smart, seamless mobile apps with Flutter, powered by AI & ML for the next-gen user experience | MVVM | Swift | Swift UI | Flutter | Dart",
@@ -1268,5 +1306,5 @@
       ]
     }
   ]
-  
+
 }
