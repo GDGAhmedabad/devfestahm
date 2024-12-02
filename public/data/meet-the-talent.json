@@ -1381,4 +1381,52 @@
       ]
     }
   ]
+},
+{
+  "fullName": "Jigyasu Singh Chouhan",
+  "location": "Ahmedabad, India",
+  "bio": "DevOps Engineer & Python Developer | AWS, Docker, Jenkins | CI/CD Expert | Kubernetes, Ansible, Terraform | MySQL, Python, SQL | Git, SonarQube, Grafana | AWS & Azure.",
+  "email": "jigyashu2001@gmail.com",
+  "phone": "+91-9876543210",
+  "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+  "website": "https://jigyasusinghchouhan.github.io/",
+  "skills": [
+    "Angular",
+    "Android",
+    "Python",
+    "SQL",
+    "Shell Scripting",
+    "Git",
+    "Docker",
+    "Jenkins CI/CD",
+    "Terraform",
+    "Ansible",
+    "Kubernetes",
+    "SonarQube",
+    "Grafana",
+    "JIRA",
+    "Prometheus",
+    "AWS",
+    "Azure",
+    "Automation",
+    "Configuration Management",
+    "Monitoring"
+  ],
+  "links": [
+    {
+      "icon": "website",
+      "link": "https://jigyasusinghchouhan.github.io",
+      "name": "Portfolio"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/Jigyasusinghchouhan",
+      "name": "GitHub"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://in.linkedin.com/in/jigyasusinghchouahn",
+      "name": "LinkedIn"
+    }
+  ]
 }
