@@ -1341,6 +1341,44 @@
           "name": "LinkedIn"
         }
       ]
+    },
+    {
+      "fullName": "Vivek Faldu",
+      "location": "Ahmedabad, India",
+      "bio": "A Tech Geek with over 9 years of experience in mobile technology, specializing in Flutter, Kotlin, iOS, and Android development. Proficient in leveraging cloud technologies such as Firebase, Cloud, and AWS to deliver scalable and high-performance solutions. Passionate about delivering projects, managing teams, building libraries, and mentoring careers in mobile technology. Dedicated to innovation and creating impactful mobile applications.",
+      "email": "techgeekvkthe1@gmail.com",
+      "phone": "+91-8849921835",
+      "imageUrl": "https://avatars.githubusercontent.com/u/21289591",
+      "website": "",
+      "skills": [
+        "Flutter",
+        "Android",
+        "Kotlin",
+        "Flutter",
+        "Team Building",
+        "Firebase",
+        "Coaching",
+        "Consulting",
+        "Product Analysis",
+        "Python"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/vkthe1",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vkthe1",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/Vkthe1",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
