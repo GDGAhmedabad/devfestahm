@@ -1,6 +1,42 @@
 {
   "talents": [
     {
+      "fullName": "VARUN MEHRA",
+      "location": "Udaipur, India",
+      "bio": "Mobile App Developer | 2+ yr. Exp.| Flutter | Dart | BLoC | SwiftUI | iOS Developer | Python | AI-ML Engineer|",
+      "email": "varun666mehra@gmail.com",
+      "phone": "+91-9024252257",
+      "imageUrl": "https://drive.google.com/file/d/1OoejTUYbG5Qz_3dlC_wfI-HTyLXzbFNL/view?usp=sharing",
+      "website": "",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "SwiftUI",
+        "Firebase",
+        "Python",
+        "BLoC",
+        "Node.js",
+        "Android SDK"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/mehravarun666",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/varunmehra666/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "leetcode",
+          "link": "https://leetcode.com/u/mehravarun666/",
+          "name": "LeetCode"
+        }
+      ]
+    },
+    {
       "fullName": "Pranay Patel",
       "location": "Ahmedabad, India",
       "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
