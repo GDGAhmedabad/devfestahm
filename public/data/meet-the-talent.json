@@ -585,7 +585,7 @@
       "bio": "Android Developer | 10+ yr. Exp.| Expertise in E-commerce and Fintech apps. Solid experience in building apps and SDK from scratch using latest technologies, design and creativity. A keen eye for a great design & UX. Analytical and detail-oriented approach for app development.",
       "email": "dhaval.r.11@gmail.com",
       "phone": "+91-9033172898",
-      "imageUrl": "https://drive.google.com/file/d/17zdRZayfFc_gSXfbYIfscVbZjkXvbIMp/preview",
+      "imageUrl": "https://lh3.googleusercontent.com/d/17zdRZayfFc_gSXfbYIfscVbZjkXvbIMp=s220",
       "website": "",
       "skills": [
         "Android",
@@ -1266,57 +1266,131 @@
           "name": "Hackerrank"
         }
       ]
-    }
-  ]
-  
-}
-{
-  "fullName": "Jigyasu Singh Chouhan",
-  "location": "Ahmedabad, India",
-  "bio": "DevOps Engineer & Python Developer | AWS, Docker, Jenkins | CI/CD Expert | Kubernetes, Ansible, Terraform | MySQL, Python, SQL | Git, SonarQube, Grafana | AWS & Azure.",
-  "contact": {
-    "email": "jigyashu2001@gmail.com",
-    "phone": "+91-9876543210"
-  },
-  "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
-  "website": "https://jigyasusinghchouhan.github.io/",
-  "skills": [
-    "Angular",
-    "Android",
-    "Python",
-    "SQL",
-    "Shell Scripting",
-    "Git",
-    "Docker",
-    "Jenkins CI/CD",
-    "Terraform",
-    "Ansible",
-    "Kubernetes",
-    "SonarQube",
-    "Grafana",
-    "JIRA",
-    "Prometheus",
-    "AWS",
-    "Azure",
-    "Automation",
-    "Configuration Management",
-    "Monitoring"
-  ],
-  "links": [
-    {
-      "icon": "website",
-      "link": "https://jigyasusinghchouhan.github.io",
-      "name": "Portfolio"
     },
     {
-      "icon": "github",
-      "link": "https://github.com/Jigyasusinghchouhan",
-      "name": "GitHub"
+      "fullName": "Suraj Joshi",
+      "location": "Udaipur, Rajasthan",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Deep Learning Enthusiast | Transforming Data into Insights | MVVVM | Kotlin | Jetpack Compose | Flutter | Dart",
+      "email": "surajrljoshi@gmail.com",
+      "phone": "+91-9251590990",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFTczeMHMEr_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725884786835?e=1737590400&v=beta&t=bkkKAsaLXJX9vrg7RYeEP0YRnyHs222K_85GVpNOVho",
+      "website": "",
+      "skills": [
+        "Javascript",
+        "Node JS",
+        "Angular",
+        "Laravel",
+        "JQuery",
+        "AWS",
+        "SQL",
+        "Project Management",
+        "CRM Tools",
+        "Team Lead",
+        "Server Developments"
+      ],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/suraj-joshi-829817146/",
+          "name": "LinkedIn"
+        }
+      ]
     },
     {
-      "icon": "linkedin",
-      "link": "https://in.linkedin.com/in/jigyasusinghchouahn",
-      "name": "LinkedIn"
+      "fullName": "Tushar Jangid",
+      "location": "Ahmedabad, India",
+      "bio": "AI/ML Developer | 3+ years of experience in Computer Vision, NLP, LLM, and Backend API Development using Django, Flask, and REST frameworks.",
+      "email": "tjtusharjangid5@gmail.com",
+      "phone": "+91-8238577978",
+      "imageUrl": "https://avatars.githubusercontent.com/u/60838862?s=400&v=4",
+      "website": "",
+      "skills": [
+        "Python",
+        "Machine Learning / Deep Learning",
+        "Artificial Intelligence",
+        "Gen AI",
+        "LLM",
+        "Prompt Engineer",
+        "Data Analyst",
+        "Data Engineer",
+        "Django REST Framework",
+        "Flask",
+        "Fast API",
+        "REST API",
+        "PostgresSQL / MYSQL",
+        "NoSQL",
+        "Ansible",
+        "Streamlit",
+        "Selenium",
+        "Automation"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/rish5",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tusharjangid",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "fullName": "Jigyasu Singh Chouhan",
+      "location": "Ahmedabad, India",
+      "bio": "DevOps Engineer & Python Developer | AWS, Docker, Jenkins | CI/CD Expert | Kubernetes, Ansible, Terraform | MySQL, Python, SQL | Git, SonarQube, Grafana | AWS & Azure.",
+      "contact": {
+        "email": "jigyashu2001@gmail.com",
+        "phone": "+91-9876543210"
+      },
+      "imageUrl": "https://developers.google.com/static/profile/badges/events/community/devfest/2022/discover/badge.svg",
+      "website": "https://jigyasusinghchouhan.github.io/",
+      "skills": [
+        "Angular",
+        "Android",
+        "Python",
+        "SQL",
+        "Shell Scripting",
+        "Git",
+        "Docker",
+        "Jenkins CI/CD",
+        "Terraform",
+        "Ansible",
+        "Kubernetes",
+        "SonarQube",
+        "Grafana",
+        "JIRA",
+        "Prometheus",
+        "AWS",
+        "Azure",
+        "Automation",
+        "Configuration Management",
+        "Monitoring"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://jigyasusinghchouhan.github.io",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Jigyasusinghchouhan",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/jigyasusinghchouahn",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
