@@ -1379,6 +1379,46 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Milap Chokshi",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Senior Software Engineer with 7+ years in mobile development, specializing in Flutter and Android. Proficient in architecture design, team mentorship, and delivering scalable, high-quality mobile solutions. Skilled in leading projects, fostering team growth, and solving complex development challenges.",
+      "email": "milap1293@gmail.com",
+      "phone": "+91-9157527527",
+      "imageUrl": "https://drive.google.com/file/d/14ozfQ4Lg2l3RhHzWQ4iQQhfE0aErQNXQ/view?usp=sharing",
+      "website": "https://drive.google.com/file/d/1OWDDG_uj_oOJLaoCHWg8BfOX2IlMc1nE/view?usp=sharing",
+      "skills": [
+        "Flutter",
+        "Android",
+        "Architecture Design",
+        "State Management",
+        "Mentoring",
+        "CI/CD",
+        "FireStore"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://drive.google.com/file/d/1OWDDG_uj_oOJLaoCHWg8BfOX2IlMc1nE/view?usp=sharing",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/milap612",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "www.linkedin.com/in/milap-chokshi",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/milap252",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
