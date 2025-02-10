@@ -283,6 +283,9 @@ export class SpeakerPage extends ReduxMixin(PolymerElement) {
   }
 
   private computeCompanyInfo(title: string, company: string) {
+    if (title.includes(company)) {
+      return title;
+    }
     return [title, company].filter(Boolean).join(', ');
   }
 
