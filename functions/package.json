@@ -6,7 +6,7 @@
   "module": "dist/index.js",
   "type": "module",
   "engines": {
-    "node": "16",
+    "node": "20",
     "npm": "8"
   },
   "scripts": {
