@@ -2324,6 +2324,25 @@
           ],
           "order": 0,
           "title": "Designer"
+        },
+        {
+          "name": "Deep Suthar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fdeep_suthar.jpg?alt=media&token=2d4173d7-6e6b-44e8-b547-b087a7d2bfe1",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/deepsuthar028",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/deepsuthar028",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": "Designer"
         }
       ],
       "order": 1,
