@@ -19,14 +19,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03218.JPG?alt=media&token=38387ce5-f073-4340-bd53-327753f29e31",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03029.JPG?alt=media&token=f1d9db70-4856-4330-996d-624781edc6ef",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd02956.jpg?alt=media&token=da9be54c-62ec-459e-9f10-d12be6cd2a6a",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03463.JPG?alt=media&token=8882516e-ea77-4d2c-8dc1-b55525c2b28e",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd03462.jpg?alt=media&token=82ad5166-b296-4b2d-9263-64302855c546",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04208.JPG?alt=media&token=a6b7431c-e34c-423b-bac8-d6d02602d7fe",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04225.JPG?alt=media&token=d62f1a85-5bd5-40f0-9257-71ab60606b15",
-    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2023%2Fdevfestahm23_hd04300.JPG?alt=media&token=156fa0b3-28b8-46b1-b128-ec1e6e3ad2fb"
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-dsc03299.JPG?alt=media&token=e0abd3ba-e975-4356-8a98-b5fcca4fd557",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-rf_09914.JPG?alt=media&token=b8e4ada2-659a-4b4b-b60a-860f7b8c5288",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-dsc03210.JPG?alt=media&token=ff77f829-6b3c-469f-b70e-75964be2bb00",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-hdf03969.JPG?alt=media&token=ec6910ad-6a90-4f49-9123-fe51d8a641dd",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-rf_00929.JPG?alt=media&token=e9238271-d8ed-44cc-bc36-333e93c69032",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-dsc04004.JPG?alt=media&token=87225816-368f-4f13-9c8b-e7b1f14933a5",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-hdf05084.JPG?alt=media&token=bb49b331-851b-45dc-a084-94b34f4e357e",
+    "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fgallery%2F2024%2Fdevfestahm24-hdf05052.JPG?alt=media&token=dd88e7dc-9f58-41d0-ae4c-c7442443576d"
   ],
   "config": {
     "notifications": {
@@ -443,7 +443,7 @@
         "Keynote"
       ],
       "title": "Focus on Future Keynote",
-      "videoId": ""
+      "videoId": "ZcemA77lT9Q"
     },
     "102": {
       "complexity": "Intermediate",
@@ -458,7 +458,7 @@
         "AI/ML"
       ],
       "title": "Chrome Built-in AI : Powerful AI features directly in your browser",
-      "videoId": ""
+      "videoId": "GAaIJvyTmAQ"
     },
     "103": {
       "complexity": "Intermediate",
@@ -473,7 +473,7 @@
         "AI/ML"
       ],
       "title": "The AI Catalyst -  Transforming SDLC with Agent-driven Efficiency and Accuracy",
-      "videoId": ""
+      "videoId": "cF34cEFBKLw"
     },
     "104": {
       "complexity": "Intermediate",
@@ -487,7 +487,7 @@
         "AI/ML"
       ],
       "title": "Deep into DeepFakes : Drawing a line between Real and Fake",
-      "videoId": ""
+      "videoId": "m18R5ZG2BKY"
     },
     "105": {
       "complexity": "Introductory & Overview",
@@ -501,7 +501,7 @@
         "AI/ML"
       ],
       "title": "Building Multi AI Agent Systems",
-      "videoId": ""
+      "videoId": "Op6NQajZKxI"
     },
     "106": {
       "complexity": "Introductory & Overview",
@@ -515,7 +515,7 @@
         "AI/ML"
       ],
       "title": "AI for Cloud Security: Automating Threat Detection and Response with Google Cloud AI",
-      "videoId": ""
+      "videoId": "zhfVTGsHLNw"
     },
     "107": {
       "complexity": "Intermediate",
@@ -531,7 +531,7 @@
         "Flutter"
       ],
       "title": "10x Engineer Formula",
-      "videoId": ""
+      "videoId": "gGtbYkahh3U"
     },
     "108": {
       "complexity": "Intermediate",
@@ -548,7 +548,7 @@
         "Flutter"
       ],
       "title": "KMP & Ktor in Action: Book Recommendation App with GenAI",
-      "videoId": ""
+      "videoId": "iTzKovyWY1M"
     },
     "109": {
       "complexity": "Intermediate",
@@ -564,7 +564,7 @@
         "Flutter"
       ],
       "title": "Genkit: The AI Alchemist Turning Your Apps into Gold",
-      "videoId": ""
+      "videoId": "rcUnV8ye-Us"
     },
     "110": {
       "complexity": "Intermediate",
@@ -580,7 +580,7 @@
         "Flutter"
       ],
       "title": "Product Engineering: A FlutterFlow Story",
-      "videoId": ""
+      "videoId": "8f26H9pCzjU"
     },
     "111": {
       "complexity": "Intermediate",
@@ -596,7 +596,7 @@
         "Flutter"
       ],
       "title": "Scalable, AI-Ready Flutter Apps: Architecting for Growth",
-      "videoId": ""
+      "videoId": "BfhYYpE1O6k"
     },
     "112": {
       "complexity": "Introductory & Overview",
@@ -610,7 +610,7 @@
         "Startup"
       ],
       "title": "From Mundane to Machine: Leveraging AI to Automate Everyday Business Tasks",
-      "videoId": ""
+      "videoId": "V_UrtfXUNas"
     },
     "113": {
       "complexity": "Advanced",
@@ -624,7 +624,7 @@
         "Startup"
       ],
       "title": "Content Marketing for Startups",
-      "videoId": ""
+      "videoId": "flrAybpQW1c"
     },
     "114": {
       "complexity": "Advanced",
@@ -638,7 +638,7 @@
         "Startup"
       ],
       "title": "Beyond the Obvious: Revolutionizing the Future with Startups & Emerging Tech",
-      "videoId": ""
+      "videoId": "5PibCy4EXfE"
     },
     "115": {
       "complexity": "Introductory & Overview",
@@ -652,7 +652,7 @@
         "Startup"
       ],
       "title": "Start Smart—A Marketing Approach for Startups' Go-to-Market Success Today",
-      "videoId": ""
+      "videoId": "mSylXp1guoA"
     },
     "116": {
       "complexity": "Advanced",
@@ -666,7 +666,7 @@
         "Startup"
       ],
       "title": "Unlock LinkedIn's Potential: A Masterclass for Startups",
-      "videoId": ""
+      "videoId": "2R33Rh8p8iI"
     },
     "117": {
       "complexity": "Intermediate",
@@ -680,7 +680,7 @@
         "Startup"
       ],
       "title": "The Art of Pitching & Fund Raising",
-      "videoId": ""
+      "videoId": "JtuZ5afBewM"
     },
     "118": {
       "complexity": "Intermediate",
@@ -694,7 +694,7 @@
         "Startup"
       ],
       "title": "Leveraging Open Source for Startup Growth",
-      "videoId": ""
+      "videoId": "G5Je_6_iJ9U"
     },
     "119": {
       "complexity": "Advanced",
@@ -708,7 +708,7 @@
         "Web"
       ],
       "title": "GKE Enterprise: Do we need it or not?",
-      "videoId": ""
+      "videoId": "V_UrtfXUNas"
     },
     "120": {
       "complexity": "Intermediate",
@@ -722,7 +722,7 @@
         "Web"
       ],
       "title": "Design Thinking for Product Teams and Beyond",
-      "videoId": ""
+      "videoId": "Lq4E1JKBhH8"
     },
     "121": {
       "complexity": "Introductory & Overview",
@@ -736,7 +736,7 @@
         "Web"
       ],
       "title": "LLMs and SLMs Everywhere",
-      "videoId": ""
+      "videoId": "ocRoyt1s06M"
     },
     "122": {
       "complexity": "Advanced",
@@ -750,7 +750,7 @@
         "Web"
       ],
       "title": "Unlocking Frontend System Design: A Performance-First Architecture",
-      "videoId": ""
+      "videoId": "507rUr24owQ"
     },
     "123": {
       "complexity": "Intermediate",
@@ -764,7 +764,7 @@
         "Web"
       ],
       "title": "Off the Main Thread: How Web Workers Transform Web Performance",
-      "videoId": ""
+      "videoId": "vIrOGtsD9jo"
     },
     "124": {
       "complexity": "Intermediate",
@@ -778,7 +778,7 @@
         "AI/ML"
       ],
       "title": "Redefine the travel experience with autonomous agents",
-      "videoId": ""
+      "videoId": "CdxtDoHHYWM"
     },
     "125": {
       "complexity": "Intermediate",
@@ -793,7 +793,7 @@
         "AI/ML"
       ],
       "title": "Enhancing Gemma with Vernacular Language Support",
-      "videoId": ""
+      "videoId": "qhumv1m7FX0"
     },
     "126": {
       "complexity": "Intermediate",
@@ -810,7 +810,7 @@
         "Flutter"
       ],
       "title": "Localization, Remote Config and Vertex AI with Flutter",
-      "videoId": ""
+      "videoId": "29iBHxFwFtQ"
     },
     "127": {
       "complexity": "Intermediate",
@@ -825,7 +825,7 @@
         "AI/ML"
       ],
       "title": "Beckn Unveiled: Architecting the Internet's Next Frontier with AI",
-      "videoId": ""
+      "videoId": "7kQp9LcZCxQ"
     },
     "128": {
       "complexity": "Intermediate",
@@ -883,7 +883,7 @@
         "AI/ML"
       ],
       "title": "From Ideas to Impact using Google AI tools",
-      "videoId": ""
+      "videoId": "r8kMv7ZNcZo"
     },
     "132": {
       "complexity": "Introductory & Overview",
@@ -897,7 +897,7 @@
         "Keynote"
       ],
       "title": "Road to GDE",
-      "videoId": ""
+      "videoId": "r8kMv7ZNcZo"
     },
     "133": {
       "complexity": "Intermediate",
@@ -943,7 +943,8 @@
         "paresh_mayani",
         "dhrumil_shah"
       ],
-      "title": "GDG DevFest Ahmedabad 2024 Opening"
+      "title": "GDG DevFest Ahmedabad 2024 Opening",
+      "videoId": "-VkANz16p5Y"
     },
     "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",
@@ -960,7 +961,8 @@
         "jaldeep_asodariya",
         "hiren_dave"
       ],
-      "title": "Conference closing"
+      "title": "Conference closing",
+      "videoId": "U58XUdqw3qE"
     },
     "158": {
       "description": "",
