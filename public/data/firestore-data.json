@@ -62,72 +62,18 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/dhiwise.png",
-          "name": "DhiWise",
-          "url": "https://www.dhiwise.com/"
-        }
-      ],
-      "order": 1,
-      "title": "Platinum Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/flutterflow.png",
-          "name": "FlutterFlow",
-          "url": "https://www.flutterflow.io/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/iqm-logo.png",
-          "name": "IQM",
-          "url": "https://iqm.com/"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/betterbug.png",
-          "name": "BetterBug",
-          "url": "https://www.betterbugs.io/"
-        }
-      ],
-      "order": 2,
-      "title": "Gold Sponsors"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/solguruz.png",
           "name": "SolGuruz",
           "url": "https://solguruz.com/"
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/impero.png",
-          "name": "Impero IT Services Pvt Ltd",
-          "url": "https://imperoit.com/"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/akash-technolabs.png",
-          "name": "Akash Technolabs",
-          "url": "https://www.akashtechnolabs.com/"
-        },
-        {
-          "order": 3,
           "logoUrl": "../images/logos/cirrops.png",
           "name": "CirrOps",
           "url": "https://cirrops.in/"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/prydan-logo.svg",
-          "name": "Prydan",
-          "url": "https://www.prydan.com/"
         }
       ],
-      "order": 3,
+      "order": 1,
       "title": "Silver Sponsors"
     },
     {
@@ -139,7 +85,7 @@
           "url": "https://sessionize.com/"
         }
       ],
-      "order": 4,
+      "order": 2,
       "title": "CFP Partners"
     },
     {
@@ -151,8 +97,20 @@
           "url": "https://allevents.in/"
         }
       ],
-      "order": 5,
+      "order": 3,
       "title": "Ticketing Partner"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
+          "name": "GDG Cloud Ahmedabad",
+          "url": "https://twitter.com/gdgcloudahm"
+        }
+      ],
+      "order": 4,
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
