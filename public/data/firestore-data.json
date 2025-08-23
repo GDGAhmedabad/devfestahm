@@ -2850,20 +2850,6 @@
           "title": ""
         },
         {
-          "name": "Mira Patel",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmira_patel.jpg?alt=media&token=d10f1409-8504-43b6-8ed0-c1c807f939c6",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/mira-patel-76086a267",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
-          "title": ""
-        },
-        {
           "name": "Vashishth Patel",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fvashishth_patel.jpg?alt=media&token=27ec0681-f602-4f9a-b2ca-8411f1b642a8",
@@ -2879,7 +2865,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 5,
+          "order": 4,
           "title": ""
         }
       ],
