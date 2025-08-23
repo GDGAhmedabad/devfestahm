@@ -2553,25 +2553,6 @@
           "title": ""
         },
         {
-          "name": "Umesh Ganpa",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fumesh_ganpa.png?alt=media&token=0ad06e6d-1d6c-4411-a3f6-178cc59d4c91",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/umesh_ganpa",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/umesh-ganpa",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 9,
-          "title": ""
-        },
-        {
           "name": "Harendrasingh Rajput",
           "photo": "/images/people/others/harendrasingh_rajput.png",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fharendrasingh_rajput.jpeg?alt=media&token=c544d4c9-e775-47d3-ab3d-92f5a9dc1b76",
@@ -2810,25 +2791,6 @@
           ],
           "order": 9,
           "title": ""
-        },
-        {
-          "name": "Mihir Sharma",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmihir_sharma.png?alt=media&token=747a4fd3-17d4-403e-932a-0a3bc15ab971",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/IamMihir21",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/mihir910/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 10,
-          "title": ""
         }
       ],
       "order": 4,
@@ -2906,20 +2868,6 @@
             }
           ],
           "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Karan Pal",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fkaran_pal.jpg?alt=media&token=4467b789-2803-4da2-892d-74d384a6a516",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 2,
           "title": ""
         },
         {
@@ -3044,25 +2992,6 @@
             }
           ],
           "order": 3,
-          "title": ""
-        },
-        {
-          "name": "Harsh Langaliya",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fharsh_langaliya.jpg?alt=media&token=22bd7da7-c9bd-4503-b5b4-8eefdff04717",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/Harsh_6045",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/harshlangaliya/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 4,
           "title": ""
         },
         {
@@ -3270,25 +3199,6 @@
           "title": ""
         },
         {
-          "name": "Sanket Kalekar",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fsanket_kalekar.jpg?alt=media&token=35295634-dd21-4205-a74c-d246064a50f7",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/ooye_sanket",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://linkedin.com/in/sanketkalekar/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 18,
-          "title": ""
-        },
-        {
           "name": "Shah Hiloni Manir",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fshah_hiloni.jpg?alt=media&token=816e6e47-2439-495b-a030-d50b121a751e",
@@ -3362,25 +3272,6 @@
             }
           ],
           "order": 23,
-          "title": ""
-        },
-        {
-          "name": "Vimarsh Tiwari",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fvimarsh_tiwari.jpg?alt=media&token=ddcdaa50-a96e-497a-94ad-68b3dace643e",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/_vicharvimarsh?t=ZOyYZbJwHPDVm-cgAWVH9w&s=09",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vimarsh2013/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 24,
           "title": ""
         },
         {
