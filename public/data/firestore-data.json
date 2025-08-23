@@ -65,12 +65,6 @@
           "logoUrl": "../images/logos/solguruz.png",
           "name": "SolGuruz",
           "url": "https://solguruz.com/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/cirrops.png",
-          "name": "CirrOps",
-          "url": "https://cirrops.in/"
         }
       ],
       "order": 1,
