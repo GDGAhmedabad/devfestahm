@@ -218,10 +218,11 @@ export class BadgePage extends PolymerElement {
         font-color="[[heroSettings.fontColor]]"
       >
         <div class="hero-title">[[heroSettings.title]]</div>
-        <!-- <h2 class="name">[[tbd.unveilSoon]]</h2>
-        <p class="hero-description">[[tbd.announcedSoon]]</p> -->
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
       </hero-block>
 
+      <!--
       <div class="container" layout vertical justified wrap center>
         <div class="input-panel">
           <p>
@@ -327,6 +328,7 @@ export class BadgePage extends PolymerElement {
           <mwc-button slot="primaryAction" on-click="cropImage">Done</mwc-button>
         </mwc-dialog>
       </div>
+      -->
 
       <footer-block></footer-block>
     `;
