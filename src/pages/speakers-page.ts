@@ -174,6 +174,11 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
+      <simple-hero page="speakers">
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <p class="hero-description">[[tbd.announcedSoon]]</p>
+      </simple-hero>
+
       <!-- CFP Announcement -->
       <!-- <simple-hero page="speakers">
         <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
@@ -186,6 +191,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         </a>
       </simple-hero> -->
       
+      <!--
       <simple-hero page="speakers"></simple-hero>
       <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
       <filter-menu
@@ -258,6 +264,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
       </div>
 
       <previous-speakers-block></previous-speakers-block>
+      -->
 
       <footer-block></footer-block>
     `;

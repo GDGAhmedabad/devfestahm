@@ -54,8 +54,5 @@
         "@typescript-eslint/no-unused-vars": ["error", { "args": "none" }]
       }
     }
-  ],
-  "globals": {
-    "ServiceWorkerGlobalScope": true
-  }
+  ]
 }

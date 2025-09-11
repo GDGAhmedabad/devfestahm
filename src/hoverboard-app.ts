@@ -26,7 +26,6 @@ import './elements/shared-styles';
 import { selectRouteName, startRouter } from './router';
 import { RootState, store } from './store';
 import { onUser } from './store/auth/actions';
-import { queueSnackbar } from './store/snackbars';
 import { fetchTickets } from './store/tickets/actions';
 import { initialTicketsState } from './store/tickets/state';
 import { OpenedChanged } from './utils/app-drawer';
@@ -35,7 +34,6 @@ import {
   dates,
   location,
   navigation,
-  offlineMessage,
   signInProviders,
   title
 } from './utils/data';
@@ -246,7 +244,6 @@ export class HoverboardApp extends PolymerElement {
   override connectedCallback() {
     super.connectedCallback();
     window.addEventListener('element-sticked', (event) => this.toggleHeaderShadow(event));
-    window.addEventListener('offline', () => store.dispatch(queueSnackbar(offlineMessage)));
     this.drawer.addEventListener('opened-changed', (event) => this.toggleDrawer(event));
     store.dispatch(fetchTickets);
   }
