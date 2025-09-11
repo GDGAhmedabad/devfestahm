@@ -64,14 +64,17 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
       > 
         <div class="hero-title">[[heroSettings.title]]</div>
          <p class="hero-description">[[heroSettings.description]]</p>
-        <!-- <h2 class="name">[[tbd.unveilSoon]]</h2>
+        <h2 class="name">[[tbd.unveilSoon]]</h2>
         <p class="hero-description">[[tbd.announcedSoon]]</p>
-        -->
+        
+        <!--
          <sticky-element slot="bottom">
           <header-bottom-toolbar location="[[location]]"></header-bottom-toolbar>
         </sticky-element> 
+        -->
        </hero-block> 
 
+       <!--
        <paper-progress indeterminate hidden$="[[!pending]]"></paper-progress>
 
       <filter-menu
@@ -100,6 +103,7 @@ export class SchedulePage extends ReduxMixin(PolymerElement) {
 
         <slot></slot>
       </div> 
+      -->
       
       <footer-block></footer-block>
     `;
