@@ -2380,13 +2380,8 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jigneshthanki1987/",
+              "link": "https://www.linkedin.com/in/jignesh-thanki/",
               "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://jigsthanki1987.wordpress.com/",
-              "name": "Website"
             }
           ],
           "order": 1,
