@@ -9,7 +9,8 @@ const data = require(filePath);
 const speakers = data.speakers;
 const sessions = data.sessions;
 
-const year = 2023;
+const currentYear = new Date().getFullYear();
+const year = currentYear - 1;
 
 Object.keys(speakers).forEach((speaker, index) => {
     data['previousSpeakers'][speaker] = {
