@@ -174,13 +174,13 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <simple-hero page="speakers">
+      <!--<simple-hero page="speakers">
         <h2 class="name">[[tbd.unveilSoon]]</h2>
         <p class="hero-description">[[tbd.announcedSoon]]</p>
-      </simple-hero>
+      </simple-hero> -->
 
       <!-- CFP Announcement -->
-      <!-- <simple-hero page="speakers">
+      <simple-hero page="speakers">
         <h2 class="name">[[heroSettings.callForSpeakers.title]]</h2>
         <p class="hero-description">[[heroSettings.callForSpeakers.description]]</p>
         <a href="[[heroSettings.callForSpeakers.callToAction.link]]" target="_blank">
@@ -189,7 +189,7 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
         </a>
-      </simple-hero> -->
+      </simple-hero>
       
       <!--
       <simple-hero page="speakers"></simple-hero>
@@ -262,9 +262,9 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
           </a>
         </template>
       </div>
+      -->
 
       <previous-speakers-block></previous-speakers-block>
-      -->
 
       <footer-block></footer-block>
     `;

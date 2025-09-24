@@ -7,6 +7,15 @@
       "image": "/images/posts/devfestahm-announced.jpg",
       "published": "2025-09-01",
       "title": "Announcing GDG DevFest Ahmedabad 2025"
+    },
+    "c4p": {
+      "backgroundColor": "#3647a5",
+      "brief": "GDG DevFest Ahmedabad was announced, for the tenth year in a row, the conference will bring together 1500+ developers, managers and...",
+      "content": "",
+      "image": "/images/posts/call-for-speaker.png",
+      "published": "2025-09-24",
+      "source" : "/data/posts/2025-09-24-c4p.md",
+      "title": "We're looking for speakers"
     }
   },
   "gallery": [
