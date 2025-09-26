@@ -194,13 +194,6 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
             <!--
             <a href="/registration">
-            <paper-button primary>
-              <iron-icon icon="hoverboard:ticket"></iron-icon>
-              [[registerNow]]
-            </paper-button>
-            </a>
-
-            <a href="/registration">
             <paper-button primary class="registration-btn-closed">
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             [[registration]]
