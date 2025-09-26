@@ -14,22 +14,6 @@ const { ROLLUP_WATCH } = process.env;
 
 export default [
   {
-    input: 'src/firebase-messaging-sw.ts',
-    treeshake: production,
-    output: {
-      file: 'dist/firebase-messaging-sw.js',
-      sourcemap: production,
-    },
-    plugins: [
-      nodeResolve(),
-      typescript({
-        noEmitOnError: true,
-        sourceMap: production,
-      }),
-      production && terser(),
-    ],
-  },
-  {
     treeshake: production,
     output: {
       dir: 'dist',
