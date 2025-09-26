@@ -4,34 +4,57 @@ import express from 'express';
 import { getFirestore } from 'firebase-admin/firestore';
 import * as functions from 'firebase-functions';
 import fetch from 'node-fetch';
-import url from 'url';
+// import url from 'url';
 
 const app = express();
 
-const getSiteDomain = async () => {
-  const doc = await getFirestore().collection('config').doc('site').get();
-  return doc.data().domain;
-};
+// const getSiteDomain = async () => {
+//   const doc = await getFirestore().collection('config').doc('site').get();
+//   return doc.data().domain;
+// };
 
 const getRendertronServer = async () => {
   const doc = await getFirestore().collection('config').doc('rendertron').get();
   return doc.data().server;
 };
 
+const normalizeHost = (h: string) =>
+  h.replace(/^https?:\/\//, '').replace(/\/+$/, '');
+
+const resolveHost = (req): string => {
+  // 1. Prefer Hosting/CDN header
+  const headerHost =
+    req.get('x-forwarded-host') || req.get('host') || req.hostname;
+
+  if (headerHost) {
+    return normalizeHost(headerHost);
+  }
+
+  // 2. Fallback to Firebase config
+  const cfgHost = functions.config()?.site?.domain as string | undefined;
+  if (cfgHost) {
+    return normalizeHost(cfgHost);
+  }
+
+  // 3. Last fallback (safe default for dev)
+  return 'localhost:5000';
+};
+
+
 /**
  * generateUrl() - Piece together request parts to form FQDN URL
  * @param {Object} request
  */
-const generateUrl = async (request) => {
-  // Why do we use config site.domain instead of the domain from
-  // the request? Because it'll give you the wrong domain (pointed at the
-  // cloudfunctions.net)
-  return url.format({
-    protocol: request.protocol,
-    host: await getSiteDomain(),
-    pathname: request.originalUrl,
-  });
-};
+// const generateUrl = async (request) => {
+//   // Why do we use config site.domain instead of the domain from
+//   // the request? Because it'll give you the wrong domain (pointed at the
+//   // cloudfunctions.net)
+//   return url.format({
+//     protocol: request.protocol,
+//     host: await getSiteDomain(),
+//     pathname: request.originalUrl,
+//   });
+// };
 
 /**
  * checkForBots() - regex that UserAgent, find me a linkbot
@@ -55,11 +78,12 @@ const checkForBots = (userAgent) => {
 //
 // The trick is on L66, pwaShell(): You must update that file! Open for explainer.
 app.get('*', async (req, res) => {
+  const host = resolveHost(req);
   const botResult = checkForBots(req.headers['user-agent']);
 
   if (botResult) {
     // Bot path via Rendertron (you can keep your caching here if you want)
-    const targetUrl = await generateUrl(req);
+    const targetUrl = `https://${host}${req.originalUrl}`;
     const rendertron = await getRendertronServer();
 
     const botResp = await fetch(`${rendertron}/render/${targetUrl}`);
@@ -71,8 +95,8 @@ app.get('*', async (req, res) => {
   }
 
   // ✅ Non-bot path: fetch the current Hosting HTML so it’s never stale
-  const site = await getSiteDomain();
-  const htmlResp = await fetch(`https://${site}/index.html`, {
+  // const site = await getSiteDomain();
+  const htmlResp = await fetch(`https://${host}/index.html`, {
     // prevent node-fetch from reusing cached responses
     headers: { 'Cache-Control': 'no-cache' }
   });
