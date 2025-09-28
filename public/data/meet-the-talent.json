@@ -38,6 +38,44 @@
           "name": "X/Twitter"
         }
       ]
+    },{
+      "fullName": "Jaydip Umaretiya",
+      "location": "Surat, Gujarat, India",
+      "bio": "Experienced Android developer with 10+ years of expertise in building native mobile and TV applications, including digital signage solutions. Proficient in Kotlin, Java, Jetpack Compose, and native libraries, with strong skills in creating modern, responsive UIs. Well-versed in Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP) to deliver scalable cross-platform solutions. Adept at project leadership, team mentoring, and managing complex, high-impact applications. Committed to innovation, exceeding client expectations, and fostering long-term partnerships.",
+      "email": "jaynumaretiya@gmail.com",
+      "phone": "+91-9510086772",
+      "imageUrl": "https://www.jaydip.tech/static/media/img-mobile.ec99727dfdae5c2cdd64.png",
+      "website": "https://jaydip.tech/",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Jetpack Compose",
+        "Android TV Development",
+        "Kotlin MultiPlatform",
+        "Compose MultiPlatform"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://jaydip.tech/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jaydipumaretiya",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaydipumaretiya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/jaydipumaretiya",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
