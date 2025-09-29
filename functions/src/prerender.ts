@@ -4,14 +4,8 @@ import express from 'express';
 import { getFirestore } from 'firebase-admin/firestore';
 import * as functions from 'firebase-functions';
 import fetch from 'node-fetch';
-// import url from 'url';
 
 const app = express();
-
-// const getSiteDomain = async () => {
-//   const doc = await getFirestore().collection('config').doc('site').get();
-//   return doc.data().domain;
-// };
 
 const getRendertronServer = async () => {
   const doc = await getFirestore().collection('config').doc('rendertron').get();
@@ -39,22 +33,6 @@ const resolveHost = (req): string => {
   // 3. Last fallback (safe default for dev)
   return 'localhost:5000';
 };
-
-
-/**
- * generateUrl() - Piece together request parts to form FQDN URL
- * @param {Object} request
- */
-// const generateUrl = async (request) => {
-//   // Why do we use config site.domain instead of the domain from
-//   // the request? Because it'll give you the wrong domain (pointed at the
-//   // cloudfunctions.net)
-//   return url.format({
-//     protocol: request.protocol,
-//     host: await getSiteDomain(),
-//     pathname: request.originalUrl,
-//   });
-// };
 
 /**
  * checkForBots() - regex that UserAgent, find me a linkbot
@@ -95,7 +73,6 @@ app.get('*', async (req, res) => {
   }
 
   // ✅ Non-bot path: fetch the current Hosting HTML so it’s never stale
-  // const site = await getSiteDomain();
   const htmlResp = await fetch(`https://${host}/index.html`, {
     // prevent node-fetch from reusing cached responses
     headers: { 'Cache-Control': 'no-cache' }
