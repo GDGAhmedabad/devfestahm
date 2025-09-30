@@ -240,6 +240,39 @@ export class RegistrationPage extends PolymerElement {
           font-weight: 700;
           padding-bottom: 8px;
         }
+
+        .ticket-coupon-info {
+          margin: 32px 0;
+          padding: 24px;
+          background-color: #fef7f7;
+          border-left: 6px solid #e53935;
+          border-radius: 10px;
+          font-size: 16px;
+          line-height: 1.6;
+          color: #333;
+        }
+
+        .ticket-coupon-info strong {
+          font-weight: bold;
+        }
+
+        .ticket-coupon-info ul {
+          list-style: none;
+          padding-left: 8px;
+          margin: 12px 0;
+        }
+
+        .ticket-coupon-info ul li::before {
+          content: '';
+          margin-right: 8px;
+        }
+
+        @media (max-width: 768px) {
+          .ticket-coupon-info {
+            font-size: 15px;
+            padding: 20px;
+          }
+        }
       </style>
 
       <simple-hero page="registration"></simple-hero>
@@ -408,6 +441,19 @@ export class RegistrationPage extends PolymerElement {
           <p>This helps us avoid overcrowding and ensures that everyone gets the most out of the sessions they’re truly
             passionate about.</p>
         </div>
+        <section class="ticket-coupon-info">
+          <p>🚫 <strong>Coupon code? Seriously?!</strong></p>
+          <p>🎟️ અમારી ટિકિટની કિંમત પહેલાંથી જ community ને ધ્યાનમાં રાખીને રાખવામાં આવી છે — it's already a highly subsidized price considering the amazing value you get!</p>
+          <ul>
+            <li>🍱 Delicious food.</li>
+            <li>👕 Swags you’ll love.</li>
+            <li>🧠 Expert talks.</li>
+            <li>💡 Immense learning.</li>
+            <li>🎉 And a full-day networking with like-minded tech folks.</li>
+          </ul>
+          <p>💬 Coupon code માંગીને શરમાવશો નહીં — એક દિવસ પિઝ્ઝા પાર્ટી ના ખર્ચે, તમારું ભવિષ્ય સુધારવાની તક છે.</p>
+          <p>👉 <strong>Knowledge મા investment કરશો, regret નહીં થાય.</strong></p>
+        </section>
         <section class="ticket-types">
           <h1>Ticket Types</h1>
           <div class="ticket-container">
