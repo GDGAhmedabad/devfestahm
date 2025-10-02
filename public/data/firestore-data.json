@@ -2251,25 +2251,6 @@
           "title": "Founder & Organizer"
         },
         {
-          "name": "Dhrumil Shah",
-          "photo": "/images/people/dhrumil_shah.png",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dhuma1981",
-              "name": "Twitter"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/dhuma1981",
-              "name": "Facebook"
-            }
-          ],
-          "order": 1,
-          "title": "Co-Organizer"
-        },
-        {
           "name": "Jaldeep Asodariya",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2024%2Fjaldeep_asodariya.jpeg?alt=media&token=97c8cfb2-ea30-4b43-9b47-6684fb053a64",
@@ -2295,7 +2276,7 @@
               "name": "Facebook"
             }
           ],
-          "order": 2,
+          "order": 1,
           "title": "Co-Organizer"
         },
         {
@@ -2314,32 +2295,8 @@
               "name": "Facebook"
             }
           ],
-          "order": 3,
+          "order": 2,
           "title": "Asst. Organizer"
-        },
-        {
-          "name": "Hiren Dave",
-          "photo": "/images/people/hiren_dave.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/hjdave",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/davehiren",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://hirendave.com/",
-              "name": "Website"
-            }
-          ],
-          "order": 4,
-          "title": "Event Organizer"
         },
         {
           "name": "Khushbu Thakker",
@@ -2357,7 +2314,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 5,
+          "order": 3,
           "title": "WTM Ambassador"
         }
       ],
@@ -2413,6 +2370,44 @@
           ],
           "order": 1,
           "title": "Designer"
+        },
+        {
+          "name": "Mehul Dangar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fmehul_dangar_25.png?alt=media&token=7cd8c8b9-56b0-45f9-b6f5-33ff346ba18e",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/mehuldesign?t=gr-A6mUP74BI_vItpFLuoA&s=08",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/mehuldangar",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": "Designer"
+        },
+        {
+          "name": "Meshwa Dipaksinh Vihol",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fmeshwa_vihol_25.png?alt=media&token=1024ab6f-b6fc-4ea9-be85-cbdde58eee22",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/meshwa_vihol21?t=AwhbgUSuf02d84qMmwS3Kw&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/meshwa-vihol-4b7bba328",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": "Designer"
         }
       ],
       "order": 1,
@@ -2420,30 +2415,6 @@
     },
     {
       "members": [
-        {
-          "name": "Amit Panchal",
-          "photo": "/images/people/others/amit_panchal.png",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Famit_panchal.jpeg?alt=media&token=8a445e5d-f9a6-4812-b55c-31b85a1f6667",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/AmitHPanchal",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/amithpanchal/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.amitpanchal.com/",
-              "name": "Website"
-            }
-          ],
-          "order": 0,
-          "title": ""
-        },
         {
           "name": "Jignesh Thanki",
           "photo": "/images/people/others/jignesh_thanki_22.jpeg",
@@ -2460,36 +2431,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 1,
-          "title": ""
-        },
-        {
-          "name": "Dhruv Patel",
-          "photo": "/images/people/others/dhruv_patel_22.jpeg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fdhruv_patel_22.jpeg?alt=media&token=2529a050-ca08-4dfb-8140-40f809810268",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/deardhruv",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/deardhruv/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/DearDhruv",
-              "name": "Github"
-            },
-            {
-              "icon": "website",
-              "link": "http://deardhruv.com/",
-              "name": "Website"
-            }
-          ],
-          "order": 3,
+          "order": 0,
           "title": ""
         },
         {
@@ -2513,7 +2455,7 @@
               "name": "Website"
             }
           ],
-          "order": 4,
+          "order": 1,
           "title": ""
         },
         {
@@ -2542,74 +2484,7 @@
               "name": "Website"
             }
           ],
-          "order": 5,
-          "title": ""
-        },
-        {
-          "name": "Pranay Patel",
-          "photo": "/images/people/others/pranay_patel_22.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpranay_patel_22.jpg?alt=media&token=d319ced6-d197-4010-8d91-a63ef78438c1",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/pranaypatel_",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pranaypatel512/",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://medium.com/@pranaypatel",
-              "name": "Blog"
-            }
-          ],
-          "order": 6,
-          "title": ""
-        },
-        {
-          "name": "Vatsal Gajjar",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal-gajjar.jpg?alt=media&token=9ece86fc-4f26-4e9d-82c4-83a4802f34ee",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/gajjarvatsall",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/gajjarvatsall",
-              "name": "LinkedIn"
-            },
-            {
-              "icon": "website",
-              "link": "https://gajjarvatsall.github.io/my-portfolio/#home",
-              "name": "Blog"
-            }
-          ],
-          "order": 7,
-          "title": ""
-        },
-        {
-          "name": "Pratik Butani",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fpratik-butani.jpeg?alt=media&token=6c38943a-44cd-445d-b86b-93c2caac0ccc",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/pratik13butani",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pratikbutani/",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 8,
+          "order": 2,
           "title": ""
         }
       ],
@@ -2827,6 +2702,25 @@
           ],
           "order": 9,
           "title": ""
+        },
+        {
+          "name": "Yash Nandha",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fyash_nandha_25.jpg?alt=media&token=13bdd98c-7c76-4129-9e49-5ee2d4f087e2",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/Yashnandha06?t=ERdn4QYZUQ6y67fE2Ds7Aw&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/yashnandha",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": ""
         }
       ],
       "order": 4,
@@ -2938,9 +2832,47 @@
           ],
           "order": 4,
           "title": ""
+        },
+        {
+          "name": "Janvi Gupta",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fjanvi_gupta_25.png?alt=media&token=3d03fd96-0f2e-4631-baa5-61ed1586b7d6",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/TheJanviG",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/janvisgupta",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 5,
+          "title": ""
+        },
+        {
+          "name": "Vanshika Kamdar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fvanshika_kamdar_25.jpg?alt=media&token=9b70e530-4df9-49b8-91a8-cb99d2e3581a",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/vanshika_kamdar?t=EA1O1p5jG_5al4JcakKjCw&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vanshikakamdar/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 6,
+          "title": ""
         }
       ],
-      "title": "Content Writer Team",
+      "title": "Content & Event Anchor Team",
       "order": 6
     },
     {
