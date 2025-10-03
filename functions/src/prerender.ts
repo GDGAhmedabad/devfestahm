@@ -4,33 +4,34 @@ import express from 'express';
 import { getFirestore } from 'firebase-admin/firestore';
 import * as functions from 'firebase-functions';
 import fetch from 'node-fetch';
-import url, { URL } from 'url';
 
 const app = express();
-
-const getSiteDomain = async () => {
-  const doc = await getFirestore().collection('config').doc('site').get();
-  return doc.data().domain;
-};
 
 const getRendertronServer = async () => {
   const doc = await getFirestore().collection('config').doc('rendertron').get();
   return doc.data().server;
 };
 
-/**
- * generateUrl() - Piece together request parts to form FQDN URL
- * @param {Object} request
- */
-const generateUrl = async (request) => {
-  // Why do we use config site.domain instead of the domain from
-  // the request? Because it'll give you the wrong domain (pointed at the
-  // cloudfunctions.net)
-  return url.format({
-    protocol: request.protocol,
-    host: await getSiteDomain(),
-    pathname: request.originalUrl,
-  });
+const normalizeHost = (h: string) =>
+  h.replace(/^https?:\/\//, '').replace(/\/+$/, '');
+
+const resolveHost = (req): string => {
+  // 1. Prefer Hosting/CDN header
+  const headerHost =
+    req.get('x-forwarded-host') || req.get('host') || req.hostname;
+
+  if (headerHost) {
+    return normalizeHost(headerHost);
+  }
+
+  // 2. Fallback to Firebase config
+  const cfgHost = functions.config()?.site?.domain as string | undefined;
+  if (cfgHost) {
+    return normalizeHost(cfgHost);
+  }
+
+  // 3. Last fallback (safe default for dev)
+  return 'localhost:5000';
 };
 
 /**
@@ -55,38 +56,35 @@ const checkForBots = (userAgent) => {
 //
 // The trick is on L66, pwaShell(): You must update that file! Open for explainer.
 app.get('*', async (req, res) => {
-  // What say you bot tester?
+  const host = resolveHost(req);
   const botResult = checkForBots(req.headers['user-agent']);
+
   if (botResult) {
-    // Get me the url all nice
-    const targetUrl = generateUrl(req);
+    // Bot path via Rendertron (you can keep your caching here if you want)
+    const targetUrl = `https://${host}${req.originalUrl}`;
+    const rendertron = await getRendertronServer();
 
-    // Did you read the README? You should have set rendertron document
-    // to where ever you deployed https://github.com/GoogleChrome/rendertron on AppEngine
-    fetch(`${await getRendertronServer()}/render/${targetUrl}`)
-      .then((res) => res.text())
-      .then((body) => {
-        // We set Vary because we only want to cache this result for the bots
-        // which we know based on the user-agent. Vary is very useful.
-        // Reading about Vary header:
-        //  https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary
-        //  https://www.fastly.com/blog/best-practices-using-vary-header/
-        res.set('Cache-Control', 'public, max-age=300, s-maxage=600');
-        res.set('Vary', 'User-Agent');
+    const botResp = await fetch(`${rendertron}/render/${targetUrl}`);
+    const body = await botResp.text();
 
-        res.send(body.toString());
-      });
-  } else {
-    // 1. Umm, Justin, why not just point to index.html?
-    // 2. Umm, Justin, why not just fetch() index.html from the domain?
-    //
-    // Valid things to ask internet peoples
-    // 1. function doesn't know about the public hosting as far as I can tell (docs don't offer opinion/example)
-    // 2. Could fetch and return...but I found copy+paste the index.html PWA shell into file returns faster
-    // const indexHTML = fs.readFileSync('./index.html').toString();
-    const path = new URL('./index.html', import.meta.url).pathname;
-    res.sendFile(path);
+    res.set('Cache-Control', 'public, max-age=300, s-maxage=600');
+    res.set('Vary', 'User-Agent');
+    return res.send(body.toString());
   }
+
+  // ✅ Non-bot path: fetch the current Hosting HTML so it’s never stale
+  const htmlResp = await fetch(`https://${host}/index.html`, {
+    // prevent node-fetch from reusing cached responses
+    headers: { 'Cache-Control': 'no-cache' }
+  });
+  const html = await htmlResp.text();
+
+  // No-cache for HTML so users revalidate on each load
+  res.set('Cache-Control', 'no-cache, no-store, must-revalidate');
+  res.set('Pragma', 'no-cache');
+  res.set('Expires', '0');
+
+  return res.status(htmlResp.status || 200).send(html);
 });
 
 export const prerender = functions.https.onRequest(app);
