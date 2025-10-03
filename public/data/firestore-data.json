@@ -2870,6 +2870,20 @@
           ],
           "order": 6,
           "title": ""
+        },
+        {
+          "name": "Karan Pal",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fkaran_pal.jpg?alt=media&token=4467b789-2803-4da2-892d-74d384a6a516",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://in.linkedin.com/in/karan-pal-54a3791b6",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 7,
+          "title": ""
         }
       ],
       "title": "Content & Event Anchor Team",
