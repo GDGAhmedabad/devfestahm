@@ -2486,6 +2486,20 @@
           ],
           "order": 2,
           "title": ""
+        },
+        {
+          "name": "Gaurang Upadhyay",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fgaurang_upadhyay_25.jpeg?alt=media&token=eb7f7262-b93f-46a6-8b5d-f6f7633c4372",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gaurang1",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": ""
         }
       ],
       "order": 2,
@@ -2720,6 +2734,20 @@
             }
           ],
           "order": 10,
+          "title": ""
+        },
+        {
+          "name": "Saurabh Darji",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsaurabh_darji_25.png?alt=media&token=b2026ce9-8b9a-4602-a56e-879c5526ec4c",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 11,
           "title": ""
         }
       ],
@@ -3053,7 +3081,7 @@
           "title": ""
         },
         {
-          "name": "Mer Harsh Maheshbhai",
+          "name": "Harsh Mer",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmer_harsh%20maheshbhai.jpg?alt=media&token=4d5839ff-2dc9-41ab-b176-cf2e60030307",
           "socials": [
@@ -3150,7 +3178,7 @@
         {
           "name": "Sanghvi Dhaval Maheshbhai ",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fsanghvi_dhaval.jpg?alt=media&token=0550f76a-bcb7-4621-840b-249b4a220cb8",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsanghvi_dhaval_25.jpg?alt=media&token=dd3fb7ab-a685-41ed-b6bd-ae88af3e9df4",
           "socials": [
             {
               "icon": "twitter",
