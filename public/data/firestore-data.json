@@ -2238,7 +2238,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pareshmayani/",
+              "link": "https://www.linkedin.com/in/pareshmayani",
               "name": "LinkedIn"
             },
             {
@@ -2262,7 +2262,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jaldeepasodariya/",
+              "link": "https://www.linkedin.com/in/jaldeepasodariya",
               "name": "LinkedIn"
             },
             {
@@ -2310,7 +2310,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b/",
+              "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b",
               "name": "LinkedIn"
             }
           ],
@@ -2335,7 +2335,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/trivedi-vatsal/",
+              "link": "https://www.linkedin.com/in/trivedi-vatsal",
               "name": "LinkedIn"
             },
             {
@@ -2427,7 +2427,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jignesh-thanki/",
+              "link": "https://www.linkedin.com/in/jignesh-thanki",
               "name": "LinkedIn"
             }
           ],
@@ -2446,7 +2446,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/abhijani/",
+              "link": "https://www.linkedin.com/in/abhijani",
               "name": "LinkedIn"
             },
             {
@@ -2470,7 +2470,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815/",
+              "link": "https://www.linkedin.com/in/ravi-rupareliya-54935815",
               "name": "LinkedIn"
             },
             {
@@ -2485,6 +2485,20 @@
             }
           ],
           "order": 2,
+          "title": ""
+        },
+        {
+          "name": "Gaurang Upadhyay",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fgaurang_upadhyay_25.jpeg?alt=media&token=eb7f7262-b93f-46a6-8b5d-f6f7633c4372",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gaurang1",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
           "title": ""
         }
       ],
@@ -2505,7 +2519,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/djgovani/",
+              "link": "https://www.linkedin.com/in/djgovani",
               "name": "LinkedIn"
             },
             {
@@ -2544,7 +2558,7 @@
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/hemank-kukadiya-021427187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://www.linkedin.com/in/hemank-kukadiya-021427187",
               "name": "LinkedIn"
             },
             {
@@ -2559,11 +2573,11 @@
         {
           "name": "Saurabh Darji",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fsaurabh-darji.jpg?alt=media&token=f4426190-9c96-4f50-884b-e3b9aec0652c",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsaurabh_darji_25.png?alt=media&token=b2026ce9-8b9a-4602-a56e-879c5526ec4c",
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6",
               "name": "LinkedIn"
             }
           ],
@@ -2577,7 +2591,7 @@
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://www.linkedin.com/in/jay-bhatia-121471a3",
               "name": "LinkedIn"
             },
             {
@@ -2620,7 +2634,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/solanki-swapneel-2bbb0a203/",
+              "link": "https://www.linkedin.com/in/solanki-swapneel-2bbb0a203",
               "name": "LinkedIn"
             }
           ],
@@ -2658,7 +2672,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/shail-shah-95550a225/",
+              "link": "https://www.linkedin.com/in/shail-shah-95550a225",
               "name": "LinkedIn"
             }
           ],
@@ -2740,7 +2754,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/bhavin-vala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "link": "https://www.linkedin.com/in/bhavin-vala",
               "name": "LinkedIn"
             }
           ],
@@ -2774,7 +2788,7 @@
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nidhi-dadiya-b1955b64/",
+              "link": "https://www.linkedin.com/in/nidhi-dadiya-b1955b64",
               "name": "LinkedIn"
             }
           ],
@@ -2793,7 +2807,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2/",
+              "link": "https://www.linkedin.com/in/darpan-ketan-amre-04b27a1a2",
               "name": "LinkedIn"
             }
           ],
@@ -2826,7 +2840,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://linkedin.com/in/0xvashishth/",
+              "link": "https://linkedin.com/in/0xvashishth",
               "name": "LinkedIn"
             }
           ],
@@ -2864,7 +2878,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vanshikakamdar/",
+              "link": "https://www.linkedin.com/in/vanshikakamdar",
               "name": "LinkedIn"
             }
           ],
@@ -2903,7 +2917,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/bhakti-rathod/",
+              "link": "https://www.linkedin.com/in/bhakti-rathod",
               "name": "LinkedIn"
             }
           ],
@@ -2922,7 +2936,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/darshanguptatech/",
+              "link": "https://www.linkedin.com/in/darshanguptatech",
               "name": "LinkedIn"
             }
           ],
@@ -2941,7 +2955,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/deepak-rodge-25711324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "link": "https://www.linkedin.com/in/deepak-rodge-25711324a",
               "name": "LinkedIn"
             }
           ],
@@ -2974,7 +2988,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/hap404/",
+              "link": "https://www.linkedin.com/in/hap404",
               "name": "LinkedIn"
             }
           ],
@@ -2993,7 +3007,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jigarvyass/",
+              "link": "https://www.linkedin.com/in/jigarvyass",
               "name": "LinkedIn"
             }
           ],
@@ -3012,7 +3026,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/laxdip-patel/",
+              "link": "https://www.linkedin.com/in/laxdip-patel",
               "name": "LinkedIn"
             }
           ],
@@ -3053,7 +3067,7 @@
           "title": ""
         },
         {
-          "name": "Mer Harsh Maheshbhai",
+          "name": "Harsh Mer",
           "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmer_harsh%20maheshbhai.jpg?alt=media&token=4d5839ff-2dc9-41ab-b176-cf2e60030307",
           "socials": [
@@ -3083,7 +3097,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/nikhilbutani/",
+              "link": "https://www.linkedin.com/in/nikhilbutani",
               "name": "LinkedIn"
             }
           ],
@@ -3140,7 +3154,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/sagar-patel-4494b0146/",
+              "link": "https://www.linkedin.com/in/sagar-patel-4494b0146",
               "name": "LinkedIn"
             }
           ],
@@ -3150,7 +3164,7 @@
         {
           "name": "Sanghvi Dhaval Maheshbhai ",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fsanghvi_dhaval.jpg?alt=media&token=0550f76a-bcb7-4621-840b-249b4a220cb8",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsanghvi_dhaval_25.jpg?alt=media&token=dd3fb7ab-a685-41ed-b6bd-ae88af3e9df4",
           "socials": [
             {
               "icon": "twitter",
@@ -3197,7 +3211,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/keval-tank-05244b1b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "link": "https://www.linkedin.com/in/keval-tank-05244b1b6",
               "name": "LinkedIn"
             }
           ],
@@ -3216,7 +3230,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vahid-sumra-41675a52/?originalSubdomain=in",
+              "link": "https://www.linkedin.com/in/vahid-sumra-41675a52",
               "name": "LinkedIn"
             }
           ],
@@ -3235,7 +3249,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/sutharvidhi32?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+              "link": "https://www.linkedin.com/in/sutharvidhi32",
               "name": "LinkedIn"
             }
           ],
@@ -3273,7 +3287,7 @@
             },
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/vishal-nai-3640a5118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+              "link": "https://www.linkedin.com/in/vishal-nai-3640a5118",
               "name": "LinkedIn"
             }
           ],
