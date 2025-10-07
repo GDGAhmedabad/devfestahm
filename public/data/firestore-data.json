@@ -117,11 +117,12 @@
     }
   ],
   "schedule": {
-    "2024-11-24": {
-      "date": "2024-11-24",
-      "dateReadable": "November 24",
+    "2025-11-15": {
+      "date": "2025-11-15",
+      "dateReadable": "November 15",
       "timeslots": [
         {
+          "startTime": "08:30",
           "endTime": "09:30",
           "sessions": [
             {
@@ -129,83 +130,45 @@
                 "151"
               ]
             }
-          ],
-          "startTime": "08:30"
+          ]
         },
         {
-          "endTime": "09:45",
+          "startTime": "09:30",
+          "endTime": "10:00",
           "sessions": [
             {
               "items": [
                 "155"
               ]
             }
-          ],
-          "startTime": "09:30"
+          ]
         },
         {
-          "endTime": "10:00",
+          "startTime": "10:00",
+          "endTime": "10:30",
           "sessions": [
             {
               "items": [
                 "101"
               ]
             }
-          ],
-          "startTime": "09:45"
+          ]
         },
         {
-          "endTime": "10:20",
-          "sessions": [
-            {
-              "items": [
-                "131"
-              ]
-            }
-          ],
-          "startTime": "10:00"
-        },
-        {
-          "endTime": "10:30",
-          "sessions": [
-            {
-              "items": [
-                "132"
-              ]
-            }
-          ],
-          "startTime": "10:20"
-        },
-        {
+          "startTime": "10:30",
           "endTime": "11:00",
-          "sessions": [
-            {
-              "items": [
-                "103"
-              ]
-            }
-          ],
-          "startTime": "10:30"
-        },
-        {
-          "endTime": "11:15",
           "sessions": [
             {
               "items": [
                 "160"
               ]
             }
-          ],
-          "startTime": "11:00"
+          ]
         },
         {
-          "endTime": "12:00",
+          "startTime": "11:00",
+          "endTime": "11:45",
           "sessions": [
-            {
-              "items": [
-                "104"
-              ]
-            },
             {
               "items": [
                 "102"
@@ -213,33 +176,7 @@
             },
             {
               "items": [
-                "114"
-              ]
-            },
-            {
-              "items": [
-                "110"
-              ]
-            },
-            {
-              "items": [
-                "133"
-              ]
-            }
-          ],
-          "startTime": "11:15"
-        },
-        {
-          "endTime": "12:45",
-          "sessions": [
-            {
-              "items": [
-                "106"
-              ]
-            },
-            {
-              "items": [
-                "121"
+                "107"
               ]
             },
             {
@@ -248,34 +185,20 @@
               ]
             },
             {
+              "extend": 2,
               "items": [
-                "126"
-              ]
-            },
-            {
-              "items": [
-                "128"
+                "117"
               ]
             }
-          ],
-          "startTime": "12:00"
+          ]
         },
         {
-          "endTime": "13:30",
+          "startTime": "12:00",
+          "endTime": "12:45",
           "sessions": [
             {
               "items": [
-                "127"
-              ]
-            },
-            {
-              "items": [
-                "122"
-              ]
-            },
-            {
-              "items": [
-                "118"
+                "103"
               ]
             },
             {
@@ -285,39 +208,32 @@
             },
             {
               "items": [
-                "129"
+                "113"
               ]
+            },
+            {
+              "items": []
             }
-          ],
-          "startTime": "12:45"
+          ]
         },
         {
-          "endTime": "14:45",
+          "startTime": "13:00",
+          "endTime": "14:30",
           "sessions": [
             {
               "items": [
                 "152"
               ]
             }
-          ],
-          "startTime": "13:30"
+          ]
         },
         {
+          "startTime": "14:30",
           "endTime": "15:30",
           "sessions": [
             {
               "items": [
-                "105"
-              ]
-            },
-            {
-              "items": [
-                "123"
-              ]
-            },
-            {
-              "items": [
-                "115"
+                "104"
               ]
             },
             {
@@ -327,25 +243,55 @@
             },
             {
               "items": [
-                "130"
+                "114"
+              ]
+            },
+            {
+              "items": [
+                "118"
               ]
             }
-          ],
-          "startTime": "14:45"
+          ]
         },
         {
-          "endTime": "15:55",
+          "startTime": "15:30",
+          "endTime": "16:30",
           "sessions": [
             {
-              "extend": 2,
               "items": [
-                "124"
+                "105"
+              ]
+            },
+            {
+              "items": [
+                "110"
+              ]
+            },
+            {
+              "items": [
+                "115"
               ]
             },
             {
               "extend": 2,
               "items": [
-                "120"
+                "119"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                "106"
+              ]
+            },
+            {
+              "items": [
+                "111"
               ]
             },
             {
@@ -354,98 +300,45 @@
               ]
             },
             {
-              "extend": 2,
-              "items": [
-                "111"
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:15",
-          "sessions": [
-            {
-              "items": []
-            },
-            {
-              "items": []
-            },
-            {
-              "items": [
-                "113"
-              ]
-            },
-            {
               "items": []
             }
-          ],
-          "startTime": "15:55"
+          ]
         },
         {
-          "endTime": "17:00",
-          "sessions": [
-            {
-              "items": [
-                "125"
-              ]
-            },
-            {
-              "items": [
-                "119"
-              ]
-            },
-            {
-              "items": [
-                "117"
-              ]
-            },
-            {
-              "items": [
-                "107"
-              ]
-            }
-          ],
-          "startTime": "16:15"
-        },
-        {
-          "endTime": "17:15",
+          "startTime": "17:30",
+          "endTime": "18:00",
           "sessions": [
             {
               "items": [
                 "157"
               ]
             }
-          ],
-          "startTime": "17:00"
+          ]
         },
         {
-          "endTime": "18:00",
+          "startTime": "18:00",
+          "endTime": "18:30",
           "sessions": [
             {
               "items": [
                 "156"
               ]
             }
-          ],
-          "startTime": "17:15"
+          ]
         }
       ],
       "tracks": [
         {
-          "title": "Narmada"
-        },
-        {
           "title": "Ganga"
-        },
-        {
-          "title": "Sabarmati"
         },
         {
           "title": "Yamuna"
         },
         {
-          "title": "Tapi"
+          "title": "Narmada"
+        },
+        {
+          "title": "Sabarmati"
         }
       ]
     }
@@ -453,487 +346,247 @@
   "sessions": {
     "101": {
       "complexity": "Intermediate",
-      "description": "- What, Why and Why Not of AI \n- Good, Bad and Ugly of AI \n- What if Your Future \n\n- Gen AI and Infinite Possibilities \n- What not to do with AI \n- What AI should do for Mankind \n\n- Let Me Predict the Future \n- There is life beyond AI",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "utpal_betai"
-      ],
-      "tags": [
-        "Keynote"
-      ],
-      "title": "Focus on Future Keynote",
-      "videoId": "ZcemA77lT9Q"
-    },
-    "102": {
-      "complexity": "Intermediate",
-      "description": "This session explores how Built-in Chrome AI leverages the Gemini Nano model to bring powerful AI features directly to your browser and how you can integrate these features into your web applications. \nWe'll demystify Chrome's AI APIs, including: \n* Prompt API \n* Summarizer API \n* Writer and Rewriter API \n* Translation API \n* Language Detection API \n\n Why this talk is important: \nThis session provides a foundational understanding of how AI is rapidly changing the web landscape. Chrome's built-in AI empowers developers to create intelligent, user-friendly experiences with enhanced privacy and performance. \nWhat participants will benefit: \n* Understand the core concepts of Chrome's built-in AI. \n* Learn to use Chrome's AI APIs effectively. \n* Understand benefits of local AI processing \n* Discover practical applications of AI in web development. \nTechnologies used: \n* Chrome Browser \n* JavaScript \n* Built-in Chrome AI APIs \nTarget audience: \nBeginner and intermediate web developers.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "romin_irani"
-      ],
-      "tags": [
-        "Web",
-        "AI/ML"
-      ],
-      "title": "Chrome Built-in AI : Powerful AI features directly in your browser",
-      "videoId": "GAaIJvyTmAQ"
-    },
-    "103": {
-      "complexity": "Intermediate",
-      "description": "Step into the AI-powered development world, where intelligent agents redefine the development process, boosting efficiency, enabling smarter workflows, and unlocking new levels of productivity—highlighted by a live demo of DhiWise 3.0.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "vishal_virani"
-      ],
-      "tags": [
-        "Keynote",
-        "AI/ML"
-      ],
-      "title": "The AI Catalyst -  Transforming SDLC with Agent-driven Efficiency and Accuracy",
-      "videoId": "cF34cEFBKLw"
-    },
-    "104": {
-      "complexity": "Intermediate",
-      "description": "Deepfakes have taken the digital world by storm - exciting for tech enthusiasts, but alarming for those focused on digital authenticity. While ultra-lifelike cyber manipulations can be impressive, they raise ethical and legal issues as deepfakes are increasingly used to distort truth, spread misinformation, and even commit fraud. Google's significant contribution in releasing Deepfake dataset has spurred the innovation in this field. \n\nIn this session, we'll explore the latest advancements in deepfake detection algorithms, covering both theory and practical applications. Using accessible, open-source models, I'll demonstrate real-world deepfake detection, showcasing successes and limitations. This session will equip you with actionable knowledge and resources to navigate a world where AI is not only creating lifelike media but also defending truth in an increasingly synthetic landscape.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "pooja_ranjan"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "Deep into DeepFakes : Drawing a line between Real and Fake",
-      "videoId": "m18R5ZG2BKY"
-    },
-    "105": {
-      "complexity": "Introductory & Overview",
-      "description": "AI Agents are the hottest topic in the AI/ LLM world. In this session, we will discuss what AI Agents are, why they are gaining popularity, common misconceptions about them, AI agentic patterns, building multi-agent AI systems using Vertex AI, etc.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "nikhilesh_tayal"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "Building Multi AI Agent Systems",
-      "videoId": "Op6NQajZKxI"
-    },
-    "106": {
-      "complexity": "Introductory & Overview",
-      "description": "In today's cloud-driven world, security is a top priority, yet the complexity of modern cloud environments makes it challenging to safeguard against emerging threats. This session explores how AI and machine learning are revolutionizing cloud security by automating threat detection and response, enhancing protection across diverse infrastructures. \n\nUsing tools like TensorFlow and Google Cloud's Vertex AI, attendees will discover how to build intelligent security systems that identify anomalies in real-time, mitigate risks proactively, and respond to threats at scale. \n\nThrough real-world examples, this talk will demonstrate how organizations can implement AI for cloud security to improve scalability, minimize manual intervention, and accelerate incident response. Attendees will leave with actionable insights on deploying AI models to enhance their cloud security posture, detect evolving threats, and automate responses within their cloud architecture.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "drijesh_patel"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "AI for Cloud Security: Automating Threat Detection and Response with Google Cloud AI",
-      "videoId": "zhfVTGsHLNw"
-    },
-    "107": {
-      "complexity": "Intermediate",
-      "description": "Being a 10x engineer isn't about writing ten times the code—it's about delivering ten times the value. This session covers essential skills like emotional intelligence, client understanding, and strategic communication that help engineers build stronger client relationships and maximize impact.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "raza_noorani"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "10x Engineer Formula",
-      "videoId": "gGtbYkahh3U"
-    },
-    "108": {
-      "complexity": "Intermediate",
-      "description": "How BookMatch uses Kotlin Multiplatform (KMP) to build a cross-platform app for Android and iOS with shared business logic and native UIs using jetpack compose and swift ui and to build API gateway with Ktor to secure OpenAI api keys used for the app. \n\nLittle bit about working of the app - \n\nThe integration of Generative AI to provide personalized book recommendations and backend services supabase for storing the data remotely. \n\n- Data flow between data layer and ui layer and code sharing, \n- Native interoperability bridging kotlin/swift \n- Use of Ktor to build REST API \n\nLearning outcomes: \n- Insights in KMP apps having native UIs \n- Techniques for prompting Generative AI to provide effective book recommendations. \n- Building REST API with Ktor \n\nTalk will be 70% KMP and 30% ktor \n\nCheckout our project mentioned in android weekly: https://www.androidweekly.net/issues/issue-636",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "dhananjay_navlani",
-        "priya_sindkar"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "KMP & Ktor in Action: Book Recommendation App with GenAI",
-      "videoId": "iTzKovyWY1M"
-    },
-    "109": {
-      "complexity": "Intermediate",
-      "description": "Imagine turning your apps into AI-powered gold - that's the magic of Genkit! In this captivating session, we'll unveil the secrets of integrating cutting-edge AI capabilities into your projects with unprecedented ease. Learn how to transform mundane features into intelligent, adaptive experiences that will leave users spellbound. From chat bots to computer vision, we'll explore how Genkit can elevate your app development skills to legendary status. Don't miss this chance to become the AI alchemist of the app world!",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "pawan_kumar"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "Genkit: The AI Alchemist Turning Your Apps into Gold",
-      "videoId": "rcUnV8ye-Us"
-    },
-    "110": {
-      "complexity": "Intermediate",
-      "description": "Developers can no longer identify as Syntax Engineers because it won't cut it. In this talk, I will cover the concepts of product engineering with experience composition at its core. We will learn to resolve a perspective, where technical problems are solved for the benefit of the user / the customer, keeping the business goals in mind.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "ayush_shekhar"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "Product Engineering: A FlutterFlow Story",
-      "videoId": "8f26H9pCzjU"
-    },
-    "111": {
-      "complexity": "Intermediate",
-      "description": "As mobile applications grow from MVPs to robust products, building a scalable architecture becomes vital for sustainable expansion. This session provides a comprehensive guide to designing Flutter apps that not only handle increased user load and feature growth but are also primed for seamless AI integration. Attendees will learn strategies for modular, maintainable architectures that support rapid development and long-term scalability. I’ll cover performance optimisation techniques, effective state management, and testing strategies to maintain app stability as complexity increases. With practical insights, this talk equips developers to create AI-ready, future-proof Flutter applications that grow without requiring a complete rewrite.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "dhrumil_shah"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "Scalable, AI-Ready Flutter Apps: Architecting for Growth",
-      "videoId": "BfhYYpE1O6k"
-    },
-    "112": {
-      "complexity": "Introductory & Overview",
-      "description": "In this session, we'll explore how AI can take over everyday business tasks, from data entry and scheduling to customer support and marketing, transforming your operations into a streamlined, efficient machine. \n\nI'll cover key AI-powered tools and methods to automate daily workflows, saving time and reducing human error. Learn how to implement chatbots for customer inquiries, automate marketing campaigns, set up intelligent data entry, and even streamline internal communications - all with accessible, user-friendly AI solutions. \n\nBy the end of this session, the audience will have a roadmap for shifting mundane tasks to intelligent systems, making their business more agile and productive.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "rohan_shah"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "From Mundane to Machine: Leveraging AI to Automate Everyday Business Tasks",
-      "videoId": "V_UrtfXUNas"
-    },
-    "113": {
-      "complexity": "Advanced",
-      "description": "Most of Indian Founders can create very good Technology Products, but when it come to GTM (Go to Market) strategy and Marketing, they struggle a lot. \n\nI being a Founder myself, have learned the nuances of content marketing by trial and error. And I want to share my knowledge with the community.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "manoj_adwani"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Content Marketing for Startups",
-      "videoId": "flrAybpQW1c"
-    },
-    "114": {
-      "complexity": "Advanced",
-      "description": "Step into the future with a deep dive into how AI and emerging technologies are not just advancing industries but transforming economies and reshaping every facet of life. In this session, uncover groundbreaking opportunities and stay at the forefront of tech trends that are redefining the way we live, work, and innovate. Engage in forward-thinking discussions with industry pioneers shaping the next wave of technology-driven change. From revolutionizing everyday products to imagining new realms of luxury and human potential, this session is your gateway to the cutting edge of innovation, where startups are rewriting tomorrow's world.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "rajul_shah"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Beyond the Obvious: Revolutionizing the Future with Startups & Emerging Tech",
-      "videoId": "5PibCy4EXfE"
-    },
-    "115": {
-      "complexity": "Introductory & Overview",
-      "description": "This talk focuses on realistic, practical strategies for startups to enter the market without extensive budgets or marketing infrastructure. \n\nWe'll look at simple yet effective Go-to-Market (GTM) approaches that can make a big impact with the help of AI, thought leadership, networks, and more. \n\nWe'll also discuss some real-life marketing mistakes and dos and don'ts for startups. \n\nThis talk is for you if — \n\n- You're working on a startup idea already\n- You have an idea but not sure whether you have the marketing budget\n- You already run a startup but are not sure of your marketing direction\n- Startup life excites you, and you just want to explore what marketing a startup looks like",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "himani_kankaria"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Start Smart—A Marketing Approach for Startups' Go-to-Market Success Today",
-      "videoId": "mSylXp1guoA"
-    },
-    "116": {
-      "complexity": "Advanced",
-      "description": "In this session, I will share actionable strategies on how startups can effectively use LinkedIn to build their brand, expand their network, and generate valuable leads. Drawing from my experience as a LinkedIn Top Voice, I'll guide you through practical tips and techniques that can help your startup stand out and succeed in today's competitive landscape. This session is designed to empower startup founders and teams to fully unlock LinkedIn's potential for business growth.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "jaydip_parikh"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Unlock LinkedIn's Potential: A Masterclass for Startups",
-      "videoId": "2R33Rh8p8iI"
-    },
-    "117": {
-      "complexity": "Intermediate",
-      "description": "How to create your pitch deck\nWhat are the elements of a pitch deck\nStages of VC funding and how your pitch deck changes\nHow to identify which vcs to approach",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "shubham_pachori"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "The Art of Pitching & Fund Raising",
-      "videoId": "JtuZ5afBewM"
-    },
-    "118": {
-      "complexity": "Intermediate",
-      "description": "In this session, we’ll explore how startups can harness the potential of open-source tools and communities to fuel rapid growth, drive innovation, and cut costs. You’ll learn about the benefits of building with open source, practical strategies for integrating open-source solutions, and real-world examples of startups that have scaled effectively through open-source adoption. Whether you're a founder or developer, this talk will provide actionable insights and resources to help you unlock the power of open source in your startup journey.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "abhishek_mankuskar"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "Leveraging Open Source for Startup Growth",
-      "videoId": "G5Je_6_iJ9U"
-    },
-    "119": {
-      "complexity": "Advanced",
-      "description": "The session deep dives into GKE Enterprise which is a premium subscription-based service built upon GKE Standard. I will start with an explanation then the pros, explain the cons and operational overhead, and then finally end with Verdict. I will not go through each functionality offered by GKE Enterprise rather, I will talk only about the major ones. I do hThe topic is purely based on my experience as I have implemented this service for my enterprise clients. \n\nThe main idea of this topic is to make people understand who this service is for because not every cloud service is meant to be used by individual startups or even enterprises. I would be talking as an individual engineer on the stage, not as a Google Champion Innovator or representing my company's point of view.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "rohan_singh"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "GKE Enterprise: Do we need it or not?",
-      "videoId": "V_UrtfXUNas"
-    },
-    "120": {
-      "complexity": "Intermediate",
-      "description": "A designer's tale to Developers, Product Managers, and everyone who is enthusiastic about building digital products: \n\n\"Design Thinking for Product teams and beyond.\" \n\nThink of the Software Development Cycle and skip Design for a moment, how does that feel? \n\nWe will simplify the 'Design Thinking' exercise in this talk with relatable and interesting stories. \n\nThe session will include: \n-A Quick Intro to Design Thinking \n-Some interesting examples to showcase design thinking in the product-building journey \n-Understanding User Persona and ideating while designing an intuitive experience \n-A go-to template to follow design thinking as a collaborative and strategic tool with other stakeholders to build better digital products.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "poonam_jha"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Design Thinking for Product Teams and Beyond",
-      "videoId": "Lq4E1JKBhH8"
-    },
-    "121": {
-      "complexity": "Introductory & Overview",
-      "description": "This talk covers deploying Large and Small Language Models (LLMs and SLMs) on edge devices using WebAssembly. Attendees will learn how WebAssembly enables AI models to run efficiently, with minimal latency and enhanced privacy, directly on end-user devices. We'll explore practical strategies for adapting LLMs and SLMs to run at the edge, use cases across industries, and the technical steps needed to achieve lightweight, secure AI deployments across diverse environments.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "varun_srinivas"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "LLMs and SLMs Everywhere",
-      "videoId": "ocRoyt1s06M"
-    },
-    "122": {
-      "complexity": "Advanced",
-      "description": "In today's complex web landscape, building high-performance frontend applications requires a deep understanding of system design principles and architectural patterns. This comprehensive session explores advanced concepts in frontend system design, focusing on creating scalable, efficient, and maintainable web applications. \n\nKey Takeaways: \n\n• System Design Foundation\n• Understand architectural patterns\n•Performance Deep Dive \n\nWho Should Attend: \n\n• Frontend engineers looking to advance their system design skills \n• Software architects focusing on frontend architecture \n• Developers working on large-scale web applications \n• Technical leads responsible for making architectural decisions",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "nishith_rajyaguru"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Unlocking Frontend System Design: A Performance-First Architecture",
-      "videoId": "507rUr24owQ"
-    },
-    "123": {
-      "complexity": "Intermediate",
-      "description": "Despite Javascript's phenomenal interpretation capabilities, computationally expensive functions, or low-powered hardware can really affect your app's performance. Such computations freeze our apps' one and only thread, frustrating our users with a sluggish UI. \n\nIn this talk, I will dive deep into how Web Workers can absolutely supercharge your apps with true multithreading capabilities. We'll see how Web Workers allow you to offload heavy tasks to background threads, freeing up your main thread to make your applications responsive and smooth. \n\nKey Takeaways from the Talk: \n- Understanding the single-threaded nature of Javascript web apps and performance implications, with real-world scenarios \n- Fundamentals of Web Workers and how can you integrate them seamlessly into your apps \n- Best Practices of using Web Workers and how to avoid common pitfalls \n\nDon't let the performance bottleneck hold you back from delivering smooth and seamless web apps!",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "nida_shaikh"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Off the Main Thread: How Web Workers Transform Web Performance",
-      "videoId": "vIrOGtsD9jo"
-    },
-    "124": {
-      "complexity": "Intermediate",
-      "description": "In this talk, I will be talking about how to build personalized travel experiences with autonomous agents. I will use Vertex AI models (Gemini) and 3rd party tools to build end-to-end travel agents which not only plan your itenaries but book flights and hotels as per client's preferences. \n\nI will demonstrate how the reasoning engine from VertexAI enables AI Agents to build and manage at scale. \n\nThis prototype would help to attendees to think about Agents in different approaches.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "chetan_hirapara"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "Redefine the travel experience with autonomous agents",
-      "videoId": "CdxtDoHHYWM"
-    },
-    "125": {
-      "complexity": "Intermediate",
-      "description": "We will dive into the following topics: \n\nExtending Vocabulary: Learn how to use the SentencePiece Tokenizer to expand the original vocabulary of a language model, enabling it to incorporate new tokens specific to Indic languages. \n\nPre-Training Techniques: Explore the process of running Pre-Training with the newly extended tokenizer, focusing on how Continuous Pre-training differs from traditional methods, and how it helps the model understand these tokens better. \n\nInstruction Fine-Tuning: Discover how Instruction Fine-Tuning is applied post-Pre-Training to enable the model to perform new tasks tailored to user requirements. \n\nBenchmarking and Evaluation: We will discuss various techniques to benchmark and evaluate the performance of the language models. \n\nChallenges and Future Directions: We will share the challenges we encountered during our experiments as well. \n\nOur experiments have been conducted with a specific focus on enhancing Gujarati language support in Google's Gemma family.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "dixit_trivedi",
-        "khyat_anjaria"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "Enhancing Gemma with Vernacular Language Support",
-      "videoId": "qhumv1m7FX0"
-    },
-    "126": {
-      "complexity": "Intermediate",
-      "description": "Join Yash Adulkar and Prashant Dalai as they reveal how Localization, Remote Config, and Vertex AI can transform Flutter apps into intelligent, user-centered experiences. Yash will discuss how Localization adapts apps to users' language and culture, enhancing accessibility, while Remote Config enables real-time control over app behavior for personalized content and A/B testing. Prashant will then demonstrate how Vertex AI empowers apps with custom ML models, delivering personalized recommendations and dynamic content. Learn to create adaptable, engaging applications with these essential tools!",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "yash_adulkar",
-        "prashant_dalai"
-      ],
-      "tags": [
-        "Mobile",
-        "Android",
-        "Flutter"
-      ],
-      "title": "Localization, Remote Config and Vertex AI with Flutter",
-      "videoId": "29iBHxFwFtQ"
-    },
-    "127": {
-      "complexity": "Intermediate",
-      "description": "In this session, we'll explore how Beckn (the Protocol behind ONDC, Namma Yatri, UEI & many more), as an open digital transaction protocol, is reshaping the landscape of decentralized digital ecosystems. This talk will cover Beckn's architecture, real-world use cases, and the pivotal role of AI in building adaptive, responsive, and intelligent digital interactions. Attendees will gain insights into leveraging Beckn to create scalable, AI-driven solutions that contribute to an inclusive digital economy and facilitate a frictionless exchange of goods, services, and ideas online.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "harsh_shah",
-        "akash_shukla"
-      ],
-      "tags": [
-        "AI/ML"
-      ],
-      "title": "Beckn Unveiled: Architecting the Internet's Next Frontier with AI",
-      "videoId": "7kQp9LcZCxQ"
-    },
-    "128": {
-      "complexity": "Intermediate",
-      "description": "With over 20 years of experience in technology consulting and business transformation, Karan Chugh is a recognised expert in helping startups, SMEs, and enterprises scale effectively. Having guided businesses across diverse industries—including FinTech, AgriTech, aviation, and government organisations—Karan blends strategic insights with hands-on expertise to unlock growth opportunities. \nIn his session, \"The Art of Scaling Up,\" Karan will share proven strategies for navigating the complexities of growth. His talk is packed with actionable insights tailored for today's fast-evolving business landscape. \n\nWhether you're a startup founder, a technology enthusiast, or a seasoned executive, this session promises to inspire and equip you with the tools to transform challenges into milestones on your scaling journey. \n\nJoin Karan and discover the art of scaling up with clarity, confidence, and creativity!",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "karan_chugh"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "The Art of Scaling up",
-      "videoId": ""
-    },
-    "129": {
-      "complexity": "Intermediate",
-      "description": "Breaking Boundaries: Empowering Women to Lead the Future of Tech is an inspiring roundtable discussion designed to address the unique challenges and opportunities for women in today's tech landscape. We'll explore how women can navigate rapid market changes, harness the potential of AI, and step into leadership roles that drive innovation. This conversation will also cover insights on building resilience, taking calculated risks, and embracing entrepreneurship to launch successful startups. Join us as we discuss strategies for overcoming barriers, competing in a dynamic market, and paving the way for women to lead the future of tech",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "khushbu_thakker",
-        "srishti_tibrewal"
-      ],
-      "tags": [
-        "WTM"
-      ],
-      "title": "Breaking Boundaries: Empowering Women to Lead the Future of Tech",
-      "videoId": ""
-    },
-    "130": {
-      "complexity": "Intermediate",
-      "description": "Join us for an exclusive CxO meetup as we deep-dive into DhiWise - an enterprise-grade platform where agentic AI transforms software development by thinking, planning, and creating like your best team members \n\nExperience the complete AI-First Automation Platform that: \n* ⁠Functions as your specialized AI employee mastering every role \n*Combines strategic thinking, analyst precision, and developer expertise \n* Delivers quality-first results with zero verbal dependencies \n* Accelerates your entire journey from concept to code",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "vishal_virani"
-      ],
-      "tags": [
-        "Startup"
-      ],
-      "title": "CxO Meet: Deep dive into AI-powered Business SDLC automation with DhiWise",
-      "videoId": ""
-    },
-    "131": {
-      "complexity": "Intermediate",
-      "description": "This session explores how Google AI can help you transform your ideas into impactful solutions. \n\nWe'll cover a range of tools and techniques, from ideation and research with Google Gemini, to development and prototyping with Colab and AI Studio, to deployment and scaling with Vertex AI and Cloud Functions. \n\nLearn how to leverage these powerful resources to accelerate your AI journey and create solutions that make a real-world difference.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "harsh_dattani"
-      ],
-      "tags": [
-        "Keynote",
-        "AI/ML"
-      ],
-      "title": "From Ideas to Impact using Google AI tools",
-      "videoId": "r8kMv7ZNcZo"
-    },
-    "132": {
-      "complexity": "Introductory & Overview",
-      "description": "This program aims to support female developers who are actively working on Google products, already have technical skills to join the Google Developer Experts community. \nThe program will provide the candidates with basic knowledge about the Experts program, product-specific speaking engagements and opportunities (mentorships, training) and development in technical skills.",
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        "rajat_bhatia"
-      ],
-      "tags": [
-        "Keynote"
-      ],
-      "title": "Road to GDE",
-      "videoId": "r8kMv7ZNcZo"
-    },
-    "133": {
-      "complexity": "Intermediate",
-      "description": "Office hours for Tech Expo Gujarat",
+      "description": "",
       "language": "English",
       "presentation": "",
       "speakers": [],
-      "tags": [],
-      "title": "Tech Expo Gujarat",
+      "tags": [
+        "Keynote"
+      ],
+      "title": "Googlers - Developer Keynote",
+      "videoId": ""
+    },
+    "102": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ],
+      "title": "AI/ML/Cloud Talk #1",
+      "videoId": ""
+    },
+    "103": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ],
+      "title": "AI/ML/Cloud Talk #2",
+      "videoId": ""
+    },
+    "104": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ],
+      "title": "AI/ML/Cloud Talk #3",
+      "videoId": ""
+    },
+    "105": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ],
+      "title": "AI/ML/Cloud Talk #4",
+      "videoId": ""
+    },
+    "106": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ],
+      "title": "AI/ML/Cloud Talk #5",
+      "videoId": ""
+    },
+    "107": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Web",
+        "Cloud"
+      ],
+      "title": "Web/Cloud Talk #1",
+      "videoId": ""
+    },
+    "108": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Web",
+        "Cloud"
+      ],
+      "title": "Web/Cloud Talk #2",
+      "videoId": ""
+    },
+    "109": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Web",
+        "Cloud"
+      ],
+      "title": "Web/Cloud Talk #3",
+      "videoId": ""
+    },
+    "110": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Web",
+        "Cloud"
+      ],
+      "title": "Web/Cloud Talk #4",
+      "videoId": ""
+    },
+    "111": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Web",
+        "Cloud"
+      ],
+      "title": "Web/Cloud Talk #5",
+      "videoId": ""
+    },
+    "112": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "Mobile Talk #1",
+      "videoId": ""
+    },
+    "113": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "Mobile Talk #2",
+      "videoId": ""
+    },
+    "114": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "Mobile Talk #3",
+      "videoId": ""
+    },
+    "115": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "Mobile Talk #4",
+      "videoId": ""
+    },
+    "116": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Mobile"
+      ],
+      "title": "Mobile Talk #5",
+      "videoId": ""
+    },
+    "117": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Workshop"
+      ],
+      "title": "Workshop #1",
+      "videoId": ""
+    },
+    "118": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Workshop"
+      ],
+      "title": "Workshop #2",
+      "videoId": ""
+    },
+    "119": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [
+        "Workshop"
+      ],
+      "title": "Workshop #3",
       "videoId": ""
     },
     "151": {
-      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+      "description": "Get your badge, breakfast, enjoy talking with tech edicts around",
       "icon": "registration",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title": "Registration & morning Coffee"
+      "title": "Registration & Breakfast"
     },
     "152": {
       "description": "Foooooooood!",
@@ -954,17 +607,17 @@
       "title": "Morning coffee"
     },
     "155": {
-      "description": "Official start of the conference. Greetings from the Paresh Mayani and Dhrumil Shah",
+      "description": "Welcome Note by Paresh Mayani, Utpal Betai",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
       "presentation": "",
       "speakers": [
         "paresh_mayani",
-        "dhrumil_shah"
+        "utpal_betai"
       ],
-      "title": "GDG DevFest Ahmedabad 2024 Opening",
-      "videoId": "-VkANz16p5Y"
+      "title": "GDG DevFest Ahmedabad 2025 Opening",
+      "videoId": ""
     },
     "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",
@@ -973,16 +626,16 @@
       "title": "Afterparty & Networking"
     },
     "157": {
-      "description": "Make sure you won't miss closing ceremony",
+      "description": "Make sure you won't miss closing ceremony by Jaldeep Asodariya and Khushbu Thakker",
       "icon": "party",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "language": "English",
       "speakers": [
         "jaldeep_asodariya",
-        "hiren_dave"
+        "khushbu_thakker"
       ],
       "title": "Conference closing",
-      "videoId": "U58XUdqw3qE"
+      "videoId": ""
     },
     "158": {
       "description": "",
