@@ -2573,7 +2573,7 @@
         {
           "name": "Saurabh Darji",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fsaurabh-darji.jpg?alt=media&token=f4426190-9c96-4f50-884b-e3b9aec0652c",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsaurabh_darji_25.png?alt=media&token=b2026ce9-8b9a-4602-a56e-879c5526ec4c",
           "socials": [
             {
               "icon": "linkedin",
@@ -2734,20 +2734,6 @@
             }
           ],
           "order": 10,
-          "title": ""
-        },
-        {
-          "name": "Saurabh Darji",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fsaurabh_darji_25.png?alt=media&token=b2026ce9-8b9a-4602-a56e-879c5526ec4c",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/saurabh-darji-373767b6",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 11,
           "title": ""
         }
       ],
