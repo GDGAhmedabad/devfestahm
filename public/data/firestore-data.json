@@ -305,7 +305,7 @@
           ]
         },
         {
-          "startTime": "17:50",
+          "startTime": "17:30",
           "endTime": "18:00",
           "sessions": [
             {
@@ -316,8 +316,8 @@
           ]
         },
         {
-          "startTime": "17:15",
-          "endTime": "18:00",
+          "startTime": "18:00",
+          "endTime": "18:30",
           "sessions": [
             {
               "items": [
