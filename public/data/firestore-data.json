@@ -2388,6 +2388,25 @@
           ],
           "order": 10,
           "title": ""
+        },
+        {
+          "name": "Ankit Mistry",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fankit_mistry_25.jpg?alt=media&token=8a542dff-20a6-465b-8ad6-cfa6edb1cf7e",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/ankitmistry_?t=cDUoWtO_oN-QH_Lkn1sLYg&s=09",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/ankitmistryy",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 11,
+          "title": ""
         }
       ],
       "order": 4,
