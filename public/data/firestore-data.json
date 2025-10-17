@@ -358,15 +358,15 @@
     },
     "102": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "We'll deep-dive into designing a Multi-Vector RAG engine, where user profiles, behavioral signals, and product embeddings form multiple retrieval vectors that power highly tailored results. You'll learn how to combine semantic search, intent recognition, and generative responses to create adaptive AI agents capable of refining search and recommendations as users interact.\r\nThrough architecture blueprints, real-world examples, and live discussions, we'll cover:\r\nHow to architect a scalable Multi-Vector RAG pipeline\r\nIntegrating GenAI agents for dynamic user intent modeling\r\nLeveraging embeddings from products, users, and context for precision recall\r\nPersonalization techniques that go beyond keywords.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["pranoti_nandurkar"],
       "tags": [
         "AI/ML",
         "Cloud"
       ],
-      "title": "AI/ML/Cloud Talk #1",
+      "title": "GenAI Agents for Dynamic Personalization: Architecting a Multi-Vector RAG Engine for E-commerce Sear",
       "videoId": ""
     },
     "103": {
@@ -488,14 +488,16 @@
     },
     "112": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Kotlin Multiplatform (KMP) made it possible to share business logic across platforms. The next evolution is sharing intelligence.\r\nThis session explores how AI agents can live inside shared Kotlin codebases - reasoning, planning, and acting across Android, iOS, and backend (ktor) targets.\r\n\r\nWe'll build a practical KMP app that integrates Koog, Gemini Nano, and Vertex AI, combining on-device inference with cloud-based reasoning to enable context-aware and adaptive behavior. You’ll learn how to design agent lifecycles, manage shared state and context across coroutines and Flows, and safely expose structured actions to platform layers.\r\n\r\nWe'll also cover production-ready concerns like concurrency control, observability, and debugging intelligent flows—giving you a hands-on blueprint for embedding intelligence directly into your shared Kotlin architecture.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["rivu_chakraborty"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Android",
+        "Kotlin"
       ],
-      "title": "Mobile Talk #1",
+      "title": "Agents in Kotlin: Building Smarter Apps with Shared Codebases using KMP and Koog",
       "videoId": ""
     },
     "113": {
@@ -667,7 +669,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
       "country": "Ahmedabad, Gujarat",
-      "featured": false,
+      "featured": true,
       "name": "Paresh Mayani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fparesh-mayani.jpg?alt=media&token=b350023f-f9cb-41ab-972a-8b0e401cf1a2",
@@ -850,7 +852,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Ftcs.png?alt=media&token=f0bbdaaf-4b46-4963-9d55-4bd2258093b8",
       "country": "Pune",
-      "featured": false,
+      "featured": true,
       "name": "Pranoti Nandurkar",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fpranoti_nandurkar.jpeg?alt=media&token=63faff9c-601a-4757-8d73-4086f3a2f8a6",
@@ -890,7 +892,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fmobrio_studio.png?alt=media&token=ef10175c-e411-4954-bc65-617df59ed972",
       "country": "Bengaluru",
-      "featured": false,
+      "featured": true,
       "name": "Rivu Chakraborty",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Frivu_chakraborty.png?alt=media&token=e51ecab0-b67c-4c38-a7d3-6ca68c456a6e",
