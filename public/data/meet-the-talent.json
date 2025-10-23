@@ -76,6 +76,43 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Vivek Faldu",
+      "location": "Ahmedabad, India",
+      "bio": "A results-driven IT professional with over 10 years of experience in mobile and web technology, specializing in Flutter, Kotlin, React JS, and Jetpack Compose development. Adept at leading cross-functional teams, managing client communications, and ensuring seamless project delivery. Skilled in leveraging cloud technologies like Firebase, AWS, and Google Cloud to build scalable, high-performance solutions. Passionate about empowering developers, and driving innovation to deliver impactful digital experiences.",
+      "email": "techgeekvkthe1@gmail.com",
+      "phone": "+91-8849921835",
+      "imageUrl": "https://avatars.githubusercontent.com/u/21289591",
+      "website": "",
+      "skills": [
+        "Flutter",
+        "Android",
+        "Kotlin",
+        "Mentoring",
+        "Firebase",
+        "Consulting",
+        "Product Analysis",
+        "AWS",
+        "React JS"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/vkthe1",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vkthe1",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/Vkthe1",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
