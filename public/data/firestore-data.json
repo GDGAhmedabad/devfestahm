@@ -501,15 +501,16 @@
       "videoId": ""
     },
     "113": {
-      "complexity": "Intermediate",
-      "description": "",
+      "complexity": "Advanced",
+      "description": "In this talk, I will share lessons from creating and maintaining a UIKit in Flutter. How to structure reusable widgets with multiple configurations, keep design parity with golden tests, and make documentation easy for other teams. I will also show how Widgetbook can help. Live, Interactive catalogs make exploring widgets easier, testing different states, and onboarding new developers quickly.\r\nI will also discuss patterns for large, multi-feature apps(SuperApps), how to manage consistency when dozens of modules use the same components, and how proper testing, documentation, and tooling prevent regressions. I will show real examples and learn practical tips for your projects.\r\nKey Takeaways:\r\n- How to design configurable, reusable widgets that scale across multiple teams and features.\r\n- Using golden tests, widget tests, and Widgetbook to keep your design system reliable and discoverable.\r\n- Best practices for docs, CI/CD, and developer experience so teams adopt the system seamlessly.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["dhrumil_shah"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Flutter"
       ],
-      "title": "Mobile Talk #2",
+      "title": "Scaling Design Systems in Flutter: Lessons from building UIKit",
       "videoId": ""
     },
     "114": {
@@ -918,6 +919,46 @@
       "order": 6,
       "rockstarSpeakerOrder": 6,
       "title": "Android & Kotlin GDE, Author, Speaker, Enterpreneur"
+    },
+    "dhrumil_shah": {
+      "badges": [
+        {
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/dhuma1981",
+          "name": "gde"
+        }
+      ],
+      "bio": "Lead Architect at TATA Digital Pvt Ltd, GDE for Flutter & Dart, the co-organiser of GDG Ahmedabad, Creator of @Flutter_Flakes. Startup Mentor, Experienced Speaker, Industry Advisory Board Member.",
+      "company": "TATA Digital Pvt Ltd",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftata-digital.png?alt=media&token=f6ce10d6-274e-41d0-bd2a-2723f463c154",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
+      "pronouns": "he/him",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dhuma1981",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dhuma1981",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 7,
+      "rockstarSpeakerOrder": 7,
+      "title": "GDE Flutter & Dart, Lead Architect"
     }
   },
   "team": [
