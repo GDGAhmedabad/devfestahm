@@ -110,6 +110,12 @@
           "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
           "name": "GDG Cloud Ahmedabad",
           "url": "https://twitter.com/gdgcloudahm"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/it-sales-community.png",
+          "name": "IT Sales Community",
+          "url": "https://www.itsalescommunity.com"
         }
       ],
       "order": 4,
@@ -358,15 +364,15 @@
     },
     "102": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "We'll deep-dive into designing a Multi-Vector RAG engine, where user profiles, behavioral signals, and product embeddings form multiple retrieval vectors that power highly tailored results. You'll learn how to combine semantic search, intent recognition, and generative responses to create adaptive AI agents capable of refining search and recommendations as users interact.\r\nThrough architecture blueprints, real-world examples, and live discussions, we'll cover:\r\nHow to architect a scalable Multi-Vector RAG pipeline\r\nIntegrating GenAI agents for dynamic user intent modeling\r\nLeveraging embeddings from products, users, and context for precision recall\r\nPersonalization techniques that go beyond keywords.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["pranoti_nandurkar"],
       "tags": [
         "AI/ML",
         "Cloud"
       ],
-      "title": "AI/ML/Cloud Talk #1",
+      "title": "GenAI Agents for Dynamic Personalization: Architecting a Multi-Vector RAG Engine for E-commerce Sear",
       "videoId": ""
     },
     "103": {
@@ -488,26 +494,29 @@
     },
     "112": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Kotlin Multiplatform (KMP) made it possible to share business logic across platforms. The next evolution is sharing intelligence.\r\nThis session explores how AI agents can live inside shared Kotlin codebases - reasoning, planning, and acting across Android, iOS, and backend (ktor) targets.\r\n\r\nWe'll build a practical KMP app that integrates Koog, Gemini Nano, and Vertex AI, combining on-device inference with cloud-based reasoning to enable context-aware and adaptive behavior. You’ll learn how to design agent lifecycles, manage shared state and context across coroutines and Flows, and safely expose structured actions to platform layers.\r\n\r\nWe'll also cover production-ready concerns like concurrency control, observability, and debugging intelligent flows—giving you a hands-on blueprint for embedding intelligence directly into your shared Kotlin architecture.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["rivu_chakraborty"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Android",
+        "Kotlin"
       ],
-      "title": "Mobile Talk #1",
+      "title": "Agents in Kotlin: Building Smarter Apps with Shared Codebases using KMP and Koog",
       "videoId": ""
     },
     "113": {
-      "complexity": "Intermediate",
-      "description": "",
+      "complexity": "Advanced",
+      "description": "In this talk, I will share lessons from creating and maintaining a UIKit in Flutter. How to structure reusable widgets with multiple configurations, keep design parity with golden tests, and make documentation easy for other teams. I will also show how Widgetbook can help. Live, Interactive catalogs make exploring widgets easier, testing different states, and onboarding new developers quickly.\r\nI will also discuss patterns for large, multi-feature apps(SuperApps), how to manage consistency when dozens of modules use the same components, and how proper testing, documentation, and tooling prevent regressions. I will show real examples and learn practical tips for your projects.\r\nKey Takeaways:\r\n- How to design configurable, reusable widgets that scale across multiple teams and features.\r\n- Using golden tests, widget tests, and Widgetbook to keep your design system reliable and discoverable.\r\n- Best practices for docs, CI/CD, and developer experience so teams adopt the system seamlessly.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["dhrumil_shah"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Flutter"
       ],
-      "title": "Mobile Talk #2",
+      "title": "Scaling Design Systems in Flutter: Lessons from building UIKit",
       "videoId": ""
     },
     "114": {
@@ -667,7 +676,7 @@
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FsolGuruz.png?alt=media&token=72c0059b-7345-423e-9d8e-8296433ad65c",
       "country": "Ahmedabad, Gujarat",
-      "featured": false,
+      "featured": true,
       "name": "Paresh Mayani",
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fparesh-mayani.jpg?alt=media&token=b350023f-f9cb-41ab-972a-8b0e401cf1a2",
@@ -769,42 +778,7 @@
       "rockstarSpeakerOrder": 2,
       "title": "Founder"
     },
-    "dhrumil_shah": {
-      "badges": [
-        {
-          "description": "Dart, Flutter - Google Developer Expert",
-          "link": "https://developers.google.com/profile/u/dhuma1981",
-          "name": "gde"
-        }
-      ],
-      "bio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG Ahmedabad, Startup Mentor, Speaker, Industry Advisory Board Member",
-      "company": "TATA Digital Pvt Ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftata-digital.png?alt=media&token=f6ce10d6-274e-41d0-bd2a-2723f463c154",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Dhrumil Shah",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
-      "pronouns": "he/him",
-      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/dhuma1981",
-          "name": "Twitter"
-        },
-        {
-          "icon": "facebook",
-          "link": "https://www.facebook.com/dhuma1981",
-          "name": "Facebook"
-        }
-      ],
-      "order": 3,
-      "rockstarSpeakerOrder": 3,
-      "title": "GDE Flutter & Dart, Lead Architect"
-    },
-    "hiren_dave": {
+    "khushbu_thakker": {
       "badges": [
         {
           "description": "Google Developers Group Ahmedabad",
@@ -812,37 +786,32 @@
           "name": "gdg"
         }
       ],
-      "bio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel Live Ahmedabad, Auth0 Ambassador",
-      "company": "iBASEt India Software Pvt. Ltd.",
+      "bio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience, currently working at Hyperlink InfoSystem. She actively manages the Women Techmakers Ahmedabad chapter and has been selected as a Women Techmakers Ambassador. Khushbu loves building innovative solutions, exploring the latest in technology, and inspiring the tech community through mentorship and knowledge sharing.",
+      "company": "Hyperlink Infosystem pvt.ltd",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fibaset-india-software-pvt-ltd.jpeg?alt=media&token=84cd93b8-69a5-4632-9f43-bfc5bb0eac87",
-      "country": "Ahmedabad, Gujarat",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
+      "country": "Ahmedabad",
       "featured": false,
-      "name": "Hiren Dave",
+      "name": "Khushbu Thakker",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fhiren_dave.jpg?alt=media&token=e2d59ef3-3031-4700-a63c-f1f3d976b5d6",
-      "pronouns": "he/him",
-      "shortBio": "Developer, Tech Author / Blogger / Speaker, Co-organizer GDG Ahmedabad, Laravel...",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
+      "pronouns": "she/her",
+      "shortBio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/hjdave",
+          "link": "https://x.com/KhushbuThakker",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/davehiren",
+          "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b/",
           "name": "LinkedIn"
-        },
-        {
-          "icon": "website",
-          "link": "https://hirendave.com/",
-          "name": "Website"
         }
       ],
-      "order": 4,
-      "rockstarSpeakerOrder": 4,
-      "title": "Senior Principal Software Engineer"
+      "order": 3,
+      "rockstarSpeakerOrder": 3,
+      "title": "Senior Flutter & Android Developer"
     },
     "romin_irani": {
       "badges": [
@@ -880,1000 +849,122 @@
           "name": "Website"
         }
       ],
-      "order": 5,
-      "rockstarSpeakerOrder": 5,
+      "order": 4,
+      "rockstarSpeakerOrder": 4,
       "title": "Developer Advocate"
     },
-    "vishal_virani": {
-      "bio": "Vishal, with 11+ years of entrepreneurial expertise, currently shines as the Co-Founder and CEO of DhiWise, a revolutionary procode platform designed to elevate developers' work beyond mundane tasks. His journey in the tech world began with the founding of Coruscate Solutions, where under his leadership, the company expanded its reach across 24 countries in various sectors. \n\nAs a computer engineering graduate, Vishal's experiences have been pivotal in shaping DhiWise, with a focus on streamlining and enhancing developer productivity. Apart from his professional pursuits, Vishal is passionate about design and travel. He is often involved in creative design projects, bringing unique ideas to life in both office and home settings. As an avid traveler, he has an ambitious goal of visiting 40 countries before his 40th birthday. Vishal's leadership at DhiWise is not just about technological innovation but also about inspiring others to balance professional success with personal interests and aspirations.",
-      "company": "DhiWise",
+    "pranoti_nandurkar": {
+      "bio": "Pranoti is a women Techmakers ambassador and GDG organiser for Pune chapter. She is working Solution Architect at Tata consultancy services specialising in building secure, scalable platforms for banking industry.  With over 15+ years of experience  in IT. industry,  she is working in leading large-scale digital transformation projects, including modernisation of core banking systems . She strongly believe in contributing to communities. \r\n\r\nIn her free time you can find her working closely with tech communities or learning new technology. She also enjoys traveling and spending time in nature.",
+      "company": "TCS",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fdhiwise.png?alt=media&token=cca0999a-a925-4b7d-a29e-5b82c392fd24",
-      "country": "Surat, Gujarat",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Ftcs.png?alt=media&token=f0bbdaaf-4b46-4963-9d55-4bd2258093b8",
+      "country": "Pune",
       "featured": true,
-      "name": "Vishal Virani",
+      "name": "Pranoti Nandurkar",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fvishal-virani.jpeg?alt=media&token=b7a337b9-a1d5-4ce6-b4ed-4b0966216dc2",
-      "pronouns": "he/him",
-      "shortBio": "Vishal, with 11+ years of entrepreneurial expertise, currently shines as the Co-Founder and CEO of DhiWise...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Vishalvirani91",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/vishalvirani/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 6,
-      "rockstarSpeakerOrder": 6,
-      "title": "Co-Founder & CEO (Chief Everything Officer)"
-    },
-    "ayush_shekhar": {
-      "badges": [
-        {
-          "description": "Dart, Flutter - Google Developer Expert",
-          "link": "https://developers.google.com/profile/u/ayush",
-          "name": "gde"
-        }
-      ],
-      "bio": "Ayush is a solutions architect, a community contributor, and a writer. He can go on and on about startups, products, and the amazing impact that stories and good storytellers have on people.",
-      "company": "FlutterFlow",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fflutterflow.png?alt=media&token=39f343a1-77ec-4e1b-8354-b1e2fee76875",
-      "country": "Mumbai, Maharashtra",
-      "featured": true,
-      "name": "Ayush Shekhar",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fayush_shekhar.png?alt=media&token=344b5771-7bfd-4c63-87e9-945ffc0e0d97",
-      "pronouns": "he/him",
-      "shortBio": "Ayush is a solutions architect, a community contributor, and a writer. He...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ayushshekhar17",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ayushshekhar/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/ayushshekhar221/",
-          "name": "Instagram"
-        }
-      ],
-      "order": 7,
-      "rockstarSpeakerOrder": 7,
-      "title": "Solutions Architect @ FlutterFlow | GDE - Flutter & Dart"
-    },
-    "pooja_ranjan": {
-      "bio": "Pooja, a Lead Data Scientist at IQM, holds an impressive 11+ years of experience in automation, optimization, AI, and machine learning. She is renowned as the Data Demystifier within the Media and Ad Tech sector, dedicated to democratizing Data Science and AI for everyone. She recently represented India at the AWS Summit in New York.",
-      "company": "IQM",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fiqm.png?alt=media&token=bc6ac407-7630-453d-ace3-a6a39c936e9c",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Pooja Ranjan",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpooja_ranjan.jpg?alt=media&token=ab6d5180-a14c-45f4-883e-45d645dfbaf3",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fpranoti_nandurkar.jpeg?alt=media&token=63faff9c-601a-4757-8d73-4086f3a2f8a6",
       "pronouns": "she/her",
-      "shortBio": "Pooja, a Lead Data Scientist at IQM, holds an impressive 11+ years of experience in automation...",
+      "shortBio": "Pranoti is a women Techmakers ambassador and GDG organiser for Pune chapter. She is working Solution Architect...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://x.com/Pooja1333139973",
+          "link": "https://x.com/pranotinandurka",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/poojaranjan22/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 8,
-      "rockstarSpeakerOrder": 8,
-      "title": "Lead Data Scientist, IQM. Data Demystifier 2024 - Top Women in Media & Ad Tech"
-    },
-    "nikhilesh_tayal": {
-      "bio": "I want to describe myself as an entrepreneur, teacher and filmmaker. \n\nCurrently, I run an AI-enabled educational platform for working IT professionals to learn AI and Gen AI. \n\nMy startup story has been covered in almost all renowned newspapers like Times of India, Hindustan Times, Economic Times, Bloomberg TV, Rajasthan Patrika, Dainik Bhaskar to name a few \n\nI am also a visiting faculty member for Gen AI at various IITs, NITs, Oregon State University and other prominent colleges. \n\nI have trained 1600+ professionals from organizations like Microsoft, Nvidia, Infosys, Maersk, Sapient, Oracle, TCS, Genpact, Airtel, Unilever, Vodafone, Jio, Sterlite, Vedanta, iDreamCareer, PayTM etc. \n\nI have also spoken at 70+ tech events and tech podcasts (on AI and Generative AI) - Google Dev Fest, AI Security Conference, Wordcamp, Sparklehood, Future& AI etc. \n\nThe Chief Minister of Rajasthan has awarded me for my contribution to the education and startup sector.",
-      "company": "AI ML etc",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Faimletc.png?alt=media&token=974cf153-f923-4427-9704-426fc123f57a",
-      "country": "Udaipur",
-      "featured": false,
-      "name": "Nikhilesh Tayal",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnikhilesh_tayal.jpg?alt=media&token=dde1c927-837c-4711-8343-748d6c16b98f",
-      "pronouns": "he/him",
-      "shortBio": "I want to describe myself as an entrepreneur, teacher and filmmaker...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/losesaga",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nikhileshtayal/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 9,
-      "rockstarSpeakerOrder": 9,
-      "title": "Co-founder AI ML etc."
-    },
-    "drijesh_patel": {
-      "bio": "Meet Drijesh PPatel, a dynamic figure in the world of technology, renowned for his adept leadership and unwavering commitment to innovation. \n\nFrom his early days as a Technical Lead to his current role as an Engineering Manager at IBM, Drijesh has consistently demonstrated his prowess across various domains, with a particular focus on AI, Agile Project Management, Cloud Technologies, and Cyber Security. His career boasts a plethora of achievements, including spearheading groundbreaking initiatives within the BFSI, Healthcare, and Insurance sectors, earning him accolades such as being named among the '40 under 40', '20 Influential Personalities of India', '100 Future Leaders', and 'Rising Tech-Expert 2024' to name a few. \n\nDrijesh has been a speaker at more than 60 events and mentored 350+ individuals to attain their desirable goals. With a relentless drive for excellence and a passion for fostering growth,",
-      "company": "IBM",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fibm.png?alt=media&token=48c03605-bc61-4df6-b395-f2e4d23a74f8",
-      "country": "Gandhinagar",
-      "featured": false,
-      "name": "Drijesh Patel",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdrijesh_ppatel.jpg?alt=media&token=a64e717b-0541-4e55-8713-f2dbe071c26c",
-      "pronouns": "he/him",
-      "shortBio": "Meet Drijesh PPatel, a dynamic figure in the world of technology, renowned...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Drijesh",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/drijesh//",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 10,
-      "rockstarSpeakerOrder": 10,
-      "title": "CyberSecurity Engineering Manager @ IBM"
-    },
-    "raza_noorani": {
-      "bio": "Raza, CEO and founder of Impero IT Services Pvt. Ltd., leads an innovative app development boutique in Ahmedabad, creating software that empowers clients globally. His team has developed industry-leading apps, including one endorsed by Google, and has received the 'Certificate of Excellence' from the Indian Army.\nImpero has garnered recognition from Forbes and mentorship from the Bill & Melinda Gates Foundation, achieving seven funded apps and a Fortune 500 acquisition.\nRaza is also passionate about motivational speaking, inspiring developers to enhance their value through client-focused skills. In his free time, he enjoys exploring new cuisines and traveling the world.",
-      "company": "Impero IT Services Pvt Ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fimpero_horizontal.png?alt=media&token=7d7e12e1-b9f0-4fd0-966a-5b1aae06a6cf",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Raza Noorani",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fraza-noorani.jpeg?alt=media&token=70a11ab4-7e18-4845-bcea-23cbb72e1b78",
-      "pronouns": "he/him",
-      "shortBio": "Raza, CEO and founder of Impero IT Services Pvt. Ltd., leads an innovative app development boutique in Ahmedabad, creating software that empowers clients globally",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nooraniraza/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/nooraniraza.it/",
-          "name": "Instagram"
-        }
-      ],
-      "order": 11,
-      "rockstarSpeakerOrder": 11,
-      "title": "CEO @ Impero IT Services Pvt Ltd"
-    },
-    "priya_sindkar": {
-      "bio": "Priya is a team lead with 9+ years of experience in mobile app development. She is passionate about building mobile apps. She believes in neat code and a clean architecture. She is a technical blogger, a public speaker, and holds a passion for the developer community. She is an AI enthusiast who is striving to understand AI everyday to build amazing mobile apps. She is also a WTM Ambassador who strongly believes in inclusion and diversity.",
-      "company": "Novumlogic Technologies",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
-      "country": "Vadodara, Gujarat",
-      "featured": false,
-      "name": "Priya Sindkar",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpriya_sindkar.jpg?alt=media&token=66b43a1a-ba4d-4ec8-adde-82f7df012173",
-      "pronouns": "she/her",
-      "shortBio": "Priya is a team lead with 9+ years of experience in mobile app development.",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/SindkarP",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/priya-sindkar-shah-59b02898/",
+          "link": "https://www.linkedin.com/in/pranoti-nandurkar-170021b",
           "name": "LinkedIn"
         },
         {
           "icon": "website",
-          "link": "https://medium.com/@SindkarP",
+          "link": "https://medium.com/@p.s.nandurkar",
           "name": "Website"
         }
       ],
-      "order": 12,
-      "rockstarSpeakerOrder": 12,
-      "title": "Team Lead @ Novumlogic Technologies"
+      "order": 5,
+      "rockstarSpeakerOrder": 5,
+      "title": "Solution Architect"
     },
-    "dhananjay_navlani": {
-      "bio": "Dhananjay is an Android Developer passionate about creating user-friendly mobile apps. He believes in writing clean code with maintainable architecture.",
-      "company": "Novumlogic",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
-      "country": "Vadodara, Gujarat",
-      "featured": false,
-      "name": "Dhananjay Navlani",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdhananjay_navlani.jpg?alt=media&token=127f07c2-7372-4e00-a644-13d883994f35",
-      "pronouns": "he/him",
-      "shortBio": "Dhananjay is an Android Developer passionate about creating ...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/DhananjayN44636",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://in.linkedin.com/in/dhananjay-navlani-750a811a5",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/dhananjaynavlani/",
-          "name": "Instagram"
-        }
-      ],
-      "order": 13,
-      "rockstarSpeakerOrder": 13,
-      "title": "Android Developer @ Novumlogic"
-    },
-    "pawan_kumar": {
+    "rivu_chakraborty": {
       "badges": [
         {
-          "description": "Dart, Flutter, Firebase - Google Developer Expert",
-          "link": "https://developers.google.com/profile/u/pawan",
+          "description": "Android & Kotlin - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/rivuchk",
           "name": "gde"
         }
       ],
-      "bio": "Pawan Kumar is a Lead Engineer at Frontier and an Advocate for technology. With over 8 years of experience in mobile application development, he has honed his skills in a variety of technologies. He is highly recognized in the developer community and has been awarded as a Google Developer Expert for his expertise in Flutter and Firebase. Pawan has been able to establish a strong social media presence with over 125K subscribers on YouTube, 60K followers on LinkedIn, and 35K followers on Twitter. His contributions to open-source software have earned him a considerable following with over 10K followers on Github. With his vast experience and strong influence, Pawan is a highly valued asset to the technology community.",
-      "company": "0xpolygon",
+      "bio": "Rivu Chakraborty is an Android GDE (Google Developer Expert) and India's first Kotlin GDE, a community person, & one of the early adopters of Kotlin. With overall 13+ years of experience, he is currently running Mobrio Studio (https://mobrio.studio).\r\n\r\nHe has previously worked with the biggest organisations from India and South-East-Asia, including at JioHotstar / JioCinema (India's biggest OTT+Streaming platform) as Mobile Architect / Principal Engineer, and at Meesho (a leading unicorn E-Commerce Startup from India), Gojek (one of South-East Asia's biggest startups), Paytm (India's biggest Fintech startup), and Byju's (one of India's biggest Edtech startup), etc.\r\n\r\nHe has contributed to multiple Kotlin and Android Development books including authoring Reactive Programming in Kotlin, co-authoring Functional Kotlin and Hands-On Data Structures and Algorithms with Kotlin.\r\n\r\nHe has been using Kotlin since December 2015.",
+      "company": "Mobrio Studio",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2F0xpolygon.png?alt=media&token=c5cc123e-6c90-4fa3-b13c-d330c044f73a",
-      "country": "Faridabad",
-      "featured": false,
-      "name": "Pawan Kumar",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpawan_kumar.JPG?alt=media&token=850df770-b658-4769-8257-f84596b08d92",
-      "pronouns": "he/him",
-      "shortBio": "Pawan Kumar is a Lead Engineer at Frontier and an Advocate for technology...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/imthepk",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://linkedin.com/in/imthepk",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 14,
-      "rockstarSpeakerOrder": 14,
-      "title": "Founder - Codepur | Advocate @0xpolygon | Google Developer Expert - Flutter, Firebase | 125K+ Youtube ▶️ | 60K+ Linkedin | 35K+ Twitter | 10K+ Github"
-    },
-    "rohan_shah": {
-      "bio": "Rohan is an IT consultant and entrepreneur with a passion for rapid, resourceful product launches. \n\nAs the founder of Novumlogic, an innovative development agency, he has successfully led teams in building complex technology products from the ground up. \n\nWith years of experience working alongside developers, designers, and founders across diverse domains, he brings a wealth of practical insights on quickly validating, building, and launching products that resonate with today's market.",
-      "company": "Novumlogic Technologies Pvt Ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2FnovumLogic-technologies.png?alt=media&token=4a1277ed-9840-4f84-96e0-67f7ab488556",
-      "country": "Vadodara, Gujarat",
-      "featured": false,
-      "name": "Rohan Shah",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frohan_shah.png?alt=media&token=b54d4fdb-3056-42b0-9cbb-9b672db39eb8",
-      "pronouns": "he/him",
-      "shortBio": "Rohan is an IT consultant and entrepreneur with a passion for rapid, resourceful product launches...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/imrohan22",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/imrohan22/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 15,
-      "rockstarSpeakerOrder": 15,
-      "title": "CEO, Novumlogic"
-    },
-    "manoj_adwani": {
-      "bio": "Manoj Adwani has 17 years of Technology experience in India and Singapore ranging from Startup to Corporate. His last corporate position was Technology Risk Manager at Barclays, Singapore. \n\nIn early 2021, he took the plunge into the world of startups. Currently he is working as Founder of narad.io. \n\nIn addition, he is committed to StartUp Community and lead for eChai Surat Chapter.",
-      "company": "narad.io",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fnarad_io.png?alt=media&token=16893314-7bcb-44c2-8232-b239f83f6ab4",
-      "country": "Surat, Gujarat",
-      "featured": false,
-      "name": "Manoj Adwani",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fmanoj_adwani.jpg?alt=media&token=1cff3d02-4227-4197-80ee-ed333b509d12",
-      "pronouns": "he/him",
-      "shortBio": "Manoj Adwani has 17 years of Technology experience in India and Singapore ranging...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/manojadwani20",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/manojadwania/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 16,
-      "rockstarSpeakerOrder": 16,
-      "title": "Founder @ narad.io"
-    },
-    "rajul_shah": {
-      "bio": "As a seasoned AI Product & Startup Strategist with over 20 years in IT and a decade in product management, Rajul Shah is on a mission to help founders, entrepreneurs, and product managers build better products—faster. Leading ProductElements.co, Rajul has empowered over 500 startup founders and product managers to elevate their vision from idea to growth. Through practical tools for Product Validation, Go-to-Market strategies, Pricing Models, and Growth Optimization, ProductElements.co equips innovators with the tools to succeed. \n\nWorking with founders and product managers, Rajul is constantly exploring where the world is heading. She delves into how creative minds are envisioning a more sustainable future and encounters numerous stealth startups poised to disrupt economies and reshape various aspects of human life.",
-      "company": "ProductElements.co",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fproduct_elements.png?alt=media&token=7bd1d33a-5494-4ff2-ab86-39e5d0aab4fe",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Rajul Shah",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frajul_shah.png?alt=media&token=8be6203b-e906-48e3-808e-bef031b98849",
-      "pronouns": "she/her",
-      "shortBio": "As a seasoned AI Product & Startup Strategist with over 20 years in IT and a decade in product management...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/RajulSh53596092",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/rajulnshah/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 17,
-      "rockstarSpeakerOrder": 17,
-      "title": "AI Product & Startup Strategist | Founder of ProductElements.co"
-    },
-    "himani_kankaria": {
-      "bio": "Himani is the founder of Missive Digital, an organic marketing agency that enhances businesses' brand visibility to maximize ROI, brand authority, and loyalty through organic marketing channels. \n\nFor the past 14+ years, she has been in this industry, helping SaaS, Technology, and eCommerce businesses multiply their organic presence and conversions through organic marketing strategies. \n\nHimani is a renowned speaker at global conferences, webinars, and podcasts, such as BrightonSEO, Whitespark Local Search Summit, Semrush, Meet Magento, SE Ranking, Wix, and more. She also contributes to large marketing publications, such as Search Engine Journal, Search Engine Land, StoryChief, and more.",
-      "company": "Missive Digital",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fmissive_digital.png?alt=media&token=b272144e-08a6-4173-9ff5-f73bec22d804",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Himani Kankaria",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fhimani_kankaria.jpg?alt=media&token=1ccd28c3-7a16-4b79-9b59-76d3dc364f87",
-      "pronouns": "she/her",
-      "shortBio": "Himani is the founder of Missive Digital, an organic marketing agency that enhances businesses...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/himani_kankaria",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/himanikankaria/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 18,
-      "rockstarSpeakerOrder": 18,
-      "title": "Founder of Missive Digital"
-    },
-    "jaydip_parikh": {
-      "bio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing with over 18 years of experience in Sales & Marketing. Renowned for his ability to turn pixels into profit, Jaydip transitioned from a successful sales career to make a significant impact in the digital marketing landscape. A mentor at heart, he has guided hundreds of aspiring digital marketers and startups, offering invaluable insights for achieving success. Jaydip also serves as a mentor on various startup incubators, where he provides strategic guidance to emerging businesses. A regular keynote speaker, he covers a diverse range of topics from Digital India to entrepreneurship, making him a sought-after voice in the industry for actionable strategies that maximize ROI",
-      "company": "Tej SolPro Digital Pvt. Ltd.",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftej-solopro.png?alt=media&token=75cd5038-9490-4c0c-b015-988bb898da08",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Jaydip Parikh",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fjaydip_parikh.jpg?alt=media&token=34a694e8-9be1-45cf-8440-8bfcecb54026",
-      "pronouns": "he/him",
-      "shortBio": "Jaydip Parikh, the CEO of Tej SolPro, is a seasoned expert in digital marketing with over 18 years...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/jaydipparikh",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://in.linkedin.com/in/jaydipparikh",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/jaydipparikh/",
-          "name": "Instagram"
-        }
-      ],
-      "order": 19,
-      "rockstarSpeakerOrder": 19,
-      "title": "Chief Everything Officer"
-    },
-    "shubham_pachori": {
-      "bio": "Passionate about building products that solve real-world complex problems in the most simplified and user-centric way. Have successfully built, launched, and monetized over 5 enterprise B2B SaaS products in the domain of supply chain and fintech",
-      "company": "Shipmnts.com",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Fshipmnts.png?alt=media&token=804de28b-f932-4a07-bae4-6a32c385cb22",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Shubham Pachori",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fshubham_pachori.jpg?alt=media&token=3d7ecddb-cd56-470d-aa04-07f23859f589",
-      "pronouns": "he/him",
-      "shortBio": "Passionate about building products that solve real-world complex problems in the most simplified...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/spachori94",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/shubham-pachori-b5703a86/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 20,
-      "rockstarSpeakerOrder": 20,
-      "title": "Head of Product (Master Shifu) @ Shipmnts.com"
-    },
-    "abhishek_mankuskar": {
-      "bio": "I am a Frontend Developer, Open Source Enthusiast, and a dedicated community builder. As the Founding Organizer and Program Lead Manager of Social Winter Of Code (SWOC), I played a pivotal role in strategizing, operating, and achieving the organization's objectives. Through my leadership, SWOC has become a vital platform for nurturing future tech talent and promoting open-source practices. \n\nAs an Associate Software Engineer at Coditas, I delved deep into Frontend Development with React.js, honing my skills in SASS, Clean Coding, Routes, Hooks, and Redux. This experience has empowered me to combine modern JavaScript frameworks with open-source principles, a theme I frequently explore in my talks. \n\nI have shared my insights on these topics at various prestigious events, including Google Devfest and multiple Google Developer Student Clubs, emphasizing the importance of building a sustainable tech open-source ecosystem.",
-      "company": "Social Winter of Code",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsocial_winter_of_code.png?alt=media&token=81f99579-14e9-45a7-a0a8-1f8f81922d04",
-      "country": "Pune",
-      "featured": false,
-      "name": "Abhishek Mankuskar",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fabhishek_mankuskar.jpg?alt=media&token=10cbcc15-7010-4e72-992f-f7e3b8ad5d79",
-      "pronouns": "he/him",
-      "shortBio": "I am a Frontend Developer, Open Source Enthusiast, and a dedicated community builder. As the Founding Organizer...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/AMankuskar",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/abhishek-mankuskar-03790018b/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://www.instagram.com/abhishek_mankuskar?igsh=MWN6NXQwcWRybWx4Mw==",
-          "name": "Instagram"
-        }
-      ],
-      "order": 21,
-      "rockstarSpeakerOrder": 21,
-      "title": "Frontend Developer || Creator Social Winter Of Code (SWOC) 50K + || Open Source"
-    },
-    "rohan_singh": {
-      "bio": "A dynamic Indian cloud guy and avid community lover with a devotion to motorcycling working and living in Armenia.",
-      "company": "SADA - an Insight Company",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsada.png?alt=media&token=e1fde95e-82f1-4ca4-821b-3716ff4b5284",
-      "country": "Yerevan, Armenia",
-      "featured": false,
-      "name": "Rohan Singh",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frohan_singh.jpg?alt=media&token=d14ed189-b96b-4782-9365-6cede10c9aeb",
-      "pronouns": "he/him",
-      "shortBio": "A dynamic Indian cloud guy and avid community lover with a devotion...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/rohankalhans",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/rohankalhans/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 22,
-      "rockstarSpeakerOrder": 22,
-      "title": "Senior Cloud Infrastructure Engineer at SADA - an Insight Company | Google Cloud Champion Innovator - Modern Architecture"
-    },
-    "poonam_jha": {
-      "bio": "An Artistic Engineer, Product Designer! Advocating Business to Users & Users to Business by designing easy, appealing, accessible software!",
-      "company": "smartShift Technologies",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fsmartshift.png?alt=media&token=f839289b-fdb8-46dd-aae9-083d2a1263d2",
-      "country": "Bangalore",
-      "featured": false,
-      "name": "Poonam Jha",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fpoonam_jha.jpg?alt=media&token=c25c220f-ac46-4e90-bee9-38bec9643e73",
-      "pronouns": "she/her",
-      "shortBio": "An Artistic Engineer, Product Designer! Advocating Business to Users & Users to Business by...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/poonmjha",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/poonmjha/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 23,
-      "rockstarSpeakerOrder": 23,
-      "title": "Product Designer/ UX Designer"
-    },
-    "varun_srinivas": {
-      "bio": "A software craftsman by both passion and profession, I have 10 years of development and entrepreneurial experience. Currently, I function as a Director of Technology at Coditas where I manage and learn from an amazing team of developers and advocate my belief in good quality code. \n\nI started my career as a PHP developer and co-founded SudoSaints Infotech Pvt. Ltd. in 2012, which was an offshore software development startup, based in Pune. As the CTO, I helped 200+ startups and companies worldwide, in developing various mobile and web applications. \n\nSudoSaints was acquired by Coditas in 2015, and we joined their team. We now provide end-to-end quality services to organizations of all scales around the globe. Within 7 years, Coditas has become a team of 700+ proficient engineers and designers and still growing.",
-      "company": "Coditas",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fcoditas.png?alt=media&token=e4799c8a-17b2-4e53-a033-f7a719924f64",
-      "country": "Pune",
-      "featured": false,
-      "name": "Varun Srinivas",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fvarun_srinivas.jpg?alt=media&token=9e0cc0a8-8251-46b0-a9a1-68eeb39e8ce6",
-      "pronouns": "he/him",
-      "shortBio": "A software craftsman by both passion and profession, I have 10 years of development and...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/varun1505",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/varun1505/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 24,
-      "rockstarSpeakerOrder": 24,
-      "title": "Partner and Director of Technology at Coditas"
-    },
-    "nishith_rajyaguru": {
-      "bio": "Nishith Rajyaguru is a visionary technopreneur, passionate about harnessing cutting-edge technologies to craft impactful solutions for real-world challenges. With over a decade of experience driving innovation and operational excellence at leading product-based tech companies, he blends deep technical expertise with a commitment to solving pressing issues.\nAs the founder of TechnoFuzn Products Private Limited, he is dedicated to developing scalable, future-ready solutions that foster long-term, technology-driven transformations.\nRenowned for his bold and innovative approach to problem-solving, Nishith is reshaping the tech landscape with fresh ideas and forward-thinking solutions. Guided by a clear vision to create a more equitable, sustainable, and connected world through technology, he is dedicated to making a meaningful impact and leaving a lasting legacy in the tech industry.",
-      "company": "TechnoFuzn Products Pvt. Ltd.",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Ftechnofuzn.jpeg?alt=media&token=8252cce3-5bea-4e7c-a991-d329980f4b66",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Nishith Rajyaguru",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnishith_rajyaguru.jpg?alt=media&token=717e2dea-1cdf-4591-83eb-8218f1ca4823",
-      "pronouns": "he/him",
-      "shortBio": "Nishith Rajyaguru is a visionary technopreneur, passionate about harnessing cutting-edge technologies to craft",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/nishith_guides",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nishith-rajyaguru",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 25,
-      "rockstarSpeakerOrder": 25,
-      "title": "Founder & CEO at TechnoFuzn Products Pvt. Ltd."
-    },
-    "nida_shaikh": {
-      "bio": "Hi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for elegant and scalable solutions. I dive head-first into everything web and my goal is to make development a little bit easier for us all devs. When I'm not coding, I love to read, journal, explore new places, make specialty coffee and pet my cats.",
-      "company": "Contentstack",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fcontentstack.png?alt=media&token=851a6a50-1488-499a-bae6-348652245716",
-      "country": "Mumbai",
-      "featured": false,
-      "name": "Nida Shaikh",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fnida_shaikh.jpg?alt=media&token=1dc277d6-544c-4048-ac45-1872654d14b5",
-      "pronouns": "she/her",
-      "shortBio": "Hi, I'm Nida Shaikh, and I'm a Full Stack Software Engineer at Contentstack, with a passion for",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/NidaZiesha",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nidashaikh54/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 26,
-      "rockstarSpeakerOrder": 26,
-      "title": "Software Engineer @Contentstack"
-    },
-    "dixit_trivedi": {
-      "bio": "Dixit Trivedi has been working as a Machine Learning Engineer at Rootle.ai for the past 3 years, based in Ahmedabad. His expertise lies in the HRTech sector, where he has successfully tackled various challenges in the Natural Language Processing domain during his tenure.",
-      "company": "Rootle.ai",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Frootle.png?alt=media&token=3f22cf23-6c4b-46dd-aceb-946aa8566662",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Dixit Trivedi",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fdixit_trivedi.jpg?alt=media&token=691c6e39-3675-465d-80b9-0030da24874b",
-      "pronouns": "he/him",
-      "shortBio": "Dixit Trivedi has been working as a Machine Learning Engineer at Rootle.ai for the past 3 years, based in Ahmedabad",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/TrivediDixit1",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/dixit-trivedi/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 27,
-      "rockstarSpeakerOrder": 27,
-      "title": "ML engineer @Rootle.ai"
-    },
-    "khyat_anjaria": {
-      "bio": "Khyat Anjaria has been immersed in the machine learning and AI field for the past 5 years, with extensive experience in the telecommunications and HRTech sectors. He is deeply passionate about exploring and researching new topics, with a focus on solving complex problems in the Natural Language Processing (NLP) domain. Currently, Khyat is working as a Machine Learning Engineer at Rootle.ai in Ahmedabad, where he has been making significant contributions over the past 2 years.",
-      "company": "Rootle.ai",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Frootle.png?alt=media&token=3f22cf23-6c4b-46dd-aceb-946aa8566662",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Khyat Anjaria",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fkhyat_anjaria.jpg?alt=media&token=a0dd9484-1df4-4a4e-94e5-889a6904c955",
-      "pronouns": "he/him",
-      "shortBio": "Khyat Anjaria has been immersed in the machine learning and AI field for the past 5 years, with extensive experience in the telecommunications and",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/anjaria_khyat",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/khyat-anjaria-939693148/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 28,
-      "rockstarSpeakerOrder": 28,
-      "title": "ML engineer @Rootle.ai"
-    },
-    "chetan_hirapara": {
-      "bio": "Meet Chetan Hirapara, he has 12+ years of experience in AI field. He is passionate about GenAI and cutting-edge technology. He is working as Lead Data scientist at Teradata.",
-      "company": "Teradata",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fteradata.png?alt=media&token=20e9cff4-82bf-4c45-86d6-44cd1a92f547",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Chetan Hirapara",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fchetan_hirapara.jpg?alt=media&token=5928689c-1b8d-4ca8-8d12-6c763f8a47c4",
-      "pronouns": "he/him",
-      "shortBio": "Meet Chetan Hirapara, he has 12+ years of experience in AI field. He is passionate about GenAI and cutting-edge technology. He is ...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/chetanraj002",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/chetan-hirapara-90344345/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 29,
-      "rockstarSpeakerOrder": 29,
-      "title": "Lead Data Scientist at Teradata"
-    },
-    "yash_adulkar": {
-      "bio": "Yash Adulkar. I am a developer at ICICI Prudential AMC Pvt Ltd. I am also an organizer at Flutter Mumbai, Founder and Organizer at Flutter India. \nHe has done Bachelor of Engineering in Information Technology. He has an excellent command over developing applications, organizing events, workshops, mentoring developers, students and startups that have made him a good trainer as well as an avid speaker in his domain",
-      "company": "ICICI Prudential AMC Pvt Ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Ficici.png?alt=media&token=c0be9377-b99e-4a85-b80a-af725dcb61d6",
-      "country": "Mumbai, Maharashtra",
-      "featured": false,
-      "name": "Yash Adulkar",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fyash_adulkar.jpg?alt=media&token=023659db-83c0-43af-a33a-e1a19e1aa28a",
-      "pronouns": "he/him",
-      "shortBio": "Yash Adulkar. I am a developer at EaseyourLife. I am also an organizer at Flutter Mumbai, Founder...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/imyashadulkar",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/yashadulkar/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 30,
-      "rockstarSpeakerOrder": 30,
-      "title": "Developer at EaseYourLife"
-    },
-    "prashant_dalai": {
-      "bio": "I am flutter developer in bangalore based company. Apart from that i am contributing as community guy taken session in flutter mumbai, Ahmedabad and baroda so far.",
-      "company": "Direction Software LLP",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fdirection_software.png?alt=media&token=d5542495-49a0-41b4-9a37-8e6dae2d8496",
-      "country": "Thane",
-      "featured": false,
-      "name": "Prashant Dalai",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fprashant_r_dalai.jpg?alt=media&token=aed307ba-4f43-48bc-bcff-966f8f1ea719",
-      "pronouns": "he/him",
-      "shortBio": "I am flutter developer in bangalore based company. Apart from that i am contributing...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/prashantrdalai",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/prashantrdalai/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 31,
-      "rockstarSpeakerOrder": 31,
-      "title": "Direction Software LLP, SDE"
-    },
-    "harsh_shah": {
-      "bio": "Harsh Shah is a self-taught developer and the CTO at Pedals Up. With a passion for technology and a curiosity that knows no bounds, he has mastered various programming languages, including C, C++, HTML, CSS, JavaScript, Python, and SQL. Harsh's expertise spans a wide range of projects, from cybersecurity to website development. He has actively contributed to open-source initiatives, participated in Google Summer of Code, and interned with an IIT Bombay startup. Harsh is known for his community-building efforts, including co-founding Cyboinesct and organizing events for GDG Cloud Ahmedabad and Pydata Ahmedabad. An experienced speaker, mentor, and judge in hackathons, he has delivered over 40 talks on topics like Web3/Blockchain, ReactJS, and Python frameworks. In the past four years, Harsh has specialized in the Web3/AI & ML space, collaborating with over 30 startups to help bring their products to life.",
-      "company": "Pedals Up",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fpedalsup.jpeg?alt=media&token=ba4bea13-375c-4c24-bc34-52273eaf784b",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Harsh Shah",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_shah.jpg?alt=media&token=563f33f6-31e9-403b-9d9c-592dd072e6c6",
-      "pronouns": "he/him",
-      "shortBio": "Harsh Shah is a self-taught developer and the CTO at Pedals Up. With a passion for technology and...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/harshcrop",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/harshcrop/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 32,
-      "rockstarSpeakerOrder": 32,
-      "title": "Volunteer Beckn"
-    },
-    "akash_shukla": {
-      "bio": "Akash has been a part of global communities, startups, upskilling, and innovation initiatives. He has seen his programs' impact on 300,000+ people across 18+ countries. \n\nCurrently, he is employed as a Business Mentor for Google for Startups Accelerator, Europe, and a Contributor to the Beckn Protocol, on which ONDC and Namma Yatri are based.",
-      "company": "Beckn Protocol",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fbeckn.png?alt=media&token=e3ab7642-7bb9-4e20-a728-8eb85b592bda",
-      "country": "Ahmedabad, Gujarat",
-      "featured": false,
-      "name": "Akash Shukla",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fakash_shukla.png?alt=media&token=f11e7c2a-a672-46eb-a936-168d373ef12e",
-      "pronouns": "he/him",
-      "shortBio": "Akash has been a part of global communities, startups, upskilling, and innovation initiatives...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/akashshuklaji",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/akashshkl/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 33,
-      "rockstarSpeakerOrder": 33,
-      "title": "Contributor, Beckn Protocol | Mentor, Google for Startups Accelerator (EU & Africa))"
-    },
-    "karan_chugh": {
-      "bio": "With over 20 years in tech consulting, I've been helping Aussie businesses—from startups and SMEs to big enterprises—sort out their operations and scale up with ease. I'm all about building genuine relationships and cutting through the tech jargon to find what works, whether it's old-school Microsoft solutions, open-source tech, or the latest in mobile apps, cloud computing, and enterprise mobility to now AI and how it is truly going to disrupt a lot around the tech space \n\nI've had the chance to roll up my sleeves and help services based as well as product companies make their mark in Australia, Singapore, Dubai, US, Europe and beyond, driving 10x growth with a no-nonsense, strategic approach. My experience spans everything from guiding Oracle-acquired enterprises and US Largest aircraft manufacturers to working with FinTech and AgriTech innovators, Universities, World's Top cricketers, Worlds Top Golfers, and even government outfits in Dubai.",
-      "company": "VT Digital Pty Ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fvt_digital.png?alt=media&token=711f0a76-94ff-46c4-bcda-d4e6f6bcd7bb",
-      "country": "Sydney / Ahmedabad",
-      "featured": false,
-      "name": "Karan Chugh",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fkaran_chugh.jpg?alt=media&token=282ae01a-3ce1-4f77-9d52-4fc35c8ebd27",
-      "pronouns": "he/him",
-      "shortBio": "With over 20 years in tech consulting, I've been helping Aussie businesses—from startups and...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/karan_chugh",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/chughkaran/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 34,
-      "rockstarSpeakerOrder": 34,
-      "title": "Director - Business Consulting"
-    },
-    "khushbu_thakker": {
-      "badges": [
-        {
-          "description": "Google Developers Group Ahmedabad",
-          "link": "https://www.meetup.com/GDG-Ahmedabad/",
-          "name": "gdg"
-        }
-      ],
-      "bio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience, currently working at Hyperlink InfoSystem. She actively manages the Women Techmakers Ahmedabad chapter and has been selected as a Women Techmakers Ambassador. Khushbu loves building innovative solutions, exploring the latest in technology, and inspiring the tech community through mentorship and knowledge sharing.",
-      "company": "Hyperlink Infosystem pvt.ltd",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
-      "country": "Ahmedabad",
-      "featured": false,
-      "name": "Khushbu Thakker",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
-      "pronouns": "she/her",
-      "shortBio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience...",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/KhushbuThakker",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/khushbu-thakker-7228998b/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 35,
-      "rockstarSpeakerOrder": 35,
-      "title": "Senior Flutter & Android Developer"
-    },
-    "harsh_dattani": {
-      "badges": [
-        {
-          "description": "Program Manager",
-          "link": "https://www.linkedin.com/in/harshdattani/",
-          "name": "google"
-        }
-      ],
-      "bio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom of a Yoda.",
-      "company": "Google",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bangalore",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fmobrio_studio.png?alt=media&token=ef10175c-e411-4954-bc65-617df59ed972",
+      "country": "Bengaluru",
       "featured": true,
-      "name": "Harsh Dattani",
+      "name": "Rivu Chakraborty",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_dattani.jpg?alt=media&token=840dc7b6-3fd7-49ba-bf1e-82ffed2078dc",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Frivu_chakraborty.png?alt=media&token=e51ecab0-b67c-4c38-a7d3-6ca68c456a6e",
       "pronouns": "he/him",
-      "shortBio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom...",
+      "shortBio": "Rivu Chakraborty is an Android GDE (Google Developer Expert) and India's first Kotlin GDE, a community person, & one of the early...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/dattaniharsh",
+          "link": "https://twitter.com/rivuchakraborty",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/harshdattani/",
+          "link": "https://www.linkedin.com/in/rivuchk",
           "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://rivu.dev",
+          "name": "Website"
         }
       ],
-      "order": 36,
-      "rockstarSpeakerOrder": 36,
-      "title": "Program Manager | Developer Relations @ Google"
+      "order": 6,
+      "rockstarSpeakerOrder": 6,
+      "title": "Android & Kotlin GDE, Author, Speaker, Enterpreneur"
     },
-    "rajat_bhatia": {
+    "dhrumil_shah": {
       "badges": [
         {
-          "description": "Program Coordinator",
-          "link": "https://www.linkedin.com/in/harshdattani/",
-          "name": "google"
+          "description": "Dart, Flutter - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/dhuma1981",
+          "name": "gde"
         }
       ],
-      "bio": "I run the Accelerator and Experts programs at Google.I have completed my MBA from IIM Visakhapatnam and B.Tech. from VIT, Vellore.",
-      "company": "Google",
+      "bio": "Lead Architect at TATA Digital Pvt Ltd, GDE for Flutter & Dart, the co-organiser of GDG Ahmedabad, Creator of @Flutter_Flakes. Startup Mentor, Experienced Speaker, Industry Advisory Board Member.",
+      "company": "TATA Digital Pvt Ltd",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bangalore",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fcompany%2Ftata-digital.png?alt=media&token=f6ce10d6-274e-41d0-bd2a-2723f463c154",
+      "country": "Ahmedabad, Gujarat",
       "featured": false,
-      "name": "Rajat Bhatia",
+      "name": "Dhrumil Shah",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Frajat_bhatia.jpg?alt=media&token=4f795b5f-ae9f-4d24-89de-02921091da1a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
       "pronouns": "he/him",
-      "shortBio": "I run the Accelerator and Experts programs at Google.I have completed my MBA from...",
+      "shortBio": "Lead Architect at TATA Digital, GDE for Flutter & Dart, Co-organiser of GDG A...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://x.com/rajatbhatia24",
+          "link": "https://twitter.com/dhuma1981",
           "name": "Twitter"
         },
         {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/rajatbhatia24/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 37,
-      "rockstarSpeakerOrder": 37,
-      "title": "Program Coordinator @ Google"
-    },
-    "srishti_tibrewal": {
-      "badges": [
-        {
-          "description": "Program Manager",
-          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
-          "name": "google"
-        }
-      ],
-      "bio": "",
-      "company": "Google",
-      "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
-      "country": "Bangalore",
-      "featured": false,
-      "name": "Srishti Tibrewal",
-      "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fsrishti_tibrewal.jpg?alt=media&token=93beb508-6456-402e-9dee-da13cbfba0d8",
-      "pronouns": "he/him",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://x.com/SrishtiTibrewal",
-          "name": "Twitter"
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dhuma1981",
+          "name": "Facebook"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/srishti-tibrewal/",
+          "link": "https://www.linkedin.com/in/dhuma1981",
           "name": "LinkedIn"
         }
       ],
-      "order": 38,
-      "rockstarSpeakerOrder": 38,
-      "title": "Developer Community Manager, Google for Developers"
+      "order": 7,
+      "rockstarSpeakerOrder": 7,
+      "title": "GDE Flutter & Dart, Lead Architect"
     }
   },
   "team": [
