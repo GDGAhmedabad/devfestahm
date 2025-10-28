@@ -207,17 +207,17 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               [[buyTicket]]
             </paper-button>
-            -->
-            <paper-button on-click="scrollToGallery" primary invert>
-              <iron-icon icon="hoverboard:ticket"></iron-icon>
-              [[viewPhotos]]
-            </paper-button>
-             <a href="/blog/c4p">
+            <a href="/blog/c4p">
               <paper-button primary>
               <iron-icon icon="hoverboard:registration"></iron-icon>
               [[submitCFP]]
               </paper-button>
             </a>
+            -->
+            <paper-button on-click="scrollToGallery" primary invert>
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              [[viewPhotos]]
+            </paper-button>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
@@ -288,7 +288,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <fork-me-block></fork-me-block>
       </template>
       <about-block></about-block>
-      <!-- <speakers-block></speakers-block> -->
+      <speakers-block></speakers-block>
       <!-- <tickets-block id="tickets-block"></tickets-block> -->
       <gallery-block  id="gallery-block"></gallery-block>
       <about-organizer-block></about-organizer-block>
