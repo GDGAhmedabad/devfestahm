@@ -563,14 +563,14 @@
     },
     "117": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "In this workshop, participants will build an agent using the Agent Development Kit (ADK) that utilizes the MCP Toolbox for Databases.\r\n\r\nParticipants will first understand multiple technologies and services like: Model Context Protocol (MCP), Agent Development Kit (ADK), Google Cloud and how to create real world agents that are grounded in your data. \r\n\r\nWhat you'll do\r\n--------------------\r\n1. Design, Build and Deploy an Agent that will answer user queries on hotels in a location or search for hotels by name.\r\n\r\nWhat you'll learn\r\n------------------------\r\n1. Provisioning a Cloud SQL for PostgreSQL database with sample data.\r\n2. Setup MCP Toolbox for Databases for the Cloud SQL for PostgreSQL database instance.\r\n3. Integrate the MCP Server functionality in AI Assistants like Gemini CLI. \r\n3. Design and develop an Agent using Agent Development Kit (ADK) to answer user queries.\r\n4. Test out the Agent and MCP Toolbox for Databases locally. \r\n5. (Optionally) Deploy the Agent in Google Cloud.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["romin_irani"],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #1",
+      "title": "Build a Travel Agent using MCP Toolbox for Databases and Agent Development Kit (ADK)",
       "videoId": ""
     },
     "118": {
@@ -827,8 +827,8 @@
           "name": "google"
         }
       ],
-      "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
-      "company": "Google Cloud",
+      "bio": "Romin works as a Developer Advocate at Google. He has 30 years of experience in the software industry and lives in Mumbai, India.",
+      "company": "Google",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
       "country": "Mumbai",
@@ -837,7 +837,7 @@
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fromin-irani.png?alt=media&token=9c10accb-3ff6-4a07-9d01-715d8eece673",
       "pronouns": "he/him",
-      "shortBio": "Romin works as a Developer Advocate at Google. He has over 25+ years...",
+      "shortBio": "Romin works as a Developer Advocate at Google. He has 30 years of experience in...",
       "socials": [
         {
           "icon": "twitter",
@@ -846,7 +846,7 @@
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/iromin/",
+          "link": "https://www.linkedin.com/in/iromin",
           "name": "LinkedIn"
         },
         {
@@ -941,9 +941,9 @@
         }
       ],
       "bio": "Dhrumil Shah, The Architect at Scapia, GDE for Flutter & Dart, Creator of @Flutter_Flakes. Startup Mentor, Experienced Speaker, Industry Advisory Board Member.",
-      "company": "Scapia Technology Private Limited",
+      "company": "Scapia",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fscapia.png?alt=media&token=fe0722f2-7375-4a5b-951b-0cfc5c25b06c",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fscapia.png?alt=media&token=209f353d-5bd4-4e22-a4e0-3ab6cb7b1cda",
       "country": "Ahmedabad, Gujarat",
       "featured": false,
       "name": "Dhrumil Shah",
@@ -1166,6 +1166,93 @@
     {
       "members": [
         {
+          "name": "Kaushik Parmar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fkaushik_parmar_25.png?alt=media&token=0c242f19-e808-4659-8f4b-413aca33e9e9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/kaushik_512",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/parmarkaushik",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 0,
+          "title": ""
+        },
+        {
+          "name": "Pankaj Sakariya",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fpankaj_sakariya_25.jpeg?alt=media&token=de29aabd-3752-42fd-b03e-7d8cfba354cf",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/SakariyaPankaj",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pankajsakariya",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": ""
+        },
+        {
+          "name": "Vatsal Trivedi",
+          "photo": "/images/people/others/vatsal_trivedi_23.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvatsal_trivedi_23.jpg?alt=media&token=1656d2c4-c2e8-46a4-92e1-e2b2a2563a8f",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/trivedivatsal_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/trivedi-vatsal",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://dribbble.com/trivedivatsal",
+              "name": "Dribbble"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/trivedivatsl/",
+              "name": "Facebook"
+            }
+          ],
+          "order": 3,
+          "title": ""
+        },
+        {
+          "name": "Gaurang Upadhyay",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fgaurang_upadhyay_25.jpeg?alt=media&token=eb7f7262-b93f-46a6-8b5d-f6f7633c4372",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/gaurang1",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": ""
+        }
+      ],
+      "order": 2,
+      "title": "Talk Committee"
+    },
+    {
+      "members": [
+        {
           "name": "Jignesh Thanki",
           "photo": "/images/people/others/jignesh_thanki_22.jpeg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fjignesh_thanki_22.jpeg?alt=media&token=f0131177-971c-41cf-b870-0cef3067238f",
@@ -1252,7 +1339,7 @@
           "title": ""
         }
       ],
-      "order": 2,
+      "order": 3,
       "title": "Social Media Team"
     },
     {
@@ -1282,7 +1369,7 @@
           "title": ""
         }
       ],
-      "order": 3,
+      "order": 4,
       "title": "Web Team"
     },
     {
@@ -1506,7 +1593,7 @@
           "title": ""
         }
       ],
-      "order": 4,
+      "order": 5,
       "title": "Media Team"
     },
     {
@@ -1546,7 +1633,7 @@
         }
       ],
       "title": "Registration and Swags Team",
-      "order": 5
+      "order": 6
     },
     {
       "members": [
@@ -1670,7 +1757,7 @@
         }
       ],
       "title": "Content & Event Anchor Team",
-      "order": 6
+      "order": 7
     },
     {
       "members": [
@@ -2065,7 +2152,7 @@
         }
       ],
       "title": "Speaker Buddy",
-      "order": 7
+      "order": 8
     }
   ],
   "tickets": [
