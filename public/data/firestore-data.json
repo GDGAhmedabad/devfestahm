@@ -1245,6 +1245,25 @@
           ],
           "order": 4,
           "title": ""
+        },
+        {
+          "name": "Dhrumil Shah",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2F2022%2Fdhrumil-shah.png?alt=media&token=d73ffb37-d000-4dc2-aa9f-a0a1209e40d9",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dhuma1981",
+              "name": "Twitter"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/dhuma1981",
+              "name": "Facebook"
+            }
+          ],
+          "order": 5,
+          "title": ""
         }
       ],
       "order": 2,
