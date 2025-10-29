@@ -563,14 +563,14 @@
     },
     "117": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "In this workshop, participants will build an agent using the Agent Development Kit (ADK) that utilizes the MCP Toolbox for Databases.\r\n\r\nParticipants will first understand multiple technologies and services like: Model Context Protocol (MCP), Agent Development Kit (ADK), Google Cloud and how to create real world agents that are grounded in your data. \r\n\r\nWhat you'll do\r\n--------------------\r\n1. Design, Build and Deploy an Agent that will answer user queries on hotels in a location or search for hotels by name.\r\n\r\nWhat you'll learn\r\n------------------------\r\n1. Provisioning a Cloud SQL for PostgreSQL database with sample data.\r\n2. Setup MCP Toolbox for Databases for the Cloud SQL for PostgreSQL database instance.\r\n3. Integrate the MCP Server functionality in AI Assistants like Gemini CLI. \r\n3. Design and develop an Agent using Agent Development Kit (ADK) to answer user queries.\r\n4. Test out the Agent and MCP Toolbox for Databases locally. \r\n5. (Optionally) Deploy the Agent in Google Cloud.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["romin_irani"],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #1",
+      "title": "Build a Travel Agent using MCP Toolbox for Databases and Agent Development Kit (ADK)",
       "videoId": ""
     },
     "118": {
@@ -827,8 +827,8 @@
           "name": "google"
         }
       ],
-      "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
-      "company": "Google Cloud",
+      "bio": "Romin works as a Developer Advocate at Google. He has 30 years of experience in the software industry and lives in Mumbai, India.",
+      "company": "Google",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
       "country": "Mumbai",
@@ -837,7 +837,7 @@
       "photo": "",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fromin-irani.png?alt=media&token=9c10accb-3ff6-4a07-9d01-715d8eece673",
       "pronouns": "he/him",
-      "shortBio": "Romin works as a Developer Advocate at Google. He has over 25+ years...",
+      "shortBio": "Romin works as a Developer Advocate at Google. He has 30 years of experience in...",
       "socials": [
         {
           "icon": "twitter",
@@ -846,7 +846,7 @@
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/iromin/",
+          "link": "https://www.linkedin.com/in/iromin",
           "name": "LinkedIn"
         },
         {
