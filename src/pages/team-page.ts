@@ -1,12 +1,15 @@
-import { customElement } from '@polymer/decorators';
+import { Failure, Pending } from '@abraham/remotedata';
+import { computed, customElement, property } from '@polymer/decorators';
 import '@polymer/paper-icon-button';
 import { html, PolymerElement } from '@polymer/polymer';
 import '@power-elements/lazy-image';
-import { team as teams } from '../../public/data/firestore-data.json';
 import '../components/hero/simple-hero';
 import '../components/markdown/short-markdown';
 import '../elements/shared-styles';
+import { RootState } from '../store';
 import { ReduxMixin } from '../store/mixin';
+import { selectTeamsAndMembers } from '../store/teams-members/selectors';
+import { initialTeamsMembersState } from '../store/teams-members/state';
 import { heroSettings, loading, team } from '../utils/data';
 import { updateMetadata } from '../utils/metadata';
 
@@ -134,8 +137,15 @@ export class TeamPage extends ReduxMixin(PolymerElement) {
       </div>
 
       <div class="container">
+        <template is="dom-if" if="[[pending]]">
+          <p>[[loading]]</p>
+        </template>
 
-        <template is="dom-repeat" items="[[teams]]" as="team">
+        <template is="dom-if" if="[[failure]]">
+          <p>Error loading teams.</p>
+        </template>
+
+        <template is="dom-repeat" items="[[teamsMembers.data]]" as="team">
           <div class="team-title">[[team.title]]</div>
 
           <div class="team-block">
@@ -174,11 +184,25 @@ export class TeamPage extends ReduxMixin(PolymerElement) {
   private heroSettings = heroSettings.team;
   private loading = loading;
   private team = team;
-  private teams = teams;
 
+  @property({ type: Object })
+  teamsMembers = initialTeamsMembersState;
+
+  @computed('teamsMembers')
+  get pending() {
+    return this.teamsMembers instanceof Pending;
+  }
+
+  @computed('teamsMembers')
+  get failure() {
+    return this.teamsMembers instanceof Failure;
+  }
   override connectedCallback() {
     super.connectedCallback();
     updateMetadata(this.heroSettings.title, this.heroSettings.metaDescription);
   }
 
+  override stateChanged(state: RootState) {
+    this.teamsMembers = selectTeamsAndMembers(state);
+  }
 }
