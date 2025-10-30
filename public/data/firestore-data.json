@@ -575,14 +575,17 @@
     },
     "118": {
       "complexity": "Intermediate",
-      "description": "",
-      "language": "English",
+      "description": "In the new era of AI-assisted development, Google is redefining how we turn ideas into reality.\r\n\r\nThis session explores how Gemini CLI and Google Stitch empower developers to move from concept to working prototype in record time.\r\n\r\nWe’ll walk through how Gemini CLI helps bootstrap your Flutter or web projects with intelligent code generation, reusable UI components, and scaffolding — all powered by Google’s Gemini models.\r\n\r\nThen, we’ll see how Google Stitch accelerates the design phase by transforming ideas into visual layouts that seamlessly align with your code.\r\n\r\nBy the end of the talk, you’ll learn practical ways to integrate these tools into your daily workflow to save hours of setup time and focus on what really matters — building great products faster.\r\n\r\nPerfect for: developers, designers, and product teams looking to leverage AI tools for real productivity gains.",
+      "language": "Hindi",
       "presentation": "",
-      "speakers": [],
+      "speakers": [
+        "ravi_rupareliya",
+        "pratik_butani"
+      ],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #2",
+      "title": "From Idea to MVP: Supercharging App Development with Gemini CLI & Google Stitch",
       "videoId": ""
     },
     "119": {
@@ -971,6 +974,77 @@
       "order": 7,
       "rockstarSpeakerOrder": 7,
       "title": "GDE Flutter & Dart, Lead Architect"
+    },
+    "ravi_rupareliya": {
+      "bio": "Ravi is a tech leader with 13+ years of experience in building scalable mobile and web applications. Ravi has led multiple projects combining mobile frontends with cloud-native backends, empowering teams to build production-grade solutions. He is passionate about bridging mobile development with Google cloud's capabilities and helping developers leverage modern tools to build intelligent, scalable and reliable application.",
+      "company": "Simform",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fsimform.svg?alt=media&token=2ea74fcb-23bc-4c95-931a-d1ad459dab81",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Ravi Rupareliya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fravi-rupareliya.jpg?alt=media&token=223b865f-b1d9-4e61-99bf-2ef7ed7ca0cb",
+      "pronouns": "he/him",
+      "shortBio": "Ravi is a tech leader with 13+ years of experience in building scalable mobile and web applications. Ravi has led...",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "https://ravirupareliya.com/",
+          "name": "Website"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ravi-rupareliya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ravi_rupareliya",
+          "name": "Twitter"
+        }
+      ],
+      "order": 8,
+      "rockstarSpeakerOrder": 8,
+      "title": "Team Manager"
+    },
+    "pratik_butani": {
+      "bio": "Pratik Butani is an accomplished Engineering Lead for Mobile at 7Span, Ahmedabad, with a deep passion for Flutter since 2020 and Android development since 2013. He is actively involved in the community as the manager of GDG Cloud Rajkot and is known for his contributions to open source projects. With over 60k reputation on StackOverflow, Pratik is ranked among the top 100 users in India and the top 10 in Gujarat.\r\n\r\nFormerly a co-organizer of GDG Rajkot (2014–2016), Pratik continues to nurture a learning mindset and enjoys sharing his knowledge with developers through platforms like GitHub, StackOverflow, and various community events he manages at 7Span.",
+      "company": "7Span",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2F7span.svg?alt=media&token=f83fea32-b273-40eb-8bee-8c992e5e7a21",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Pratik Butani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fpratik-butani.jpg?alt=media&token=2fe5d9b9-c30c-4a20-89cd-fa2ec8ad85e0",
+      "pronouns": "he/him",
+      "shortBio": "Pratik Butani is an accomplished Engineering Lead for Mobile at 7Span, Ahmedabad, with a deep passion for Flutter since ...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/pratikbuts",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/pratikbutani",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://instagram.com/pratikbuts",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://pratikbutani.medium.com",
+          "name": "Website"
+        }
+      ],
+      "order": 9,
+      "rockstarSpeakerOrder": 9,
+      "title": "Engineering Lead"
     }
   },
   "team": [
