@@ -527,14 +527,15 @@
     },
     "114": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "AI features like chat, recommendations, and translation are in huge demand — but building them twice (Android + iOS) slows teams down. In this talk, I'll share how we built AI-powered modules in Kotlin Multiplatform that work across Android/iOS, with shared AI logic + platform-specific UI using Compose Multiplatform.\r\n\r\nThis isn’t just about code reuse: it's about faster MVP validation, lower costs, and scaling globally with one AI codebase.\r\n\r\nKey Takeaways:\r\n\r\nArchitecture for shared AI logic (Gemini APIs, embeddings, local inference).\r\nCompose Multiplatform for AI-driven adaptive UIs.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["akshay_nandwana"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Kotlin"
       ],
-      "title": "Mobile Talk #3",
+      "title": "Kotlin Multiplatform Meets AI: Build Once, Scale Everywhere",
       "videoId": ""
     },
     "115": {
@@ -1045,6 +1046,44 @@
       "order": 9,
       "rockstarSpeakerOrder": 9,
       "title": "Engineering Lead"
+    },
+    "akshay_nandwana": {
+      "bio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scalable Android applications. He is the founder of Android Engineers, a thriving community where he has mentored 1,000+ developers and created learning resources reaching over 12M+ professionals worldwide.\r\n\r\nPreviously, he collaborated with Google’s Sustainability Team and worked at Zee5, where he optimized app performance, introduced Jetpack Compose frameworks, and enhanced user engagement at scale. A former Google Developer Student Clubs Lead (2018) and Google I/O attendee, Akshay actively contributes to open-source projects and frequently speaks on Android development, Jetpack Compose, Kotlin Multiplatform, and AI-driven mobile experiences.\r\n\r\nHe is passionate about exploring how AI-first practices in Android and Compose Multiplatform can help developers ship faster, scale smarter, and build user-centric apps.",
+      "company": "MeraBills",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fmerabills.png?alt=media&token=2ba2435d-230d-423f-8ac2-3b50169bf278",
+      "country": "Udaipur, Rajasthan",
+      "featured": false,
+      "name": "Akshay Nandwana",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fakshay-nandwana.png?alt=media&token=a963da4a-096e-4180-9411-4fb0ecba6b28",
+      "pronouns": "he/him",
+      "shortBio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scal...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/akshay81844",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/anandwana001",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/_akshay_nandwana/",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://androidengineers.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 10,
+      "rockstarSpeakerOrder": 10,
+      "title": "Senior Android Engineer"
     }
   },
   "team": [
