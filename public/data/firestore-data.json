@@ -540,14 +540,15 @@
     },
     "115": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Most “AI in apps” quietly relies on cloud calls—slow, costly, and risky for PII. This session shows how to ship offline Retrieval-Augmented Generation in Flutter: chunk domain docs, create on-device embeddings, and run local k-NN to answer FAQs in <200 ms on mid-tier Android. We’ll compare vector storage (Isar vs SQLite), pick embedding routes (precomputed vs on-device via llama.cpp/GGUF or Gemini Nano where available), and wire a tiny local answerer (extractive or compact LLM). Live demo: Wi-Fi off, instant answers to policy questions. \r\n\r\nPrivacy jeeti, latency jeeti—aur cloud bill bole: shukriya bhai.\r\n\r\nWhat attendees get\r\n\r\n- A reference offline RAG pipeline (chunking → embeddings → local k-NN).\r\n\r\n- Latency & size budgets to hit <200 ms P95 for ~5k chunks.\r\n\r\n- A vector store recipe (schema, L2 normalization, isolates, k-tuning).\r\n\r\n- A lightweight answering strategy (extractive vs tiny local LLM) with fallbacks.\r\n\r\n- A minimal eval harness for latency, recall@k, and accuracy in CI.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["prashant_dalai"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Flutter"
       ],
-      "title": "Mobile Talk #4",
+      "title": "Offline RAG on Mobile (Flutter)",
       "videoId": ""
     },
     "116": {
@@ -1084,6 +1085,39 @@
       "order": 10,
       "rockstarSpeakerOrder": 10,
       "title": "Senior Android Engineer"
+    },
+    "prashant_dalai": {
+      "bio": "I am a Flutter developer at Direction Software LLP. In addition, I contribute to the community by speaking at conferences.",
+      "company": "Direction Software LLP",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fdirection_software.png?alt=media&token=d5542495-49a0-41b4-9a37-8e6dae2d8496",
+      "country": "Mumbai",
+      "featured": false,
+      "name": "Prashant Dalai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fprashant_r_dalai.jpg?alt=media&token=aed307ba-4f43-48bc-bcff-966f8f1ea719",
+      "pronouns": "he/him",
+      "shortBio": "I am a Flutter developer at Direction Software LLP. In addition, I contribute to the community by speaking at conference...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/prashantrdalai",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/prashantrdalai",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/prashantrdalai/",
+          "name": "Instagram"
+        }
+      ],
+      "order": 11,
+      "rockstarSpeakerOrder": 11,
+      "title": "Sde 2"
     }
   },
   "team": [
