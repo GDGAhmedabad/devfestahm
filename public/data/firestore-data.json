@@ -553,14 +553,15 @@
     },
     "116": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "With Android 17 (API 37 and up) making adaptive layouts will be mandatory, we all got some work to do. My talk is basically about how we, as tech leads/developers, can tackle this.\r\n\r\nI'll be diving into how we're moving away from our old, complicated layouts and actually using those window size classes to make our apps look good on everything – phones, foldables, tablets, even when the app's in a desktop window.\r\n\r\nI’ll show some code snippets and patterns that are working well across all these different devices.\r\n\r\nIt's not just about making it work, though. The talk will include the tricky bits, like keeping track of state when things are changing, and how to build layouts in a way that's easier to manage. Plus, we can't forget about making sure it's accessible, performs well, and how we're testing all these adaptive UIs. It's a big topic, but I'm hoping to share some practical stuff we've learned.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["dhruv_patel"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Android"
       ],
-      "title": "Mobile Talk #5",
+      "title": "Android 17 Mandates Adaptive Layouts: Are Your Apps Ready?",
       "videoId": ""
     },
     "117": {
@@ -1118,6 +1119,44 @@
       "order": 11,
       "rockstarSpeakerOrder": 11,
       "title": "Sde 2"
+    },
+    "dhruv_patel": {
+      "bio": "Lead Android Engineer with 13+ years of expertise in developing innovative mobile applications, seeking a challenging role to drive cutting-edge Android solutions, enhance user experiences, and exceed business objectives. Skilled in collaborating with cross-functional teams and stakeholders to optimize performance and deliver exceptional results in the development of impactful applications.",
+      "company": "IMPACT Commerce",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fimpact.svg?alt=media&token=4054e399-abf4-4605-a694-71d793b801bf",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Dhruv Patel",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fdhruv-patel.jpg?alt=media&token=d5c9a7d1-0e23-4091-9c6e-999bbdf061dc",
+      "pronouns": "he/him",
+      "shortBio": "Lead Android Engineer with 13+ years of expertise in developing innovative mobile applications, seeking a challenging ro...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/deardhruv",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/deardhruv",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/deardhruv",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@DearDhruv",
+          "name": "Website"
+        }
+      ],
+      "order": 12,
+      "rockstarSpeakerOrder": 12,
+      "title": "Lead Android Engineer"
     }
   },
   "team": [
