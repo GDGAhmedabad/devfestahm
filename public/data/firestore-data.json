@@ -1365,6 +1365,11 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/parmarkaushik",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://sheerbit.com",
+              "name": "Website"
             }
           ],
           "order": 0,
