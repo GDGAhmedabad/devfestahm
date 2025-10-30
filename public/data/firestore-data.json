@@ -53,15 +53,9 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/google-developers-group.png",
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/programs/community/gdg/"
+          "logoUrl": "../images/logos/google-for-developers.svg",
+          "name": "Google for Developers",
+          "url": "https://developers.google.com/"
         }
       ],
       "order": 0,
