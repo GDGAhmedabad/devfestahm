@@ -587,14 +587,14 @@
     },
     "119": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "What if you could build and ship powerful AI features in your web apps today without managing API keys, incurring GPU or Token costs, or compromising user privacy? The future of web AI isn't just in the cloud; it's running directly in the browser.\r\n\r\nIn this 1-hour, hands-on workshop, we will build a functional \"Smart Notes\" Progressive Web App (PWA) from scratch, demonstrating a practical and scalable implementation of on-device AI. \r\n\r\nWe'll move beyond theory and dive deep into code, leveraging the power of AI on Chrome and its new Built-in AI APIs. \r\n\r\nYou will code along to implement features that users now expect: one-click summarisation of lengthy notes, intelligent proofreading for perfect grammar, and dynamic content rewriting. We will also cover the critical architecture for building a feature-rich MVP that works offline and feels instantaneous.\r\n\r\nThis session is for developers looking to gain a competitive edge by shipping AI features faster and more cost-effectively.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["tanay_sai"],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #3",
+      "title": "Hands-On: Building a \"Smart Notes\" PWA with On-Device Chrome AI",
       "videoId": ""
     },
     "151": {
@@ -1151,6 +1151,39 @@
       "order": 12,
       "rockstarSpeakerOrder": 12,
       "title": "Lead Android Engineer"
+    },
+    "tanay_sai": {
+      "bio": "Tanay Sai is an engineering leader with 15+ years of experience building scalable, AI-driven SaaS platforms. As Sr Engineering Director at Nielsen, he leads GenAI and ML transformation initiatives in sports media analytics, deriving brand insights from multi-modal sports content.\r\n\r\nPreviously at Acquia, he architected and led complex digital transformation projects for global brands like Warner Bros, delivering enterprise-scale solutions.\r\n\r\nA passionate product builder, Tanay's work includes Newton Eyes (now retired), a GenAI-powered vision tool created to assist the visually impaired, showcasing his commitment to using AI for social impact. He thrives on solving complex challenges and turning innovative ideas into products that deliver real-world value.\r\n\r\nSpoke at multiple Drupalcons, AWS AI Day 2024, NextJS Summit (Bangalore 2025) ",
+      "company": "Nielsen",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fnielsen.jpeg?alt=media&token=0561f0af-8b7d-4a16-a3e0-024a049d7465",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Tanay Sai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Ftanay-sai.jpg?alt=media&token=7d0e71bd-06d3-48fb-961a-10f6368da6e2",
+      "pronouns": "he/him",
+      "shortBio": "Tanay Sai is an engineering leader with 15+ years of experience building scalable, AI-driven SaaS platforms. As Sr Engin...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/saitanay",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tanay-sai",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://tanay.co.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 13,
+      "rockstarSpeakerOrder": 13,
+      "title": "AI Practitioner, Micro SaaS enthusiast, Sr Engineering Director at Nielsen"
     }
   },
   "team": [
