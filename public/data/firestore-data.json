@@ -53,15 +53,9 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/google-developers-group.png",
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/programs/community/gdg/"
+          "logoUrl": "../images/logos/google-for-developers.svg",
+          "name": "Google for Developers",
+          "url": "https://developers.google.com/"
         }
       ],
       "order": 0,
@@ -527,38 +521,41 @@
     },
     "114": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "AI features like chat, recommendations, and translation are in huge demand — but building them twice (Android + iOS) slows teams down. In this talk, I'll share how we built AI-powered modules in Kotlin Multiplatform that work across Android/iOS, with shared AI logic + platform-specific UI using Compose Multiplatform.\r\n\r\nThis isn’t just about code reuse: it's about faster MVP validation, lower costs, and scaling globally with one AI codebase.\r\n\r\nKey Takeaways:\r\n\r\nArchitecture for shared AI logic (Gemini APIs, embeddings, local inference).\r\nCompose Multiplatform for AI-driven adaptive UIs.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["akshay_nandwana"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Kotlin"
       ],
-      "title": "Mobile Talk #3",
+      "title": "Kotlin Multiplatform Meets AI: Build Once, Scale Everywhere",
       "videoId": ""
     },
     "115": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Most “AI in apps” quietly relies on cloud calls—slow, costly, and risky for PII. This session shows how to ship offline Retrieval-Augmented Generation in Flutter: chunk domain docs, create on-device embeddings, and run local k-NN to answer FAQs in <200 ms on mid-tier Android. We’ll compare vector storage (Isar vs SQLite), pick embedding routes (precomputed vs on-device via llama.cpp/GGUF or Gemini Nano where available), and wire a tiny local answerer (extractive or compact LLM). Live demo: Wi-Fi off, instant answers to policy questions. \r\n\r\nPrivacy jeeti, latency jeeti—aur cloud bill bole: shukriya bhai.\r\n\r\nWhat attendees get\r\n\r\n- A reference offline RAG pipeline (chunking → embeddings → local k-NN).\r\n\r\n- Latency & size budgets to hit <200 ms P95 for ~5k chunks.\r\n\r\n- A vector store recipe (schema, L2 normalization, isolates, k-tuning).\r\n\r\n- A lightweight answering strategy (extractive vs tiny local LLM) with fallbacks.\r\n\r\n- A minimal eval harness for latency, recall@k, and accuracy in CI.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["prashant_dalai"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Flutter"
       ],
-      "title": "Mobile Talk #4",
+      "title": "Offline RAG on Mobile (Flutter)",
       "videoId": ""
     },
     "116": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "With Android 17 (API 37 and up) making adaptive layouts will be mandatory, we all got some work to do. My talk is basically about how we, as tech leads/developers, can tackle this.\r\n\r\nI'll be diving into how we're moving away from our old, complicated layouts and actually using those window size classes to make our apps look good on everything – phones, foldables, tablets, even when the app's in a desktop window.\r\n\r\nI’ll show some code snippets and patterns that are working well across all these different devices.\r\n\r\nIt's not just about making it work, though. The talk will include the tricky bits, like keeping track of state when things are changing, and how to build layouts in a way that's easier to manage. Plus, we can't forget about making sure it's accessible, performs well, and how we're testing all these adaptive UIs. It's a big topic, but I'm hoping to share some practical stuff we've learned.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["dhruv_patel"],
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Android"
       ],
-      "title": "Mobile Talk #5",
+      "title": "Android 17 Mandates Adaptive Layouts: Are Your Apps Ready?",
       "videoId": ""
     },
     "117": {
@@ -575,26 +572,29 @@
     },
     "118": {
       "complexity": "Intermediate",
-      "description": "",
-      "language": "English",
+      "description": "In the new era of AI-assisted development, Google is redefining how we turn ideas into reality.\r\n\r\nThis session explores how Gemini CLI and Google Stitch empower developers to move from concept to working prototype in record time.\r\n\r\nWe’ll walk through how Gemini CLI helps bootstrap your Flutter or web projects with intelligent code generation, reusable UI components, and scaffolding — all powered by Google’s Gemini models.\r\n\r\nThen, we’ll see how Google Stitch accelerates the design phase by transforming ideas into visual layouts that seamlessly align with your code.\r\n\r\nBy the end of the talk, you’ll learn practical ways to integrate these tools into your daily workflow to save hours of setup time and focus on what really matters — building great products faster.\r\n\r\nPerfect for: developers, designers, and product teams looking to leverage AI tools for real productivity gains.",
+      "language": "Hindi",
       "presentation": "",
-      "speakers": [],
+      "speakers": [
+        "ravi_rupareliya",
+        "pratik_butani"
+      ],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #2",
+      "title": "From Idea to MVP: Supercharging App Development with Gemini CLI & Google Stitch",
       "videoId": ""
     },
     "119": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "What if you could build and ship powerful AI features in your web apps today without managing API keys, incurring GPU or Token costs, or compromising user privacy? The future of web AI isn't just in the cloud; it's running directly in the browser.\r\n\r\nIn this 1-hour, hands-on workshop, we will build a functional \"Smart Notes\" Progressive Web App (PWA) from scratch, demonstrating a practical and scalable implementation of on-device AI. \r\n\r\nWe'll move beyond theory and dive deep into code, leveraging the power of AI on Chrome and its new Built-in AI APIs. \r\n\r\nYou will code along to implement features that users now expect: one-click summarisation of lengthy notes, intelligent proofreading for perfect grammar, and dynamic content rewriting. We will also cover the critical architecture for building a feature-rich MVP that works offline and feels instantaneous.\r\n\r\nThis session is for developers looking to gain a competitive edge by shipping AI features faster and more cost-effectively.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["tanay_sai"],
       "tags": [
         "Workshop"
       ],
-      "title": "Workshop #3",
+      "title": "Hands-On: Building a \"Smart Notes\" PWA with On-Device Chrome AI",
       "videoId": ""
     },
     "151": {
@@ -971,6 +971,219 @@
       "order": 7,
       "rockstarSpeakerOrder": 7,
       "title": "GDE Flutter & Dart, Lead Architect"
+    },
+    "ravi_rupareliya": {
+      "bio": "Ravi is a tech leader with 13+ years of experience in building scalable mobile and web applications. Ravi has led multiple projects combining mobile frontends with cloud-native backends, empowering teams to build production-grade solutions. He is passionate about bridging mobile development with Google cloud's capabilities and helping developers leverage modern tools to build intelligent, scalable and reliable application.",
+      "company": "Simform",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fsimform.svg?alt=media&token=2ea74fcb-23bc-4c95-931a-d1ad459dab81",
+      "country": "Ahmedabad, Gujarat",
+      "featured": false,
+      "name": "Ravi Rupareliya",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fravi-rupareliya.jpg?alt=media&token=223b865f-b1d9-4e61-99bf-2ef7ed7ca0cb",
+      "pronouns": "he/him",
+      "shortBio": "Ravi is a tech leader with 13+ years of experience in building scalable mobile and web applications. Ravi has led...",
+      "socials": [
+        {
+          "icon": "website",
+          "link": "https://ravirupareliya.com/",
+          "name": "Website"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ravi-rupareliya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ravi_rupareliya",
+          "name": "Twitter"
+        }
+      ],
+      "order": 8,
+      "rockstarSpeakerOrder": 8,
+      "title": "Team Manager"
+    },
+    "pratik_butani": {
+      "bio": "Pratik Butani is an accomplished Engineering Lead for Mobile at 7Span, Ahmedabad, with a deep passion for Flutter since 2020 and Android development since 2013. He is actively involved in the community as the manager of GDG Cloud Rajkot and is known for his contributions to open source projects. With over 60k reputation on StackOverflow, Pratik is ranked among the top 100 users in India and the top 10 in Gujarat.\r\n\r\nFormerly a co-organizer of GDG Rajkot (2014–2016), Pratik continues to nurture a learning mindset and enjoys sharing his knowledge with developers through platforms like GitHub, StackOverflow, and various community events he manages at 7Span.",
+      "company": "7Span",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2F7span.svg?alt=media&token=f83fea32-b273-40eb-8bee-8c992e5e7a21",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Pratik Butani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fpratik-butani.jpg?alt=media&token=2fe5d9b9-c30c-4a20-89cd-fa2ec8ad85e0",
+      "pronouns": "he/him",
+      "shortBio": "Pratik Butani is an accomplished Engineering Lead for Mobile at 7Span, Ahmedabad, with a deep passion for Flutter since ...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/pratikbuts",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/pratikbutani",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://instagram.com/pratikbuts",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://pratikbutani.medium.com",
+          "name": "Website"
+        }
+      ],
+      "order": 9,
+      "rockstarSpeakerOrder": 9,
+      "title": "Engineering Lead"
+    },
+    "akshay_nandwana": {
+      "bio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scalable Android applications. He is the founder of Android Engineers, a thriving community where he has mentored 1,000+ developers and created learning resources reaching over 12M+ professionals worldwide.\r\n\r\nPreviously, he collaborated with Google’s Sustainability Team and worked at Zee5, where he optimized app performance, introduced Jetpack Compose frameworks, and enhanced user engagement at scale. A former Google Developer Student Clubs Lead (2018) and Google I/O attendee, Akshay actively contributes to open-source projects and frequently speaks on Android development, Jetpack Compose, Kotlin Multiplatform, and AI-driven mobile experiences.\r\n\r\nHe is passionate about exploring how AI-first practices in Android and Compose Multiplatform can help developers ship faster, scale smarter, and build user-centric apps.",
+      "company": "MeraBills",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fmerabills.png?alt=media&token=2ba2435d-230d-423f-8ac2-3b50169bf278",
+      "country": "Udaipur, Rajasthan",
+      "featured": false,
+      "name": "Akshay Nandwana",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fakshay-nandwana.png?alt=media&token=a963da4a-096e-4180-9411-4fb0ecba6b28",
+      "pronouns": "he/him",
+      "shortBio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scal...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/akshay81844",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/anandwana001",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/_akshay_nandwana/",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://androidengineers.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 10,
+      "rockstarSpeakerOrder": 10,
+      "title": "Senior Android Engineer"
+    },
+    "prashant_dalai": {
+      "bio": "I am a Flutter developer at Direction Software LLP. In addition, I contribute to the community by speaking at conferences.",
+      "company": "Direction Software LLP",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fcompany%2Fdirection_software.png?alt=media&token=d5542495-49a0-41b4-9a37-8e6dae2d8496",
+      "country": "Mumbai",
+      "featured": false,
+      "name": "Prashant Dalai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fprashant_r_dalai.jpg?alt=media&token=aed307ba-4f43-48bc-bcff-966f8f1ea719",
+      "pronouns": "he/him",
+      "shortBio": "I am a Flutter developer at Direction Software LLP. In addition, I contribute to the community by speaking at conference...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/prashantrdalai",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/prashantrdalai",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/prashantrdalai/",
+          "name": "Instagram"
+        }
+      ],
+      "order": 11,
+      "rockstarSpeakerOrder": 11,
+      "title": "Sde 2"
+    },
+    "dhruv_patel": {
+      "bio": "Lead Android Engineer with 13+ years of expertise in developing innovative mobile applications, seeking a challenging role to drive cutting-edge Android solutions, enhance user experiences, and exceed business objectives. Skilled in collaborating with cross-functional teams and stakeholders to optimize performance and deliver exceptional results in the development of impactful applications.",
+      "company": "IMPACT Commerce",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fimpact.svg?alt=media&token=4054e399-abf4-4605-a694-71d793b801bf",
+      "country": "Ahmedabad",
+      "featured": false,
+      "name": "Dhruv Patel",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fdhruv-patel.jpg?alt=media&token=d5c9a7d1-0e23-4091-9c6e-999bbdf061dc",
+      "pronouns": "he/him",
+      "shortBio": "Lead Android Engineer with 13+ years of expertise in developing innovative mobile applications, seeking a challenging ro...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/deardhruv",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/deardhruv",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/deardhruv",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@DearDhruv",
+          "name": "Website"
+        }
+      ],
+      "order": 12,
+      "rockstarSpeakerOrder": 12,
+      "title": "Lead Android Engineer"
+    },
+    "tanay_sai": {
+      "bio": "Tanay Sai is an engineering leader with 15+ years of experience building scalable, AI-driven SaaS platforms. As Sr Engineering Director at Nielsen, he leads GenAI and ML transformation initiatives in sports media analytics, deriving brand insights from multi-modal sports content.\r\n\r\nPreviously at Acquia, he architected and led complex digital transformation projects for global brands like Warner Bros, delivering enterprise-scale solutions.\r\n\r\nA passionate product builder, Tanay's work includes Newton Eyes (now retired), a GenAI-powered vision tool created to assist the visually impaired, showcasing his commitment to using AI for social impact. He thrives on solving complex challenges and turning innovative ideas into products that deliver real-world value.\r\n\r\nSpoke at multiple Drupalcons, AWS AI Day 2024, NextJS Summit (Bangalore 2025) ",
+      "company": "Nielsen",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fnielsen.jpeg?alt=media&token=0561f0af-8b7d-4a16-a3e0-024a049d7465",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Tanay Sai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Ftanay-sai.jpg?alt=media&token=7d0e71bd-06d3-48fb-961a-10f6368da6e2",
+      "pronouns": "he/him",
+      "shortBio": "Tanay Sai is an engineering leader with 15+ years of experience building scalable, AI-driven SaaS platforms. As Sr Engin...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/saitanay",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tanay-sai",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "website",
+          "link": "https://tanay.co.in/",
+          "name": "Website"
+        }
+      ],
+      "order": 13,
+      "rockstarSpeakerOrder": 13,
+      "title": "AI Practitioner, Micro SaaS enthusiast, Sr Engineering Director at Nielsen"
     }
   },
   "team": [
@@ -1179,6 +1392,11 @@
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/parmarkaushik",
               "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://sheerbit.com",
+              "name": "Website"
             }
           ],
           "order": 0,
