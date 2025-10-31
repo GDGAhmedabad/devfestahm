@@ -1006,6 +1006,13 @@
       "title": "Team Manager"
     },
     "pratik_butani": {
+      "badges": [
+        {
+          "description": "Google Developers Group Cloud Rajkot",
+          "link": "https://gdg.community.dev/gdg-cloud-rajkot/",
+          "name": "gdg"
+        }
+      ],
       "bio": "Pratik Butani is an accomplished Engineering Lead for Mobile at 7Span, Ahmedabad, with a deep passion for Flutter since 2020 and Android development since 2013. He is actively involved in the community as the manager of GDG Cloud Rajkot and is known for his contributions to open source projects. With over 60k reputation on StackOverflow, Pratik is ranked among the top 100 users in India and the top 10 in Gujarat.\r\n\r\nFormerly a co-organizer of GDG Rajkot (2014–2016), Pratik continues to nurture a learning mindset and enjoys sharing his knowledge with developers through platforms like GitHub, StackOverflow, and various community events he manages at 7Span.",
       "company": "7Span",
       "companyLogo": "",
