@@ -24,7 +24,7 @@ jobs:
 
       - name: json-yaml-validate
         id: json-yaml-validate
-        uses: GrantBirki/json-yaml-validate@v3.2.1 # replace with the latest version
+        uses: GrantBirki/json-yaml-validate@v4.0.0 # replace with the latest version
         with:
           comment: "true" # enable comment mode
           json_schema: public/data/schema/meet-the-talent-schema.json
