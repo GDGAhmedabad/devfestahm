@@ -377,54 +377,50 @@
     },
     "103": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Most AI applications ship based on gut feeling and manual tests. But how do you actually know your LLM works in production?\r\nLLMs are non-deterministic and can fail in subtle ways. Without proper evaluation, you're flying blind, unable to detect hallucinations, measure improvements, or catch regressions before users do.\r\n\r\nThis session focuses on LLM evaluation strategies for production applications:\r\nWhat to measure\r\nWhen to evaluate\r\nEvaluation frameworks\r\n\r\nMoving from \"it looks good\" to \"I have proof it works\"",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["nidhi_desai"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #2",
+      "title": "Measuring What Matters: LLM Evaluation for Production",
       "videoId": ""
     },
     "104": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Introducing Opal: describe, create, and share your AI mini-apps\r\n\r\nIt's never been easier to harness the power of AI models, prompts, and tools into working AI applications. Opal is a new experimental tool from Google Labs that lets you build and share powerful AI mini apps that chain together prompts, models, and tools — all using simple natural language and visual editing. Opal is a great tool to accelerate prototyping AI ideas and workflows, demonstrate a proof of concept with a functional app, build custom AI apps to boost your productivity at work, and more!",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["sachin_singla"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #3",
+      "title": "Agentic AI Flow using Opal",
       "videoId": ""
     },
     "105": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "This session offers a critical and timely exploration into the evolving landscape of cybersecurity, directly confronting the seismic shift brought about by Agentic AI. As artificial intelligence transcends static, reactive systems to become truly autonomous, goal-driven entities, our established security paradigms—especially foundational threat modeling practices—are being rendered dangerously obsolete.\r\nThe core premise is that traditional threat modeling, built on assumptions of predictable systems and human control, is fundamentally unprepared for these self-governing AI entities. We will unveil the profound \"autonomy gap\" that exists between current security practices and Agentic AI's emergent capabilities. This gap manifests in several critical areas:\r\n\t•\tUnpredictable Decision-Making\r\n\t•\tDynamic and Evolving Attack Surfaces\r\n\t•\tExpanded Attack Vectors via Tool Use\r\n\t•\tGoal Misalignment and Drift\r\n\t•\tChallenges in Explainability and Auditability\r\n\t•\tThe Overwhelmed Human-in-the-Loop",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["shuva_jyoti_kar"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #4",
+      "title": "Mind the Autonomy",
       "videoId": ""
     },
     "106": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Search is the backbone of almost every digital product but traditional keyword search fails to capture meaning. In this session, we'll explore how semantic search powered by embeddings and vector databases enables intelligent content discovery, personalized recommendations, and context-aware applications. We’ll go step by step: from generating embeddings with modern LLMs, storing them in a vector database, and combining them with large language models for retrieval-augmented responses.\r\nThe session includes a live demo comparing keyword search vs semantic search on the same dataset, showing how embeddings capture intent beyond exact words. Attendees will leave with a clear understanding of:\r\nCore building blocks of semantic search (embeddings, vector DBs, RAG).\r\n\r\n\r\nPractical tools to implement it on Google Cloud / open-source stacks.\r\n\r\n\r\nReal-world use cases  from enterprise knowledge discovery to smarter user experiences.\r\n",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["rajan_sharma"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #5",
+      "title": "Semantic Search & Intelligent Content Discovery with Embeddings",
       "videoId": ""
     },
     "107": {
@@ -1191,6 +1187,122 @@
       "order": 13,
       "rockstarSpeakerOrder": 13,
       "title": "AI Practitioner, Micro SaaS enthusiast, Sr Engineering Director at Nielsen"
+    },
+    "nidhi_desai": {
+      "bio": "I'm Nidhi Desai, Director of Engineering at Rocket, a vibe-solutions platform.\r\nOver my 12-year career, I've evolved from building traditional software to leading AI product development.\r\n\r\nWhat excites me most is bridging the gap between AI hype and real-world impact. I’ve seen how teams struggle to move from ChatGPT experiments to reliable, scalable systems, and that's where my focus lies: turning cutting-edge AI into tools that truly empower creators and developers. For me, AI isn’t just technology, it's a partner in reimagining how we build, think, and create.",
+      "company": "Rocket",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Frocket.jpeg?alt=media&token=38c496b2-55d3-4c1b-8e09-64ccf1e89def",
+      "country": "Vadodara",
+      "featured": false,
+      "name": "Nidhi Desai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fnidhi-desai.jpg?alt=media&token=ad1422c0-8d80-4e5b-b824-a371bbfbf4f0",
+      "pronouns": "she/her",
+      "shortBio": "I'm Nidhi Desai, Director of Engineering at Rocket, a vibe-solutions platform.\r\nOver my 12-year career, I've evolved fro...",
+      "socials": [],
+      "order": 14,
+      "rockstarSpeakerOrder": 14,
+      "title": "Director Of Engineering"
+    },
+    "sachin_singla": {
+      "bio": "I am Software Engineer 3 at Google. Previously I had worked at Intuit. I have 4+ years experience in the software industry working on cutting edge technologies and building scalable products for millions of users. Apart from tech, I enjoy playing badminton and chess.  ",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Hyderabad",
+      "featured": false,
+      "name": "Sachin Singla",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fsachin-singla.jpg?alt=media&token=999eed82-c4a6-4e07-9f4f-d98130d44099",
+      "pronouns": "he/him",
+      "shortBio": "I am Software Engineer 3 at Google. Previously I had worked at Intuit. I have 4+ years experience in the software indust...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ss_sachinsingla",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/sachin-singla",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/sachin_singla23/",
+          "name": "Instagram"
+        }
+      ],
+      "order": 15,
+      "rockstarSpeakerOrder": 15,
+      "title": "Software Engineer 3"
+    },
+    "shuva_jyoti_kar": {
+      "bio": "Shuva is a distributed AI systems engineer  designing scalable, reliable, and robust enterprise and cloud-based solutions. He has contributed as an Openflow Plugin committer/maintainer and is passionate about clustering. Currently, he serves as a Senior Technical Leader at Cisco's Network Data Platform, focusing on developing, delivering, and maintaining essential components for Network Analytics. Shuva has experience speaking at various events, including Open Source Summits, Opendaylight Conferences, Developer Summits, and IEEE Conferences.",
+      "company": "Cisco Systems (India)",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fcisco.png?alt=media&token=20edce8e-f99f-4070-a810-ee3405beb07f",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Shuva Jyoti Kar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fshuva-jyoti-kar.jpg?alt=media&token=979318c8-4e2f-46f2-92f2-ee42071df472",
+      "pronouns": "he/him",
+      "shortBio": "Shuva is a distributed AI systems engineer  designing scalable, reliable, and robust enterprise and cloud-based solution...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shuva-jyoti-kar-82242428",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/KarShuva54367",
+          "name": "Twitter"
+        }
+      ],
+      "order": 16,
+      "rockstarSpeakerOrder": 16,
+      "title": "Senior Technical Leader"
+    },
+    "rajan_sharma": {
+      "bio": "I am a Principal Architect at iSpace with expertise in Cloud Architecture, AI/ML, Serverless Computing, and Enterprise Security, leading the design of scalable and resilient enterprise solutions. I hold the AWS Security Specialty certification and am preparing for the Machine Learning Specialty, with focus areas including semantic search, intelligent content discovery, and AI-driven optimization in serverless systems.\r\n\r\nAlongside my technical career, I am a Member of the Institute of Directors (IOD), India, and a Mentor with Startup India, where I guide founders and innovators in technology adoption, architecture strategy, and sustainable growth. My work blends deep technical problem solving with leadership, governance, and mentorship, giving me a holistic perspective on how technology drives business and innovation. Passionate about knowledge-sharing, I contribute to developer communities, mentor professionals, and explore the intersection of technology,leadership, and entrepreneurship",
+      "company": "iSpace",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fispace.jpeg?alt=media&token=55426e28-ce1a-44cd-9973-b6ce2b4997b6",
+      "country": "Delhi",
+      "featured": false,
+      "name": "Rajan Sharma",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Frajan-sharma.jpg?alt=media&token=fd52c460-6e8a-418b-818b-5a4a41ebfab5",
+      "pronouns": "he/him",
+      "shortBio": "I am a Principal Architect at iSpace with expertise in Cloud Architecture, AI/ML, Serverless Computing, and Enterprise S...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/therajansharma",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/iserveradmin",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/cloudinnovatorlife",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://rajansharma.in",
+          "name": "Website"
+        },
+      ],
+      "order": 17,
+      "rockstarSpeakerOrder": 17,
+      "title": "Principal Architect"
     }
   },
   "team": [
