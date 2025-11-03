@@ -377,119 +377,111 @@
     },
     "103": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Most AI applications ship based on gut feeling and manual tests. But how do you actually know your LLM works in production?\r\nLLMs are non-deterministic and can fail in subtle ways. Without proper evaluation, you're flying blind, unable to detect hallucinations, measure improvements, or catch regressions before users do.\r\n\r\nThis session focuses on LLM evaluation strategies for production applications:\r\nWhat to measure\r\nWhen to evaluate\r\nEvaluation frameworks\r\n\r\nMoving from \"it looks good\" to \"I have proof it works\"",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["nidhi_desai"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #2",
+      "title": "Measuring What Matters: LLM Evaluation for Production",
       "videoId": ""
     },
     "104": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Introducing Opal: describe, create, and share your AI mini-apps\r\n\r\nIt's never been easier to harness the power of AI models, prompts, and tools into working AI applications. Opal is a new experimental tool from Google Labs that lets you build and share powerful AI mini apps that chain together prompts, models, and tools — all using simple natural language and visual editing. Opal is a great tool to accelerate prototyping AI ideas and workflows, demonstrate a proof of concept with a functional app, build custom AI apps to boost your productivity at work, and more!",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["sachin_singla"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #3",
+      "title": "Agentic AI Flow using Opal",
       "videoId": ""
     },
     "105": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "This session offers a critical and timely exploration into the evolving landscape of cybersecurity, directly confronting the seismic shift brought about by Agentic AI. As artificial intelligence transcends static, reactive systems to become truly autonomous, goal-driven entities, our established security paradigms—especially foundational threat modeling practices—are being rendered dangerously obsolete.\r\nThe core premise is that traditional threat modeling, built on assumptions of predictable systems and human control, is fundamentally unprepared for these self-governing AI entities. We will unveil the profound \"autonomy gap\" that exists between current security practices and Agentic AI's emergent capabilities. This gap manifests in several critical areas:\r\n\t•\tUnpredictable Decision-Making\r\n\t•\tDynamic and Evolving Attack Surfaces\r\n\t•\tExpanded Attack Vectors via Tool Use\r\n\t•\tGoal Misalignment and Drift\r\n\t•\tChallenges in Explainability and Auditability\r\n\t•\tThe Overwhelmed Human-in-the-Loop",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["shuva_jyoti_kar"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #4",
+      "title": "Mind the Autonomy",
       "videoId": ""
     },
     "106": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Search is the backbone of almost every digital product but traditional keyword search fails to capture meaning. In this session, we'll explore how semantic search powered by embeddings and vector databases enables intelligent content discovery, personalized recommendations, and context-aware applications. We’ll go step by step: from generating embeddings with modern LLMs, storing them in a vector database, and combining them with large language models for retrieval-augmented responses.\r\nThe session includes a live demo comparing keyword search vs semantic search on the same dataset, showing how embeddings capture intent beyond exact words. Attendees will leave with a clear understanding of:\r\nCore building blocks of semantic search (embeddings, vector DBs, RAG).\r\n\r\n\r\nPractical tools to implement it on Google Cloud / open-source stacks.\r\n\r\n\r\nReal-world use cases  from enterprise knowledge discovery to smarter user experiences.\r\n",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["rajan_sharma"],
       "tags": [
-        "AI/ML",
-        "Cloud"
+        "AI/ML"
       ],
-      "title": "AI/ML/Cloud Talk #5",
+      "title": "Semantic Search & Intelligent Content Discovery with Embeddings",
       "videoId": ""
     },
     "107": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Weather impacts everyone, but turning massive climate datasets into clear, interactive insights is a challenge. In this session, we'll show how to build a real-time weather visualisation app on Google Cloud using DeepMind's WeatherNext dataset. You'll learn how to process forecasts with Dataflow, generate map tiles stored in Cloud Storage, and serve them seamlessly with Cloud Run. The application will display a 2D world map with coastlines, borders, and layers for temperature, rainfall, and wind. We'll also cover techniques for animating wind flows and optimising performance for real-time exploration. By the end, you'll have a practical blueprint for creating your own scalable geospatial applications.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["dhaval_patel"],
       "tags": [
         "Web",
         "Cloud"
       ],
-      "title": "Web/Cloud Talk #1",
+      "title": "Weather-Viz: Building Interactive Real-Time Weather Visualizations",
       "videoId": ""
     },
     "108": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "State management has always been one of the most debated topics in frontend engineering. From the early days of vanilla Redux boilerplate to newer contenders like Zustand and Recoil, teams often find themselves asking: Which library is right for us, and why?\r\n\r\nIn this talk, we'll revisit the “state management wars” with fresh eyes in 2025.\r\n\r\n- MobX — reactive power and complex observable models, where it still outshines others.\r\n- Redux Toolkit — the “batteries-included” ecosystem for large, predictable apps.\r\n- Zustand — lightweight stores, hooks-first API, and why it's trending in modern React apps.\r\n- Recoil — atom/selectors and concurrent rendering, but where adoption struggles.\r\n\r\nBeyond syntax, we'll dive into real trade-offs: performance at scale, developer experience, ecosystem maturity, debugging tools, and team onboarding.\r\n\r\nAttendees will walk away with a decision framework, not just a comparison chart:",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["tathagat_thapliyal"],
       "tags": [
-        "Web",
-        "Cloud"
+        "Web"
       ],
-      "title": "Web/Cloud Talk #2",
+      "title": "State Management Wars Revisited - MobX, Zustand, Redux Toolkit, Recoil",
       "videoId": ""
     },
     "109": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "In this session, I will cover that devlopment is fast now using AI tools like Gemini CLI, cursor, Claude tools. So, How web developer have to upgrade. What extra they can deliver?",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["munir_khakhi"],
       "tags": [
-        "Web",
-        "Cloud"
+        "Web"
       ],
-      "title": "Web/Cloud Talk #3",
+      "title": "Post AI: Web development",
       "videoId": ""
     },
     "110": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "Angular is undergoing a fundamental transformation, not just an evolution. With the new Signals reactivity primitive, we're moving beyond Zone.js to embrace a fine-grained, predictable change detection model that delivers blazing-fast runtime performance. But that's only half the story. The new build system powered by Vite and esbuild, combined with deferrable views and streamlined control flow, slashes build times and dramatically shrinks bundle sizes. This talk will be your guide to Angular's modern toolkit, demonstrating how these features converge to create applications that are faster to build, faster to load, and a joy to develop.",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["faizan_akhtar"],
       "tags": [
-        "Web",
-        "Cloud"
+        "Web"
       ],
-      "title": "Web/Cloud Talk #4",
+      "title": "Angular's New Era: Signals, Speed, and a Svelte-like Experience",
       "videoId": ""
     },
     "111": {
       "complexity": "Intermediate",
-      "description": "",
+      "description": "This session dives into the process of fine-tuning Gemma, Google's open LLM, to create powerful domain-specific models. You'll learn how to prepare custom datasets, apply fine-tuning techniques, and optimise performance for your use case. By the end, you'll have a clear roadmap for adapting Gemma to specialised domains—whether it's healthcare, finance, education, or beyond—making your AI more accurate, relevant, and impactful",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["geeta_kakrani"],
       "tags": [
-        "Web",
-        "Cloud"
+        "Web"
       ],
-      "title": "Web/Cloud Talk #5",
+      "title": "Fine-Tuning Gemma: Adapting Open LLMs for Web Applications",
       "videoId": ""
     },
     "112": {
@@ -1191,6 +1183,279 @@
       "order": 13,
       "rockstarSpeakerOrder": 13,
       "title": "AI Practitioner, Micro SaaS enthusiast, Sr Engineering Director at Nielsen"
+    },
+    "nidhi_desai": {
+      "bio": "I'm Nidhi Desai, Director of Engineering at Rocket, a vibe-solutions platform.\r\nOver my 12-year career, I've evolved from building traditional software to leading AI product development.\r\n\r\nWhat excites me most is bridging the gap between AI hype and real-world impact. I’ve seen how teams struggle to move from ChatGPT experiments to reliable, scalable systems, and that's where my focus lies: turning cutting-edge AI into tools that truly empower creators and developers. For me, AI isn’t just technology, it's a partner in reimagining how we build, think, and create.",
+      "company": "Rocket",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Frocket.jpeg?alt=media&token=38c496b2-55d3-4c1b-8e09-64ccf1e89def",
+      "country": "Vadodara",
+      "featured": false,
+      "name": "Nidhi Desai",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fnidhi-desai.jpg?alt=media&token=ad1422c0-8d80-4e5b-b824-a371bbfbf4f0",
+      "pronouns": "she/her",
+      "shortBio": "I'm Nidhi Desai, Director of Engineering at Rocket, a vibe-solutions platform.\r\nOver my 12-year career, I've evolved fro...",
+      "socials": [],
+      "order": 14,
+      "rockstarSpeakerOrder": 14,
+      "title": "Director Of Engineering"
+    },
+    "sachin_singla": {
+      "bio": "I am Software Engineer 3 at Google. Previously I had worked at Intuit. I have 4+ years experience in the software industry working on cutting edge technologies and building scalable products for millions of users. Apart from tech, I enjoy playing badminton and chess.  ",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Hyderabad",
+      "featured": false,
+      "name": "Sachin Singla",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fsachin-singla.jpg?alt=media&token=999eed82-c4a6-4e07-9f4f-d98130d44099",
+      "pronouns": "he/him",
+      "shortBio": "I am Software Engineer 3 at Google. Previously I had worked at Intuit. I have 4+ years experience in the software indust...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ss_sachinsingla",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/sachin-singla",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/sachin_singla23/",
+          "name": "Instagram"
+        }
+      ],
+      "order": 15,
+      "rockstarSpeakerOrder": 15,
+      "title": "Software Engineer 3"
+    },
+    "shuva_jyoti_kar": {
+      "bio": "Shuva is a distributed AI systems engineer  designing scalable, reliable, and robust enterprise and cloud-based solutions. He has contributed as an Openflow Plugin committer/maintainer and is passionate about clustering. Currently, he serves as a Senior Technical Leader at Cisco's Network Data Platform, focusing on developing, delivering, and maintaining essential components for Network Analytics. Shuva has experience speaking at various events, including Open Source Summits, Opendaylight Conferences, Developer Summits, and IEEE Conferences.",
+      "company": "Cisco Systems (India)",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fcisco.png?alt=media&token=20edce8e-f99f-4070-a810-ee3405beb07f",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Shuva Jyoti Kar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fshuva-jyoti-kar.jpg?alt=media&token=979318c8-4e2f-46f2-92f2-ee42071df472",
+      "pronouns": "he/him",
+      "shortBio": "Shuva is a distributed AI systems engineer  designing scalable, reliable, and robust enterprise and cloud-based solution...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shuva-jyoti-kar-82242428",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/KarShuva54367",
+          "name": "Twitter"
+        }
+      ],
+      "order": 16,
+      "rockstarSpeakerOrder": 16,
+      "title": "Senior Technical Leader"
+    },
+    "rajan_sharma": {
+      "bio": "I am a Principal Architect at iSpace with expertise in Cloud Architecture, AI/ML, Serverless Computing, and Enterprise Security, leading the design of scalable and resilient enterprise solutions. I hold the AWS Security Specialty certification and am preparing for the Machine Learning Specialty, with focus areas including semantic search, intelligent content discovery, and AI-driven optimization in serverless systems.\r\n\r\nAlongside my technical career, I am a Member of the Institute of Directors (IOD), India, and a Mentor with Startup India, where I guide founders and innovators in technology adoption, architecture strategy, and sustainable growth. My work blends deep technical problem solving with leadership, governance, and mentorship, giving me a holistic perspective on how technology drives business and innovation. Passionate about knowledge-sharing, I contribute to developer communities, mentor professionals, and explore the intersection of technology,leadership, and entrepreneurship",
+      "company": "iSpace",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fispace.jpeg?alt=media&token=55426e28-ce1a-44cd-9973-b6ce2b4997b6",
+      "country": "Delhi",
+      "featured": false,
+      "name": "Rajan Sharma",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Frajan-sharma.jpg?alt=media&token=fd52c460-6e8a-418b-818b-5a4a41ebfab5",
+      "pronouns": "he/him",
+      "shortBio": "I am a Principal Architect at iSpace with expertise in Cloud Architecture, AI/ML, Serverless Computing, and Enterprise S...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/therajansharma",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/iserveradmin",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/cloudinnovatorlife",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://rajansharma.in",
+          "name": "Website"
+        }
+      ],
+      "order": 17,
+      "rockstarSpeakerOrder": 17,
+      "title": "Principal Architect"
+    },
+    "dhaval_patel": {
+      "bio": "I am a Cloud/Backend Engineer with over seven years of experience designing, deploying, and managing scalable applications on Google Cloud Platform (GCP) and Amazon Web Services (AWS). My expertise spans Data Engineering, Deep Learning, and ML Operations, with a strong focus on automation, security, and performance optimisation. At Infocusp Innovations, I’ve led projects across contract management, health and wellness applications, and NLP-based language translation using transformer models and Kubeflow pipelines. I’m skilled in Python, Java, and JavaScript, and proficient with Docker, Kubernetes, Terraform, and ArgoCD. I hold a Master’s in ICT from DAIICT and certifications as a Google Cloud Professional Cloud Architect and Professional Cloud Security Engineer. My goal is to develop intelligent, reliable cloud systems that empower innovation through data-driven insights and automation.",
+      "company": "Infocusp Innovations LLP",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Finfocusp.svg?alt=media&token=bfbaef96-0485-4d32-9a16-c7dcfb0d060a",
+      "country": "Gandhinagar",
+      "featured": false,
+      "name": "Dhaval Patel",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fdhaval-patel.jpg?alt=media&token=d27c3671-f60c-4301-a7ed-d8e8eb92dd5d",
+      "pronouns": "he/him",
+      "shortBio": "I am a Cloud/Backend Engineer with over seven years of experience designing, deploying, and managing scalable applicatio...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dhaval-patel-9b3486a1",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 18,
+      "rockstarSpeakerOrder": 18,
+      "title": "VP - Software Engineering"
+    },
+    "tathagat_thapliyal": {
+      "bio": "I'm a Lead JavaScript Engineer, focused on building scalable web products. Currently spearheading Frontend and Design initiatives at Simbian AI.",
+      "company": "Simbian",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fsimbian.webp?alt=media&token=aa68607b-9d69-478d-a70f-f43a17306988",
+      "country": "Bengaluru",
+      "featured": false,
+      "name": "Tathagat Thapliyal",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Ftathagat-thapliyal.jpg?alt=media&token=eef5689a-5400-4cea-a210-97c4709b180f",
+      "pronouns": "he/him",
+      "shortBio": "I'm a Lead JavaScript Engineer, focused on building scalable web products. Currently spearheading Frontend and Design in...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/tathagat2006",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tathagat-thapliyal",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 19,
+      "rockstarSpeakerOrder": 19,
+      "title": "Lead Frontend Engineer"
+    },
+    "munir_khakhi": {
+      "bio": "Munir Khakhi is an accomplished engineering professional with a decade of experience in the technology sector, currently serving as the Head of Engineering and Technical Team Lead at Improwised Technologies Pvt. Ltd. since September 2018. His career with Improwised Technologies began in April 2013 as a Software Engineer, following which he spent a period (May 2017 to August 2018) as a Group Lead - Tech and Sr. Programmer Analyst at Argusoft before returning to his current leadership role. An expert in the Web ecosystem, Munir is known for building end-to-end Web Applications and is a recognized speaker in Rajkot community.\r\n",
+      "company": "Improwised technologies",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fimprowised.jpeg?alt=media&token=70835ddc-5032-4d79-b653-1fec7ccd4b81",
+      "country": "Rajkot",
+      "featured": false,
+      "name": "Munir Khakhi",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fmunir-khakhi.jpg?alt=media&token=133af40a-c3d7-4e4c-b8b7-bfb7e9824f21",
+      "pronouns": "he/him",
+      "shortBio": "Munir Khakhi is an accomplished engineering professional with a decade of experience in the technology sector, currently...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/MunirKhakhi",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/munir-khakhi",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 20,
+      "rockstarSpeakerOrder": 20,
+      "title": "Head of engineering"
+    },
+    "faizan_akhtar": {
+      "bio": "Avid Learner | Always a student | Community Enthusiast | Mixed Reality Evangelist\r\n\r\nA software engineer trying to grasp technical and interpersonal skills as much as possible.",
+      "company": "Criteo",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fcriteo.jpeg?alt=media&token=f7c8bc25-8020-4407-96c1-6ecc3b8cedfd",
+      "country": "Pune",
+      "featured": false,
+      "name": "Faizan Akhtar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Ffaizan-akhtar.jpg?alt=media&token=c8014ccf-ee8a-43e4-86d7-01e805ed5285",
+      "pronouns": "he/him",
+      "shortBio": "Avid Learner | Always a student | Community Enthusiast | Mixed Reality Evangelist\r\n\r\nA software engineer trying to grasp...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/faizan8684",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/akhtar-faizan",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://instagram.com/faizanakhtar___",
+          "name": "Instagram"
+        }
+      ],
+      "order": 21,
+      "rockstarSpeakerOrder": 21,
+      "title": "Software Engineer II"
+    },
+    "geeta_kakrani": {
+      "badges": [
+        {
+          "description": "AI/ML - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/117289769191333876781",
+          "name": "gde"
+        }
+      ],
+      "bio": "Geeta Kakrani, Google Developer Expert, is a technology leader with 22+ years of experience in software and data science, including over a decade in AI and machine learning. As CEO of Kanishka IT, she builds innovative AI-driven solutions that transform data into actionable insights. A seasoned international speaker, Geeta has delivered numerous professional tech talks at global developer conferences as well as prestigious institutions like IIT Delhi, IIM Sambalpur, and IITM Gwalior",
+      "company": "Kanishka IT",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fkanishka_it.jpeg?alt=media&token=a0ef9bc4-9b13-46d1-aa34-ccbc1a281722",
+      "country": "Gwalior",
+      "featured": false,
+      "name": "Geeta Kakrani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fgeeta-kakrani.jpg?alt=media&token=705c1e43-ac02-41bb-8a98-599831d0eb9c",
+      "pronouns": "she/her",
+      "shortBio": "Geeta Kakrani, Google Developer Expert, is a technology leader with 22+ years of experience in software and data science...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/@kakranig",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/geetakakrani",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/geeta.kakrani/",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "http://kanishkait.in",
+          "name": "Website"
+        }
+      ],
+      "order": 22,
+      "rockstarSpeakerOrder": 22,
+      "title": "AI Consultant | Google Developer Expert (GDE) | International Speaker | Helping Businesses Adopt AI Confidently"
     }
   },
   "team": [
