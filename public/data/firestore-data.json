@@ -1202,6 +1202,13 @@
       "title": "Director Of Engineering"
     },
     "sachin_singla": {
+      "badges": [
+        {
+          "description": "Software Engineer",
+          "link": "https://linkedin.com/in/sachin-singla",
+          "name": "google"
+        }
+      ],
       "bio": "I am Software Engineer 3 at Google. Previously I had worked at Intuit. I have 4+ years experience in the software industry working on cutting edge technologies and building scalable products for millions of users. Apart from tech, I enjoy playing badminton and chess.  ",
       "company": "Google",
       "companyLogo": "",
