@@ -113,6 +113,36 @@
           "name": "X/Twitter"
         }
       ]
+    },
+    {
+      "fullName": "Kush Sharma",
+      "location": "Bangalore, India",
+      "bio": "Experienced Senior Software Engineer with 9.5+ years of experience in web development,\nspecializing in Java and AI. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality and secured SaaS apps. My expertise\nincludes hands-on development in Java Multi-threading Web apps and multi-tenant\n architectures using Azure & AWS.",
+      "email": "kushsharma1001@gmail.com",
+      "phone": "+91-9413332180",
+      "imageUrl": "https://github.com/user-attachments/assets/5f4d60c3-5acf-4ca0-8af2-81aaad74f089",
+      "website": "www.github.com/kushsharma1001",
+      "skills": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "C#",
+        "Python",
+        "AWS",
+        "Azure"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/kushsharma1001",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kushsharma1001/",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
