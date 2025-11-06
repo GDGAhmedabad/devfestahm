@@ -9,8 +9,10 @@ fi
 # Define the paths to the serviceAccount and firebase files
 SERVICE_ACCOUNT_DEVELOP="./local/develop/serviceAccount.json"
 SERVICE_ACCOUNT_PROD="./local/production/serviceAccount.json"
+SERVICE_ACCOUNT_DEVFESTAHM25="./local/devfestahm25/serviceAccount.json"
 FIREBASE_DEVELOP="./local/develop/firebase.json"
 FIREBASE_PROD="./local/production/firebase.json"
+FIREBASE_DEVFESTAHM25="./local/devfestahm25/firebase.json"
 
 # Set the deploy command based on the provided environment
 if [ "$1" == "develop" ]; then
@@ -31,6 +33,16 @@ elif [ "$1" == "prod" ]; then
   echo "Files updated"
   echo "Started build and deploy process for prod"
   npx firebase use devfestahm-master
+  # npm run build && NODE_ENV=production firebase deploy
+  npm run deploy
+elif [ "$1" == "devFestAhm25" ]; then
+  cp "$SERVICE_ACCOUNT_DEVFESTAHM25" "./serviceAccount.json"
+  cp "$FIREBASE_DEVFESTAHM25" "./firebase.json"
+  echo "Environment: prod"
+  cat "./serviceAccount.json"
+  echo "Files updated"
+  echo "Started build and deploy process for devFestAhm25"
+  npx firebase use devfestahm25
   # npm run build && NODE_ENV=production firebase deploy
   npm run deploy
 else

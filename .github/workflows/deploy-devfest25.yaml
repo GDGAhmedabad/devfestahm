@@ -1,0 +1,26 @@
+name: Deploy to Firebase Hosting on merge for devfestahm25
+on:
+  push:
+    branches:
+      - devfest25
+jobs:
+  deploy:
+    # To skip the workflow
+    if: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Create temp serviceAccount.json
+        run: echo "{}" > serviceAccount.json
+      - run: npm ci
+      - run: npm run build
+      - uses: w9jds/firebase-action@v2.2.2
+        with:
+          args: deploy
+        env:
+          # See docs/tutorials/04-deploy.md for configuring these
+          PROJECT_ID: devfestahm25
+          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFESTAHM25 }}
