@@ -513,15 +513,15 @@
     },
     "114": {
       "complexity": "Intermediate",
-      "description": "AI features like chat, recommendations, and translation are in huge demand — but building them twice (Android + iOS) slows teams down. In this talk, I'll share how we built AI-powered modules in Kotlin Multiplatform that work across Android/iOS, with shared AI logic + platform-specific UI using Compose Multiplatform.\r\n\r\nThis isn’t just about code reuse: it's about faster MVP validation, lower costs, and scaling globally with one AI codebase.\r\n\r\nKey Takeaways:\r\n\r\nArchitecture for shared AI logic (Gemini APIs, embeddings, local inference).\r\nCompose Multiplatform for AI-driven adaptive UIs.",
+      "description": "Since the launch of the App Store and Play Store, mobile apps have evolved from static screens to highly dynamic, personalized experiences. Traditionally, the backend drives data while the client controls the UI, but as apps grow, shipping updates and iterating on UIs becomes increasingly complex.\r\n\r\nWhat if the server could define the UI itself? What if you could push new screens, features, or fixes without releasing a new app build?\r\n\r\nServer-Driven UI (SDUI) flips the traditional app architecture: the server generates the UI, and the client simply renders it. This approach enables highly dynamic, personalized apps, faster iteration, and simpler maintenance.\r\n\r\nIn this talk, we'll explore the principles of SDUI, its benefits for mobile apps, and the practical challenges of building such systems. You'll also get a hands-on look at Stac, a Flutter SDUI framework that makes it easy to implement server-driven interfaces using Flutter's declarative UI.",
       "language": "English",
       "presentation": "",
-      "speakers": ["akshay_nandwana"],
+      "speakers": ["divyanshu_bhargava"],
       "tags": [
         "Mobile",
-        "Kotlin"
+        "Flutter"
       ],
-      "title": "Kotlin Multiplatform Meets AI: Build Once, Scale Everywhere",
+      "title": "Flip the Script: Let the Server Drive Your Flutter UI",
       "videoId": ""
     },
     "115": {
@@ -1042,43 +1042,50 @@
       "rockstarSpeakerOrder": 9,
       "title": "Engineering Lead"
     },
-    "akshay_nandwana": {
-      "bio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scalable Android applications. He is the founder of Android Engineers, a thriving community where he has mentored 1,000+ developers and created learning resources reaching over 12M+ professionals worldwide.\r\n\r\nPreviously, he collaborated with Google’s Sustainability Team and worked at Zee5, where he optimized app performance, introduced Jetpack Compose frameworks, and enhanced user engagement at scale. A former Google Developer Student Clubs Lead (2018) and Google I/O attendee, Akshay actively contributes to open-source projects and frequently speaks on Android development, Jetpack Compose, Kotlin Multiplatform, and AI-driven mobile experiences.\r\n\r\nHe is passionate about exploring how AI-first practices in Android and Compose Multiplatform can help developers ship faster, scale smarter, and build user-centric apps.",
-      "company": "MeraBills",
+    "divyanshu_bhargava": {
+      "badges": [
+        {
+          "description": "Flutter & Dart - Google Developer Expert",
+          "link": "https://developers.google.com/profile/u/divyanshub024",
+          "name": "gde"
+        }
+      ],
+      "bio": "Divyanshu Bhargava is a Co-Founder of Stac. He is a Google Developer Expert in Flutter & Dart and an Organizer of Flutter Abu Dhabi & Dubai. His passion for building apps took him to mobile development. These days, you’ll find him talking about Flutter and the future of tech. He is an open-source enthusiast and an avid tech blogger. When he is not coding, you can find him kayaking, reading, traveling, or thinking about coding.",
+      "company": "Stac",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fmerabills.png?alt=media&token=2ba2435d-230d-423f-8ac2-3b50169bf278",
-      "country": "Udaipur, Rajasthan",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2FStac.png?alt=media&token=af2c769a-ebf5-44ca-854b-509ebeeedb41",
+      "country": "Bengaluru",
       "featured": false,
-      "name": "Akshay Nandwana",
+      "name": "Divyanshu Bhargava",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fakshay-nandwana.png?alt=media&token=a963da4a-096e-4180-9411-4fb0ecba6b28",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fdivyanshu-bhargava.png?alt=media&token=37b6d849-4287-4605-b81e-3dcf4935493d",
       "pronouns": "he/him",
-      "shortBio": "Akshay Nandwana is a Senior Android Engineer at MeraBills, Mentor, and Speaker with 8+ years of experience building scal...",
+      "shortBio": "Divyanshu Bhargava is a Co-Founder of Stac. He is a Google Developer Expert in Flutter & Dart and an Organizer of Flutte...",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/akshay81844",
+          "link": "https://twitter.com/divyanshub024",
           "name": "X (Twitter)"
         },
         {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/anandwana001",
+          "link": "https://www.linkedin.com/in/divyanshub024",
           "name": "LinkedIn"
         },
         {
           "icon": "instagram",
-          "link": "https://www.instagram.com/_akshay_nandwana/",
+          "link": "https://www.instagram.com/divyanshub024",
           "name": "Instagram"
         },
         {
           "icon": "website",
-          "link": "https://androidengineers.in/",
+          "link": "https://stac.dev/",
           "name": "Website"
         }
       ],
       "order": 10,
       "rockstarSpeakerOrder": 10,
-      "title": "Senior Android Engineer"
+      "title": "Co-Founder"
     },
     "prashant_dalai": {
       "bio": "I am a Flutter developer at Direction Software LLP. In addition, I contribute to the community by speaking at conferences.",
@@ -1390,7 +1397,7 @@
       "bio": "Avid Learner | Always a student | Community Enthusiast | Mixed Reality Evangelist\r\n\r\nA software engineer trying to grasp technical and interpersonal skills as much as possible.",
       "company": "",
       "companyLogo": "",
-      "companyLogoUrl": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
       "country": "Pune",
       "featured": false,
       "name": "Faizan Akhtar",
