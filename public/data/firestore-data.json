@@ -614,7 +614,7 @@
       "title": "Morning coffee"
     },
     "155": {
-      "description": "Welcome Note by Paresh Mayani, Utpal Betai",
+      "description": "For over a decade, DevFest Ahmedabad has been a place where developers, dreamers, and doers come together to learn, build, and grow.\nAnd as we enter our 11th season, the world of technology stands at its most exciting inflection point yet — the era where software thinks, learns, and creates alongside us.\n\nIn this inaugural keynote, Paresh Mayani (Organiser of GDG Ahmedabad and CEO of SolGuruz), and Utpal Betai (Co-organiser of GDG Ahmedabad, Founder/CEO @ Sketch Success) take us on a journey through the evolution of the developer's role in the age of Artificial Intelligence.\n\nThey'll explore how the builders of today are no longer just writing code — they're engineering intelligence, shaping products, and designing experiences that redefine innovation itself.\n\nThis talk is a call to every developer in the room — to embrace curiosity, creativity, and courage as we enter a new era of product engineering powered by AI.\nBecause the future doesn't belong to automation.\nIt belongs to those who build — the Intelligent Builders.",
       "icon": "opening",
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
@@ -623,7 +623,7 @@
         "paresh_mayani",
         "utpal_betai"
       ],
-      "title": "GDG DevFest Ahmedabad 2025 Opening",
+      "title": "Intelligent Builders: The New Era of Product Engineering in AI",
       "videoId": ""
     },
     "156": {
@@ -1841,6 +1841,30 @@
           ],
           "order": 3,
           "title": ""
+        },
+        {
+          "name": "Pranay Patel",
+          "photo": "/images/people/others/pranay_patel_22.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fpranay_patel_22.jpg?alt=media&token=d319ced6-d197-4010-8d91-a63ef78438c1",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pranaypatel_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pranaypatel512/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://medium.com/@pranaypatel",
+              "name": "Blog"
+            }
+          ],
+          "order": 4,
+          "title": ""
         }
       ],
       "order": 3,
@@ -2095,6 +2119,20 @@
           ],
           "order": 11,
           "title": ""
+        },
+        {
+          "name": "Jenish Patel",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fankit_mistry_25.jpg?alt=media&token=3cb723c8-ae3e-4b03-b6cc-03777c28566d",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/jenish-patel26",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 12,
+          "title": ""
         }
       ],
       "order": 5,
@@ -2257,6 +2295,44 @@
             }
           ],
           "order": 7,
+          "title": ""
+        },
+        {
+          "name": "Ashish Chawla",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fashish_chawla_25.jpeg?alt=media&token=7892c51c-402e-4905-a994-0335588e91df",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/ashishjchawla",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/achawla-234",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 8,
+          "title": ""
+        },
+        {
+          "name": "Karan Chugh",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fkarsan_chugh_25.jpeg?alt=media&token=92fe7647-623d-4534-9684-11b4c11e3c67",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://x.com/karan_chugh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://au.linkedin.com/in/chughkaran",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 9,
           "title": ""
         }
       ],
