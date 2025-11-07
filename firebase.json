@@ -11,7 +11,7 @@
   },
   "hosting": {
     "public": "dist",
-    "site": "devfestahm-develop",
+    "site": "devfestahm25",
     "ignore": [
       "firebase.json",
       "**/.*",
