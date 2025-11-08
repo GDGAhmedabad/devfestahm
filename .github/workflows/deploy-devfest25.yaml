@@ -5,8 +5,6 @@ on:
       - devfest25
 jobs:
   deploy:
-    # To skip the workflow
-    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
