@@ -107,51 +107,51 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.jpg",
-          "name": "GDG Cloud Ahmedabad",
-          "url": "https://twitter.com/gdgcloudahm"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/it-sales-community.png",
-          "name": "IT Sales Community",
-          "url": "https://www.itsalescommunity.com"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/aimed.svg",
-          "name": "Ahmedabad IT Management Executive Delegation",
-          "url": "https://www.linkedin.com/company/ceo-aimed"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/ffsc.png",
-          "name": "FlutterFlow Students Community India",
-          "url": "https://www.linkedin.com/company/ffscindia"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/gdg-cloud-gandhinagar.svg",
-          "name": "GDG Cloud Gandhinagar",
-          "url": "https://gdg.community.dev/gdg-cloud-gandhinagar"
-        },
-        {
-          "order": 5,
           "logoUrl": "../images/logos/gdg-gandhinagar.png",
           "name": "GDG Cloud Gandhinagar",
           "url": "https://gdg.community.dev/gdg-gandhinagar"
         },
         {
-          "order": 6,
+          "order": 1,
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.jpg",
+          "name": "GDG Cloud Ahmedabad",
+          "url": "https://twitter.com/gdgcloudahm"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/gdg-cloud-gandhinagar.svg",
+          "name": "GDG Cloud Gandhinagar",
+          "url": "https://gdg.community.dev/gdg-cloud-gandhinagar"
+        },
+        {
+          "order": 3,
           "logoUrl": "../images/logos/gdg-on-campus-Ahmedabad-Institute-of-Technology.jpg",
           "name": "GDG On Campus - Ahmedabad Institute of Technology",
           "url": "https://gdg.community.dev/gdg-on-campus-ahmedabad-institute-of-technology-ahmedabad-india"
         },
         {
-          "order": 7,
+          "order": 4,
           "logoUrl": "../images/logos/gdg-on-campus-karnavati.jpg",
           "name": "GDG On Campus - Karnavati University",
           "url": "https://gdg.community.dev/gdg-on-campus-karnavati-university-gandhinagar-india"
+        },
+        {
+          "order": 5,
+          "logoUrl": "../images/logos/ffsc.png",
+          "name": "FlutterFlow Students Community India",
+          "url": "https://www.linkedin.com/company/ffscindia"
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/it-sales-community.png",
+          "name": "IT Sales Community",
+          "url": "https://www.itsalescommunity.com"
+        },
+        {
+          "order": 7,
+          "logoUrl": "../images/logos/aimed.svg",
+          "name": "Ahmedabad IT Management Executive Delegation",
+          "url": "https://www.linkedin.com/company/ceo-aimed"
         },
         {
           "order": 8,
@@ -173,7 +173,7 @@
         },
         {
           "order": 11,
-          "logoUrl": "../images/logos/TechExpo-Gujarat.png",
+          "logoUrl": "../images/logos/TechExpo-Gujarat.svg",
           "name": "Tech Expo Gujarat",
           "url": "https://www.techexpogujarat.com"
         },
