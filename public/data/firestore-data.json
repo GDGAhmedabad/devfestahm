@@ -364,15 +364,15 @@
     },
     "102": {
       "complexity": "Intermediate",
-      "description": "We'll deep-dive into designing a Multi-Vector RAG engine, where user profiles, behavioral signals, and product embeddings form multiple retrieval vectors that power highly tailored results. You'll learn how to combine semantic search, intent recognition, and generative responses to create adaptive AI agents capable of refining search and recommendations as users interact.\r\nThrough architecture blueprints, real-world examples, and live discussions, we'll cover:\r\nHow to architect a scalable Multi-Vector RAG pipeline\r\nIntegrating GenAI agents for dynamic user intent modeling\r\nLeveraging embeddings from products, users, and context for precision recall\r\nPersonalization techniques that go beyond keywords.",
+      "description": "Harnessing the Power of Google Vertex AI: A Deep Dive into AutoML and End-to-End AI Solutions\r\n\r\n- Learn the core components of Google Vertex AI and its role in simplifying AI model development\r\n- Explore how AutoML allows for automatic model building and optimization without deep ML knowledge \r\n- Hands-on experience through a live demo of building a Image Object Detection model with AutoML and insights into using custom models with Vertex AI\r\n- After attending this session anyone from audience with basic knowledge will be able to build the AI/ML model from scratch as per their usecase\r\n- Will cover and discuss components like Dataset, Evalution, Building, Training model along with A/B testing",
       "language": "English",
       "presentation": "",
-      "speakers": ["pranoti_nandurkar"],
+      "speakers": ["harsh_manvar"],
       "tags": [
         "AI/ML",
         "Cloud"
       ],
-      "title": "GenAI Agents for Dynamic Personalization: Architecting a Multi-Vector RAG Engine for E-commerce Search",
+      "title": "Google Vertex AI: An Introduction to AutoML with Real-World Demo",
       "videoId": ""
     },
     "103": {
@@ -1470,6 +1470,44 @@
       "order": 22,
       "rockstarSpeakerOrder": 22,
       "title": "AI Consultant | Google Developer Expert (GDE) | International Speaker | Helping Businesses Adopt AI Confidently"
+    },
+    "harsh_manvar": {
+      "bio": "Seasoned Engineer, with over half a decade of experience in the tech industry as a Software & DevOps Engineer. \r\n\r\nDeeply passionate about cutting-edge tech, creating scalable and highly available infrastructure architecture. Proudly holding the titles of Docker Captain, CNCF Ambassador, and Google Champion Innovator, Google Dev Expert. \r\n\r\nHe is known within his team as the go-to person for addressing infrastructure, and container-related challenges. Renowned for his innovative problem-solving approach, he consistently finds inventive solutions that contribute to the team's success and efficiency.\r\n\r\nIf you catch him outside of work, he is an adventurous traveler and an avid contributor at Stack Overflow !",
+      "company": "podstack.ai",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fpodstack.jpeg?alt=media&token=b2f6208f-615e-4def-b533-f9c60292c5ed",
+      "country": "Rajkot",
+      "featured": false,
+      "name": "Harsh Manvar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fharsh-manvar.jpeg?alt=media&token=8eb3df49-f9af-46ad-8de6-140a28987f79",
+      "pronouns": "he/him",
+      "shortBio": "Seasoned Engineer, with over half a decade of experience in the tech industry as a Software & DevOps Engineer. \r\n\r\nDeepl...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/manvar_harsh",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harsh-manvar-64a30aa3",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/harsh_manvar",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@harsh.manvar111",
+          "name": "Website"
+        }
+      ],
+      "order": 23,
+      "rockstarSpeakerOrder": 23,
+      "title": "Founder"
     }
   },
   "team": [
