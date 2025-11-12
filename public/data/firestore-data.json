@@ -143,42 +143,66 @@
         },
         {
           "order": 6,
+          "logoUrl": "../images/logos/ffdg-ahmedabad.svg",
+          "name": "FlutterFlow Ahmedabad",
+          "url": "https://www.meetup.com/ffdg-ahmedabad"
+        },
+        {
+          "order": 7,
+          "logoUrl": "../images/logos/ffdg-gandhinagar.png",
+          "name": "FlutterFlow Gandhinagar",
+          "url": "https://www.linkedin.com/company/ffdggandhinagar"
+        },
+        {
+          "order": 8,
+          "logoUrl": "../images/logos/ffdg-rajkot.png",
+          "name": "FlutterFlow Rajkor",
+          "url": "https://www.linkedin.com/company/ffdgrajkot"
+        },
+        {
+          "order": 9,
+          "logoUrl": "../images/logos/FlutterFlakes.png",
+          "name": "Flutter Flakes",
+          "url": "https://flutterflakes.com"
+        },
+        {
+          "order": 10,
           "logoUrl": "../images/logos/it-sales-community.png",
           "name": "IT Sales Community",
           "url": "https://www.itsalescommunity.com"
         },
         {
-          "order": 7,
-          "logoUrl": "../images/logos/aimed.svg",
+          "order": 11,
+          "logoUrl": "../images/logos/aimed.png",
           "name": "Ahmedabad IT Management Executive Delegation",
           "url": "https://www.linkedin.com/company/ceo-aimed"
         },
         {
-          "order": 8,
+          "order": 12,
           "logoUrl": "../images/logos/LaraconIN.jpg",
           "name": "Laracon India",
           "url": "https://www.laracon.in"
         },
         {
-          "order": 9,
+          "order": 13,
           "logoUrl": "../images/logos/onchain-gujju.png",
           "name": "OnChain Gujju",
           "url": "https://x.com/OnchainGujju"
         },
         {
-          "order": 10,
+          "order": 14,
           "logoUrl": "../images/logos/osw.jpg",
           "name": "Open Source Weekend",
           "url": "https://www.linkedin.com/company/open-source-weekend"
         },
         {
-          "order": 11,
+          "order": 15,
           "logoUrl": "../images/logos/TechExpo-Gujarat.svg",
           "name": "Tech Expo Gujarat",
           "url": "https://www.techexpogujarat.com"
         },
         {
-          "order": 12,
+          "order": 16,
           "logoUrl": "../images/logos/THM.jpg",
           "name": "The Hackers Meetup",
           "url": "https://thehackersmeetup.org/"
