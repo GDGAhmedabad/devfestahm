@@ -107,7 +107,7 @@
       "items": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.png",
+          "logoUrl": "../images/logos/gdg_cloud_ahmedabad.jpg",
           "name": "GDG Cloud Ahmedabad",
           "url": "https://twitter.com/gdgcloudahm"
         },
@@ -116,6 +116,72 @@
           "logoUrl": "../images/logos/it-sales-community.png",
           "name": "IT Sales Community",
           "url": "https://www.itsalescommunity.com"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/aimed.svg",
+          "name": "Ahmedabad IT Management Executive Delegation",
+          "url": "https://www.linkedin.com/company/ceo-aimed"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/ffsc.png",
+          "name": "FlutterFlow Students Community India",
+          "url": "https://www.linkedin.com/company/ffscindia"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/gdg-cloud-gandhinagar.svg",
+          "name": "GDG Cloud Gandhinagar",
+          "url": "https://gdg.community.dev/gdg-cloud-gandhinagar"
+        },
+        {
+          "order": 5,
+          "logoUrl": "../images/logos/gdg-gandhinagar.png",
+          "name": "GDG Cloud Gandhinagar",
+          "url": "https://gdg.community.dev/gdg-gandhinagar"
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/gdg-on-campus-Ahmedabad-Institute-of-Technology.jpg",
+          "name": "GDG On Campus - Ahmedabad Institute of Technology",
+          "url": "https://gdg.community.dev/gdg-on-campus-ahmedabad-institute-of-technology-ahmedabad-india"
+        },
+        {
+          "order": 7,
+          "logoUrl": "../images/logos/gdg-on-campus-karnavati.jpg",
+          "name": "GDG On Campus - Karnavati University",
+          "url": "https://gdg.community.dev/gdg-on-campus-karnavati-university-gandhinagar-india"
+        },
+        {
+          "order": 8,
+          "logoUrl": "../images/logos/LaraconIN.jpg",
+          "name": "Laracon India",
+          "url": "https://www.laracon.in"
+        },
+        {
+          "order": 9,
+          "logoUrl": "../images/logos/onchain-gujju.png",
+          "name": "OnChain Gujju",
+          "url": "https://x.com/OnchainGujju"
+        },
+        {
+          "order": 10,
+          "logoUrl": "../images/logos/osw.jpg",
+          "name": "Open Source Weekend",
+          "url": "https://www.linkedin.com/company/open-source-weekend"
+        },
+        {
+          "order": 11,
+          "logoUrl": "../images/logos/TechExpo-Gujarat.png",
+          "name": "Tech Expo Gujarat",
+          "url": "https://www.techexpogujarat.com"
+        },
+        {
+          "order": 12,
+          "logoUrl": "../images/logos/THM.jpg",
+          "name": "The Hackers Meetup",
+          "url": "https://thehackersmeetup.org/"
         }
       ],
       "order": 4,
@@ -177,12 +243,12 @@
           "sessions": [
             {
               "items": [
-                "102"
+                "104"
               ]
             },
             {
               "items": [
-                "107"
+                "110"
               ]
             },
             {
@@ -209,12 +275,12 @@
             },
             {
               "items": [
-                "108"
+                "111"
               ]
             },
             {
               "items": [
-                "113"
+                "114"
               ]
             },
             {
@@ -239,43 +305,17 @@
           "sessions": [
             {
               "items": [
-                "104"
-              ]
-            },
-            {
-              "items": [
-                "109"
-              ]
-            },
-            {
-              "items": [
-                "114"
-              ]
-            },
-            {
-              "items": [
-                "118"
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "15:30",
-          "endTime": "16:30",
-          "sessions": [
-            {
-              "items": [
                 "105"
               ]
             },
             {
               "items": [
-                "110"
+                "108"
               ]
             },
             {
               "items": [
-                "115"
+                "113"
               ]
             },
             {
@@ -287,8 +327,8 @@
           ]
         },
         {
-          "startTime": "16:30",
-          "endTime": "17:30",
+          "startTime": "15:30",
+          "endTime": "16:30",
           "sessions": [
             {
               "items": [
@@ -297,7 +337,7 @@
             },
             {
               "items": [
-                "111"
+                "109"
               ]
             },
             {
@@ -306,7 +346,34 @@
               ]
             },
             {
+              "extend": 2,
               "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                "102"
+              ]
+            },
+            {
+              "items": [
+                "107"
+              ]
+            },
+            {
+              "items": [
+                "115"
+              ]
+            },
+            {
+              "items": [
+                "118"
+              ]
             }
           ]
         },
@@ -355,24 +422,24 @@
       "description": "",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["harsh_dattani"],
       "tags": [
         "Keynote"
       ],
-      "title": "Googlers - Developer Keynote",
+      "title": "Agents and the new software paradigm",
       "videoId": ""
     },
     "102": {
       "complexity": "Intermediate",
-      "description": "We'll deep-dive into designing a Multi-Vector RAG engine, where user profiles, behavioral signals, and product embeddings form multiple retrieval vectors that power highly tailored results. You'll learn how to combine semantic search, intent recognition, and generative responses to create adaptive AI agents capable of refining search and recommendations as users interact.\r\nThrough architecture blueprints, real-world examples, and live discussions, we'll cover:\r\nHow to architect a scalable Multi-Vector RAG pipeline\r\nIntegrating GenAI agents for dynamic user intent modeling\r\nLeveraging embeddings from products, users, and context for precision recall\r\nPersonalization techniques that go beyond keywords.",
+      "description": "Harnessing the Power of Google Vertex AI: A Deep Dive into AutoML and End-to-End AI Solutions\r\n\r\n- Learn the core components of Google Vertex AI and its role in simplifying AI model development\r\n- Explore how AutoML allows for automatic model building and optimization without deep ML knowledge \r\n- Hands-on experience through a live demo of building a Image Object Detection model with AutoML and insights into using custom models with Vertex AI\r\n- After attending this session anyone from audience with basic knowledge will be able to build the AI/ML model from scratch as per their usecase\r\n- Will cover and discuss components like Dataset, Evalution, Building, Training model along with A/B testing",
       "language": "English",
       "presentation": "",
-      "speakers": ["pranoti_nandurkar"],
+      "speakers": ["harsh_manvar"],
       "tags": [
         "AI/ML",
         "Cloud"
       ],
-      "title": "GenAI Agents for Dynamic Personalization: Architecting a Multi-Vector RAG Engine for E-commerce Search",
+      "title": "Google Vertex AI: An Introduction to AutoML with Real-World Demo",
       "videoId": ""
     },
     "103": {
@@ -1470,6 +1537,79 @@
       "order": 22,
       "rockstarSpeakerOrder": 22,
       "title": "AI Consultant | Google Developer Expert (GDE) | International Speaker | Helping Businesses Adopt AI Confidently"
+    },
+    "harsh_manvar": {
+      "bio": "Seasoned Engineer, with over half a decade of experience in the tech industry as a Software & DevOps Engineer. \r\n\r\nDeeply passionate about cutting-edge tech, creating scalable and highly available infrastructure architecture. Proudly holding the titles of Docker Captain, CNCF Ambassador, and Google Champion Innovator, Google Dev Expert. \r\n\r\nHe is known within his team as the go-to person for addressing infrastructure, and container-related challenges. Renowned for his innovative problem-solving approach, he consistently finds inventive solutions that contribute to the team's success and efficiency.\r\n\r\nIf you catch him outside of work, he is an adventurous traveler and an avid contributor at Stack Overflow !",
+      "company": "podstack.ai",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fpodstack.jpeg?alt=media&token=b2f6208f-615e-4def-b533-f9c60292c5ed",
+      "country": "Rajkot",
+      "featured": false,
+      "name": "Harsh Manvar",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2023%2Fharsh-manvar.jpeg?alt=media&token=8eb3df49-f9af-46ad-8de6-140a28987f79",
+      "pronouns": "he/him",
+      "shortBio": "Seasoned Engineer, with over half a decade of experience in the tech industry as a Software & DevOps Engineer. \r\n\r\nDeepl...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/manvar_harsh",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harsh-manvar-64a30aa3",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/harsh_manvar",
+          "name": "Instagram"
+        },
+        {
+          "icon": "website",
+          "link": "https://medium.com/@harsh.manvar111",
+          "name": "Website"
+        }
+      ],
+      "order": 23,
+      "rockstarSpeakerOrder": 23,
+      "title": "Founder"
+    },
+    "harsh_dattani": {
+      "badges": [
+        {
+          "description": "Regional Lead",
+          "link": "https://www.linkedin.com/in/harshdattani",
+          "name": "google"
+        }
+      ],
+      "bio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom of a Yoda.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Harsh Dattani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_dattani.jpg?alt=media&token=840dc7b6-3fd7-49ba-bf1e-82ffed2078dc",
+      "pronouns": "he/him",
+      "shortBio": "A Jedi Knight, journeying through the galaxy to master the Force and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dattaniharsh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshdattani",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "Regional Lead, Google Developer Relations India"
     }
   },
   "team": [
@@ -2428,26 +2568,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 5,
-          "title": ""
-        },
-        {
-          "name": "Jigar vyas",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fjigar_vyas.jpg?alt=media&token=7cd44640-ee80-4216-9b26-323fb14f54d1",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/jigarvyasidea",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/jigarvyass",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 6,
+          "order": 4,
           "title": ""
         },
         {
@@ -2466,26 +2587,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 7,
-          "title": ""
-        },
-        {
-          "name": "Mahakrishan Lohar",
-          "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2024%2Fmahakrishan_lohar.jpg?alt=media&token=0504681a-fa9d-46d2-8fcb-d67990e03711",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://x.com/mahakrishan21",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/mahakrishan21",
-              "name": "LinkedIn"
-            }
-          ],
-          "order": 8,
+          "order": 5,
           "title": ""
         },
         {
@@ -2499,7 +2601,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 9,
+          "order": 6,
           "title": ""
         },
         {
@@ -2518,7 +2620,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 10,
+          "order": 7,
           "title": ""
         },
         {
@@ -2537,7 +2639,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 11,
+          "order": 8,
           "title": ""
         },
         {
@@ -2556,7 +2658,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 12,
+          "order": 9,
           "title": ""
         },
         {
@@ -2575,7 +2677,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 14,
+          "order": 10,
           "title": ""
         },
         {
@@ -2594,7 +2696,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 16,
+          "order": 11,
           "title": ""
         },
         {
@@ -2613,7 +2715,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 17,
+          "order": 12,
           "title": ""
         },
         {
@@ -2632,7 +2734,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 19,
+          "order": 13,
           "title": ""
         },
         {
@@ -2651,7 +2753,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 21,
+          "order": 14,
           "title": ""
         },
         {
@@ -2670,7 +2772,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 22,
+          "order": 15,
           "title": ""
         },
         {
@@ -2689,7 +2791,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 23,
+          "order": 16,
           "title": ""
         },
         {
@@ -2708,7 +2810,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 25,
+          "order": 17,
           "title": ""
         },
         {
@@ -2727,7 +2829,7 @@
               "name": "LinkedIn"
             }
           ],
-          "order": 26,
+          "order": 18,
           "title": ""
         }
       ],
