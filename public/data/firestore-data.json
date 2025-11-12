@@ -108,7 +108,7 @@
         {
           "order": 0,
           "logoUrl": "../images/logos/gdg-gandhinagar.png",
-          "name": "GDG Cloud Gandhinagar",
+          "name": "GDG Gandhinagar",
           "url": "https://gdg.community.dev/gdg-gandhinagar"
         },
         {
@@ -144,19 +144,19 @@
         {
           "order": 6,
           "logoUrl": "../images/logos/ffdg-ahmedabad.svg",
-          "name": "FlutterFlow Ahmedabad",
+          "name": "FlutterFlow Developer Group Ahmedabad",
           "url": "https://www.meetup.com/ffdg-ahmedabad"
         },
         {
           "order": 7,
           "logoUrl": "../images/logos/ffdg-gandhinagar.png",
-          "name": "FlutterFlow Gandhinagar",
+          "name": "FlutterFlow Developer Group Gandhinagar",
           "url": "https://www.linkedin.com/company/ffdggandhinagar"
         },
         {
           "order": 8,
           "logoUrl": "../images/logos/ffdg-rajkot.png",
-          "name": "FlutterFlow Rajkor",
+          "name": "FlutterFlow Developer Group Rajkot",
           "url": "https://www.linkedin.com/company/ffdgrajkot"
         },
         {
