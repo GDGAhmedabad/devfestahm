@@ -107,78 +107,102 @@
       "items": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/gdg-gandhinagar.png",
+          "name": "GDG Gandhinagar",
+          "url": "https://gdg.community.dev/gdg-gandhinagar"
+        },
+        {
+          "order": 1,
           "logoUrl": "../images/logos/gdg_cloud_ahmedabad.jpg",
           "name": "GDG Cloud Ahmedabad",
           "url": "https://twitter.com/gdgcloudahm"
         },
         {
-          "order": 1,
-          "logoUrl": "../images/logos/it-sales-community.png",
-          "name": "IT Sales Community",
-          "url": "https://www.itsalescommunity.com"
-        },
-        {
           "order": 2,
-          "logoUrl": "../images/logos/aimed.svg",
-          "name": "Ahmedabad IT Management Executive Delegation",
-          "url": "https://www.linkedin.com/company/ceo-aimed"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/ffsc.png",
-          "name": "FlutterFlow Students Community India",
-          "url": "https://www.linkedin.com/company/ffscindia"
-        },
-        {
-          "order": 4,
           "logoUrl": "../images/logos/gdg-cloud-gandhinagar.svg",
           "name": "GDG Cloud Gandhinagar",
           "url": "https://gdg.community.dev/gdg-cloud-gandhinagar"
         },
         {
-          "order": 5,
-          "logoUrl": "../images/logos/gdg-gandhinagar.png",
-          "name": "GDG Cloud Gandhinagar",
-          "url": "https://gdg.community.dev/gdg-gandhinagar"
-        },
-        {
-          "order": 6,
+          "order": 3,
           "logoUrl": "../images/logos/gdg-on-campus-Ahmedabad-Institute-of-Technology.jpg",
           "name": "GDG On Campus - Ahmedabad Institute of Technology",
           "url": "https://gdg.community.dev/gdg-on-campus-ahmedabad-institute-of-technology-ahmedabad-india"
         },
         {
-          "order": 7,
+          "order": 4,
           "logoUrl": "../images/logos/gdg-on-campus-karnavati.jpg",
           "name": "GDG On Campus - Karnavati University",
           "url": "https://gdg.community.dev/gdg-on-campus-karnavati-university-gandhinagar-india"
         },
         {
+          "order": 5,
+          "logoUrl": "../images/logos/ffsc.png",
+          "name": "FlutterFlow Students Community India",
+          "url": "https://www.linkedin.com/company/ffscindia"
+        },
+        {
+          "order": 6,
+          "logoUrl": "../images/logos/ffdg-ahmedabad.svg",
+          "name": "FlutterFlow Developer Group Ahmedabad",
+          "url": "https://www.meetup.com/ffdg-ahmedabad"
+        },
+        {
+          "order": 7,
+          "logoUrl": "../images/logos/ffdg-gandhinagar.png",
+          "name": "FlutterFlow Developer Group Gandhinagar",
+          "url": "https://www.linkedin.com/company/ffdggandhinagar"
+        },
+        {
           "order": 8,
+          "logoUrl": "../images/logos/ffdg-rajkot.png",
+          "name": "FlutterFlow Developer Group Rajkot",
+          "url": "https://www.linkedin.com/company/ffdgrajkot"
+        },
+        {
+          "order": 9,
+          "logoUrl": "../images/logos/FlutterFlakes.png",
+          "name": "Flutter Flakes",
+          "url": "https://flutterflakes.com"
+        },
+        {
+          "order": 10,
+          "logoUrl": "../images/logos/it-sales-community.png",
+          "name": "IT Sales Community",
+          "url": "https://www.itsalescommunity.com"
+        },
+        {
+          "order": 11,
+          "logoUrl": "../images/logos/aimed.png",
+          "name": "Ahmedabad IT Management Executive Delegation",
+          "url": "https://www.linkedin.com/company/ceo-aimed"
+        },
+        {
+          "order": 12,
           "logoUrl": "../images/logos/LaraconIN.jpg",
           "name": "Laracon India",
           "url": "https://www.laracon.in"
         },
         {
-          "order": 9,
+          "order": 13,
           "logoUrl": "../images/logos/onchain-gujju.png",
           "name": "OnChain Gujju",
           "url": "https://x.com/OnchainGujju"
         },
         {
-          "order": 10,
+          "order": 14,
           "logoUrl": "../images/logos/osw.jpg",
           "name": "Open Source Weekend",
           "url": "https://www.linkedin.com/company/open-source-weekend"
         },
         {
-          "order": 11,
-          "logoUrl": "../images/logos/TechExpo-Gujarat.png",
+          "order": 15,
+          "logoUrl": "../images/logos/TechExpo-Gujarat.svg",
           "name": "Tech Expo Gujarat",
           "url": "https://www.techexpogujarat.com"
         },
         {
-          "order": 12,
+          "order": 16,
           "logoUrl": "../images/logos/THM.jpg",
           "name": "The Hackers Meetup",
           "url": "https://thehackersmeetup.org/"
@@ -851,7 +875,7 @@
           "name": "gdg"
         }
       ],
-      "bio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience, currently working at Hyperlink InfoSystem. She actively manages the Women Techmakers Ahmedabad chapter and has been selected as a Women Techmakers Ambassador. Khushbu loves building innovative solutions, exploring the latest in technology, and inspiring the tech community through mentorship and knowledge sharing.",
+      "bio": "Over the past 9+ years, I have built a strong foundation in mobile app development and recently joined Ajmera Infotech as a Senior SDE II. My core expertise lies in Android and Flutter technologies, with hands-on proficiency in Kotlin, Jetpack Compose, Flutter. I bring a strategic mindset to software engineering by combining technical excellence with project management capabilities to deliver scalable, performant, and user-centric applications.\n\nDuring my tenure, I contributed to designing and developing high-quality mobile solutions, optimizing workloads, and integrating cross-platform payment gateways and enhancing both efficiency and user experience.\n\nBeyond development, I am an active community contributor through GDG Ahmedabad and Women Techmakers, mentoring developers and empowering women in technology. My passion lies in advancing Android innovation, fostering collaborative team environments, and leveraging modern tools to create impactful digital experiences in the ever-evolving mobile landscape.",
       "company": "Hyperlink Infosystem pvt.ltd",
       "companyLogo": "",
       "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2022%2Fcompany%2Fcompany-placeholder.png?alt=media&token=647690fa-9388-45f9-810f-a5d0c3b07f49",
@@ -859,9 +883,9 @@
       "featured": false,
       "name": "Khushbu Thakker",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2023%2Fkhushbu-thakker.jpg?alt=media&token=02370143-5303-4b2c-9981-8fb6ae1329e9",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fkhushbu_thakker.jpg?alt=media&token=e61c28a1-43ed-4481-b5b8-1f5ae499d993",
       "pronouns": "she/her",
-      "shortBio": "Khushbu Thakker is a passionate Android and Flutter developer with over 8 years of experience...",
+      "shortBio": "Over the past 9+ years, I have built a strong foundation in mobile app development and recently joined...",
       "socials": [
         {
           "icon": "twitter",
@@ -2263,7 +2287,7 @@
         {
           "name": "Jenish Patel",
           "photo": "",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fankit_mistry_25.jpg?alt=media&token=3cb723c8-ae3e-4b03-b6cc-03777c28566d",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fothers%2Fvolunteers%2F2025%2Fjenish_patel_25.jpg?alt=media&token=8f547c2e-063a-409d-b87e-4c503ba91429",
           "socials": [
             {
               "icon": "linkedin",
