@@ -243,12 +243,12 @@
           "sessions": [
             {
               "items": [
-                "102"
+                "104"
               ]
             },
             {
               "items": [
-                "107"
+                "110"
               ]
             },
             {
@@ -275,12 +275,12 @@
             },
             {
               "items": [
-                "108"
+                "111"
               ]
             },
             {
               "items": [
-                "113"
+                "114"
               ]
             },
             {
@@ -305,43 +305,17 @@
           "sessions": [
             {
               "items": [
-                "104"
-              ]
-            },
-            {
-              "items": [
-                "109"
-              ]
-            },
-            {
-              "items": [
-                "114"
-              ]
-            },
-            {
-              "items": [
-                "118"
-              ]
-            }
-          ]
-        },
-        {
-          "startTime": "15:30",
-          "endTime": "16:30",
-          "sessions": [
-            {
-              "items": [
                 "105"
               ]
             },
             {
               "items": [
-                "110"
+                "108"
               ]
             },
             {
               "items": [
-                "115"
+                "113"
               ]
             },
             {
@@ -353,8 +327,8 @@
           ]
         },
         {
-          "startTime": "16:30",
-          "endTime": "17:30",
+          "startTime": "15:30",
+          "endTime": "16:30",
           "sessions": [
             {
               "items": [
@@ -363,7 +337,7 @@
             },
             {
               "items": [
-                "111"
+                "109"
               ]
             },
             {
@@ -372,7 +346,34 @@
               ]
             },
             {
+              "extend": 2,
               "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": [
+                "102"
+              ]
+            },
+            {
+              "items": [
+                "107"
+              ]
+            },
+            {
+              "items": [
+                "115"
+              ]
+            },
+            {
+              "items": [
+                "118"
+              ]
             }
           ]
         },
@@ -421,11 +422,11 @@
       "description": "",
       "language": "English",
       "presentation": "",
-      "speakers": [],
+      "speakers": ["harsh_dattani"],
       "tags": [
         "Keynote"
       ],
-      "title": "Googlers - Developer Keynote",
+      "title": "Agents and the new software paradigm",
       "videoId": ""
     },
     "102": {
@@ -1574,6 +1575,41 @@
       "order": 23,
       "rockstarSpeakerOrder": 23,
       "title": "Founder"
+    },
+    "harsh_dattani": {
+      "badges": [
+        {
+          "description": "Regional Lead",
+          "link": "https://www.linkedin.com/in/harshdattani",
+          "name": "google"
+        }
+      ],
+      "bio": "A Jedi Knight, journeying through the galaxy to master the Force and achieve the wisdom of a Yoda.",
+      "company": "Google",
+      "companyLogo": "",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2019%2Fcompany%2Fgoogle.png?alt=media&token=7d3b627c-bbd0-4941-9bcc-a67cacc0761c",
+      "country": "Bangalore",
+      "featured": true,
+      "name": "Harsh Dattani",
+      "photo": "",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2024%2Fharsh_dattani.jpg?alt=media&token=840dc7b6-3fd7-49ba-bf1e-82ffed2078dc",
+      "pronouns": "he/him",
+      "shortBio": "A Jedi Knight, journeying through the galaxy to master the Force and...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dattaniharsh",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshdattani",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 24,
+      "rockstarSpeakerOrder": 24,
+      "title": "Regional Lead, Google Developer Relations India"
     }
   },
   "team": [
