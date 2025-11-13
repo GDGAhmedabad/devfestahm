@@ -241,11 +241,22 @@
         },
         {
           "startTime": "10:00",
-          "endTime": "10:30",
+          "endTime": "10:20",
           "sessions": [
             {
               "items": [
                 "101"
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:20",
+          "endTime": "10:30",
+          "sessions": [
+            {
+              "items": [
+                "161"
               ]
             }
           ]
@@ -710,10 +721,7 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language": "English",
       "presentation": "",
-      "speakers": [
-        "paresh_mayani",
-        "utpal_betai"
-      ],
+      "speakers": ["paresh_mayani"],
       "title": "Intelligent Builders: The New Era of Product Engineering in AI",
       "videoId": ""
     },
@@ -749,6 +757,20 @@
       "description": "Networking and Separation Break for/from different tracks",
       "language": "English",
       "title": "Networking - Separation Break"
+    },
+    "161": {
+      "complexity": "Intermediate",
+      "description": "- What, Why and Why Not of AI \n- Good, Bad and Ugly of AI \n- What if Your Future \n\n- Gen AI and Infinite Possibilities \n- What not to do with AI \n- What AI should do for Mankind \n\n- Let Me Predict the Future \n- There is life beyond AI",
+      "language": "English",
+      "presentation": "",
+      "speakers": [
+        "utpal_betai"
+      ],
+      "tags": [
+        "Keynote"
+      ],
+      "title": "Focus on Future Keynote",
+      "videoId": ""
     }
   },
   "speakers": {
@@ -1294,7 +1316,18 @@
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fnidhi-desai.jpg?alt=media&token=ad1422c0-8d80-4e5b-b824-a371bbfbf4f0",
       "pronouns": "she/her",
       "shortBio": "I'm Nidhi Desai, Director of Engineering at Rocket, a vibe-solutions platform.\r\nOver my 12-year career, I've evolved fro...",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://x.com/desainidhi95",
+          "name": "X (Twitter)"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nidhi-desai-0aa55684",
+          "name": "LinkedIn"
+        }
+      ],
       "order": 14,
       "rockstarSpeakerOrder": 14,
       "title": "Director Of Engineering"
