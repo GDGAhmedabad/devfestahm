@@ -31,6 +31,27 @@
           "experience": "3+ years Experience"
         }
       ]
+    }, 
+    {
+      "companyName": "Stellarmind",
+      "location": "Ahmedabad",
+      "bio": "Empowering creativity through intelligent digital innovation. At StellarMind, we blend technology and imagination to build the future.",
+      "companyLogoUrl": "https://stellarmind.ai/betalogo.png",
+      "companyWebsite": "https://stellarmind.ai/",
+      "companyCareerPage": "https://stellarmind.ai/career",
+      "linkedin": "https://www.linkedin.com/company/stellarmindai",
+      "openings": [
+        {
+          "title": "Data engineer",
+          "count": 2,
+          "experience": "5 years"
+        },
+        {
+          "title": "HR Executive",
+          "count": 1,
+          "experience": "Fresher"
+        }
+      ]
     }
   ]
 }
