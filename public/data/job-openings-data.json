@@ -1,34 +1,49 @@
 {
   "jobs": [
     {
-      "companyName": "SolGuruz LLP",
+      "companyName": "Metizsoft Solutions Private Limited",
       "location": "Ahmedabad, India",
-      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
-      "companyWebsite": "http://solguruz.com/",
-      "companyCareerPage": "https://solguruz.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/thumbnail?id=18uaRcp6QGQZW1GEn0lUl9pYrU9cnwRTV&sz=w500",
+      "bio": "We are a leading web and mobile app development company with a demonstrated history of partnering with multiple clients globally, shaping and uplifting their brand value amongst competitors with our futuristic and convenient digital and technological approach.",
+      "companyLogoUrl": "https://www.metizsoft.com/wp-content/uploads/2023/09/Metiz-logo-1.svg",
+      "companyWebsite": "https://www.metizsoft.com/",
+      "companyCareerPage": "https://www.metizsoft.com/careers",
+      "linkedin": "https://www.linkedin.com/company/metizsoft-solution",
+      "hiringImageUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7394672657226616832",
       "openings": [
         {
-          "title": "Sr. Business Development Executive",
-          "count": 1,
-          "experience": "3+ years Experience"
+          "title": "PHP Developer (CodeIgniter)",
+          "count": 5,
+          "experience": "5 to 10 Years"
         },
         {
-          "title": "Senior Flutter Developer",
+          "title": ".NET Developer",
           "count": 2,
-          "experience": "3+ years Experience"
+          "experience": "3 to 8 Years"
         },
         {
-          "title": "Motion Graphics Designer",
-          "count": 1,
-          "experience": "0 to 1 year Exp"
+          "title": "React Native Developer",
+          "count": 2,
+          "experience": "1 to 5 Years"
         },
         {
-          "title": "Business Analyst",
+          "title": "SEO",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+		{
+          "title": "Junior Front-End Developer",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },		
+		{
+          "title": "Project Manager",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+		{
+          "title": "SEO intern",
           "count": 1,
-          "experience": "3+ years Experience"
+          "experience": "Fresher"
         }
       ]
     }
