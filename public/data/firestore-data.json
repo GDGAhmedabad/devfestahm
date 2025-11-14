@@ -113,6 +113,18 @@
       "items": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/dropit.png",
+          "name": "Dropit",
+          "url": "https://drop-it.co"
+        }
+      ],
+      "order": 4,
+      "title": "Delivery Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
           "logoUrl": "../images/logos/gdg-gandhinagar.png",
           "name": "GDG Gandhinagar",
           "url": "https://gdg.community.dev/gdg-gandhinagar"
@@ -214,7 +226,7 @@
           "url": "https://thehackersmeetup.org/"
         }
       ],
-      "order": 4,
+      "order": 5,
       "title": "Partner Communities"
     }
   ],
@@ -284,7 +296,7 @@
           "sessions": [
             {
               "items": [
-                "104"
+                "106"
               ]
             },
             {
@@ -321,7 +333,7 @@
             },
             {
               "items": [
-                "114"
+                "113"
               ]
             },
             {
@@ -356,7 +368,7 @@
             },
             {
               "items": [
-                "113"
+                "114"
               ]
             },
             {
@@ -373,12 +385,12 @@
           "sessions": [
             {
               "items": [
-                "106"
+                "104"
               ]
             },
             {
               "items": [
-                "109"
+                "107"
               ]
             },
             {
@@ -403,7 +415,7 @@
             },
             {
               "items": [
-                "107"
+                "109"
               ]
             },
             {
@@ -561,7 +573,7 @@
       "description": "In this session, I will cover that devlopment is fast now using AI tools like Gemini CLI, cursor, Claude tools. So, How web developer have to upgrade. What extra they can deliver?",
       "language": "English",
       "presentation": "",
-      "speakers": ["munir_khakhi"],
+      "speakers": ["jaydeep_adesara"],
       "tags": [
         "Web"
       ],
@@ -1495,33 +1507,33 @@
       "rockstarSpeakerOrder": 19,
       "title": "Lead Frontend Engineer"
     },
-    "munir_khakhi": {
-      "bio": "Munir Khakhi is an accomplished engineering professional with a decade of experience in the technology sector, currently serving as the Head of Engineering and Technical Team Lead at Improwised Technologies Pvt. Ltd. since September 2018. His career with Improwised Technologies began in April 2013 as a Software Engineer, following which he spent a period (May 2017 to August 2018) as a Group Lead - Tech and Sr. Programmer Analyst at Argusoft before returning to his current leadership role. An expert in the Web ecosystem, Munir is known for building end-to-end Web Applications and is a recognized speaker in Rajkot community.\r\n",
-      "company": "Improwised technologies",
+    "jaydeep_adesara": {
+      "bio": "Jaydeep Adesara is a technology entrepreneur and community builder from Rajkot, Gujarat. He is passionate about AI, automation, and creating solutions that make everyday life simpler and smarter. Known for his practical thinking and problem-solving mindset, Jaydeep enjoys mentoring young developers, hosting tech events, and exploring new ideas that push innovation forward. Outside work, he loves learning, connecting with people, and sharing knowledge that inspires others to grow.",
+      "company": "Conversantech",
       "companyLogo": "",
-      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fimprowised.jpeg?alt=media&token=70835ddc-5032-4d79-b653-1fec7ccd4b81",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fcompany%2Fconversantech.png?alt=media&token=c1b908f9-45ad-4024-b91c-0a00a77ae32a",
       "country": "Rajkot",
       "featured": false,
-      "name": "Munir Khakhi",
+      "name": "Jaydeep Adesara",
       "photo": "",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fmunir-khakhi.jpg?alt=media&token=133af40a-c3d7-4e4c-b8b7-bfb7e9824f21",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2F2025%2Fjaydeep_adesara.JPG?alt=media&token=eb302265-88cb-4048-9e72-9540be37d5fe",
       "pronouns": "he/him",
-      "shortBio": "Munir Khakhi is an accomplished engineering professional with a decade of experience in the technology sector, currently...",
+      "shortBio": "Jaydeep Adesara is a technology entrepreneur and community builder...",
       "socials": [
         {
-          "icon": "twitter",
-          "link": "https://x.com/MunirKhakhi",
-          "name": "X (Twitter)"
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/adesarajaydeep",
+          "name": "LinkedIn"
         },
         {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/munir-khakhi",
-          "name": "LinkedIn"
+          "icon": "website",
+          "link": "https://www.conversantech.com",
+          "name": "Website"
         }
       ],
       "order": 20,
       "rockstarSpeakerOrder": 20,
-      "title": "Head of engineering"
+      "title": "CEO of Conversantech"
     },
     "faizan_akhtar": {
       "bio": "Avid Learner | Always a student | Community Enthusiast | Mixed Reality Evangelist\r\n\r\nA software engineer trying to grasp technical and interpersonal skills as much as possible.",
