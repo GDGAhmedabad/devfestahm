@@ -31,7 +31,7 @@
           "experience": "3+ years Experience"
         }
       ]
-    }, 
+    },
     {
       "companyName": "Stellarmind",
       "location": "Ahmedabad",
@@ -82,6 +82,38 @@
           "title": "HR Executive",
           "count": 1,
           "experience": "0 to 3 years Experience"
+        }
+      ]
+    },
+    {
+      "companyName": "CricHeroes",
+      "location": "Ahmedabad",
+      "bio": "World's Largest Cricket Network",
+      "companyLogoUrl": "https://media.cricheroes.in/cricheroes_website_new/home/app-page-logo.png",
+      "companyWebsite": "https://cricheroes.com",
+      "companyCareerPage": "https://careers.cricheroes.com",
+      "linkedin": "https://www.linkedin.com/company/cricheroes",
+      "hiringImageUrl": "https://media.cricheroes.in/career/hiring_post.png",
+      "openings": [
+        {
+          "title": "Full Stack Developers",
+          "count": 2,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Intern - Full Stack Developers (Fresher)",
+          "count": 2,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Android Developer (Native)",
+          "count": 1,
+          "experience": "0-1.5 year"
+        },
+        {
+          "title": "iOS Developer (Native)",
+          "count": 1,
+          "experience": "0-1.5 year"
         }
       ]
     }
