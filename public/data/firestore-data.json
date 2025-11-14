@@ -71,6 +71,12 @@
         },
         {
           "order": 1,
+          "logoUrl": "../images/logos/shorebird.png",
+          "name": "Shorebird",
+          "url": "https://shorebird.dev/"
+        },
+        {
+          "order": 2,
           "logoUrl": "../images/logos/impero.png",
           "name": "Impero IT Services Pvt Ltd",
           "url": "https://imperoit.com/"
