@@ -1,34 +1,29 @@
 {
   "jobs": [
     {
-      "companyName": "SolGuruz LLP",
+      "companyName": "Virtual Height IT Services Pvt.Ltd.",
       "location": "Ahmedabad, India",
-      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
-      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
-      "companyWebsite": "http://solguruz.com/",
-      "companyCareerPage": "https://solguruz.com/careers/",
-      "linkedin": "https://www.linkedin.com/company/solguruz/",
+      "bio": "At Virtual Height IT Services, we’re elevating digital transformation through engineering excellence. We craft pixel-perfect UI/UX, scalable web- and mobile-app solutions, and leverage cutting-edge technologies like blockchain, AI and cloud. Our global footprint, agile mindset and innovation-first culture ensure we deliver robust, secure, and future-ready products that solve real-world problems with passion.",
+      "companyLogoUrl": "https://drive.google.com/drive/folders/1eTKcfibUaOC9OH-Wqrp20ONrn6zgv_x0?usp=drive_link",
+      "companyWebsite": "https://www.virtualheight.com/",
+      "companyCareerPage": "https://www.virtualheight.com/career.php",
+      "linkedin": "https://www.linkedin.com/company/virtual-height-it-services-pvt-ltd/",
       "hiringImageUrl": "https://drive.google.com/thumbnail?id=18uaRcp6QGQZW1GEn0lUl9pYrU9cnwRTV&sz=w500",
       "openings": [
         {
-          "title": "Sr. Business Development Executive",
+          "title": "MERN Stack Developer",
           "count": 1,
           "experience": "3+ years Experience"
         },
         {
-          "title": "Senior Flutter Developer",
+          "title": "MEAN Stack Developer",
           "count": 2,
-          "experience": "3+ years Experience"
+          "experience": "2 - 3 years Experience"
         },
         {
-          "title": "Motion Graphics Designer",
-          "count": 1,
-          "experience": "0 to 1 year Exp"
-        },
-        {
-          "title": "Business Analyst",
-          "count": 1,
-          "experience": "3+ years Experience"
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "4+ years Experience"
         }
       ]
     }, 
