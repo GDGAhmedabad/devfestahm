@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "companyName": "Sheerbit Technologies",
-      "location": "Ahmedabad, India",
-      "bio": "Sheerbit Technologies is a leading VoIP and WebRTC development company specializing in Asterisk, FreeSWITCH, Kamailio, OpenSIPS, and custom softphone solutions for mobile and desktop. With 12+ years of expertise, we deliver scalable communication platforms, secure VoIP infrastructures, and enterprise-grade calling applications with a strong focus on performance, UI/UX, and innovation.",
-      "companyLogoUrl": "https://sheerbit.com/wp-content/uploads/2022/01/Untitled-design.png",
-      "companyWebsite": "https://sheerbit.com/",
-      "companyCareerPage": "https://sheerbit.com/career",
-      "linkedin": "https://www.linkedin.com/company/sheerbit",
-      "hiringImageUrl": "https://drive.google.com/file/d/1kvsLL2BmQCDIqvSd7o6kDYxAek6APqpu/view?usp=drive_link",
-      "openings": [
-        {
-          "title": "Flutter Developer",
-          "count": 2,
-          "experience": "2+ years Experience"
-        },
-        {
-          "title": "Full Stack Developer (NodeJS + ReactJS)",
-          "count": 2,
-          "experience": "2+ years Experience"
-        },
-        {
-          "title": "VoIP Engineer (Asterisk / FreeSWITCH / OpenSIPS / Kamailio)",
-          "count": 1,
-          "experience": "3+ years Experience"
-        },
-        {
-          "title": "HR Executive",
-          "count": 1,
-          "experience": "0 to 3 years Experience"
-        }
-      ]
-    },
-    {
       "companyName": "SolGuruz LLP",
       "location": "Ahmedabad, India",
       "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
@@ -82,6 +50,38 @@
           "title": "HR Executive",
           "count": 1,
           "experience": "Fresher"
+        }
+      ]
+    },
+    {
+      "companyName": "Sheerbit Technologies",
+      "location": "Ahmedabad, India",
+      "bio": "Sheerbit Technologies is a leading VoIP and WebRTC development company specializing in Asterisk, FreeSWITCH, Kamailio, OpenSIPS, and custom softphone solutions for mobile and desktop. With 12+ years of expertise, we deliver scalable communication platforms, secure VoIP infrastructures, and enterprise-grade calling applications with a strong focus on performance, UI/UX, and innovation.",
+      "companyLogoUrl": "https://sheerbit.com/wp-content/uploads/2022/01/Untitled-design.png",
+      "companyWebsite": "https://sheerbit.com/",
+      "companyCareerPage": "https://sheerbit.com/career",
+      "linkedin": "https://www.linkedin.com/company/sheerbit",
+      "hiringImageUrl": "https://drive.google.com/file/d/1kvsLL2BmQCDIqvSd7o6kDYxAek6APqpu/view?usp=drive_link",
+      "openings": [
+        {
+          "title": "Flutter Developer",
+          "count": 2,
+          "experience": "2+ years Experience"
+        },
+        {
+          "title": "Full Stack Developer (NodeJS + ReactJS)",
+          "count": 2,
+          "experience": "2+ years Experience"
+        },
+        {
+          "title": "VoIP Engineer (Asterisk / FreeSWITCH / OpenSIPS / Kamailio)",
+          "count": 1,
+          "experience": "3+ years Experience"
+        },
+        {
+          "title": "HR Executive",
+          "count": 1,
+          "experience": "0 to 3 years Experience"
         }
       ]
     }
