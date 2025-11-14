@@ -216,6 +216,18 @@
       ],
       "order": 4,
       "title": "Partner Communities"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/dropit.png",
+          "name": "Dropit",
+          "url": "https://drop-it.co"
+        }
+      ],
+      "order": 5,
+      "title": "Delivery Partners"
     }
   ],
   "schedule": {
