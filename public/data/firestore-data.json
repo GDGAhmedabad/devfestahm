@@ -113,6 +113,18 @@
       "items": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/dropit.png",
+          "name": "Dropit",
+          "url": "https://drop-it.co"
+        }
+      ],
+      "order": 4,
+      "title": "Delivery Partners"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
           "logoUrl": "../images/logos/gdg-gandhinagar.png",
           "name": "GDG Gandhinagar",
           "url": "https://gdg.community.dev/gdg-gandhinagar"
@@ -214,20 +226,8 @@
           "url": "https://thehackersmeetup.org/"
         }
       ],
-      "order": 4,
-      "title": "Partner Communities"
-    },
-    {
-      "items": [
-        {
-          "order": 0,
-          "logoUrl": "../images/logos/dropit.png",
-          "name": "Dropit",
-          "url": "https://drop-it.co"
-        }
-      ],
       "order": 5,
-      "title": "Delivery Partners"
+      "title": "Partner Communities"
     }
   ],
   "schedule": {
