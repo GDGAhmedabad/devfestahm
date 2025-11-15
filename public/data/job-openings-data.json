@@ -3,35 +3,50 @@
     {
       "companyName": "SolGuruz LLP",
       "location": "Ahmedabad, India",
-      "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
+      "bio": "At SolGuruz, we don’t just write code — we architect impact.\nWe’re a product engineering powerhouse driven by a mindset of engineering excellence and a passion for solving real-world problems. With 70+ in-house experts across Web, Mobile, Backend, UI/UX, QA, AI/ML, and more — we specialize in building MVPs, SaaS platforms, AI-powered solutions, and enterprise-grade applications for startups and scaleups around the globe. \n We follow a design-first, architecture-led approach — backed by clean code practices, scalable architectures, and pixel-perfect delivery. Whether it's Flutter, React, Next.js, Node, Python, or GenAI tools — we help ideas ship fast and scale smoothly. \n From technical ownership to product thinking — we bring more than just execution. We believe in building things the right way, right from day one.\n 🧠 Looking for a place where quality meets creativity? We’re hiring.",
       "companyLogoUrl": "https://drive.google.com/thumbnail?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
       "companyWebsite": "http://solguruz.com/",
       "companyCareerPage": "https://solguruz.com/careers/",
       "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/thumbnail?id=18uaRcp6QGQZW1GEn0lUl9pYrU9cnwRTV&sz=w500",
+      "hiringImageUrl": "https://drive.google.com/file/d/1wg0UjotsEh0b-wZ8XDNXu4x5vzaMIJik/view",
       "openings": [
         {
-          "title": "Sr. Business Development Executive",
+          "title": "Sr. ReactJS Developer",
           "count": 1,
-          "experience": "3+ years Experience"
+          "experience": "4+ Years Experience"
         },
         {
-          "title": "Senior Flutter Developer",
+          "title": "NodeJS Developer",
           "count": 2,
-          "experience": "3+ years Experience"
+          "experience": "2-4 Years Experience"
         },
         {
-          "title": "Motion Graphics Designer",
-          "count": 1,
-          "experience": "0 to 1 year Exp"
+          "title": "QA Engineer",
+          "count": 2,
+          "experience": "3+ Years Experience"
         },
         {
-          "title": "Business Analyst",
+          "title": "Laravel Developer",
           "count": 1,
-          "experience": "3+ years Experience"
+          "experience": "3-4 Years Experience"
+        },
+        {
+          "title": "IT External Security Auditor",
+          "count": 2,
+          "experience": "2-4 Years Experience"
+        },
+        {
+          "title": "Senior IT External Security Auditor",
+          "count": 2,
+          "experience": "4-6 Years Experience"
+        },
+        {
+          "title": "Business Development Executive",
+          "count": 1,
+          "experience": "2-4 Years Experience"
         }
       ]
-    }, 
+    },
     {
       "companyName": "Stellarmind",
       "location": "Ahmedabad",
@@ -82,6 +97,38 @@
           "title": "HR Executive",
           "count": 1,
           "experience": "0 to 3 years Experience"
+        }
+      ]
+    },
+    {
+      "companyName": "CricHeroes",
+      "location": "Ahmedabad",
+      "bio": "World's Largest Cricket Network",
+      "companyLogoUrl": "https://media.cricheroes.in/cricheroes_website_new/home/app-page-logo.png",
+      "companyWebsite": "https://cricheroes.com",
+      "companyCareerPage": "https://careers.cricheroes.com",
+      "linkedin": "https://www.linkedin.com/company/cricheroes",
+      "hiringImageUrl": "https://media.cricheroes.in/career/hiring_post.png",
+      "openings": [
+        {
+          "title": "Full Stack Developers",
+          "count": 2,
+          "experience": "2-3 years"
+        },
+        {
+          "title": "Intern - Full Stack Developers (Fresher)",
+          "count": 2,
+          "experience": "0-1 year"
+        },
+        {
+          "title": "Android Developer (Native)",
+          "count": 1,
+          "experience": "0-1.5 year"
+        },
+        {
+          "title": "iOS Developer (Native)",
+          "count": 1,
+          "experience": "0-1.5 year"
         }
       ]
     }
