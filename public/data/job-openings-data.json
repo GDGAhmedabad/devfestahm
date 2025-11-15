@@ -102,9 +102,10 @@
     },
     {
       "companyName": "CricHeroes",
-      "location": "Ahmedabad",
-      "bio": "World's Largest Cricket Network",
-      "companyLogoUrl": "https://media.cricheroes.in/cricheroes_website_new/home/app-page-logo.png",
+      "location": "Ahmedabad, India",
+      "bio": "CricHeroes is a cricket platform built for grassroots cricketers, scorers, organizers, and fans.
+From digital scoring to player analytics, leaderboards, tournaments, and live streams—CricHeroes helps every cricketer improve and get recognized.",
+      "companyLogoUrl": "https://media.cricheroes.in/career/cricheroes-logo@2x.png",
       "companyWebsite": "https://cricheroes.com",
       "companyCareerPage": "https://careers.cricheroes.com",
       "linkedin": "https://www.linkedin.com/company/cricheroes",
