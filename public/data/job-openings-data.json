@@ -8,7 +8,7 @@
       "companyWebsite": "http://solguruz.com/",
       "companyCareerPage": "https://solguruz.com/careers/",
       "linkedin": "https://www.linkedin.com/company/solguruz/",
-      "hiringImageUrl": "https://drive.google.com/file/d/1wg0UjotsEh0b-wZ8XDNXu4x5vzaMIJik/view",
+      "hiringImageUrlg": "https://drive.google.com/file/d/1wg0UjotsEh0b-wZ8XDNXu4x5vzaMIJik/view",
       "openings": [
         {
           "title": "Sr. ReactJS Developer",
@@ -55,6 +55,7 @@
       "companyWebsite": "https://stellarmind.ai/",
       "companyCareerPage": "https://stellarmind.ai/career",
       "linkedin": "https://www.linkedin.com/company/stellarmindai",
+      "hiringImageUrlg": ""
       "openings": [
         {
           "title": "Data engineer",
