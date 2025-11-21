@@ -1,6 +1,38 @@
 {
   "talents": [
     {
+      "fullName": "Sohan Paliyal",
+      "location": "Ahmedabad, India",
+      "bio": "Passionate Front-end Developer with over 4.5 years of experience in building dynamic and responsive web applications. Proficient in modern web technologies such as Angular, React Js, JavaScript, TypeScript, Git, HTML5, CSS3  and Tailwind CSS. Adept at designing user-friendly interfaces and implementing robust front-end architectures.",
+      "email": "officialsohanpaliyal@gmail.com",
+      "phone": "+91-9587711187",
+      "imageUrl": "https://drive.google.com/file/d/1LZ0oxxYvJPA_cYchalwL0_L2QNvTOYac/view?usp=drive_link",
+      "website": "https://pranaypatel.netlify.app/",
+      "skills": [
+        "Angular",
+        "React",
+        "Javascript",
+        "Typescript",
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/sohanpaliyal",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sohanpaliyal/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/sohanpaliyal",
+          "name": "X/Twitter"
+        }
+      ]
+    }
+    {
       "fullName": "Pranay Patel",
       "location": "Ahmedabad, India",
       "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
