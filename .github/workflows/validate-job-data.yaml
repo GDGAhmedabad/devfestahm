@@ -5,7 +5,7 @@ name: CI
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "develop" branch
-  pull_request:
+  pull_request_target:
     branches: ["develop"]
     paths:
       - 'public/data/job-openings-data.json'
@@ -21,12 +21,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Must checkout the PR’s code, not base branch
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: json-yaml-validate
         id: json-yaml-validate
-        uses: GrantBirki/json-yaml-validate@v3.2.1 # replace with the latest version
+        uses: GrantBirki/json-yaml-validate@v3.2.1
         with:
-          comment: "true" # enable comment mode
+          comment: "true"
           json_schema: public/data/schema/job-openings-schema.json
           files: |
             public/data/job-openings-data.json
