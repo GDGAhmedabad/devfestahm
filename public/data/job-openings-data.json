@@ -131,6 +131,53 @@
           "experience": "0-1.5 year"
         }
       ]
+    },
+      {
+      "companyName": "Metizsoft Solutions Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "We are a leading web and mobile app development company with a demonstrated history of partnering with multiple clients globally, shaping and uplifting their brand value amongst competitors with our futuristic and convenient digital and technological approach.",
+      "companyLogoUrl": "https://www.metizsoft.com/wp-content/uploads/2023/09/Metiz-logo-1.svg",
+      "companyWebsite": "https://www.metizsoft.com/",
+      "companyCareerPage": "https://www.metizsoft.com/careers",
+      "linkedin": "https://www.linkedin.com/company/metizsoft-solution",
+      "hiringImageUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7394672657226616832",
+      "openings": [
+        {
+          "title": "PHP Developer (CodeIgniter)",
+          "count": 5,
+          "experience": "5 to 10 Years"
+        },
+        {
+          "title": ".NET Developer",
+          "count": 2,
+          "experience": "3 to 8 Years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 2,
+          "experience": "1 to 5 Years"
+        },
+        {
+          "title": "SEO",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+		{
+          "title": "Junior Front-End Developer",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },		
+		{
+          "title": "Project Manager",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+		{
+          "title": "SEO intern",
+          "count": 1,
+          "experience": "Fresher"
+        }
+      ]
     }
   ]
 }
