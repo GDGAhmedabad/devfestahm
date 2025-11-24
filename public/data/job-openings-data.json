@@ -102,9 +102,9 @@
     },
     {
       "companyName": "CricHeroes",
-      "location": "Ahmedabad",
-      "bio": "World's Largest Cricket Network",
-      "companyLogoUrl": "https://media.cricheroes.in/cricheroes_website_new/home/app-page-logo.png",
+      "location": "Ahmedabad, India",
+      "bio": "CricHeroes is a cricket platform built for grassroots cricketers, scorers, organizers, and fans. From digital scoring to player analytics, leaderboards, tournaments, and live streams—CricHeroes helps every cricketer improve and get recognized.",
+      "companyLogoUrl": "https://media.cricheroes.in/career/cricheroes-logo@2x.png",
       "companyWebsite": "https://cricheroes.com",
       "companyCareerPage": "https://careers.cricheroes.com",
       "linkedin": "https://www.linkedin.com/company/cricheroes",
@@ -129,6 +129,80 @@
           "title": "iOS Developer (Native)",
           "count": 1,
           "experience": "0-1.5 year"
+        }
+      ]
+    },
+    {
+      "companyName": "Virtual Height IT Services Pvt.Ltd.",
+      "location": "Ahmedabad, India",
+      "bio": "At Virtual Height IT Services, we’re elevating digital transformation through engineering excellence. We craft pixel-perfect UI/UX, scalable web- and mobile-app solutions, and leverage cutting-edge technologies like blockchain, AI and cloud. Our global footprint, agile mindset and innovation-first culture ensure we deliver robust, secure, and future-ready products that solve real-world problems with passion.",
+      "companyLogoUrl": "https://drive.google.com/thumbnail?id=1TQAtBhUfJUSmHvtDHcUdu-_83E-asXYd",
+      "companyWebsite": "https://www.virtualheight.com",
+      "companyCareerPage": "https://www.virtualheight.com/career.php",
+      "linkedin": "https://www.linkedin.com/company/virtual-height-it-services-pvt-ltd",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "MERN Stack Developer",
+          "count": 1,
+          "experience": "3+ years Experience"
+        },
+        {
+          "title": "MEAN Stack Developer",
+          "count": 2,
+          "experience": "2 - 3 years Experience"
+        },
+        {
+          "title": ".Net Developer",
+          "count": 2,
+          "experience": "4+ years Experience"
+        }
+      ]
+    },
+    {
+      "companyName": "Metizsoft Solutions Private Limited",
+      "location": "Ahmedabad, India",
+      "bio": "We are a leading web and mobile app development company with a demonstrated history of partnering with multiple clients globally, shaping and uplifting their brand value amongst competitors with our futuristic and convenient digital and technological approach.",
+      "companyLogoUrl": "https://www.metizsoft.com/wp-content/uploads/2023/09/Metiz-logo-1.svg",
+      "companyWebsite": "https://www.metizsoft.com/",
+      "companyCareerPage": "https://www.metizsoft.com/careers",
+      "linkedin": "https://www.linkedin.com/company/metizsoft-solution",
+      "hiringImageUrl": "",
+      "openings": [
+        {
+          "title": "PHP Developer (CodeIgniter)",
+          "count": 5,
+          "experience": "5 to 10 Years"
+        },
+        {
+          "title": ".NET Developer",
+          "count": 2,
+          "experience": "3 to 8 Years"
+        },
+        {
+          "title": "React Native Developer",
+          "count": 2,
+          "experience": "1 to 5 Years"
+        },
+        {
+          "title": "SEO",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+        {
+          "title": "Junior Front-End Developer",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+        {
+          "title": "Project Manager",
+          "count": 2,
+          "experience": "1 to 3 Years"
+        },
+        {
+          "title": "SEO intern",
+          "count": 1,
+          "experience": "Fresher"
         }
       ]
     }

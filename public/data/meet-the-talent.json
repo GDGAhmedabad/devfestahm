@@ -143,6 +143,38 @@
           "name": "LinkedIn"
         }
       ]
+    },
+    {
+      "fullName": "Sohan Paliyal",
+      "location": "Ahmedabad, India",
+      "bio": "Passionate Front-end Developer with over 4.5 years of experience in building dynamic and responsive web applications. Proficient in modern web technologies such as Angular, React Js, JavaScript, TypeScript, Git, HTML5, CSS3  and Tailwind CSS. Adept at designing user-friendly interfaces and implementing robust front-end architectures.",
+      "email": "officialsohanpaliyal@gmail.com",
+      "phone": "+91-9587711187",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1LZ0oxxYvJPA_cYchalwL0_L2QNvTOYac",
+      "website": "https://pranaypatel.netlify.app/",
+      "skills": [
+        "Angular",
+        "React",
+        "Javascript",
+        "Typescript"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/sohanpaliyal",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sohanpaliyal/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/sohanpaliyal",
+          "name": "X/Twitter"
+        }
+      ]
     }
   ]
 }
