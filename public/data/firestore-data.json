@@ -480,7 +480,7 @@
         "Keynote"
       ],
       "title": "Agents and the new software paradigm",
-      "videoId": ""
+      "videoId": "z5tHyuFe_GQ"
     },
     "102": {
       "complexity": "Intermediate",
@@ -493,7 +493,7 @@
         "Cloud"
       ],
       "title": "Google Vertex AI: An Introduction to AutoML with Real-World Demo",
-      "videoId": ""
+      "videoId": "YT5R-fVs7Z8"
     },
     "103": {
       "complexity": "Intermediate",
@@ -505,7 +505,7 @@
         "AI/ML"
       ],
       "title": "Measuring What Matters: LLM Evaluation for Production",
-      "videoId": ""
+      "videoId": "VibSfPP1d1U"
     },
     "104": {
       "complexity": "Intermediate",
@@ -517,7 +517,7 @@
         "AI/ML"
       ],
       "title": "Agentic AI Flow using Opal",
-      "videoId": ""
+      "videoId": "u9Y46ARC2Hk"
     },
     "105": {
       "complexity": "Intermediate",
@@ -529,7 +529,7 @@
         "AI/ML"
       ],
       "title": "Mind the Autonomy",
-      "videoId": ""
+      "videoId": "fphz646jKQI"
     },
     "106": {
       "complexity": "Intermediate",
@@ -541,7 +541,7 @@
         "AI/ML"
       ],
       "title": "Semantic Search & Intelligent Content Discovery with Embeddings",
-      "videoId": ""
+      "videoId": "nH3cNWAqq5A"
     },
     "107": {
       "complexity": "Intermediate",
@@ -554,7 +554,7 @@
         "Cloud"
       ],
       "title": "Weather-Viz: Building Interactive Real-Time Weather Visualizations",
-      "videoId": ""
+      "videoId": "HNe7OEADAuc"
     },
     "108": {
       "complexity": "Intermediate",
@@ -566,7 +566,7 @@
         "Web"
       ],
       "title": "State Management Wars Revisited - MobX, Zustand, Redux Toolkit, Recoil",
-      "videoId": ""
+      "videoId": "AXrTucTu2Oc"
     },
     "109": {
       "complexity": "Intermediate",
@@ -578,7 +578,7 @@
         "Web"
       ],
       "title": "Post AI: Web development",
-      "videoId": ""
+      "videoId": "oT5B7e3anco"
     },
     "110": {
       "complexity": "Intermediate",
@@ -590,7 +590,7 @@
         "Web"
       ],
       "title": "Angular's New Era: Signals, Speed, and a Svelte-like Experience",
-      "videoId": ""
+      "videoId": "HFMkQYVAW_k"
     },
     "111": {
       "complexity": "Intermediate",
@@ -602,7 +602,7 @@
         "Web"
       ],
       "title": "Fine-Tuning Gemma: Adapting Open LLMs for Web Applications",
-      "videoId": ""
+      "videoId": "XeCk63XC3a8"
     },
     "112": {
       "complexity": "Intermediate",
@@ -616,7 +616,7 @@
         "Kotlin"
       ],
       "title": "Agents in Kotlin: Building Smarter Apps with Shared Codebases using KMP and Koog",
-      "videoId": ""
+      "videoId": "_uwTwHfgSf4"
     },
     "113": {
       "complexity": "Advanced",
@@ -629,7 +629,7 @@
         "Flutter"
       ],
       "title": "Scaling Design Systems in Flutter: Lessons from building UIKit",
-      "videoId": ""
+      "videoId": "qYNyQotU3Nw"
     },
     "114": {
       "complexity": "Intermediate",
@@ -642,7 +642,7 @@
         "Flutter"
       ],
       "title": "Flip the Script: Let the Server Drive Your Flutter UI",
-      "videoId": ""
+      "videoId": "GoQwBRDb0VQ"
     },
     "115": {
       "complexity": "Intermediate",
@@ -655,7 +655,7 @@
         "Flutter"
       ],
       "title": "Offline RAG on Mobile (Flutter)",
-      "videoId": ""
+      "videoId": "iHfncD1Eovg"
     },
     "116": {
       "complexity": "Intermediate",
@@ -668,7 +668,7 @@
         "Android"
       ],
       "title": "Android 17 Mandates Adaptive Layouts: Are Your Apps Ready?",
-      "videoId": ""
+      "videoId": "dK5bJTe8QuE"
     },
     "117": {
       "complexity": "Intermediate",
@@ -741,7 +741,7 @@
       "presentation": "",
       "speakers": ["paresh_mayani"],
       "title": "Intelligent Builders: The New Era of Product Engineering in AI",
-      "videoId": ""
+      "videoId": "roo43C16GSE"
     },
     "156": {
       "description": "Afterparty is a great time to have some fun and meet new people",
@@ -759,7 +759,7 @@
         "khushbu_thakker"
       ],
       "title": "Conference closing",
-      "videoId": ""
+      "videoId": "ia-J-0k0i54"
     },
     "158": {
       "description": "",
@@ -788,7 +788,7 @@
         "Keynote"
       ],
       "title": "Focus on Future Keynote",
-      "videoId": ""
+      "videoId": "09DaZ2Sb8bw"
     }
   },
   "speakers": {
